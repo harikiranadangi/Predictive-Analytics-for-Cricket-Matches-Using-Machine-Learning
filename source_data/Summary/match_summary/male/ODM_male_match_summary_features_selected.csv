@@ -1,0 +1,1059 @@
+match_id,season,match_date,event_name,team1,team2,toss_winner,toss_decision,winner,ground,h2h,h2h_team1_wins,h2h_team1_wins%,h2h_venue,h2h_venue_team1_wins,h2h_venue_team1_wins%,team1_venue,team2_venue,team1_venue_wins,team2_venue_wins,team1_venue_wins%,team2_venue_wins%,team1_last_5_wins,team2_last_5_wins
+1429574,2024,2024-06-05,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Leinster Lightning,bat,Northern Knights,"Civil Service Cricket Club, Stormont, Belfast",16,4,25,5,1,20,14,5,1,4,7,80,3,3
+1429573,2024,2024-06-05,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Munster Reds,North-West Warriors,bat,Munster Reds,"Oak Hill Cricket Club, Wicklow",6,4,67,1,0,0,1,1,0,1,0,100,1,3
+1429572,2024,2024-05-29,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Munster Reds,Munster Reds,field,Northern Knights,"Civil Service Cricket Club, Stormont, Belfast",6,3,50,4,2,50,14,4,2,2,14,50,3,3
+1429570,2024,2024-05-15,Cricket Ireland Inter-Provincial Limited Over Cup,Munster Reds,Leinster Lightning,Munster Reds,field,Munster Reds,"Pembroke Cricket Club, Sandymount, Dublin",5,4,80,4,3,75,4,10,3,1,75,10,3,3
+1429569,2024,2024-05-09,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,North-West Warriors,North-West Warriors,field,Northern Knights,"Civil Service Cricket Club, Stormont, Belfast",12,6,50,5,1,20,14,5,1,4,7,80,3,1
+1347567,2023,2023-09-16,One-Day Cup,Leicestershire,Hampshire,Leicestershire,bat,Leicestershire,"Trent Bridge, Nottingham",3,3,100,1,1,100,1,1,1,0,100,0,5,5
+1375535,2023,2023-09-05,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Leinster Lightning,bat,Leinster Lightning,"Civil Service Cricket Club, Stormont, Belfast",16,4,25,5,1,20,14,5,1,4,7,80,3,2
+1375534,2023,2023-09-04,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Munster Reds,North-West Warriors,field,Munster Reds,"Bready Cricket Club, Magheramason, Londonderry",6,4,67,1,0,0,5,1,0,1,0,100,2,3
+1347566,2023,2023-08-29,One-Day Cup,Leicestershire,Gloucestershire,Leicestershire,field,Leicestershire,"Grace Road, Leicester",4,2,50,2,1,50,12,2,1,1,8,50,5,5
+1347565,2023,2023-08-29,One-Day Cup,Warwickshire,Hampshire,Hampshire,field,Hampshire,"Edgbaston Foundation Community Sports Ground, Birmingham",2,0,0,2,0,0,26,2,0,2,0,100,4,5
+1347564,2023,2023-08-25,One-Day Cup,Worcestershire,Hampshire,Worcestershire,field,Hampshire,"The Rose Bowl, Southampton",3,0,0,3,0,0,3,24,0,3,0,12,4,4
+1347563,2023,2023-08-25,One-Day Cup,Lancashire,Gloucestershire,Lancashire,bat,Gloucestershire,"County Ground, Bristol",2,1,50,2,1,50,2,21,1,1,50,4,3,4
+1347562,2023,2023-08-22,One-Day Cup,Gloucestershire,Durham,Durham,bat,Gloucestershire,"County Ground, Bristol",4,4,100,2,2,100,7,2,2,0,28,0,5,3
+1347561,2023,2023-08-22,One-Day Cup,Somerset,Derbyshire,Derbyshire,field,Somerset,"County Ground, Derby",3,2,67,1,1,100,1,30,1,0,100,0,1,2
+1347560,2023,2023-08-22,One-Day Cup,Surrey,Essex,Surrey,field,Surrey,"County Ground, Chelmsford",5,4,80,3,3,100,3,38,3,0,100,0,1,1
+1347559,2023,2023-08-22,One-Day Cup,Warwickshire,Sussex,Warwickshire,field,Warwickshire,"County Ground, Hove, Brighton",4,4,100,1,1,100,1,2,1,0,100,0,4,1
+1347558,2023,2023-08-22,One-Day Cup,Yorkshire,Middlesex,Yorkshire,bat,Middlesex,"Radlett Cricket Club, Radlett",1,0,0,1,0,0,1,5,0,1,0,20,2,1
+1347557,2023,2023-08-22,One-Day Cup,Northamptonshire,Glamorgan,Northamptonshire,bat,Glamorgan,"Sophia Gardens, Cardiff",3,1,33,1,0,0,1,19,0,1,0,5,2,3
+1347556,2023,2023-08-22,One-Day Cup,Nottinghamshire,Lancashire,Nottinghamshire,bat,Lancashire,"The John Fretwell Sporting Complex, Sookholme",6,4,67,1,0,0,2,1,0,1,0,100,2,3
+1347555,2023,2023-08-22,One-Day Cup,Kent,Hampshire,Kent,bat,Hampshire,"New Close County Cricket Ground, Newport, Isle-Of-Wight, Newport",10,4,40,1,0,0,1,2,0,1,0,50,3,4
+1347554,2023,2023-08-20,One-Day Cup,Yorkshire,Leicestershire,Leicestershire,field,Leicestershire,"Grace Road, Leicester",8,7,88,5,4,80,5,20,4,1,80,5,2,5
+1347553,2023,2023-08-20,One-Day Cup,Kent,Essex,Kent,bat,Kent,"St Lawrence Ground, Canterbury",7,2,29,2,1,50,11,2,1,1,9,50,2,1
+1347552,2023,2023-08-20,One-Day Cup,Northamptonshire,Derbyshire,Derbyshire,field,Derbyshire,"County Ground, Northampton",9,2,22,6,2,33,19,6,2,4,10,66,3,1
+1347551,2023,2023-08-20,One-Day Cup,Somerset,Glamorgan,Somerset,bat,Glamorgan,"The Cooper Associates County Ground, Taunton",7,5,71,3,2,66,11,3,2,1,18,33,2,2
+1347550,2023,2023-08-20,One-Day Cup,Surrey,Hampshire,Hampshire,field,Hampshire,"Woodbridge Road, Guildford",5,1,20,1,0,0,6,1,0,1,0,100,1,4
+1347549,2023,2023-08-20,One-Day Cup,Middlesex,Lancashire,Lancashire,bat,Lancashire,"Lord'S, London",4,1,25,2,0,0,8,2,0,2,0,100,1,3
+1347548,2023,2023-08-20,One-Day Cup,Worcestershire,Sussex,Sussex,bat,Worcestershire,"County Ground, New Road, Worcester",2,1,50,2,1,50,33,2,1,1,3,50,3,1
+1347547,2023,2023-08-20,One-Day Cup,Warwickshire,Durham,Warwickshire,field,Durham,"Edgbaston Foundation Community Sports Ground, Birmingham",8,2,25,3,0,0,26,3,0,3,0,100,5,2
+1347546,2023,2023-08-18,One-Day Cup,Middlesex,Leicestershire,Leicestershire,field,Leicestershire,"Grace Road, Leicester",2,0,0,1,0,0,1,20,0,1,0,5,1,5
+1347545,2023,2023-08-18,One-Day Cup,Worcestershire,Derbyshire,Derbyshire,field,Worcestershire,"County Ground, Derby",7,4,57,4,3,75,4,30,3,1,75,3,3,1
+1347544,2023,2023-08-18,One-Day Cup,Sussex,Gloucestershire,Sussex,field,Gloucestershire,"County Ground, Hove, Brighton",6,1,17,3,1,33,27,3,1,2,3,66,1,3
+1347543,2023,2023-08-18,One-Day Cup,Warwickshire,Northamptonshire,Northamptonshire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",5,4,80,3,3,100,26,3,3,0,11,0,5,2
+1375533,2023,2023-08-17,Cricket Ireland Inter-Provincial Limited Over Cup,Munster Reds,Leinster Lightning,Munster Reds,field,Munster Reds,"Mardyke, Cork",5,4,80,1,1,100,1,1,1,0,100,0,3,3
+1347542,2023,2023-08-17,One-Day Cup,Yorkshire,Hampshire,Yorkshire,field,Hampshire,"Clifton Park Ground, York",4,1,25,1,0,0,2,1,0,1,0,100,3,4
+1347541,2023,2023-08-17,One-Day Cup,Nottinghamshire,Kent,Kent,bat,Nottinghamshire,"St Lawrence Ground, Canterbury",3,1,33,1,1,100,1,14,1,0,100,0,2,3
+1347540,2023,2023-08-17,One-Day Cup,Somerset,Durham,Somerset,field,Somerset,"Roseworth Terrace, Gosforth",4,2,50,1,1,100,1,8,1,0,100,0,1,2
+1347539,2023,2023-08-17,One-Day Cup,Surrey,Lancashire,Lancashire,field,Lancashire,"Woodbridge Road, Guildford",1,0,0,1,0,0,6,1,0,1,0,100,1,3
+1347538,2023,2023-08-16,One-Day Cup,Worcestershire,Northamptonshire,Worcestershire,field,Worcestershire,"County Ground, Northampton",7,5,71,3,3,100,3,14,3,0,100,0,3,3
+1347537,2023,2023-08-16,One-Day Cup,Gloucestershire,Glamorgan,Glamorgan,bat,Gloucestershire,"Sophia Gardens, Cardiff",5,2,40,3,2,66,3,19,2,1,66,5,4,3
+1375532,2023,2023-08-15,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Munster Reds,Munster Reds,field,Northern Knights,"Mardyke, Cork",6,3,50,2,1,50,2,5,1,1,50,20,2,2
+1347536,2023,2023-08-15,One-Day Cup,Yorkshire,Surrey,Yorkshire,field,Yorkshire,"Clifton Park Ground, York",5,1,20,1,1,100,2,1,1,0,50,0,2,1
+1347535,2023,2023-08-15,One-Day Cup,Leicestershire,Essex,Essex,bat,Leicestershire,"Kibworth Cricket Club New Ground, Kibworth",2,2,100,1,1,100,1,1,1,0,100,0,4,1
+1347534,2023,2023-08-15,One-Day Cup,Nottinghamshire,Middlesex,Nottinghamshire,field,Middlesex,"Radlett Cricket Club, Radlett",4,2,50,1,0,0,1,5,0,1,0,20,2,1
+1347533,2023,2023-08-15,One-Day Cup,Lancashire,Hampshire,Hampshire,bat,Hampshire,"Old Trafford, Manchester",6,2,33,2,0,0,5,2,0,2,0,100,3,3
+1347532,2023,2023-08-15,One-Day Cup,Warwickshire,Derbyshire,Derbyshire,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",5,2,40,2,1,50,26,2,1,1,3,50,4,2
+1375531,2023,2023-08-14,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Leinster Lightning,North-West Warriors,field,Leinster Lightning,"The Hills, Milverton",12,0,0,1,0,0,1,1,0,1,0,100,3,2
+1347531,2023,2023-08-13,One-Day Cup,Surrey,Nottinghamshire,Nottinghamshire,field,Surrey,"The John Fretwell Sporting Complex, Sookholme",5,3,60,1,1,100,1,1,1,0,100,0,1,2
+1347530,2023,2023-08-13,One-Day Cup,Middlesex,Kent,Kent,bat,Kent,"Kent County Cricket Ground, Beckenham",8,5,62,1,0,0,1,5,0,1,0,20,1,2
+1347529,2023,2023-08-13,One-Day Cup,Somerset,Gloucestershire,Somerset,field,Gloucestershire,"County Ground, Bristol",6,2,33,5,1,20,5,21,1,4,20,19,2,3
+1347528,2023,2023-08-13,One-Day Cup,Yorkshire,Essex,Essex,bat,Yorkshire,"County Ground, Chelmsford",6,3,50,5,3,60,5,38,3,2,60,5,1,1
+1347527,2023,2023-08-13,One-Day Cup,Sussex,Glamorgan,Sussex,bat,Glamorgan,"County Ground, Hove, Brighton",6,1,17,4,1,25,27,4,1,3,3,75,1,3
+1347526,2023,2023-08-13,One-Day Cup,Northamptonshire,Durham,Durham,bat,Northamptonshire,"Riverside Ground, Chester-Le-Street",6,2,33,3,1,33,3,23,1,2,33,8,3,2
+1347525,2023,2023-08-13,One-Day Cup,Worcestershire,Warwickshire,Warwickshire,field,Warwickshire,"County Ground, New Road, Worcester",5,2,40,3,1,33,33,3,1,2,3,66,3,4
+1347524,2023,2023-08-13,One-Day Cup,Leicestershire,Hampshire,Leicestershire,field,Leicestershire,"The Rose Bowl, Southampton",3,3,100,2,2,100,2,24,2,0,100,0,4,4
+1347523,2023,2023-08-11,One-Day Cup,Nottinghamshire,Hampshire,Nottinghamshire,field,Hampshire,"The John Fretwell Sporting Complex, Sookholme",1,0,0,1,0,0,2,1,0,1,0,100,3,4
+1347522,2023,2023-08-11,One-Day Cup,Sussex,Somerset,Somerset,bat,Sussex,"The Cooper Associates County Ground, Taunton",7,4,57,3,3,100,3,7,3,0,100,0,1,1
+1347521,2023,2023-08-11,One-Day Cup,Middlesex,Essex,Essex,bat,Essex,"County Ground, Chelmsford",6,2,33,4,1,25,4,38,1,3,25,7,0,1
+1347520,2023,2023-08-11,One-Day Cup,Durham,Derbyshire,Derbyshire,field,Durham,"Riverside Ground, Chester-Le-Street",5,3,60,3,3,100,3,3,3,0,100,0,3,2
+1347519,2023,2023-08-11,One-Day Cup,Surrey,Kent,Kent,bat,Kent,"Kennington Oval, London",6,2,33,4,2,50,22,4,2,2,9,50,1,3
+1347518,2023,2023-08-11,One-Day Cup,Leicestershire,Lancashire,Leicestershire,bat,Leicestershire,"Old Trafford, Manchester",6,3,50,4,2,50,4,16,2,2,50,12,4,3
+1347517,2023,2023-08-10,One-Day Cup,Worcestershire,Gloucestershire,Gloucestershire,field,Worcestershire,"County Ground, New Road, Worcester",4,2,50,3,1,33,33,3,1,2,3,66,3,3
+1347516,2023,2023-08-10,One-Day Cup,Warwickshire,Glamorgan,Glamorgan,field,Warwickshire,"The Gnoll, Neath",4,3,75,1,1,100,1,3,1,0,100,0,4,3
+1347515,2023,2023-08-09,One-Day Cup,Sussex,Derbyshire,Derbyshire,field,Derbyshire,"County Ground, Derby",1,0,0,1,0,0,1,30,0,1,0,3,1,2
+1347514,2023,2023-08-09,One-Day Cup,Somerset,Northamptonshire,Northamptonshire,bat,Northamptonshire,"County Ground, Northampton",3,0,0,3,0,0,3,14,0,3,0,21,2,3
+1347513,2023,2023-08-09,One-Day Cup,Lancashire,Kent,Kent,field,Lancashire,"Stanley Park, Blackpool",3,2,67,1,1,100,2,1,1,0,50,0,3,3
+1347512,2023,2023-08-08,One-Day Cup,Nottinghamshire,Leicestershire,Nottinghamshire,field,Nottinghamshire,"Grace Road, Leicester",7,6,86,4,3,75,4,20,3,1,75,5,4,4
+1347510,2023,2023-08-08,One-Day Cup,Hampshire,Essex,Essex,bat,Hampshire,"The Rose Bowl, Southampton",9,3,33,6,3,50,10,6,3,3,30,50,5,2
+1347509,2023,2023-08-07,One-Day Cup,Warwickshire,Gloucestershire,Warwickshire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",2,2,100,1,1,100,26,1,1,0,3,0,3,3
+1347508,2023,2023-08-06,One-Day Cup,Glamorgan,Derbyshire,Glamorgan,field,Glamorgan,"County Ground, Derby",2,2,100,2,2,100,2,30,2,0,100,0,3,2
+1347507,2023,2023-08-06,One-Day Cup,Leicestershire,Kent,Kent,field,Leicestershire,"Kent County Cricket Ground, Beckenham",2,1,50,1,1,100,1,5,1,0,100,0,3,3
+1347506,2023,2023-08-06,One-Day Cup,Sussex,Northamptonshire,Sussex,bat,Northamptonshire,"County Ground, Northampton",1,0,0,1,0,0,1,14,0,1,0,7,1,3
+1347505,2023,2023-08-06,One-Day Cup,Worcestershire,Somerset,Somerset,bat,Somerset,"The Cooper Associates County Ground, Taunton",4,0,0,1,0,0,1,7,0,1,0,14,4,2
+1347502,2023,2023-08-04,One-Day Cup,Warwickshire,Somerset,Warwickshire,field,Warwickshire,"The Cooper Associates County Ground, Taunton",5,3,60,1,1,100,1,7,1,0,100,0,3,1
+1347501,2023,2023-08-04,One-Day Cup,Sussex,Durham,Durham,bat,Durham,"County Ground, Hove, Brighton",3,2,67,2,1,50,27,2,1,1,3,50,2,1
+1347500,2023,2023-08-04,One-Day Cup,Worcestershire,Glamorgan,Worcestershire,field,Worcestershire,"County Ground, New Road, Worcester",2,1,50,2,1,50,33,2,1,1,3,50,3,2
+1347499,2023,2023-08-04,One-Day Cup,Northamptonshire,Gloucestershire,Northamptonshire,field,Gloucestershire,"College Ground, Cheltenham",3,2,67,2,1,50,2,4,1,1,50,25,3,4
+1347498,2023,2023-08-03,One-Day Cup,Nottinghamshire,Essex,Essex,field,Nottinghamshire,"County Ground, Chelmsford",3,3,100,3,3,100,3,38,3,0,100,0,3,3
+1347496,2023,2023-08-03,One-Day Cup,Surrey,Leicestershire,Leicestershire,field,Leicestershire,"Kennington Oval, London",3,0,0,1,0,0,22,1,0,1,0,100,1,4
+1347494,2023,2023-08-01,One-Day Cup,Worcestershire,Durham,Durham,field,Worcestershire,"Riverside Ground, Chester-Le-Street",6,4,67,2,2,100,2,23,2,0,100,0,2,0
+1347493,2023,2023-08-01,One-Day Cup,Yorkshire,Kent,Yorkshire,field,Kent,"North Marine Road Ground, Scarborough",3,1,33,1,0,0,9,1,0,1,0,100,2,4
+1347492,2023,2023-08-01,One-Day Cup,Gloucestershire,Derbyshire,Gloucestershire,field,Gloucestershire,"College Ground, Cheltenham",3,2,67,1,1,100,1,1,1,0,100,0,3,2
+1347491,2023,2023-08-01,One-Day Cup,Middlesex,Hampshire,Hampshire,field,Hampshire,"The Rose Bowl, Southampton",6,1,17,4,1,25,4,24,1,3,25,12,1,3
+1375530,2023,2023-05-25,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,North-West Warriors,North-West Warriors,field,North-West Warriors,"Bready Cricket Club, Magheramason, Londonderry",12,6,50,2,1,50,2,2,1,1,50,50,2,2
+1375529,2023,2023-05-23,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Leinster Lightning,Leinster Lightning,field,Leinster Lightning,"Bready Cricket Club, Magheramason, Londonderry",12,0,0,4,0,0,5,4,0,4,0,100,4,2
+1375528,2023,2023-05-22,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Munster Reds,Northern Knights,field,Northern Knights,"Civil Service Cricket Club, Stormont, Belfast",6,3,50,4,2,50,14,4,2,2,14,50,2,2
+1375527,2023,2023-05-18,Cricket Ireland Inter-Provincial Limited Over Cup,Munster Reds,Leinster Lightning,Munster Reds,field,Munster Reds,"Pembroke Cricket Club, Sandymount, Dublin",5,4,80,4,3,75,4,10,3,1,75,10,3,3
+1375526,2023,2023-05-16,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Leinster Lightning,field,Northern Knights,"Pembroke Cricket Club, Sandymount, Dublin",16,4,25,4,2,50,4,10,2,2,50,20,1,4
+1375525,2023,2023-05-15,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Munster Reds,North-West Warriors,field,North-West Warriors,"Mardyke, Cork",6,4,67,3,3,100,3,5,3,0,100,0,3,2
+1343844,2022,2022-12-13,CWC Challenge League,Malaysia,Canada,Canada,bat,Canada,"Ukm-Ysd Cricket Oval, Bangi",4,1,25,1,0,0,1,2,0,1,0,50,3,5
+1343842,2022,2022-12-12,CWC Challenge League,Singapore,Qatar,Singapore,field,Qatar,"Ukm-Ysd Cricket Oval, Bangi",3,1,33,1,0,0,2,1,0,1,0,100,1,2
+1343840,2022,2022-12-10,CWC Challenge League,Vanuatu,Denmark,Denmark,bat,Denmark,"Ukm-Ysd Cricket Oval, Bangi",4,1,25,1,0,0,3,2,0,1,0,50,1,3
+1343839,2022,2022-12-10,CWC Challenge League,Singapore,Malaysia,Singapore,bat,Malaysia,"Bayuemas Oval, Kuala Lumpur",9,5,56,2,0,0,5,4,0,2,0,50,1,3
+1343838,2022,2022-12-09,CWC Challenge League,Qatar,Malaysia,Malaysia,field,Qatar,"Ukm-Ysd Cricket Oval, Bangi",3,3,100,1,1,100,2,2,1,0,50,0,2,2
+1343837,2022,2022-12-09,CWC Challenge League,Denmark,Canada,Canada,field,Canada,"Bayuemas Oval, Kuala Lumpur",2,0,0,1,0,0,1,2,0,1,0,50,3,5
+1343836,2022,2022-12-07,CWC Challenge League,Singapore,Denmark,Denmark,field,Denmark,"Ukm-Ysd Cricket Oval, Bangi",7,4,57,1,0,0,2,2,0,1,0,50,2,4
+1343834,2022,2022-12-06,CWC Challenge League,Vanuatu,Malaysia,Malaysia,field,Malaysia,"Ukm-Ysd Cricket Oval, Bangi",3,1,33,1,0,0,3,2,0,1,0,50,1,2
+1343833,2022,2022-12-06,CWC Challenge League,Singapore,Canada,Canada,bat,Canada,"Bayuemas Oval, Kuala Lumpur",4,2,50,1,0,0,5,2,0,1,0,50,2,5
+1343832,2022,2022-12-04,CWC Challenge League,Qatar,Canada,Canada,field,Canada,"Ukm-Ysd Cricket Oval, Bangi",3,0,0,1,0,0,2,2,0,1,0,50,1,4
+1343831,2022,2022-12-04,CWC Challenge League,Malaysia,Denmark,Denmark,bat,Malaysia,"Bayuemas Oval, Kuala Lumpur",5,3,60,1,1,100,3,2,1,0,33,0,2,4
+1343830,2022,2022-12-03,CWC Challenge League,Vanuatu,Singapore,Vanuatu,bat,Vanuatu,"Bayuemas Oval, Kuala Lumpur",3,1,33,1,1,100,1,2,1,0,100,0,1,1
+1298032,2022,2022-08-30,Royal London One-Day Cup,Sussex,Lancashire,Lancashire,bat,Lancashire,"County Ground, Hove, Brighton",2,0,0,1,0,0,27,1,0,1,0,100,3,3
+1298031,2022,2022-08-30,Royal London One-Day Cup,Kent,Hampshire,Kent,field,Kent,"The Rose Bowl, Southampton",10,4,40,3,3,100,3,24,3,0,100,0,3,3
+1298030,2022,2022-08-26,Royal London One-Day Cup,Leicestershire,Kent,Leicestershire,field,Kent,"Grace Road, Leicester",2,1,50,1,0,0,12,1,0,1,0,100,3,5
+1298029,2022,2022-08-26,Royal London One-Day Cup,Nottinghamshire,Lancashire,Lancashire,field,Lancashire,"Stanley Park, Blackpool",6,4,67,1,0,0,1,3,0,1,0,33,3,4
+1298028,2022,2022-08-23,Royal London One-Day Cup,Yorkshire,Hampshire,Yorkshire,field,Hampshire,"North Marine Road Ground, Scarborough",4,1,25,1,0,0,9,1,0,1,0,100,3,4
+1298027,2022,2022-08-23,Royal London One-Day Cup,Worcestershire,Glamorgan,Worcestershire,field,Glamorgan,"County Ground, New Road, Worcester",2,1,50,2,1,50,33,2,1,1,3,50,2,2
+1298026,2022,2022-08-23,Royal London One-Day Cup,Warwickshire,Somerset,Somerset,bat,Somerset,"Mitchells And Butlers' Ground, Birmingham",5,3,60,1,0,0,4,1,0,1,0,100,2,2
+1298025,2022,2022-08-23,Royal London One-Day Cup,Sussex,Middlesex,Middlesex,field,Sussex,"County Ground, Hove, Brighton",7,4,57,6,3,50,27,6,3,3,11,50,4,1
+1298024,2022,2022-08-23,Royal London One-Day Cup,Surrey,Nottinghamshire,Nottinghamshire,field,Nottinghamshire,"Welbeck Abbey Cricket Ground, Welbeck",5,3,60,1,0,0,1,1,0,1,0,100,1,2
+1298023,2022,2022-08-23,Royal London One-Day Cup,Northamptonshire,Derbyshire,Northamptonshire,bat,Derbyshire,"County Ground, Northampton",9,2,22,6,2,33,19,6,2,4,10,66,2,2
+1298022,2022,2022-08-23,Royal London One-Day Cup,Leicestershire,Durham,Leicestershire,field,Leicestershire,"Grace Road, Leicester",6,2,33,4,2,50,12,4,2,2,16,50,3,0
+1298021,2022,2022-08-23,Royal London One-Day Cup,Lancashire,Kent,Kent,field,Kent,"St Lawrence Ground, Canterbury",3,2,67,2,1,50,2,14,1,1,50,7,3,5
+1298020,2022,2022-08-21,Royal London One-Day Cup,Warwickshire,Durham,Durham,field,Warwickshire,"Mitchells And Butlers' Ground, Birmingham",8,2,25,1,1,100,4,1,1,0,25,0,3,1
+1298019,2022,2022-08-21,Royal London One-Day Cup,Middlesex,Gloucestershire,Middlesex,bat,Gloucestershire,"Radlett Cricket Club, Radlett",5,3,60,1,0,0,8,1,0,1,0,100,2,4
+1298018,2022,2022-08-21,Royal London One-Day Cup,Hampshire,Essex,Essex,bat,Hampshire,"The Rose Bowl, Southampton",9,3,33,6,3,50,10,6,3,3,30,50,5,3
+1298017,2022,2022-08-21,Royal London One-Day Cup,Yorkshire,Derbyshire,Yorkshire,field,Yorkshire,"Queen'S Park, Chesterfield",6,6,100,2,2,100,2,2,2,0,100,0,2,2
+1298016,2022,2022-08-20,Royal London One-Day Cup,Nottinghamshire,Leicestershire,Leicestershire,field,Nottinghamshire,"Grace Road, Leicester",7,6,86,4,3,75,4,20,3,1,75,5,3,4
+1298015,2022,2022-08-19,Royal London One-Day Cup,Worcestershire,Essex,Worcestershire,field,Worcestershire,"County Ground, New Road, Worcester",3,2,67,2,1,50,33,2,1,1,3,50,1,3
+1298014,2022,2022-08-19,Royal London One-Day Cup,Surrey,Gloucestershire,Surrey,bat,Gloucestershire,"Kennington Oval, London",7,4,57,4,3,75,22,4,3,1,13,25,2,4
+1298013,2022,2022-08-19,Royal London One-Day Cup,Sussex,Somerset,Somerset,field,Sussex,"The Cooper Associates County Ground, Taunton",7,4,57,3,3,100,3,7,3,0,100,0,4,2
+1298012,2022,2022-08-19,Royal London One-Day Cup,Warwickshire,Middlesex,Warwickshire,field,Middlesex,"Radlett Cricket Club, Radlett",2,1,50,1,0,0,1,5,0,1,0,20,3,0
+1298011,2022,2022-08-19,Royal London One-Day Cup,Northamptonshire,Lancashire,Lancashire,field,Lancashire,"Stanley Park, Blackpool",6,4,67,1,0,0,1,3,0,1,0,33,1,4
+1298010,2022,2022-08-19,Royal London One-Day Cup,Yorkshire,Kent,Kent,field,Kent,"St Lawrence Ground, Canterbury",3,1,33,2,1,50,2,14,1,1,50,7,3,4
+1298009,2022,2022-08-19,Royal London One-Day Cup,Hampshire,Glamorgan,Glamorgan,field,Glamorgan,"The Gnoll, Neath",5,3,60,1,0,0,1,3,0,1,0,33,4,1
+1298008,2022,2022-08-17,Royal London One-Day Cup,Warwickshire,Nottinghamshire,Nottinghamshire,field,Warwickshire,"Mitchells And Butlers' Ground, Birmingham",8,2,25,1,1,100,4,1,1,0,25,0,4,2
+1298007,2022,2022-08-17,Royal London One-Day Cup,Surrey,Somerset,Somerset,field,Surrey,"Kennington Oval, London",7,2,29,4,2,50,22,4,2,2,9,50,2,2
+1298006,2022,2022-08-17,Royal London One-Day Cup,Worcestershire,Northamptonshire,Worcestershire,field,Worcestershire,"County Ground, Northampton",7,5,71,3,3,100,3,14,3,0,100,0,0,2
+1298005,2022,2022-08-17,Royal London One-Day Cup,Leicestershire,Gloucestershire,Leicestershire,field,Leicestershire,"County Ground, Bristol",4,2,50,2,1,50,2,21,1,1,50,4,3,4
+1298004,2022,2022-08-17,Royal London One-Day Cup,Lancashire,Glamorgan,Lancashire,field,Lancashire,"The Gnoll, Neath",1,1,100,1,1,100,1,3,1,0,100,0,3,1
+1298003,2022,2022-08-17,Royal London One-Day Cup,Yorkshire,Essex,Essex,bat,Essex,"County Ground, Chelmsford",6,3,50,5,3,60,5,38,3,2,60,5,3,2
+1298002,2022,2022-08-17,Royal London One-Day Cup,Sussex,Durham,Durham,bat,Sussex,"Riverside Ground, Chester-Le-Street",3,2,67,1,1,100,1,23,1,0,100,0,4,1
+1326870,2022,2022-08-14,CWC Challenge League,Kenya,Jersey,Jersey,bat,Kenya,"Grainville, St Saviour, Jersey, St Saviour",2,1,50,1,1,100,1,2,1,0,100,0,4,5
+1298000,2022,2022-08-14,Royal London One-Day Cup,Worcestershire,Derbyshire,Worcestershire,field,Derbyshire,"County Ground, New Road, Worcester",7,4,57,3,1,33,33,3,1,2,3,66,0,1
+1297999,2022,2022-08-14,Royal London One-Day Cup,Sussex,Surrey,Surrey,field,Sussex,"County Ground, Hove, Brighton",5,4,80,3,3,100,27,3,3,0,11,0,4,1
+1297998,2022,2022-08-14,Royal London One-Day Cup,Somerset,Middlesex,Middlesex,field,Middlesex,"The Cooper Associates County Ground, Taunton",5,3,60,2,1,50,11,2,1,1,9,50,2,1
+1297997,2022,2022-08-14,Royal London One-Day Cup,Nottinghamshire,Durham,Durham,bat,Nottinghamshire,"Gorse Lane, Grantham",7,3,43,1,1,100,3,1,1,0,33,0,2,1
+1297996,2022,2022-08-14,Royal London One-Day Cup,Warwickshire,Leicestershire,Leicestershire,bat,Leicestershire,"Grace Road, Leicester",6,3,50,3,0,0,3,20,0,3,0,15,3,3
+1297995,2022,2022-08-14,Royal London One-Day Cup,Northamptonshire,Kent,Northamptonshire,bat,Kent,"St Lawrence Ground, Canterbury",1,0,0,1,0,0,1,14,0,1,0,7,0,3
+1297994,2022,2022-08-14,Royal London One-Day Cup,Lancashire,Hampshire,Lancashire,bat,Hampshire,"The Rose Bowl, Southampton",6,2,33,4,2,50,4,24,2,2,50,8,4,4
+1297993,2022,2022-08-14,Royal London One-Day Cup,Glamorgan,Essex,Essex,bat,Essex,"County Ground, Chelmsford",7,3,43,3,0,0,3,38,0,3,0,7,2,2
+1326869,2022,2022-08-13,CWC Challenge League,Jersey,Italy,Italy,field,Jersey,"Farmers Cricket Club Ground, St Martin",4,4,100,1,1,100,2,2,1,0,50,0,5,1
+1297992,2022,2022-08-12,Royal London One-Day Cup,Warwickshire,Sussex,Warwickshire,bat,Warwickshire,"Mitchells And Butlers' Ground, Birmingham",4,4,100,1,1,100,4,1,1,0,25,0,4,1
+1297991,2022,2022-08-12,Royal London One-Day Cup,Nottinghamshire,Middlesex,Nottinghamshire,field,Middlesex,"Gorse Lane, Grantham",4,2,50,1,0,0,3,1,0,1,0,100,2,2
+1297990,2022,2022-08-12,Royal London One-Day Cup,Northamptonshire,Glamorgan,Glamorgan,bat,Northamptonshire,"County Ground, Northampton",3,1,33,2,1,50,19,2,1,1,5,50,1,2
+1297989,2022,2022-08-12,Royal London One-Day Cup,Somerset,Leicestershire,Somerset,field,Leicestershire,"Grace Road, Leicester",3,1,33,2,1,50,2,20,1,1,50,5,1,3
+1297988,2022,2022-08-12,Royal London One-Day Cup,Gloucestershire,Durham,Durham,field,Gloucestershire,"Riverside Ground, Chester-Le-Street",4,4,100,1,1,100,1,23,1,0,100,0,3,1
+1297987,2022,2022-08-12,Royal London One-Day Cup,Hampshire,Derbyshire,Hampshire,field,Hampshire,"County Ground, Derby",2,1,50,2,1,50,2,30,1,1,50,3,4,1
+1326867,2022,2022-08-11,CWC Challenge League,Kenya,Bermuda,Bermuda,bat,Kenya,"Farmers Cricket Club Ground, St Martin",2,2,100,1,1,100,2,1,1,0,50,0,3,0
+1297986,2022,2022-08-11,Royal London One-Day Cup,Kent,Essex,Essex,bat,Essex,"County Ground, Chelmsford",7,2,29,4,0,0,5,38,0,4,0,10,3,2
+1326865,2022,2022-08-10,CWC Challenge League,Hong Kong,Jersey,Hong Kong,bat,Jersey,"Farmers Cricket Club Ground, St Martin",1,0,0,1,0,0,1,2,0,1,0,50,2,5
+1326864,2022,2022-08-10,CWC Challenge League,Uganda,Kenya,Uganda,field,Kenya,"Grainville, St Saviour, Jersey, St Saviour",4,1,25,1,0,0,2,1,0,1,0,100,4,4
+1297985,2022,2022-08-10,Royal London One-Day Cup,Somerset,Durham,Somerset,field,Durham,"The Cooper Associates County Ground, Taunton",4,2,50,1,0,0,11,1,0,1,0,100,1,2
+1297984,2022,2022-08-10,Royal London One-Day Cup,Surrey,Middlesex,Surrey,field,Middlesex,"Radlett Cricket Club, Radlett",6,3,50,1,0,0,1,5,0,1,0,20,1,3
+1297983,2022,2022-08-10,Royal London One-Day Cup,Worcestershire,Lancashire,Worcestershire,bat,Lancashire,"Old Trafford, Manchester",6,4,67,3,1,33,3,16,1,2,33,12,0,3
+1297982,2022,2022-08-10,Royal London One-Day Cup,Nottinghamshire,Gloucestershire,Nottinghamshire,bat,Gloucestershire,"County Ground, Bristol",1,0,0,1,0,0,1,21,0,1,0,4,3,4
+1297981,2022,2022-08-10,Royal London One-Day Cup,Yorkshire,Glamorgan,Yorkshire,bat,Yorkshire,"Sophia Gardens, Cardiff",2,2,100,2,2,100,2,19,2,0,100,0,3,3
+1297980,2022,2022-08-09,Royal London One-Day Cup,Northamptonshire,Hampshire,Hampshire,bat,Hampshire,"New Close County Cricket Ground, Newport, Isle-Of-Wight, Newport",1,0,0,1,0,0,1,2,0,1,0,50,1,4
+1326863,2022,2022-08-08,CWC Challenge League,Kenya,Italy,Italy,field,Kenya,"Farmers Cricket Club Ground, St Martin",2,2,100,1,1,100,2,2,1,0,50,0,3,1
+1326860,2022,2022-08-07,CWC Challenge League,Uganda,Italy,Italy,bat,Uganda,"Grainville, St Saviour, Jersey, St Saviour",2,2,100,1,1,100,2,1,1,0,50,0,3,1
+1297979,2022,2022-08-07,Royal London One-Day Cup,Yorkshire,Worcestershire,Yorkshire,field,Yorkshire,"North Marine Road Ground, Scarborough",7,3,43,1,1,100,9,1,1,0,11,0,3,4
+1297978,2022,2022-08-07,Royal London One-Day Cup,Leicestershire,Sussex,Sussex,field,Sussex,"County Ground, Hove, Brighton",1,0,0,1,0,0,1,2,0,1,0,50,3,1
+1297976,2022,2022-08-07,Royal London One-Day Cup,Northamptonshire,Essex,Essex,bat,Northamptonshire,"County Ground, Northampton",2,1,50,2,1,50,19,2,1,1,5,50,2,2
+1297975,2022,2022-08-07,Royal London One-Day Cup,Lancashire,Derbyshire,Lancashire,bat,Lancashire,"Old Trafford, Manchester",6,6,100,2,2,100,5,2,2,0,40,0,4,2
+1297974,2022,2022-08-07,Royal London One-Day Cup,Kent,Hampshire,Kent,field,Hampshire,"Kent County Cricket Ground, Beckenham",10,4,40,2,0,0,6,2,0,2,0,100,3,5
+1297973,2022,2022-08-07,Royal London One-Day Cup,Somerset,Gloucestershire,Somerset,bat,Gloucestershire,"County Ground, Bristol",6,2,33,5,1,20,5,21,1,4,20,19,0,3
+1297972,2022,2022-08-07,Royal London One-Day Cup,Middlesex,Durham,Durham,bat,Middlesex,"Riverside Ground, Chester-Le-Street",2,1,50,1,1,100,1,23,1,0,100,0,3,2
+1326351,2022,2022-08-06,CWC Challenge League,Vanuatu,Singapore,Vanuatu,bat,Singapore,"Maple Leaf North-East Ground, King City",3,1,33,1,0,0,1,1,0,1,0,100,1,1
+1326350,2022,2022-08-06,CWC Challenge League,Qatar,Malaysia,Qatar,bat,Qatar,"Maple Leaf North-West Ground, King City",3,3,100,1,1,100,1,1,1,0,100,0,2,1
+1326859,2022,2022-08-05,CWC Challenge League,Uganda,Jersey,Uganda,bat,Jersey,"Farmers Cricket Club Ground, St Martin",3,1,33,1,0,0,1,2,0,1,0,50,3,4
+1326349,2022,2022-08-05,CWC Challenge League,Malaysia,Denmark,Malaysia,field,Denmark,"Maple Leaf North-East Ground, King City",5,3,60,1,0,0,1,2,0,1,0,50,2,4
+1326348,2022,2022-08-05,CWC Challenge League,Vanuatu,Canada,Vanuatu,field,Canada,"Maple Leaf North-West Ground, King City",2,0,0,1,0,0,2,2,0,1,0,50,1,4
+1297971,2022,2022-08-05,Royal London One-Day Cup,Sussex,Gloucestershire,Gloucestershire,field,Sussex,"County Ground, Hove, Brighton",6,1,17,3,1,33,27,3,1,2,3,66,3,3
+1297970,2022,2022-08-05,Royal London One-Day Cup,Worcestershire,Hampshire,Worcestershire,field,Hampshire,"The Rose Bowl, Southampton",3,0,0,3,0,0,3,24,0,3,0,12,0,4
+1297969,2022,2022-08-05,Royal London One-Day Cup,Derbyshire,Essex,Essex,field,Derbyshire,"County Ground, Chelmsford",1,1,100,1,1,100,1,38,1,0,100,0,2,3
+1326857,2022,2022-08-04,CWC Challenge League,Italy,Bermuda,Italy,bat,Italy,"Grainville, St Saviour, Jersey, St Saviour",3,2,67,1,1,100,1,1,1,0,100,0,1,0
+1297968,2022,2022-08-04,Royal London One-Day Cup,Yorkshire,Lancashire,Lancashire,field,Lancashire,"York Cricket Club, York",6,4,67,1,0,0,3,1,0,1,0,100,4,3
+1297967,2022,2022-08-04,Royal London One-Day Cup,Somerset,Nottinghamshire,Nottinghamshire,field,Nottinghamshire,"The Cooper Associates County Ground, Taunton",3,1,33,1,0,0,11,1,0,1,0,100,0,3
+1297966,2022,2022-08-04,Royal London One-Day Cup,Middlesex,Leicestershire,Middlesex,field,Leicestershire,"Radlett Cricket Club, Radlett",2,0,0,1,0,0,8,1,0,1,0,100,4,3
+1297965,2022,2022-08-04,Royal London One-Day Cup,Kent,Glamorgan,Glamorgan,field,Glamorgan,"County Ground, Chelmsford",6,2,33,1,0,0,5,1,0,1,0,100,4,4
+1297964,2022,2022-08-04,Royal London One-Day Cup,Surrey,Durham,Surrey,field,Surrey,"Roseworth Terrace, Gosforth",4,2,50,1,1,100,1,8,1,0,100,0,2,3
+1326347,2022,2022-08-03,CWC Challenge League,Qatar,Canada,Canada,bat,Canada,"Maple Leaf North-East Ground, King City",3,0,0,1,0,0,2,2,0,1,0,50,1,4
+1326346,2022,2022-08-03,CWC Challenge League,Singapore,Denmark,Denmark,bat,Denmark,"Maple Leaf North-West Ground, King City",7,4,57,1,0,0,2,2,0,1,0,50,3,4
+1326344,2022,2022-08-02,CWC Challenge League,Singapore,Malaysia,Malaysia,bat,Singapore,"Maple Leaf North-East Ground, King City",9,5,56,1,1,100,2,1,1,0,50,0,3,0
+1297963,2022,2022-08-02,Royal London One-Day Cup,Yorkshire,Northamptonshire,Northamptonshire,field,Yorkshire,"York Cricket Club, York",6,6,100,1,1,100,3,1,1,0,33,0,3,1
+1297962,2022,2022-08-02,Royal London One-Day Cup,Worcestershire,Kent,Worcestershire,bat,Kent,"County Ground, New Road, Worcester",3,1,33,3,1,33,33,3,1,2,3,66,0,2
+1297961,2022,2022-08-02,Royal London One-Day Cup,Surrey,Leicestershire,Leicestershire,field,Leicestershire,"Woodbridge Road, Guildford",3,0,0,1,0,0,6,1,0,1,0,100,3,3
+1297960,2022,2022-08-02,Royal London One-Day Cup,Sussex,Nottinghamshire,Nottinghamshire,bat,Nottinghamshire,"Trent Bridge, Nottingham",3,0,0,1,0,0,1,9,0,1,0,11,3,4
+1297958,2022,2022-08-02,Royal London One-Day Cup,Warwickshire,Gloucestershire,Warwickshire,field,Warwickshire,"College Ground, Cheltenham",2,2,100,1,1,100,1,4,1,0,100,0,3,2
+1297957,2022,2022-08-02,Royal London One-Day Cup,Glamorgan,Derbyshire,Glamorgan,field,Glamorgan,"County Ground, Derby",2,2,100,2,2,100,2,30,2,0,100,0,3,1
+1326343,2022,2022-07-31,CWC Challenge League,Qatar,Denmark,Qatar,field,Denmark,"Maple Leaf North-East Ground, King City",2,0,0,1,0,0,2,2,0,1,0,50,1,4
+1326342,2022,2022-07-31,CWC Challenge League,Malaysia,Canada,Canada,bat,Canada,"Maple Leaf North-West Ground, King City",4,1,25,1,0,0,1,2,0,1,0,50,1,4
+1326341,2022,2022-07-30,CWC Challenge League,Singapore,Canada,Canada,field,Canada,"Maple Leaf North-East Ground, King City",4,2,50,1,0,0,2,2,0,1,0,50,4,4
+1326340,2022,2022-07-30,CWC Challenge League,Vanuatu,Denmark,Vanuatu,field,Denmark,"Maple Leaf North-West Ground, King City",4,1,25,1,0,0,2,2,0,1,0,50,1,3
+1326338,2022,2022-07-28,CWC Challenge League,Singapore,Qatar,Qatar,field,Singapore,"Maple Leaf North-West Ground, King City",3,1,33,1,1,100,2,1,1,0,50,0,4,1
+1305433,2022,2022-07-04,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Northern Knights,field,Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",16,4,25,4,2,50,4,10,2,2,50,20,1,3
+1317961,2022,2022-06-26,CWC Challenge League,Uganda,Kenya,Kenya,bat,Uganda,"Lugogo Cricket Oval, Kampala",4,1,25,1,1,100,4,1,1,0,25,0,2,3
+1317960,2022,2022-06-24,CWC Challenge League,Uganda,Italy,Italy,bat,Uganda,"Kyambogo Cricket Ground, Kampala",2,2,100,1,1,100,3,2,1,0,33,0,1,0
+1317957,2022,2022-06-23,CWC Challenge League,Kenya,Italy,Kenya,bat,Kenya,"Lugogo Cricket Oval, Kampala",2,2,100,1,1,100,2,2,1,0,50,0,2,1
+1317956,2022,2022-06-21,CWC Challenge League,Jersey,Italy,Jersey,bat,Jersey,"Kyambogo Cricket Ground, Kampala",4,4,100,1,1,100,1,2,1,0,100,0,5,2
+1317955,2022,2022-06-21,CWC Challenge League,Uganda,Bermuda,Bermuda,bat,Uganda,"Lugogo Cricket Oval, Kampala",3,3,100,1,1,100,4,1,1,0,25,0,0,0
+1317954,2022,2022-06-20,CWC Challenge League,Uganda,Hong Kong,Uganda,bat,Hong Kong,"Kyambogo Cricket Ground, Kampala",1,0,0,1,0,0,3,1,0,1,0,100,0,2
+1317953,2022,2022-06-20,CWC Challenge League,Kenya,Jersey,Jersey,bat,Jersey,"Lugogo Cricket Oval, Kampala",2,1,50,1,0,0,2,2,0,1,0,50,3,4
+1317952,2022,2022-06-18,CWC Challenge League,Kenya,Bermuda,Bermuda,bat,Kenya,"Kyambogo Cricket Ground, Kampala",2,2,100,1,1,100,1,1,1,0,100,0,3,0
+1317951,2022,2022-06-18,CWC Challenge League,Hong Kong,Italy,Hong Kong,bat,Hong Kong,"Lugogo Cricket Oval, Kampala",1,1,100,1,1,100,1,2,1,0,100,0,1,3
+1317950,2022,2022-06-17,CWC Challenge League,Uganda,Jersey,Uganda,field,Jersey,"Lugogo Cricket Oval, Kampala",3,1,33,1,0,0,4,2,0,1,0,50,0,3
+1305430,2022,2022-06-02,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,North-West Warriors,Northern Knights,field,North-West Warriors,"Civil Service Cricket Club, Stormont, Belfast",12,6,50,5,1,20,14,5,1,4,7,80,1,3
+1305429,2022,2022-05-24,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Munster Reds,Munster Reds,bat,Munster Reds,"Mardyke, Cork",6,3,50,2,1,50,2,5,1,1,50,20,2,3
+1305427,2022,2022-05-19,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Munster Reds,Munster Reds,field,North-West Warriors,"Mardyke, Cork",6,4,67,3,3,100,3,5,3,0,100,0,3,3
+1305425,2022,2022-05-12,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,North-West Warriors,North-West Warriors,field,Northern Knights,"Bready Cricket Club, Magheramason, Londonderry",12,6,50,2,1,50,2,2,1,1,50,50,1,4
+1305424,2022,2022-05-10,Cricket Ireland Inter-Provincial Limited Over Cup,Munster Reds,Leinster Lightning,Munster Reds,field,Munster Reds,"Pembroke Cricket Club, Sandymount, Dublin",5,4,80,4,3,75,4,10,3,1,75,10,2,4
+1305423,2022,2022-05-05,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Munster Reds,Munster Reds,field,Munster Reds,"Civil Service Cricket Club, Stormont, Belfast",6,3,50,4,2,50,14,4,2,2,14,50,1,4
+1305422,2022,2022-05-03,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Leinster Lightning,Leinster Lightning,field,Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",12,0,0,2,0,0,2,10,0,2,0,20,3,4
+1250235,2021,2021-08-19,Royal London One-Day Cup,Glamorgan,Durham,Durham,field,Glamorgan,"Trent Bridge, Nottingham",2,1,50,1,1,100,1,3,1,0,100,0,3,4
+1250234,2021,2021-08-17,Royal London One-Day Cup,Surrey,Durham,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",4,2,50,3,1,33,3,23,1,2,33,8,3,5
+1250233,2021,2021-08-16,Royal London One-Day Cup,Glamorgan,Essex,Glamorgan,field,Glamorgan,"Sophia Gardens, Cardiff",7,3,43,4,3,75,5,4,3,1,60,25,3,4
+1250232,2021,2021-08-15,Royal London One-Day Cup,Surrey,Gloucestershire,Surrey,field,Surrey,"Kennington Oval, London",7,4,57,4,3,75,22,4,3,1,13,25,3,2
+1250231,2021,2021-08-14,Royal London One-Day Cup,Yorkshire,Essex,Essex,bat,Essex,"County Ground, Chelmsford",6,3,50,5,3,60,5,38,3,2,60,5,4,3
+1250230,2021,2021-08-12,Royal London One-Day Cup,Warwickshire,Somerset,Somerset,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",5,3,60,3,2,66,26,3,2,1,7,33,3,1
+1250229,2021,2021-08-12,Royal London One-Day Cup,Sussex,Middlesex,Sussex,bat,Sussex,"County Ground, Hove, Brighton",7,4,57,6,3,50,27,6,3,3,11,50,3,4
+1250228,2021,2021-08-12,Royal London One-Day Cup,Northamptonshire,Leicestershire,Leicestershire,bat,Leicestershire,"County Ground, Northampton",4,2,50,3,1,33,19,3,1,2,5,66,2,3
+1250226,2021,2021-08-12,Royal London One-Day Cup,Kent,Gloucestershire,Gloucestershire,field,Gloucestershire,"Kent County Cricket Ground, Beckenham",6,3,50,2,1,50,6,2,1,1,16,50,5,2
+1250225,2021,2021-08-12,Royal London One-Day Cup,Yorkshire,Glamorgan,Glamorgan,field,Yorkshire,"Sophia Gardens, Cardiff",2,2,100,2,2,100,2,19,2,0,100,0,3,4
+1250224,2021,2021-08-12,Royal London One-Day Cup,Hampshire,Durham,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",1,0,0,1,0,0,1,23,0,1,0,4,4,4
+1250223,2021,2021-08-12,Royal London One-Day Cup,Surrey,Derbyshire,Derbyshire,bat,Surrey,"County Ground, Derby",2,2,100,1,1,100,1,30,1,0,100,0,3,1
+1250222,2021,2021-08-10,Royal London One-Day Cup,Worcestershire,Durham,Durham,bat,Durham,"County Ground, New Road, Worcester",6,4,67,3,2,66,33,3,2,1,6,33,1,4
+1250221,2021,2021-08-10,Royal London One-Day Cup,Warwickshire,Surrey,Warwickshire,bat,Surrey,"Kennington Oval, London",3,2,67,1,0,0,1,4,0,1,0,25,3,1
+1250220,2021,2021-08-10,Royal London One-Day Cup,Somerset,Leicestershire,Leicestershire,field,Leicestershire,"The Cooper Associates County Ground, Taunton",3,1,33,1,0,0,11,1,0,1,0,100,0,4
+1250219,2021,2021-08-10,Royal London One-Day Cup,Nottinghamshire,Northamptonshire,Northamptonshire,bat,Nottinghamshire,"Gorse Lane, Grantham",4,3,75,1,1,100,3,1,1,0,33,0,3,0
+1250218,2021,2021-08-10,Royal London One-Day Cup,Sussex,Essex,Sussex,field,Essex,"County Ground, Chelmsford",5,1,20,3,1,33,3,38,1,2,33,5,3,3
+1250217,2021,2021-08-08,Royal London One-Day Cup,Somerset,Northamptonshire,Somerset,field,Northamptonshire,"County Ground, Northampton",3,0,0,3,0,0,3,14,0,3,0,21,0,1
+1250214,2021,2021-08-08,Royal London One-Day Cup,Kent,Hampshire,Hampshire,field,Hampshire,"Kent County Cricket Ground, Beckenham",10,4,40,2,0,0,6,2,0,2,0,100,5,4
+1250213,2021,2021-08-08,Royal London One-Day Cup,Nottinghamshire,Glamorgan,Glamorgan,field,Glamorgan,"Sophia Gardens, Cardiff",2,1,50,2,1,50,2,19,1,1,50,5,3,4
+1250212,2021,2021-08-08,Royal London One-Day Cup,Essex,Durham,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",1,0,0,1,0,0,1,23,0,1,0,4,1,4
+1250211,2021,2021-08-08,Royal London One-Day Cup,Yorkshire,Derbyshire,Yorkshire,field,Yorkshire,"Queen'S Park, Chesterfield",6,6,100,2,2,100,2,2,2,0,100,0,2,1
+1250210,2021,2021-08-07,Royal London One-Day Cup,Surrey,Leicestershire,Surrey,field,Leicestershire,"Grace Road, Leicester",3,0,0,1,0,0,1,20,0,1,0,5,3,3
+1250208,2021,2021-08-06,Royal London One-Day Cup,Worcestershire,Sussex,Worcestershire,bat,Sussex,"County Ground, New Road, Worcester",2,1,50,2,1,50,33,2,1,1,3,50,2,1
+1250207,2021,2021-08-06,Royal London One-Day Cup,Warwickshire,Northamptonshire,Northamptonshire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",5,4,80,3,3,100,26,3,3,0,11,0,3,1
+1250206,2021,2021-08-06,Royal London One-Day Cup,Middlesex,Kent,Middlesex,field,Kent,"Radlett Cricket Club, Radlett",8,5,62,2,1,50,8,2,1,1,12,50,5,2
+1250205,2021,2021-08-06,Royal London One-Day Cup,Hampshire,Gloucestershire,Hampshire,bat,Gloucestershire,"County Ground, Bristol",6,2,33,4,0,0,4,21,0,4,0,19,4,2
+1250202,2021,2021-08-05,Royal London One-Day Cup,Lancashire,Durham,Lancashire,field,Durham,"Roseworth Terrace, Gosforth",4,3,75,2,1,50,2,8,1,1,50,12,3,3
+1250201,2021,2021-08-04,Royal London One-Day Cup,Nottinghamshire,Derbyshire,Nottinghamshire,field,Derbyshire,"County Ground, Derby",6,5,83,3,2,66,3,30,2,1,66,3,3,1
+1250200,2021,2021-08-04,Royal London One-Day Cup,Worcestershire,Hampshire,Worcestershire,bat,Hampshire,"The Rose Bowl, Southampton",3,0,0,3,0,0,3,24,0,3,0,12,3,3
+1250199,2021,2021-08-03,Royal London One-Day Cup,Yorkshire,Warwickshire,Warwickshire,field,Yorkshire,"York Cricket Club, York",4,1,25,1,1,100,3,1,1,0,33,0,2,4
+1250198,2021,2021-08-03,Royal London One-Day Cup,Middlesex,Lancashire,Middlesex,bat,Middlesex,"Old Trafford, Manchester",4,1,25,1,1,100,1,16,1,0,100,0,4,4
+1250197,2021,2021-08-03,Royal London One-Day Cup,Gloucestershire,Essex,Essex,field,Essex,"County Ground, Bristol",4,2,50,2,1,50,7,2,1,1,14,50,3,4
+1250196,2021,2021-08-03,Royal London One-Day Cup,Surrey,Glamorgan,Surrey,bat,Glamorgan,"Sophia Gardens, Cardiff",4,2,50,2,1,50,2,19,1,1,50,5,3,4
+1250195,2021,2021-08-01,Royal London One-Day Cup,Middlesex,Worcestershire,Middlesex,bat,Middlesex,"County Ground, New Road, Worcester",1,1,100,1,1,100,1,4,1,0,100,0,3,3
+1250194,2021,2021-08-01,Royal London One-Day Cup,Sussex,Gloucestershire,Sussex,field,Gloucestershire,"County Ground, Hove, Brighton",6,1,17,3,1,33,27,3,1,2,3,66,2,3
+1250193,2021,2021-08-01,Royal London One-Day Cup,Yorkshire,Somerset,Somerset,field,Somerset,"The Cooper Associates County Ground, Taunton",2,0,0,1,0,0,1,7,0,1,0,14,2,1
+1250192,2021,2021-08-01,Royal London One-Day Cup,Nottinghamshire,Leicestershire,Nottinghamshire,field,Nottinghamshire,"Welbeck Abbey Cricket Ground, Welbeck",7,6,86,1,1,100,1,1,1,0,100,0,3,4
+1250191,2021,2021-08-01,Royal London One-Day Cup,Northamptonshire,Derbyshire,Northamptonshire,field,Northamptonshire,"County Ground, Northampton",9,2,22,6,2,33,19,6,2,4,10,66,2,0
+1250190,2021,2021-08-01,Royal London One-Day Cup,Lancashire,Hampshire,Lancashire,field,Lancashire,"The Rose Bowl, Southampton",6,2,33,4,2,50,4,24,2,2,50,8,3,3
+1250189,2021,2021-08-01,Royal London One-Day Cup,Kent,Essex,Kent,bat,Essex,"County Ground, Chelmsford",7,2,29,4,0,0,5,38,0,4,0,10,4,3
+1250183,2021,2021-07-29,Royal London One-Day Cup,Warwickshire,Leicestershire,Warwickshire,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",6,3,50,3,3,100,26,3,3,0,11,0,2,4
+1250182,2021,2021-07-29,Royal London One-Day Cup,Worcestershire,Essex,Essex,field,Worcestershire,"County Ground, Chelmsford",3,2,67,1,1,100,1,38,1,0,100,0,3,2
+1250181,2021,2021-07-29,Royal London One-Day Cup,Gloucestershire,Durham,Gloucestershire,field,Gloucestershire,"North Marine Road Ground, Scarborough",4,4,100,1,1,100,1,1,1,0,100,0,3,3
+1250179,2021,2021-07-28,Royal London One-Day Cup,Somerset,Glamorgan,Glamorgan,field,Somerset,"The Cooper Associates County Ground, Taunton",7,5,71,3,2,66,11,3,2,1,18,33,0,3
+1250177,2021,2021-07-27,Royal London One-Day Cup,Surrey,Nottinghamshire,Nottinghamshire,field,Surrey,"Woodbridge Road, Guildford",5,3,60,1,1,100,6,1,1,0,16,0,2,3
+1250176,2021,2021-07-27,Royal London One-Day Cup,Middlesex,Durham,Durham,bat,Durham,"Radlett Cricket Club, Radlett",2,1,50,1,0,0,8,1,0,1,0,100,2,4
+1250175,2021,2021-07-27,Royal London One-Day Cup,Sussex,Hampshire,Hampshire,bat,Hampshire,"The Rose Bowl, Southampton",4,0,0,2,0,0,2,24,0,2,0,8,2,2
+1250174,2021,2021-07-27,Royal London One-Day Cup,Worcestershire,Gloucestershire,Gloucestershire,field,Worcestershire,"County Ground, Bristol",4,2,50,1,1,100,1,21,1,0,100,0,4,4
+1250173,2021,2021-07-27,Royal London One-Day Cup,Warwickshire,Derbyshire,Warwickshire,field,Warwickshire,"County Ground, Derby",5,2,40,3,1,33,3,30,1,2,33,6,2,0
+1250172,2021,2021-07-25,Royal London One-Day Cup,Worcestershire,Kent,Worcestershire,field,Worcestershire,"County Ground, New Road, Worcester",3,1,33,3,1,33,33,3,1,2,3,66,4,1
+1250171,2021,2021-07-25,Royal London One-Day Cup,Warwickshire,Nottinghamshire,Warwickshire,field,Nottinghamshire,"Edgbaston Foundation Community Sports Ground, Birmingham",8,2,25,3,0,0,26,3,0,3,0,100,2,3
+1250169,2021,2021-07-25,Royal London One-Day Cup,Somerset,Derbyshire,Somerset,field,Somerset,"The Cooper Associates County Ground, Taunton",3,2,67,1,1,100,11,1,1,0,9,0,0,1
+1250168,2021,2021-07-25,Royal London One-Day Cup,Northamptonshire,Glamorgan,Northamptonshire,field,Glamorgan,"County Ground, Northampton",3,1,33,2,1,50,19,2,1,1,5,50,1,3
+1250167,2021,2021-07-25,Royal London One-Day Cup,Yorkshire,Leicestershire,Leicestershire,bat,Yorkshire,"Grace Road, Leicester",8,7,88,5,4,80,5,20,4,1,80,5,1,4
+1250166,2021,2021-07-25,Royal London One-Day Cup,Lancashire,Gloucestershire,Lancashire,field,Lancashire,"County Ground, Bristol",2,1,50,2,1,50,2,21,1,1,50,4,4,3
+1250165,2021,2021-07-25,Royal London One-Day Cup,Middlesex,Essex,Essex,field,Essex,"County Ground, Chelmsford",6,2,33,4,1,25,4,38,1,3,25,7,2,2
+1250164,2021,2021-07-23,Royal London One-Day Cup,Sussex,Lancashire,Sussex,bat,Lancashire,"The Cricket Field, Sedbergh School, Sedbergh",2,0,0,1,0,0,1,1,0,1,0,100,1,4
+1250163,2021,2021-07-22,Royal London One-Day Cup,Yorkshire,Surrey,Surrey,field,Surrey,"North Marine Road Ground, Scarborough",5,1,20,1,0,0,9,1,0,1,0,100,2,1
+1250162,2021,2021-07-22,Royal London One-Day Cup,Leicestershire,Derbyshire,Derbyshire,bat,Leicestershire,"Grace Road, Leicester",6,2,33,4,2,50,12,4,2,2,16,50,4,1
+1250161,2021,2021-07-22,Royal London One-Day Cup,Kent,Durham,Kent,field,Durham,"Kent County Cricket Ground, Beckenham",2,1,50,1,0,0,6,1,0,1,0,100,3,3
+1250160,2021,2021-07-22,Royal London One-Day Cup,Hampshire,Essex,Essex,field,Essex,"The Rose Bowl, Southampton",9,3,33,6,3,50,10,6,3,3,30,50,3,2
+1250159,2021,2021-07-22,Royal London One-Day Cup,Warwickshire,Glamorgan,Warwickshire,bat,Glamorgan,"Sophia Gardens, Cardiff",4,3,75,1,0,0,1,19,0,1,0,5,1,4
+1259533,2021,2021-06-30,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Munster Reds,Munster Reds,bat,Munster Reds,"Civil Service Cricket Club, Stormont, Belfast",6,3,50,4,2,50,14,4,2,2,14,50,1,3
+1259534,2021,2021-06-15,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Munster Reds,North-West Warriors,field,North-West Warriors,"Mardyke, Cork",6,4,67,3,3,100,3,5,3,0,100,0,2,3
+1259531,2021,2021-05-25,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Leinster Lightning,Leinster Lightning,field,Leinster Lightning,"Woodvale Road, Eglinton",12,0,0,1,0,0,2,1,0,1,0,100,2,4
+1259530,2021,2021-05-22,Cricket Ireland Inter-Provincial Limited Over Cup,Munster Reds,Leinster Lightning,Munster Reds,field,Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",5,4,80,4,3,75,4,10,3,1,75,10,2,4
+1259527,2021,2021-05-18,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,North-West Warriors,Northern Knights,field,North-West Warriors,"Civil Service Cricket Club, Stormont, Belfast",12,6,50,5,1,20,14,5,1,4,7,80,2,3
+1259526,2021,2021-05-16,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Northern Knights,field,Northern Knights,"The Green, Comber",16,4,25,2,1,50,2,2,1,1,50,50,1,5
+1259525,2021,2021-05-06,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Munster Reds,North-West Warriors,field,North-West Warriors,"Woodvale Road, Eglinton",6,4,67,1,1,100,2,1,1,0,50,0,3,2
+1259524,2021,2021-05-04,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Northern Knights,field,Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",16,4,25,4,2,50,4,10,2,2,50,20,2,5
+1259523,2021,2021-05-01,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Leinster Lightning,Leinster Lightning,field,Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",12,0,0,2,0,0,2,10,0,2,0,20,3,5
+1257408,2021,2021-04-08,Uganda tour of Namibia,Uganda,Namibia,Namibia,bat,Namibia,"Wanderers Cricket Ground, Windhoek",3,0,0,3,0,0,3,10,0,3,0,30,0,3
+1257407,2021,2021-04-07,Uganda tour of Namibia,Uganda,Namibia,Uganda,field,Namibia,"Wanderers Cricket Ground, Windhoek",3,0,0,3,0,0,3,10,0,3,0,30,1,3
+1211210,2020,2020-09-28,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Leinster Lightning,North-West Warriors,bat,Leinster Lightning,"The Village, Malahide, Dublin",12,0,0,1,0,0,1,2,0,1,0,50,2,4
+1211208,2020,2020-09-26,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Leinster Lightning,field,Leinster Lightning,"The Village, Malahide, Dublin",16,4,25,1,0,0,1,2,0,1,0,50,2,4
+1211207,2020,2020-09-22,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Leinster Lightning,Leinster Lightning,field,Leinster Lightning,"Bready Cricket Club, Magheramason, Londonderry",12,0,0,4,0,0,5,4,0,4,0,100,2,4
+1211206,2020,2020-09-17,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Northern Knights,field,Leinster Lightning,"The Green, Comber",16,4,25,2,1,50,2,2,1,1,50,50,2,4
+1200452,2019,2019-09-26,CWC Challenge League,Singapore,Canada,Canada,field,Singapore,"Selangor Turf Club, Kuala Lumpur",4,2,50,1,1,100,5,2,1,0,20,0,5,5
+1200451,2019,2019-09-26,CWC Challenge League,Qatar,Vanuatu,Qatar,bat,Qatar,"Kinrara Academy Oval, Kuala Lumpur",1,1,100,1,1,100,2,1,1,0,50,0,2,1
+1200450,2019,2019-09-25,CWC Challenge League,Vanuatu,Malaysia,Vanuatu,bat,Vanuatu,"Selangor Turf Club, Kuala Lumpur",3,1,33,1,1,100,3,5,1,0,33,0,2,0
+1200449,2019,2019-09-25,CWC Challenge League,Denmark,Canada,Canada,bat,Canada,"Kinrara Academy Oval, Kuala Lumpur",2,0,0,1,0,0,3,3,0,1,0,33,4,5
+1200448,2019,2019-09-23,CWC Challenge League,Qatar,Denmark,Denmark,bat,Denmark,"Selangor Turf Club, Kuala Lumpur",2,0,0,1,0,0,2,4,0,1,0,25,3,2
+1200447,2019,2019-09-23,CWC Challenge League,Singapore,Malaysia,Malaysia,bat,Singapore,"Kinrara Academy Oval, Kuala Lumpur",9,5,56,3,2,66,4,6,2,1,50,16,4,0
+1200446,2019,2019-09-22,CWC Challenge League,Vanuatu,Singapore,Vanuatu,field,Singapore,"Selangor Turf Club, Kuala Lumpur",3,1,33,1,0,0,3,2,0,1,0,50,2,2
+1200445,2019,2019-09-22,CWC Challenge League,Qatar,Canada,Canada,bat,Canada,"Kinrara Academy Oval, Kuala Lumpur",3,0,0,1,0,0,2,3,0,1,0,33,2,5
+1200444,2019,2019-09-20,CWC Challenge League,Qatar,Malaysia,Malaysia,bat,Qatar,"Selangor Turf Club, Kuala Lumpur",3,3,100,1,1,100,2,5,1,0,50,0,3,0
+1200443,2019,2019-09-20,CWC Challenge League,Vanuatu,Denmark,Denmark,bat,Denmark,"Kinrara Academy Oval, Kuala Lumpur",4,1,25,2,1,50,3,4,1,1,33,25,2,3
+1200442,2019,2019-09-19,CWC Challenge League,Singapore,Denmark,Singapore,bat,Singapore,"Selangor Turf Club, Kuala Lumpur",7,4,57,2,2,100,5,4,2,0,40,0,3,2
+1200441,2019,2019-09-19,CWC Challenge League,Malaysia,Canada,Malaysia,field,Canada,"Kinrara Academy Oval, Kuala Lumpur",4,1,25,1,0,0,5,3,0,1,0,33,0,4
+1200440,2019,2019-09-17,CWC Challenge League,Vanuatu,Canada,Canada,field,Canada,"Selangor Turf Club, Kuala Lumpur",2,0,0,1,0,0,3,2,0,1,0,50,2,3
+1200439,2019,2019-09-17,CWC Challenge League,Singapore,Qatar,Qatar,bat,Qatar,"Kinrara Academy Oval, Kuala Lumpur",3,1,33,1,0,0,4,1,0,1,0,100,2,2
+1200438,2019,2019-09-16,CWC Challenge League,Malaysia,Denmark,Denmark,field,Malaysia,"Kinrara Academy Oval, Kuala Lumpur",5,3,60,1,1,100,5,4,1,0,20,0,0,1
+1178137,2019,2019-08-26,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,North-West Warriors,Northern Knights,bat,Northern Knights,"Woodvale Road, Eglinton",12,6,50,2,2,100,2,2,2,0,100,0,2,3
+1178135,2019,2019-08-20,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Leinster Lightning,field,Leinster Lightning,"Civil Service Cricket Club, Stormont, Belfast",16,4,25,5,1,20,14,5,1,4,7,80,3,4
+1178134,2019,2019-06-27,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Leinster Lightning,bat,Northern Knights,"Pembroke Cricket Club, Sandymount, Dublin",16,4,25,4,2,50,4,10,2,2,50,20,2,5
+1178133,2019,2019-05-27,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,North-West Warriors,North-West Warriors,bat,North-West Warriors,"Civil Service Cricket Club, Stormont, Belfast",12,6,50,5,1,20,14,5,1,4,7,80,2,3
+1167125,2019,2019-05-25,Royal London One-Day Cup,Somerset,Hampshire,Hampshire,bat,Somerset,"Lord'S, London",5,3,60,1,1,100,2,2,1,0,50,0,1,3
+1178132,2019,2019-05-23,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Leinster Lightning,Leinster Lightning,bat,Leinster Lightning,"Bready Cricket Club, Magheramason, Londonderry",12,0,0,4,0,0,5,4,0,4,0,100,1,5
+1167124,2019,2019-05-12,Royal London One-Day Cup,Somerset,Nottinghamshire,Nottinghamshire,field,Somerset,"Trent Bridge, Nottingham",3,1,33,1,1,100,1,9,1,0,100,0,2,3
+1167123,2019,2019-05-12,Royal London One-Day Cup,Lancashire,Hampshire,Lancashire,bat,Hampshire,"The Rose Bowl, Southampton",6,2,33,4,2,50,4,24,2,2,50,8,4,2
+1167122,2019,2019-05-10,Royal London One-Day Cup,Middlesex,Lancashire,Middlesex,field,Lancashire,"Lord'S, London",4,1,25,2,0,0,8,2,0,2,0,100,2,3
+1167121,2019,2019-05-10,Royal London One-Day Cup,Worcestershire,Somerset,Worcestershire,field,Somerset,"County Ground, New Road, Worcester",4,0,0,1,0,0,33,1,0,1,0,100,4,0
+1167120,2019,2019-05-07,Royal London One-Day Cup,Gloucestershire,Essex,Essex,bat,Gloucestershire,"County Ground, Chelmsford",4,2,50,2,1,50,2,38,1,1,50,2,4,1
+1167119,2019,2019-05-07,Royal London One-Day Cup,Middlesex,Kent,Middlesex,bat,Middlesex,"St Lawrence Ground, Canterbury",8,5,62,3,2,66,3,14,2,1,66,7,2,1
+1167118,2019,2019-05-07,Royal London One-Day Cup,Sussex,Glamorgan,Sussex,bat,Glamorgan,"County Ground, Hove, Brighton",6,1,17,4,1,25,27,4,1,3,3,75,1,4
+1167117,2019,2019-05-07,Royal London One-Day Cup,Surrey,Somerset,Somerset,field,Somerset,"The Cooper Associates County Ground, Taunton",7,2,29,1,0,0,1,7,0,1,0,14,2,0
+1167115,2019,2019-05-06,Royal London One-Day Cup,Nottinghamshire,Northamptonshire,Northamptonshire,bat,Nottinghamshire,"County Ground, Northampton",4,3,75,1,1,100,1,14,1,0,100,0,2,2
+1167114,2019,2019-05-06,Royal London One-Day Cup,Warwickshire,Leicestershire,Leicestershire,bat,Leicestershire,"Grace Road, Leicester",6,3,50,3,0,0,3,20,0,3,0,15,2,4
+1167113,2019,2019-05-06,Royal London One-Day Cup,Worcestershire,Derbyshire,Derbyshire,bat,Worcestershire,"County Ground, Derby",7,4,57,4,3,75,4,30,3,1,75,3,3,2
+1167112,2019,2019-05-05,Royal London One-Day Cup,Sussex,Gloucestershire,Gloucestershire,bat,Gloucestershire,"The Saffrons, Eastbourne",6,1,17,2,0,0,3,2,0,2,0,100,0,2
+1167111,2019,2019-05-05,Royal London One-Day Cup,Somerset,Hampshire,Somerset,bat,Hampshire,"The Cooper Associates County Ground, Taunton",5,3,60,1,0,0,11,1,0,1,0,100,3,2
+1167110,2019,2019-05-05,Royal London One-Day Cup,Middlesex,Glamorgan,Middlesex,field,Middlesex,"Lord'S, London",6,5,83,2,2,100,8,2,2,0,25,0,2,3
+1167109,2019,2019-05-05,Royal London One-Day Cup,Kent,Essex,Kent,field,Kent,"Kent County Cricket Ground, Beckenham",7,2,29,1,1,100,6,1,1,0,16,0,2,1
+1167108,2019,2019-05-04,Royal London One-Day Cup,Yorkshire,Worcestershire,Worcestershire,bat,Worcestershire,"County Ground, New Road, Worcester",7,3,43,3,1,33,3,4,1,2,33,50,2,3
+1167107,2019,2019-05-04,Royal London One-Day Cup,Warwickshire,Lancashire,Warwickshire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",4,2,50,2,1,50,26,2,1,1,3,50,2,3
+1167106,2019,2019-05-04,Royal London One-Day Cup,Northamptonshire,Leicestershire,Northamptonshire,bat,Northamptonshire,"Grace Road, Leicester",4,2,50,1,1,100,1,20,1,0,100,0,2,5
+1167103,2019,2019-05-02,Royal London One-Day Cup,Surrey,Kent,Surrey,bat,Kent,"Kennington Oval, London",6,2,33,4,2,50,22,4,2,2,9,50,2,2
+1167102,2019,2019-05-02,Royal London One-Day Cup,Lancashire,Derbyshire,Derbyshire,field,Lancashire,"Old Trafford, Manchester",6,6,100,2,2,100,5,2,2,0,40,0,3,2
+1167101,2019,2019-05-01,Royal London One-Day Cup,Somerset,Middlesex,Somerset,field,Middlesex,"Radlett Cricket Club, Radlett",5,3,60,1,0,0,1,5,0,1,0,20,4,5
+1167100,2019,2019-05-01,Royal London One-Day Cup,Yorkshire,Northamptonshire,Northamptonshire,bat,Yorkshire,"County Ground, Northampton",6,6,100,3,3,100,3,14,3,0,100,0,2,2
+1167099,2019,2019-05-01,Royal London One-Day Cup,Worcestershire,Nottinghamshire,Nottinghamshire,bat,Worcestershire,"County Ground, New Road, Worcester",4,3,75,2,2,100,33,2,2,0,6,0,4,2
+1167098,2019,2019-04-30,Royal London One-Day Cup,Surrey,Hampshire,Surrey,field,Hampshire,"Kennington Oval, London",5,1,20,2,1,50,22,2,1,1,4,50,1,2
+1167097,2019,2019-04-30,Royal London One-Day Cup,Warwickshire,Derbyshire,Derbyshire,field,Derbyshire,"County Ground, Derby",5,2,40,3,1,33,3,30,1,2,33,6,2,3
+1167096,2019,2019-04-30,Royal London One-Day Cup,Lancashire,Durham,Lancashire,field,Lancashire,"Roseworth Terrace, Gosforth",4,3,75,2,1,50,2,8,1,1,50,12,3,3
+1167095,2019,2019-04-30,Royal London One-Day Cup,Sussex,Essex,Essex,bat,Sussex,"County Ground, Chelmsford",5,1,20,3,1,33,3,38,1,2,33,5,1,1
+1167094,2019,2019-04-30,Royal London One-Day Cup,Gloucestershire,Glamorgan,Glamorgan,bat,Glamorgan,"County Ground, Bristol",5,2,40,2,0,0,7,2,0,2,0,100,4,4
+1167093,2019,2019-04-28,Royal London One-Day Cup,Durham,Derbyshire,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",5,3,60,3,3,100,3,3,3,0,100,0,2,2
+1167092,2019,2019-04-28,Royal London One-Day Cup,Hampshire,Essex,Essex,bat,Essex,"County Ground, Chelmsford",9,3,33,3,0,0,3,38,0,3,0,7,4,2
+1167090,2019,2019-04-28,Royal London One-Day Cup,Somerset,Gloucestershire,Somerset,bat,Gloucestershire,"County Ground, Bristol",6,2,33,5,1,20,5,21,1,4,20,19,5,3
+1167089,2019,2019-04-28,Royal London One-Day Cup,Leicestershire,Lancashire,Lancashire,field,Lancashire,"Old Trafford, Manchester",6,3,50,4,2,50,4,16,2,2,50,12,3,3
+1167088,2019,2019-04-28,Royal London One-Day Cup,Yorkshire,Nottinghamshire,Yorkshire,bat,Nottinghamshire,"Trent Bridge, Nottingham",3,2,67,2,1,50,2,9,1,1,50,11,3,2
+1167087,2019,2019-04-28,Royal London One-Day Cup,Worcestershire,Warwickshire,Warwickshire,bat,Warwickshire,"County Ground, New Road, Worcester",5,2,40,3,1,33,33,3,1,2,3,66,4,5
+1174843,2019,2019-04-27,ICC World Cricket League Division Two,Hong Kong,Canada,Hong Kong,bat,Canada,"United Cricket Club Ground, Windhoek",2,1,50,1,0,0,3,6,0,1,0,16,0,2
+1167086,2019,2019-04-27,Royal London One-Day Cup,Sussex,Middlesex,Middlesex,field,Sussex,"Lord'S, London",7,4,57,1,1,100,1,8,1,0,100,0,2,4
+1174842,2019,2019-04-26,ICC World Cricket League Division Two,Papua New Guinea,Oman,Oman,field,Papua New Guinea,"United Cricket Club Ground, Windhoek",2,2,100,1,1,100,1,2,1,0,100,0,1,5
+1174841,2019,2019-04-26,ICC World Cricket League Division Two,Namibia,Hong Kong,Hong Kong,field,Namibia,"Affies Park, Windhoek",1,1,100,1,1,100,2,1,1,0,50,0,3,1
+1174840,2019,2019-04-26,ICC World Cricket League Division Two,United States Of America,Canada,United States of America,field,Canada,"Wanderers Cricket Ground, Windhoek",2,0,0,1,0,0,1,5,0,1,0,20,4,2
+1167084,2019,2019-04-26,Royal London One-Day Cup,Warwickshire,Durham,Durham,field,Durham,"Edgbaston Foundation Community Sports Ground, Birmingham",8,2,25,3,0,0,26,3,0,3,0,100,1,4
+1167083,2019,2019-04-26,Royal London One-Day Cup,Somerset,Essex,Essex,field,Somerset,"The Cooper Associates County Ground, Taunton",3,1,33,1,1,100,11,1,1,0,9,0,5,1
+1167082,2019,2019-04-26,Royal London One-Day Cup,Nottinghamshire,Leicestershire,Leicestershire,field,Nottinghamshire,"Trent Bridge, Nottingham",7,6,86,1,1,100,10,1,1,0,10,0,2,4
+1167081,2019,2019-04-26,Royal London One-Day Cup,Worcestershire,Northamptonshire,Northamptonshire,field,Worcestershire,"County Ground, Northampton",7,5,71,3,3,100,3,14,3,0,100,0,3,2
+1167080,2019,2019-04-26,Royal London One-Day Cup,Hampshire,Gloucestershire,Gloucestershire,field,Hampshire,"The Rose Bowl, Southampton",6,2,33,2,2,100,10,2,2,0,20,0,4,3
+1178131,2019,2019-04-25,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Northern Knights,bat,Leinster Lightning,"La Manga Club Top Ground, Murcia",16,4,25,1,0,0,2,1,0,1,0,100,2,5
+1167079,2019,2019-04-25,Royal London One-Day Cup,Surrey,Middlesex,Middlesex,bat,Middlesex,"Kennington Oval, London",6,3,50,2,1,50,22,2,1,1,4,50,1,3
+1178130,2019,2019-04-24,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,North-West Warriors,North-West Warriors,field,Northern Knights,"La Manga Club Top Ground, Murcia",12,6,50,1,1,100,2,1,1,0,50,0,1,2
+1174839,2019,2019-04-24,ICC World Cricket League Division Two,Hong Kong,United States Of America,Hong Kong,field,United States Of America,"United Cricket Club Ground, Windhoek",1,0,0,1,0,0,3,1,0,1,0,100,1,4
+1174838,2019,2019-04-24,ICC World Cricket League Division Two,Oman,Namibia,Oman,field,Oman,"Affies Park, Windhoek",2,1,50,1,1,100,3,3,1,0,33,0,5,2
+1174837,2019,2019-04-24,ICC World Cricket League Division Two,Canada,Papua New Guinea,Papua New Guinea,bat,Canada,"Wanderers Cricket Ground, Windhoek",1,1,100,1,1,100,2,1,1,0,50,0,5,1
+1167077,2019,2019-04-24,Royal London One-Day Cup,Worcestershire,Durham,Worcestershire,field,Worcestershire,"County Ground, New Road, Worcester",6,4,67,3,2,66,33,3,2,1,6,33,3,3
+1167076,2019,2019-04-24,Royal London One-Day Cup,Northamptonshire,Lancashire,Lancashire,field,Lancashire,"Old Trafford, Manchester",6,4,67,2,1,50,2,16,1,1,50,6,1,3
+1167075,2019,2019-04-24,Royal London One-Day Cup,Leicestershire,Derbyshire,Derbyshire,field,Derbyshire,"Grace Road, Leicester",6,2,33,4,2,50,12,4,2,2,16,50,4,2
+1167074,2019,2019-04-24,Royal London One-Day Cup,Sussex,Somerset,Sussex,field,Somerset,"County Ground, Hove, Brighton",7,4,57,2,0,0,27,2,0,2,0,100,2,0
+1174836,2019,2019-04-23,ICC World Cricket League Division Two,Namibia,Canada,Canada,field,Namibia,"United Cricket Club Ground, Windhoek",6,4,67,3,3,100,6,6,3,0,50,0,3,1
+1174835,2019,2019-04-23,ICC World Cricket League Division Two,Papua New Guinea,United States Of America,Papua New Guinea,bat,United States Of America,"Affies Park, Windhoek",1,0,0,1,0,0,1,1,0,1,0,100,1,3
+1174834,2019,2019-04-23,ICC World Cricket League Division Two,Oman,Hong Kong,Oman,field,Oman,"Wanderers Cricket Ground, Windhoek",2,2,100,1,1,100,2,1,1,0,50,0,5,0
+1167073,2019,2019-04-23,Royal London One-Day Cup,Warwickshire,Nottinghamshire,Nottinghamshire,bat,Nottinghamshire,"Edgbaston Foundation Community Sports Ground, Birmingham",8,2,25,3,0,0,26,3,0,3,0,100,1,3
+1167072,2019,2019-04-23,Royal London One-Day Cup,Kent,Gloucestershire,Gloucestershire,field,Gloucestershire,"County Ground, Bristol",6,3,50,2,0,0,2,21,0,2,0,9,2,2
+1167071,2019,2019-04-23,Royal London One-Day Cup,Middlesex,Hampshire,Middlesex,field,Hampshire,"The Rose Bowl, Southampton",6,1,17,4,1,25,4,24,1,3,25,12,2,3
+1167070,2019,2019-04-23,Royal London One-Day Cup,Surrey,Essex,Essex,field,Surrey,"Kennington Oval, London",5,4,80,2,1,50,22,2,1,1,4,50,1,2
+1174833,2019,2019-04-21,ICC World Cricket League Division Two,Hong Kong,Papua New Guinea,Papua New Guinea,field,Papua New Guinea,"United Cricket Club Ground, Windhoek",1,0,0,1,0,0,3,1,0,1,0,100,1,1
+1174832,2019,2019-04-21,ICC World Cricket League Division Two,Oman,Canada,Canada,field,Oman,"Affies Park, Windhoek",3,1,33,1,1,100,3,6,1,0,33,0,5,1
+1174831,2019,2019-04-21,ICC World Cricket League Division Two,Namibia,United States Of America,Namibia,field,United States Of America,"Wanderers Cricket Ground, Windhoek",1,0,0,1,0,0,8,1,0,1,0,100,2,3
+1167069,2019,2019-04-21,Royal London One-Day Cup,Nottinghamshire,Derbyshire,Derbyshire,bat,Nottinghamshire,"County Ground, Derby",6,5,83,3,2,66,3,30,2,1,66,3,2,2
+1167068,2019,2019-04-21,Royal London One-Day Cup,Yorkshire,Lancashire,Lancashire,bat,Lancashire,"Headingley, Leeds",6,4,67,2,1,50,18,2,1,1,5,50,4,3
+1167067,2019,2019-04-21,Royal London One-Day Cup,Middlesex,Gloucestershire,Middlesex,field,Middlesex,"Lord'S, London",5,3,60,2,1,50,8,3,1,1,12,33,2,3
+1167066,2019,2019-04-21,Royal London One-Day Cup,Worcestershire,Leicestershire,Leicestershire,bat,Leicestershire,"Grace Road, Leicester",5,3,60,3,1,33,3,20,1,2,33,10,3,3
+1167065,2019,2019-04-21,Royal London One-Day Cup,Sussex,Kent,Kent,bat,Sussex,"Kent County Cricket Ground, Beckenham",6,3,50,1,1,100,1,5,1,0,100,0,3,2
+1167064,2019,2019-04-21,Royal London One-Day Cup,Warwickshire,Northamptonshire,Warwickshire,field,Northamptonshire,"County Ground, Northampton",5,4,80,2,1,50,2,14,1,1,50,7,1,1
+1167063,2019,2019-04-21,Royal London One-Day Cup,Somerset,Glamorgan,Somerset,bat,Somerset,"Sophia Gardens, Cardiff",7,5,71,2,2,100,2,19,2,0,100,0,5,3
+1174830,2019,2019-04-20,ICC World Cricket League Division Two,United States Of America,Oman,Oman,field,Oman,"United Cricket Club Ground, Windhoek",4,2,50,1,0,0,1,2,0,1,0,50,3,5
+1174829,2019,2019-04-20,ICC World Cricket League Division Two,Hong Kong,Canada,Canada,bat,Hong Kong,"Affies Park, Windhoek",2,1,50,1,1,100,1,6,1,0,100,0,1,2
+1174828,2019,2019-04-20,ICC World Cricket League Division Two,Papua New Guinea,Namibia,Namibia,field,Namibia,"Wanderers Cricket Ground, Windhoek",3,2,67,1,0,0,1,10,0,1,0,10,2,2
+1167062,2019,2019-04-19,Royal London One-Day Cup,Middlesex,Essex,Essex,field,Middlesex,"County Ground, Chelmsford",6,2,33,4,1,25,4,38,1,3,25,7,2,3
+1167061,2019,2019-04-19,Royal London One-Day Cup,Sussex,Surrey,Surrey,bat,Sussex,"County Ground, Hove, Brighton",5,4,80,3,3,100,27,3,3,0,11,0,4,1
+1167059,2019,2019-04-19,Royal London One-Day Cup,Nottinghamshire,Lancashire,Nottinghamshire,bat,Nottinghamshire,"Trent Bridge, Nottingham",6,4,67,2,2,100,10,2,2,0,20,0,3,3
+1167058,2019,2019-04-19,Royal London One-Day Cup,Hampshire,Glamorgan,Glamorgan,bat,Hampshire,"The Rose Bowl, Southampton",5,3,60,2,1,50,10,2,1,1,10,50,3,2
+1167057,2019,2019-04-19,Royal London One-Day Cup,Leicestershire,Durham,Leicestershire,bat,Durham,"Riverside Ground, Chester-Le-Street",6,2,33,1,0,0,1,23,0,1,0,4,4,2
+1167055,2019,2019-04-19,Royal London One-Day Cup,Northamptonshire,Derbyshire,Derbyshire,bat,Derbyshire,"County Ground, Derby",9,2,22,3,0,0,3,30,0,3,0,10,2,2
+1167054,2019,2019-04-17,Royal London One-Day Cup,Northamptonshire,Durham,Northamptonshire,field,Durham,"Riverside Ground, Chester-Le-Street",6,2,33,3,1,33,3,23,1,2,33,8,2,2
+1167053,2019,2019-04-17,Royal London One-Day Cup,Glamorgan,Essex,Glamorgan,field,Essex,"Sophia Gardens, Cardiff",7,3,43,4,3,75,5,4,3,1,60,25,2,4
+1167052,2019,2019-04-17,Royal London One-Day Cup,Surrey,Gloucestershire,Gloucestershire,bat,Gloucestershire,"County Ground, Bristol",7,4,57,2,1,50,2,21,1,1,50,4,1,3
+1167051,2019,2019-04-17,Royal London One-Day Cup,Kent,Hampshire,Kent,field,Hampshire,"St Lawrence Ground, Canterbury",10,4,40,3,1,33,11,3,1,2,9,66,1,3
+1167050,2019,2019-04-17,Royal London One-Day Cup,Worcestershire,Lancashire,Worcestershire,bat,Worcestershire,"Old Trafford, Manchester",6,4,67,3,1,33,3,16,1,2,33,12,3,4
+1167049,2019,2019-04-17,Royal London One-Day Cup,Yorkshire,Leicestershire,Leicestershire,field,Yorkshire,"Headingley, Leeds",8,7,88,3,3,100,18,3,3,0,16,0,4,2
+1162859,2018,2018-11-19,ICC World Cricket League Division Three,United States Of America,Singapore,United States of America,field,United States Of America,"Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1), Al Amarat",4,2,50,1,1,100,3,2,1,0,33,0,3,2
+1162858,2018,2018-11-18,ICC World Cricket League Division Three,Uganda,Oman,Uganda,bat,Oman,"Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2), Al Amarat",3,0,0,1,0,0,3,2,0,1,0,50,2,5
+1162857,2018,2018-11-18,ICC World Cricket League Division Three,Kenya,Denmark,Denmark,field,Denmark,"Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1), Al Amarat",1,0,0,1,0,0,1,2,0,1,0,50,3,1
+1162856,2018,2018-11-16,ICC World Cricket League Division Three,Kenya,Singapore,Kenya,bat,Kenya,"Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2), Al Amarat",1,1,100,1,1,100,1,1,1,0,100,0,2,3
+1162855,2018,2018-11-16,ICC World Cricket League Division Three,United States Of America,Oman,Oman,field,Oman,"Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1), Al Amarat",4,2,50,1,0,0,3,1,0,1,0,100,2,5
+1162853,2018,2018-11-15,ICC World Cricket League Division Three,Uganda,Singapore,Uganda,field,Singapore,"Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1), Al Amarat",3,2,67,1,0,0,1,2,0,1,0,50,3,3
+1162852,2018,2018-11-13,ICC World Cricket League Division Three,Uganda,Kenya,Uganda,bat,Kenya,"Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2), Al Amarat",4,1,25,1,0,0,3,1,0,1,0,100,4,3
+1162851,2018,2018-11-13,ICC World Cricket League Division Three,Oman,Denmark,Denmark,bat,Oman,"Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1), Al Amarat",3,2,67,1,1,100,2,2,1,0,50,0,5,1
+1162850,2018,2018-11-12,ICC World Cricket League Division Three,Singapore,Denmark,Denmark,field,Singapore,"Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2), Al Amarat",7,4,57,1,1,100,2,2,1,0,50,0,2,0
+1162848,2018,2018-11-10,ICC World Cricket League Division Three,Singapore,Oman,Oman,field,Oman,"Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2), Al Amarat",3,1,33,1,0,0,2,2,0,1,0,50,2,5
+1162847,2018,2018-11-10,ICC World Cricket League Division Three,United States Of America,Uganda,Uganda,field,United States Of America,"Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1), Al Amarat",2,1,50,1,1,100,3,1,1,0,33,0,3,4
+1162846,2018,2018-11-09,ICC World Cricket League Division Three,Uganda,Denmark,Denmark,bat,Uganda,"Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2), Al Amarat",2,2,100,1,1,100,3,2,1,0,33,0,5,1
+1162845,2018,2018-11-09,ICC World Cricket League Division Three,Oman,Kenya,Kenya,bat,Oman,"Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1), Al Amarat",3,3,100,1,1,100,2,1,1,0,50,0,5,2
+1136924,2018,2018-09-09,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Leinster Lightning,Leinster Lightning,bat,Leinster Lightning,"Observatory Lane, Rathmines, Dublin",12,0,0,1,0,0,1,3,0,1,0,33,1,5
+1136923,2018,2018-07-16,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,North-West Warriors,North-West Warriors,bat,Northern Knights,"Woodvale Road, Eglinton",12,6,50,2,2,100,2,2,2,0,100,0,0,2
+1136922,2018,2018-07-01,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Northern Knights,bat,Leinster Lightning,"Civil Service Cricket Club, Stormont, Belfast",16,4,25,5,1,20,14,5,1,4,7,80,1,5
+1127837,2018,2018-06-30,Royal London One-Day Cup,Kent,Hampshire,Kent,field,Hampshire,"Lord'S, London",10,4,40,1,0,0,1,2,0,1,0,50,1,3
+1127836,2018,2018-06-18,Royal London One-Day Cup,Yorkshire,Hampshire,Yorkshire,field,Hampshire,"The Rose Bowl, Southampton",4,1,25,2,1,50,2,24,1,1,50,4,5,4
+1127835,2018,2018-06-17,Royal London One-Day Cup,Worcestershire,Kent,Worcestershire,bat,Kent,"County Ground, New Road, Worcester",3,1,33,3,1,33,33,3,1,2,3,66,3,1
+1127834,2018,2018-06-14,Royal London One-Day Cup,Yorkshire,Essex,Yorkshire,bat,Yorkshire,"County Ground, Chelmsford",6,3,50,5,3,60,5,38,3,2,60,5,4,3
+1127833,2018,2018-06-14,Royal London One-Day Cup,Nottinghamshire,Kent,Kent,field,Kent,"Trent Bridge, Nottingham",3,1,33,2,0,0,10,2,0,2,0,100,2,1
+1127832,2018,2018-06-07,Royal London One-Day Cup,Nottinghamshire,Derbyshire,Derbyshire,bat,Nottinghamshire,"Trent Bridge, Nottingham",6,5,83,2,2,100,10,2,2,0,20,0,3,2
+1127831,2018,2018-06-07,Royal London One-Day Cup,Leicestershire,Durham,Durham,bat,Leicestershire,"Grace Road, Leicester",6,2,33,4,2,50,12,4,2,2,16,50,4,2
+1127830,2018,2018-06-07,Royal London One-Day Cup,Yorkshire,Northamptonshire,Northamptonshire,bat,Yorkshire,"Headingley, Leeds",6,6,100,1,1,100,18,1,1,0,5,0,3,2
+1127829,2018,2018-06-07,Royal London One-Day Cup,Worcestershire,Warwickshire,Worcestershire,field,Worcestershire,"Edgbaston Foundation Community Sports Ground, Birmingham",5,2,40,2,1,50,2,4,1,1,50,25,3,5
+1127828,2018,2018-06-06,Royal London One-Day Cup,Middlesex,Gloucestershire,Gloucestershire,field,Middlesex,"County Ground, Bristol",5,3,60,2,2,100,2,21,2,0,100,0,3,3
+1127827,2018,2018-06-06,Royal London One-Day Cup,Surrey,Glamorgan,Surrey,field,Surrey,"Kennington Oval, London",4,2,50,1,1,100,22,1,1,0,4,0,2,1
+1127826,2018,2018-06-06,Royal London One-Day Cup,Kent,Essex,Kent,field,Essex,"County Ground, Chelmsford",7,2,29,4,0,0,5,38,0,4,0,10,2,4
+1127825,2018,2018-06-06,Royal London One-Day Cup,Somerset,Hampshire,Hampshire,bat,Somerset,"The Rose Bowl, Southampton",5,3,60,2,2,100,2,24,2,0,100,0,4,4
+1127824,2018,2018-06-05,Royal London One-Day Cup,Yorkshire,Lancashire,Yorkshire,bat,Yorkshire,"Old Trafford, Manchester",6,4,67,3,3,100,3,16,3,0,100,0,3,3
+1136920,2018,2018-06-04,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Northern Knights,field,Leinster Lightning,"The Vineyard, Dublin",16,4,25,1,0,0,1,2,0,1,0,50,1,5
+1127823,2018,2018-06-03,Royal London One-Day Cup,Lancashire,Derbyshire,Derbyshire,field,Lancashire,"County Ground, Derby",6,6,100,3,3,100,3,30,3,0,100,0,3,3
+1127822,2018,2018-06-03,Royal London One-Day Cup,Surrey,Middlesex,Middlesex,bat,Surrey,"Lord'S, London",6,3,50,3,2,66,5,8,2,1,40,12,3,2
+1127821,2018,2018-06-03,Royal London One-Day Cup,Hampshire,Glamorgan,Hampshire,field,Hampshire,"St Helen'S, Swansea",5,3,60,2,2,100,2,4,2,0,100,0,3,1
+1127820,2018,2018-06-03,Royal London One-Day Cup,Worcestershire,Northamptonshire,Worcestershire,bat,Worcestershire,"County Ground, New Road, Worcester",7,5,71,3,1,33,33,3,1,2,3,66,3,1
+1127819,2018,2018-06-03,Royal London One-Day Cup,Nottinghamshire,Durham,Durham,field,Nottinghamshire,"Riverside Ground, Chester-Le-Street",7,3,43,4,1,25,4,23,1,3,25,13,3,2
+1127818,2018,2018-06-03,Royal London One-Day Cup,Warwickshire,Leicestershire,Leicestershire,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",6,3,50,3,3,100,26,3,3,0,11,0,2,2
+1127817,2018,2018-06-03,Royal London One-Day Cup,Sussex,Essex,Essex,field,Essex,"The Saffrons, Eastbourne",5,1,20,1,0,0,3,1,0,1,0,100,3,3
+1127816,2018,2018-06-03,Royal London One-Day Cup,Kent,Gloucestershire,Gloucestershire,bat,Kent,"Kent County Cricket Ground, Beckenham",6,3,50,2,1,50,6,2,1,1,16,50,2,2
+1127815,2018,2018-06-01,Royal London One-Day Cup,Worcestershire,Nottinghamshire,Worcestershire,field,Nottinghamshire,"Trent Bridge, Nottingham",4,3,75,2,1,50,2,9,1,1,50,11,4,3
+1127813,2018,2018-06-01,Royal London One-Day Cup,Sussex,Glamorgan,Glamorgan,field,Glamorgan,"Sophia Gardens, Cardiff",6,1,17,2,0,0,2,19,0,2,0,10,2,0
+1127812,2018,2018-06-01,Royal London One-Day Cup,Northamptonshire,Derbyshire,Derbyshire,bat,Derbyshire,"County Ground, Northampton",9,2,22,6,2,33,19,6,2,4,10,66,2,3
+1127811,2018,2018-06-01,Royal London One-Day Cup,Warwickshire,Durham,Warwickshire,field,Warwickshire,"Riverside Ground, Chester-Le-Street",8,2,25,1,1,100,1,23,1,0,100,0,3,2
+1127810,2018,2018-06-01,Royal London One-Day Cup,Surrey,Kent,Surrey,field,Kent,"Kent County Cricket Ground, Beckenham",6,2,33,2,0,0,2,5,0,2,0,40,2,1
+1127809,2018,2018-05-31,Royal London One-Day Cup,Leicestershire,Lancashire,Lancashire,field,Lancashire,"Oakham School Ground, Oakham",6,3,50,1,0,0,1,1,0,1,0,100,4,3
+1127808,2018,2018-05-30,Royal London One-Day Cup,Yorkshire,Derbyshire,Yorkshire,field,Yorkshire,"County Ground, Derby",6,6,100,2,2,100,2,30,2,0,100,0,2,3
+1127807,2018,2018-05-30,Royal London One-Day Cup,Middlesex,Hampshire,Middlesex,bat,Hampshire,"Merchant Taylors' School Ground, Northwood",6,1,17,1,0,0,1,1,0,1,0,100,3,4
+1127805,2018,2018-05-30,Royal London One-Day Cup,Glamorgan,Essex,Essex,field,Essex,"County Ground, Chelmsford",7,3,43,3,0,0,3,38,0,3,0,7,2,2
+1127804,2018,2018-05-29,Royal London One-Day Cup,Worcestershire,Leicestershire,Leicestershire,bat,Worcestershire,"County Ground, New Road, Worcester",5,3,60,2,2,100,33,2,2,0,6,0,3,2
+1127802,2018,2018-05-29,Royal London One-Day Cup,Somerset,Kent,Kent,field,Kent,"St Lawrence Ground, Canterbury",4,1,25,2,0,0,2,14,0,2,0,14,3,1
+1136919,2018,2018-05-28,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,North-West Warriors,Northern Knights,bat,North-West Warriors,"Civil Service Cricket Club, Stormont, Belfast",12,6,50,5,1,20,14,5,1,4,7,80,1,3
+1127801,2018,2018-05-27,Royal London One-Day Cup,Warwickshire,Nottinghamshire,Warwickshire,bat,Warwickshire,"Trent Bridge, Nottingham",8,2,25,3,1,33,3,9,1,2,33,22,4,3
+1127800,2018,2018-05-27,Royal London One-Day Cup,Yorkshire,Leicestershire,Leicestershire,bat,Yorkshire,"Grace Road, Leicester",8,7,88,5,4,80,5,20,4,1,80,5,2,2
+1127799,2018,2018-05-27,Royal London One-Day Cup,Somerset,Middlesex,Middlesex,field,Somerset,"The Cooper Associates County Ground, Taunton",5,3,60,2,1,50,11,2,1,1,9,50,2,2
+1127797,2018,2018-05-27,Royal London One-Day Cup,Northamptonshire,Durham,Northamptonshire,field,Durham,"County Ground, Northampton",6,2,33,3,1,33,19,3,1,2,5,66,2,2
+1127796,2018,2018-05-27,Royal London One-Day Cup,Worcestershire,Lancashire,Worcestershire,field,Worcestershire,"County Ground, New Road, Worcester",6,4,67,3,3,100,33,3,3,0,9,0,3,3
+1127795,2018,2018-05-27,Royal London One-Day Cup,Surrey,Essex,Surrey,field,Surrey,"County Ground, Chelmsford",5,4,80,3,3,100,3,38,3,0,100,0,3,2
+1127794,2018,2018-05-27,Royal London One-Day Cup,Kent,Hampshire,Hampshire,field,Kent,"The Rose Bowl, Southampton",10,4,40,3,3,100,3,24,3,0,100,0,1,4
+1127792,2018,2018-05-25,Royal London One-Day Cup,Leicestershire,Derbyshire,Leicestershire,field,Derbyshire,"County Ground, Derby",6,2,33,2,0,0,2,30,0,2,0,6,5,3
+1127791,2018,2018-05-25,Royal London One-Day Cup,Sussex,Middlesex,Sussex,field,Middlesex,"County Ground, Hove, Brighton",7,4,57,6,3,50,27,6,3,3,11,50,2,2
+1127790,2018,2018-05-25,Royal London One-Day Cup,Worcestershire,Durham,Worcestershire,field,Durham,"Roseworth Terrace, Gosforth",6,4,67,1,0,0,1,8,0,1,0,12,4,2
+1127788,2018,2018-05-25,Royal London One-Day Cup,Somerset,Essex,Somerset,field,Essex,"County Ground, Chelmsford",3,1,33,1,0,0,1,38,0,1,0,2,2,2
+1127787,2018,2018-05-25,Royal London One-Day Cup,Kent,Glamorgan,Kent,field,Kent,"St Lawrence Ground, Canterbury",6,2,33,3,2,66,11,3,2,1,18,33,1,1
+1127785,2018,2018-05-23,Royal London One-Day Cup,Nottinghamshire,Leicestershire,Leicestershire,field,Nottinghamshire,"Grace Road, Leicester",7,6,86,4,3,75,4,20,3,1,75,5,4,2
+1127784,2018,2018-05-23,Royal London One-Day Cup,Durham,Derbyshire,Durham,bat,Derbyshire,"County Ground, Derby",5,3,60,2,0,0,2,30,0,2,0,6,2,2
+1127783,2018,2018-05-23,Royal London One-Day Cup,Middlesex,Glamorgan,Glamorgan,field,Middlesex,"Sophia Gardens, Cardiff",6,5,83,3,2,66,3,19,2,1,66,5,4,1
+1127782,2018,2018-05-23,Royal London One-Day Cup,Northamptonshire,Lancashire,Lancashire,bat,Northamptonshire,"County Ground, Northampton",6,4,67,2,2,100,19,2,2,0,10,0,2,4
+1127781,2018,2018-05-23,Royal London One-Day Cup,Surrey,Gloucestershire,Surrey,field,Surrey,"Kennington Oval, London",7,4,57,4,3,75,22,4,3,1,13,25,4,3
+1127780,2018,2018-05-23,Royal London One-Day Cup,Yorkshire,Worcestershire,Yorkshire,field,Worcestershire,"Headingley, Leeds",7,3,43,3,1,33,18,3,1,2,5,66,2,3
+1127779,2018,2018-05-23,Royal London One-Day Cup,Hampshire,Essex,Hampshire,field,Hampshire,"The Rose Bowl, Southampton",9,3,33,6,3,50,10,6,3,3,30,50,4,2
+1127778,2018,2018-05-22,Royal London One-Day Cup,Sussex,Somerset,Sussex,bat,Sussex,"The Cooper Associates County Ground, Taunton",7,4,57,3,3,100,3,7,3,0,100,0,2,0
+1127777,2018,2018-05-21,Royal London One-Day Cup,Surrey,Hampshire,Surrey,bat,Hampshire,"The Rose Bowl, Southampton",5,1,20,2,0,0,2,24,0,2,0,8,3,5
+1127776,2018,2018-05-20,Royal London One-Day Cup,Nottinghamshire,Northamptonshire,Nottinghamshire,field,Northamptonshire,"Welbeck Colliery Cricket Club Ground, Market Warsop",4,3,75,1,0,0,3,1,0,1,0,100,4,2
+1127775,2018,2018-05-20,Royal London One-Day Cup,Somerset,Glamorgan,Glamorgan,field,Somerset,"The Cooper Associates County Ground, Taunton",7,5,71,3,2,66,11,3,2,1,18,33,2,1
+1127774,2018,2018-05-20,Royal London One-Day Cup,Gloucestershire,Essex,Essex,bat,Gloucestershire,"County Ground, Bristol",4,2,50,2,1,50,7,2,1,1,14,50,4,3
+1127773,2018,2018-05-20,Royal London One-Day Cup,Middlesex,Kent,Middlesex,bat,Middlesex,"Radlett Cricket Club, Radlett",8,5,62,2,1,50,8,2,1,1,12,50,3,2
+1127772,2018,2018-05-20,Royal London One-Day Cup,Lancashire,Durham,Lancashire,bat,Lancashire,"Old Trafford, Manchester",4,3,75,1,1,100,5,1,1,0,20,0,3,1
+1127771,2018,2018-05-20,Royal London One-Day Cup,Yorkshire,Warwickshire,Yorkshire,bat,Warwickshire,"Headingley, Leeds",4,1,25,2,0,0,18,2,0,2,0,100,3,4
+1127770,2018,2018-05-19,Royal London One-Day Cup,Sussex,Hampshire,Sussex,bat,Hampshire,"County Ground, Hove, Brighton",4,0,0,2,0,0,27,2,0,2,0,100,1,5
+1127769,2018,2018-05-19,Royal London One-Day Cup,Worcestershire,Derbyshire,Worcestershire,bat,Worcestershire,"County Ground, New Road, Worcester",7,4,57,3,1,33,33,3,1,2,3,66,3,1
+1127768,2018,2018-05-18,Royal London One-Day Cup,Gloucestershire,Glamorgan,Glamorgan,bat,Gloucestershire,"Sophia Gardens, Cardiff",5,2,40,3,2,66,3,19,2,1,66,5,4,1
+1127767,2018,2018-05-18,Royal London One-Day Cup,Surrey,Somerset,Somerset,field,Somerset,"Kennington Oval, London",7,2,29,4,2,50,22,4,2,2,9,50,2,0
+1127766,2018,2018-05-18,Royal London One-Day Cup,Yorkshire,Durham,Yorkshire,bat,Yorkshire,"Riverside Ground, Chester-Le-Street",5,3,60,3,2,66,3,23,2,1,66,4,3,0
+1127765,2018,2018-05-17,Royal London One-Day Cup,Sussex,Kent,Kent,bat,Sussex,"County Ground, Hove, Brighton",6,3,50,2,1,50,27,2,1,1,3,50,2,2
+1127764,2018,2018-05-17,Royal London One-Day Cup,Middlesex,Essex,Middlesex,bat,Essex,"Radlett Cricket Club, Radlett",6,2,33,1,0,0,8,1,0,1,0,100,3,4
+1127763,2018,2018-05-17,Royal London One-Day Cup,Northamptonshire,Leicestershire,Northamptonshire,field,Leicestershire,"County Ground, Northampton",4,2,50,3,1,33,19,3,1,2,5,66,1,2
+1127762,2018,2018-05-17,Royal London One-Day Cup,Nottinghamshire,Lancashire,Nottinghamshire,bat,Nottinghamshire,"Old Trafford, Manchester",6,4,67,1,1,100,1,16,1,0,100,0,5,4
+1127761,2018,2018-05-17,Royal London One-Day Cup,Warwickshire,Derbyshire,Warwickshire,field,Derbyshire,"Edgbaston Foundation Community Sports Ground, Birmingham",5,2,40,2,1,50,26,2,1,1,3,50,4,2
+1145319,2018,2018-05-06,ICC World Cricket League Division Four,Uganda,Jersey,Jersey,field,Uganda,"Ukm-Ysd Cricket Oval, Bangi",3,1,33,1,1,100,2,2,1,0,50,0,4,3
+1145318,2018,2018-05-06,ICC World Cricket League Division Four,Malaysia,Bermuda,Malaysia,bat,Malaysia,"Kinrara Academy Oval, Kuala Lumpur",1,1,100,1,1,100,5,1,1,0,20,0,0,0
+1144333,2018,2018-05-05,ICC World Cricket League Division Four,Vanuatu,Denmark,Denmark,bat,Vanuatu,"Kinrara Academy Oval, Kuala Lumpur",4,1,25,2,1,50,3,4,1,1,33,25,2,2
+1144332,2018,2018-05-03,ICC World Cricket League Division Four,Bermuda,Vanuatu,Bermuda,bat,Vanuatu,"Ukm-Ysd Cricket Oval, Bangi",1,0,0,1,0,0,1,1,0,1,0,100,0,1
+1144331,2018,2018-05-03,ICC World Cricket League Division Four,Malaysia,Jersey,Jersey,bat,Jersey,"Royal Selangor Club, Kuala Lumpur",2,1,50,1,0,0,1,1,0,1,0,100,0,3
+1144330,2018,2018-05-03,ICC World Cricket League Division Four,Uganda,Denmark,Denmark,field,Uganda,"Kinrara Academy Oval, Kuala Lumpur",2,2,100,1,1,100,5,4,1,0,20,0,4,3
+1144329,2018,2018-05-02,ICC World Cricket League Division Four,Malaysia,Denmark,Denmark,bat,Denmark,"Ukm Cricket Oval, Bandar Kinrara",5,3,60,1,0,0,1,1,0,1,0,100,1,4
+1144328,2018,2018-05-02,ICC World Cricket League Division Four,Uganda,Vanuatu,Vanuatu,field,Uganda,"Royal Selangor Club, Kuala Lumpur",1,1,100,1,1,100,1,1,1,0,100,0,3,1
+1144326,2018,2018-04-30,ICC World Cricket League Division Four,Uganda,Bermuda,Bermuda,field,Uganda,"Ukm-Ysd Cricket Oval, Bangi",3,3,100,1,1,100,2,1,1,0,50,0,3,1
+1144325,2018,2018-04-30,ICC World Cricket League Division Four,Jersey,Denmark,Denmark,field,Denmark,"Royal Selangor Club, Kuala Lumpur",2,0,0,1,0,0,1,1,0,1,0,100,4,4
+1144324,2018,2018-04-30,ICC World Cricket League Division Four,Vanuatu,Malaysia,Vanuatu,field,Malaysia,"Kinrara Academy Oval, Kuala Lumpur",3,1,33,1,0,0,3,6,0,1,0,16,1,1
+1144323,2018,2018-04-29,ICC World Cricket League Division Four,Vanuatu,Jersey,Jersey,field,Jersey,"Ukm-Ysd Cricket Oval, Bangi",3,0,0,1,0,0,3,2,0,1,0,50,1,4
+1144322,2018,2018-04-29,ICC World Cricket League Division Four,Denmark,Bermuda,Denmark,field,Denmark,"Royal Selangor Club, Kuala Lumpur",3,2,67,1,1,100,1,1,1,0,100,0,4,2
+1144321,2018,2018-04-29,ICC World Cricket League Division Four,Uganda,Malaysia,Malaysia,bat,Malaysia,"Kinrara Academy Oval, Kuala Lumpur",3,1,33,1,0,0,5,6,0,1,0,16,3,2
+1133024,2018,2018-03-17,ICC Cricket World Cup Qualifier,Netherlands,Nepal,Netherlands,bat,Netherlands,"Kwekwe Sports Club, Kwekwe",3,2,67,1,1,100,2,1,1,0,50,0,2,2
+1133021,2018,2018-03-15,ICC Cricket World Cup Qualifier,Netherlands,Hong Kong,Netherlands,bat,Netherlands,"Kwekwe Sports Club, Kwekwe",3,3,100,1,1,100,2,1,1,0,50,0,1,1
+1133020,2018,2018-03-15,ICC Cricket World Cup Qualifier,Papua New Guinea,Nepal,Nepal,field,Nepal,"Old Hararians Sports Club, Harare",3,2,67,1,0,0,2,1,0,1,0,100,2,1
+1133016,2018,2018-03-12,ICC Cricket World Cup Qualifier,Nepal,Hong Kong,Hong Kong,bat,Nepal,"Bulawayo Athletic Club, Bulawayo",3,2,67,1,1,100,2,1,1,0,50,0,2,1
+1133014,2018,2018-03-12,ICC Cricket World Cup Qualifier,West Indies,Netherlands,Netherlands,field,West Indies,"Harare Sports Club, Harare",1,1,100,1,1,100,1,2,1,0,100,0,0,2
+1133013,2018,2018-03-10,ICC Cricket World Cup Qualifier,Nepal,Afghanistan,Nepal,bat,Afghanistan,"Bulawayo Athletic Club, Bulawayo",2,0,0,1,0,0,2,1,0,1,0,100,1,4
+1133011,2018,2018-03-10,ICC Cricket World Cup Qualifier,Papua New Guinea,Netherlands,Papua New Guinea,field,Netherlands,"Old Hararians Sports Club, Harare",2,0,0,1,0,0,2,2,0,1,0,50,3,1
+1133008,2018,2018-03-08,ICC Cricket World Cup Qualifier,Scotland,Nepal,Nepal,bat,Scotland,"Queens Sports Club, Bulawayo",1,1,100,1,1,100,1,2,1,0,100,0,3,1
+1133006,2018,2018-03-08,ICC Cricket World Cup Qualifier,United Arab Emirates,Netherlands,Netherlands,bat,United Arab Emirates,"Harare Sports Club, Harare",3,1,33,1,1,100,1,2,1,0,100,0,3,2
+1133000,2018,2018-03-04,ICC Cricket World Cup Qualifier,Zimbabwe,Nepal,Zimbabwe,bat,Zimbabwe,"Queens Sports Club, Bulawayo",1,1,100,1,1,100,1,2,1,0,100,0,0,2
+1132999,2018,2018-03-04,ICC Cricket World Cup Qualifier,Ireland,Netherlands,Netherlands,field,Ireland,"Old Hararians Sports Club, Harare",1,1,100,1,1,100,1,2,1,0,100,0,2,2
+1133946,2018,2018-02-15,ICC World Cricket League Division Two,United Arab Emirates,Nepal,United Arab Emirates,bat,United Arab Emirates,"Wanderers Cricket Ground, Windhoek",5,3,60,1,1,100,3,1,1,0,33,0,3,3
+1133945,2018,2018-02-15,ICC World Cricket League Division Two,Namibia,Canada,Canada,bat,Canada,"Affies Park, Windhoek",6,4,67,1,0,0,2,6,0,1,0,16,2,3
+1133944,2018,2018-02-15,ICC World Cricket League Division Two,Oman,Kenya,Oman,field,Oman,"United Cricket Club Ground, Windhoek",3,3,100,2,2,100,3,6,2,0,66,0,5,3
+1133943,2018,2018-02-14,ICC World Cricket League Division Two,Oman,Kenya,Oman,field,Oman,"United Cricket Club Ground, Windhoek",3,3,100,2,2,100,3,6,2,0,66,0,5,3
+1133942,2018,2018-02-14,ICC World Cricket League Division Two,United Arab Emirates,Namibia,Namibia,field,United Arab Emirates,"Affies Park, Windhoek",4,4,100,1,1,100,2,3,1,0,50,0,3,2
+1133941,2018,2018-02-14,ICC World Cricket League Division Two,Nepal,Canada,Nepal,field,Nepal,"Wanderers Cricket Ground, Windhoek",2,2,100,2,2,100,3,5,2,0,66,0,1,3
+1136314,2018,2018-02-13,ICC World Cricket League Division Two,Namibia,Kenya,Kenya,bat,Namibia,"United Cricket Club Ground, Windhoek",6,3,50,3,2,66,6,6,2,1,33,16,2,3
+1133940,2018,2018-02-12,ICC World Cricket League Division Two,Namibia,Canada,Canada,field,Namibia,"United Cricket Club Ground, Windhoek",6,4,67,3,3,100,6,6,3,0,50,0,3,3
+1133939,2018,2018-02-12,ICC World Cricket League Division Two,United Arab Emirates,Oman,United Arab Emirates,bat,United Arab Emirates,"Affies Park, Windhoek",1,1,100,1,1,100,2,1,1,0,50,0,3,5
+1133938,2018,2018-02-12,ICC World Cricket League Division Two,Nepal,Kenya,Nepal,field,Nepal,"Wanderers Cricket Ground, Windhoek",5,2,40,1,1,100,3,5,1,0,33,0,2,2
+1133937,2018,2018-02-11,ICC World Cricket League Division Two,United Arab Emirates,Nepal,Nepal,field,Nepal,"United Cricket Club Ground, Windhoek",5,3,60,1,0,0,1,2,0,1,0,50,4,3
+1133936,2018,2018-02-11,ICC World Cricket League Division Two,Kenya,Canada,Kenya,field,Canada,"Affies Park, Windhoek",2,0,0,2,0,0,2,6,0,2,0,33,2,3
+1133935,2018,2018-02-11,ICC World Cricket League Division Two,Oman,Namibia,Namibia,field,Namibia,"Wanderers Cricket Ground, Windhoek",2,1,50,1,0,0,2,10,0,1,0,10,4,3
+1133933,2018,2018-02-09,ICC World Cricket League Division Two,Oman,Nepal,Oman,field,Oman,"Affies Park, Windhoek",2,2,100,1,1,100,3,2,1,0,33,0,3,3
+1133932,2018,2018-02-09,ICC World Cricket League Division Two,Canada,United Arab Emirates,United Arab Emirates,field,Canada,"Wanderers Cricket Ground, Windhoek",1,1,100,1,1,100,2,1,1,0,50,0,5,3
+1133931,2018,2018-02-08,ICC World Cricket League Division Two,Oman,Canada,Canada,field,Canada,"United Cricket Club Ground, Windhoek",3,1,33,1,0,0,3,6,0,1,0,16,3,3
+1133929,2018,2018-02-08,ICC World Cricket League Division Two,United Arab Emirates,Kenya,Kenya,field,United Arab Emirates,"Wanderers Cricket Ground, Windhoek",4,2,50,1,1,100,3,5,1,0,33,0,4,2
+1124088,2017,2017-12-08,ICC World Cricket League Championship,United Arab Emirates,Nepal,Nepal,field,United Arab Emirates,"Sheikh Zayed Stadium, Abu Dhabi",5,3,60,2,2,100,4,4,2,0,50,0,3,2
+1124086,2017,2017-12-08,ICC World Cricket League Championship,Scotland,Kenya,Kenya,field,Scotland,"Dubai International Cricket Stadium, Dubai",2,2,100,2,2,100,2,2,2,0,100,0,2,1
+1124087,2017,2017-12-06,ICC World Cricket League Championship,United Arab Emirates,Nepal,United Arab Emirates,field,United Arab Emirates,"Sheikh Zayed Stadium, Abu Dhabi",5,3,60,2,2,100,4,4,2,0,50,0,2,1
+1124085,2017,2017-12-06,ICC World Cricket League Championship,Scotland,Kenya,Scotland,field,Scotland,"Dubai International Cricket Stadium, Dubai",2,2,100,2,2,100,2,2,2,0,100,0,2,0
+1105009,2017,2017-10-13,ICC World Cricket League Championship,Nepal,Hong Kong,Nepal,field,Hong Kong,"Mission Road Ground, Mong Kok, Hong Kong, Mong Kok",3,2,67,1,0,0,1,3,0,1,0,33,3,1
+1105008,2017,2017-10-08,ICC World Cricket League Championship,Netherlands,Kenya,Kenya,field,Kenya,"Buffalo Park, East London",2,1,50,2,1,50,2,2,1,1,50,50,2,0
+1105007,2017,2017-10-06,ICC World Cricket League Championship,Netherlands,Kenya,Netherlands,field,Netherlands,"Buffalo Park, East London",2,1,50,2,1,50,2,2,1,1,50,50,2,0
+1105002,2017,2017-09-21,ICC World Cricket League Championship,United Arab Emirates,Namibia,United Arab Emirates,field,United Arab Emirates,"Wanderers Cricket Ground, Windhoek",4,4,100,1,1,100,3,10,1,0,33,0,2,3
+1089610,2017,2017-09-10,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Northern Knights,field,Leinster Lightning,"Observatory Lane, Rathmines, Dublin",16,4,25,2,0,0,2,3,0,2,0,66,1,5
+1118468,2017,2017-09-09,ICC World Cricket League Division Five,Vanuatu,Jersey,Vanuatu,field,Jersey,"Willowmoore Park, Benoni",3,0,0,1,0,0,1,2,0,1,0,50,2,4
+1118466,2017,2017-09-09,ICC World Cricket League Division Five,Guernsey,Germany,Guernsey,bat,Germany,"Willowmoore Park B Field, Benoni",1,0,0,1,0,0,1,1,0,1,0,100,2,2
+1118464,2017,2017-09-07,ICC World Cricket League Division Five,Qatar,Jersey,Jersey,field,Jersey,"Willowmoore Park C Field, Benoni",1,0,0,1,0,0,2,1,0,1,0,100,3,5
+1118463,2017,2017-09-07,ICC World Cricket League Division Five,Italy,Vanuatu,Vanuatu,field,Vanuatu,"Willowmoore Park B Field, Benoni",1,0,0,1,0,0,1,1,0,1,0,100,1,1
+1118462,2017,2017-09-07,ICC World Cricket League Division Five,Guernsey,Ghana,Ghana,field,Guernsey,"Willowmoore Park, Benoni",1,1,100,1,1,100,2,2,1,0,50,0,1,4
+1118461,2017,2017-09-07,ICC World Cricket League Division Five,Cayman Islands,Germany,Cayman Islands,bat,Germany,"Willowmoore Park A Field, Benoni",1,0,0,1,0,0,1,1,0,1,0,100,0,1
+1118460,2017,2017-09-06,ICC World Cricket League Division Five,Germany,Vanuatu,Vanuatu,field,Vanuatu,"Willowmoore Park C Field, Benoni",1,0,0,1,0,0,1,1,0,1,0,100,2,1
+1118459,2017,2017-09-06,ICC World Cricket League Division Five,Jersey,Ghana,Ghana,field,Jersey,"Willowmoore Park B Field, Benoni",1,1,100,1,1,100,1,1,1,0,100,0,4,5
+1118458,2017,2017-09-06,ICC World Cricket League Division Five,Italy,Cayman Islands,Italy,bat,Italy,"Willowmoore Park A Field, Benoni",1,1,100,1,1,100,2,1,1,0,50,0,1,0
+1118457,2017,2017-09-06,ICC World Cricket League Division Five,Guernsey,Qatar,Qatar,field,Qatar,"Willowmoore Park, Benoni",1,0,0,1,0,0,2,1,0,1,0,100,2,1
+1118456,2017,2017-09-04,ICC World Cricket League Division Five,Qatar,Italy,Italy,field,Italy,"Willowmoore Park C Field, Benoni",1,0,0,1,0,0,2,1,0,1,0,100,3,4
+1118454,2017,2017-09-04,ICC World Cricket League Division Five,Vanuatu,Ghana,Vanuatu,bat,Ghana,"Willowmoore Park A Field, Benoni",3,2,67,1,0,0,1,1,0,1,0,100,2,5
+1118453,2017,2017-09-04,ICC World Cricket League Division Five,Germany,Jersey,Jersey,field,Jersey,"Willowmoore Park, Benoni",1,0,0,1,0,0,1,2,0,1,0,50,1,5
+1118451,2017,2017-09-03,ICC World Cricket League Division Five,Vanuatu,Jersey,Jersey,field,Jersey,"Willowmoore Park B Field, Benoni",3,0,0,1,0,0,1,1,0,1,0,100,2,5
+1118450,2017,2017-09-03,ICC World Cricket League Division Five,Italy,Guernsey,Italy,bat,Italy,"Willowmoore Park A Field, Benoni",1,1,100,1,1,100,2,1,1,0,50,0,0,2
+1118449,2017,2017-09-03,ICC World Cricket League Division Five,Qatar,Cayman Islands,Cayman Islands,field,Qatar,"Willowmoore Park, Benoni",1,1,100,1,1,100,1,1,1,0,100,0,3,0
+1089609,2017,2017-08-06,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,North-West Warriors,Northern Knights,bat,North-West Warriors,"The Lawn, Waringstown",12,6,50,2,1,50,2,2,1,1,50,50,1,3
+1089608,2017,2017-07-02,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Leinster Lightning,Leinster Lightning,bat,Leinster Lightning,"Bready Cricket Club, Magheramason, Londonderry",12,0,0,4,0,0,5,4,0,4,0,100,1,4
+1068506,2017,2017-07-01,Royal London One-Day Cup,Surrey,Nottinghamshire,Surrey,bat,Nottinghamshire,"Lord'S, London",5,3,60,1,0,0,5,1,0,1,0,100,2,3
+1068505,2017,2017-06-17,Royal London One-Day Cup,Worcestershire,Surrey,Surrey,bat,Surrey,"County Ground, New Road, Worcester",2,0,0,1,0,0,33,1,0,1,0,100,3,1
+1068504,2017,2017-06-16,Royal London One-Day Cup,Nottinghamshire,Essex,Essex,bat,Nottinghamshire,"County Ground, Chelmsford",3,3,100,3,3,100,3,38,3,0,100,0,4,4
+1068740,2017,2017-06-13,ICC World Cricket League Championship,Scotland,Namibia,Namibia,bat,Namibia,"Grange Cricket Club, Raeburn Place, Edinburgh",3,2,67,2,1,50,2,2,1,1,50,50,2,3
+1068503,2017,2017-06-13,Royal London One-Day Cup,Yorkshire,Surrey,Surrey,bat,Surrey,"Headingley, Leeds",5,1,20,2,0,0,18,2,0,2,0,100,3,1
+1068502,2017,2017-06-13,Royal London One-Day Cup,Somerset,Nottinghamshire,Somerset,field,Nottinghamshire,"County Ground, Taunton",3,1,33,1,0,0,12,1,0,1,0,100,3,3
+1101737,2017,2017-06-12,ICC World Cricket League Europe Region Division One,Austria,Sweden,Sweden,field,Austria,"Vra Cricket Ground, Amstelveen",1,1,100,1,1,100,1,1,1,0,100,0,0,0
+1068739,2017,2017-06-12,ICC World Cricket League Championship,Scotland,Namibia,Namibia,field,Scotland,"Grange Cricket Club, Raeburn Place, Edinburgh",3,2,67,2,1,50,2,2,1,1,50,50,1,4
+1101732,2017,2017-06-10,ICC World Cricket League Europe Region Division One,Norway,Belgium,Norway,bat,Norway,"Sportpark Duivesteijn, Voorburg",1,1,100,1,1,100,1,1,1,0,100,0,1,0
+1101729,2017,2017-06-09,ICC World Cricket League Europe Region Division One,France,Germany,Germany,field,Germany,"Sportpark Duivesteijn, Voorburg",1,0,0,1,0,0,1,1,0,1,0,100,0,1
+1090950,2017,2017-05-29,ICC World Cricket League Division Three,Singapore,Canada,Canada,field,Singapore,"Kyambogo Cricket Ground, Kampala",4,2,50,1,1,100,1,1,1,0,100,0,2,2
+1090948,2017,2017-05-27,ICC World Cricket League Division Three,Singapore,Oman,Oman,field,Oman,"Entebbe Cricket Oval, Entebbe",3,1,33,1,0,0,1,1,0,1,0,100,3,5
+1090946,2017,2017-05-27,ICC World Cricket League Division Three,Uganda,Malaysia,Uganda,field,Uganda,"Lugogo Cricket Oval, Kampala",3,1,33,1,1,100,4,1,1,0,25,0,3,2
+1090945,2017,2017-05-26,ICC World Cricket League Division Three,Malaysia,Canada,Malaysia,field,Malaysia,"Entebbe Cricket Oval, Entebbe",4,1,25,1,1,100,1,1,1,0,100,0,2,1
+1090944,2017,2017-05-26,ICC World Cricket League Division Three,Uganda,Oman,Uganda,bat,Oman,"Kyambogo Cricket Ground, Kampala",3,0,0,1,0,0,3,1,0,1,0,100,2,4
+1090943,2017,2017-05-26,ICC World Cricket League Division Three,United States Of America,Singapore,United States of America,bat,Singapore,"Lugogo Cricket Oval, Kampala",4,2,50,1,0,0,1,1,0,1,0,100,2,4
+1090942,2017,2017-05-24,ICC World Cricket League Division Three,Uganda,Singapore,Singapore,field,Uganda,"Entebbe Cricket Oval, Entebbe",3,2,67,1,1,100,1,1,1,0,100,0,2,4
+1090940,2017,2017-05-24,ICC World Cricket League Division Three,Oman,Canada,Oman,field,Canada,"Lugogo Cricket Oval, Kampala",3,1,33,1,0,0,1,1,0,1,0,100,2,2
+1068499,2017,2017-05-17,Royal London One-Day Cup,Kent,Essex,Kent,field,Essex,"St Lawrence Ground, Canterbury",7,2,29,2,1,50,11,2,1,1,9,50,1,4
+1068497,2017,2017-05-16,Royal London One-Day Cup,Lancashire,Durham,Durham,field,Lancashire,"Riverside Ground, Chester-Le-Street",4,3,75,1,1,100,1,23,1,0,100,0,3,1
+1068496,2017,2017-05-16,Royal London One-Day Cup,Yorkshire,Leicestershire,Leicestershire,field,Yorkshire,"Headingley, Leeds",8,7,88,3,3,100,18,3,3,0,16,0,3,1
+1068495,2017,2017-05-16,Royal London One-Day Cup,Worcestershire,Derbyshire,Worcestershire,field,Worcestershire,"County Ground, Derby",7,4,57,4,3,75,4,30,3,1,75,3,4,1
+1068493,2017,2017-05-14,Royal London One-Day Cup,Somerset,Essex,Somerset,field,Essex,"County Ground, Taunton",3,1,33,1,0,0,12,1,0,1,0,100,4,4
+1068492,2017,2017-05-14,Royal London One-Day Cup,Kent,Glamorgan,Kent,field,Glamorgan,"St Helen'S, Swansea",6,2,33,1,0,0,1,4,0,1,0,25,1,1
+1068491,2017,2017-05-14,Royal London One-Day Cup,Leicestershire,Derbyshire,Leicestershire,field,Leicestershire,"Grace Road, Leicester",6,2,33,4,2,50,12,4,2,2,16,50,4,1
+1068490,2017,2017-05-14,Royal London One-Day Cup,Nottinghamshire,Lancashire,Lancashire,bat,Nottinghamshire,"Trent Bridge, Nottingham",6,4,67,2,2,100,10,2,2,0,20,0,4,5
+1068489,2017,2017-05-14,Royal London One-Day Cup,Surrey,Hampshire,Hampshire,bat,Surrey,"Kennington Oval, London",5,1,20,2,1,50,22,2,1,1,4,50,2,4
+1068488,2017,2017-05-14,Royal London One-Day Cup,Sussex,Gloucestershire,Gloucestershire,field,Gloucestershire,"The Saffrons, Eastbourne",6,1,17,2,0,0,3,2,0,2,0,100,2,2
+1068487,2017,2017-05-14,Royal London One-Day Cup,Worcestershire,Durham,Durham,field,Worcestershire,"County Ground, New Road, Worcester",6,4,67,3,2,66,33,3,2,1,6,33,4,2
+1068486,2017,2017-05-14,Royal London One-Day Cup,Yorkshire,Warwickshire,Yorkshire,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",4,1,25,1,0,0,1,4,0,1,0,25,4,4
+1068484,2017,2017-05-12,Royal London One-Day Cup,Middlesex,Essex,Essex,field,Essex,"County Ground, Chelmsford",6,2,33,4,1,25,4,38,1,3,25,7,3,4
+1068483,2017,2017-05-12,Royal London One-Day Cup,Somerset,Gloucestershire,Somerset,bat,Somerset,"County Ground, Bristol",6,2,33,5,1,20,5,21,1,4,20,19,4,2
+1068482,2017,2017-05-12,Royal London One-Day Cup,Worcestershire,Warwickshire,Worcestershire,field,Worcestershire,"County Ground, New Road, Worcester",5,2,40,3,1,33,33,3,1,2,3,66,3,3
+1068481,2017,2017-05-12,Royal London One-Day Cup,Surrey,Kent,Kent,field,Surrey,"Kennington Oval, London",6,2,33,4,2,50,22,4,2,2,9,50,2,2
+1068480,2017,2017-05-12,Royal London One-Day Cup,Hampshire,Glamorgan,Glamorgan,field,Glamorgan,"The Rose Bowl, Southampton",5,3,60,2,1,50,10,2,1,1,10,50,4,0
+1068479,2017,2017-05-12,Royal London One-Day Cup,Lancashire,Derbyshire,Lancashire,field,Lancashire,"Stanley Park, Blackpool",6,6,100,1,1,100,2,1,1,0,50,0,3,2
+1068478,2017,2017-05-11,Royal London One-Day Cup,Nottinghamshire,Durham,Durham,field,Durham,"Trent Bridge, Nottingham",7,3,43,2,1,50,10,3,1,1,10,33,4,3
+1068477,2017,2017-05-10,Royal London One-Day Cup,Middlesex,Glamorgan,Middlesex,bat,Middlesex,"Radlett Cricket Club, Radlett",6,5,83,1,1,100,8,1,1,0,12,0,4,1
+1068476,2017,2017-05-10,Royal London One-Day Cup,Sussex,Essex,Sussex,field,Essex,"County Ground, Chelmsford",5,1,20,3,1,33,3,38,1,2,33,5,2,4
+1068475,2017,2017-05-10,Royal London One-Day Cup,Worcestershire,Lancashire,Lancashire,bat,Lancashire,"Old Trafford, Manchester",6,4,67,3,1,33,3,16,1,2,33,12,4,4
+1068474,2017,2017-05-10,Royal London One-Day Cup,Warwickshire,Derbyshire,Derbyshire,field,Derbyshire,"County Ground, Derby",5,2,40,3,1,33,3,30,1,2,33,6,4,2
+1068473,2017,2017-05-10,Royal London One-Day Cup,Yorkshire,Northamptonshire,Northamptonshire,field,Yorkshire,"County Ground, Northampton",6,6,100,3,3,100,3,14,3,0,100,0,4,2
+1068472,2017,2017-05-10,Royal London One-Day Cup,Somerset,Hampshire,Hampshire,field,Hampshire,"County Ground, Taunton",5,3,60,1,0,0,12,1,0,1,0,100,4,4
+1068471,2017,2017-05-10,Royal London One-Day Cup,Kent,Gloucestershire,Kent,field,Gloucestershire,"County Ground, Bristol",6,3,50,2,0,0,2,21,0,2,0,9,2,1
+1068470,2017,2017-05-07,Royal London One-Day Cup,Hampshire,Gloucestershire,Gloucestershire,bat,Hampshire,"The Rose Bowl, Southampton",6,2,33,2,2,100,10,2,2,0,20,0,4,2
+1068469,2017,2017-05-07,Royal London One-Day Cup,Northamptonshire,Durham,Northamptonshire,field,Durham,"Riverside Ground, Chester-Le-Street",6,2,33,3,1,33,3,23,1,2,33,8,1,3
+1068468,2017,2017-05-07,Royal London One-Day Cup,Glamorgan,Essex,Glamorgan,bat,Glamorgan,"Sophia Gardens, Cardiff",7,3,43,4,3,75,5,4,3,1,60,25,1,3
+1068467,2017,2017-05-07,Royal London One-Day Cup,Middlesex,Kent,Middlesex,field,Kent,"St Lawrence Ground, Canterbury",8,5,62,3,2,66,3,14,2,1,66,7,3,2
+1068466,2017,2017-05-07,Royal London One-Day Cup,Nottinghamshire,Leicestershire,Nottinghamshire,field,Nottinghamshire,"Welbeck Colliery Cricket Club Ground, Market Warsop",7,6,86,1,1,100,3,1,1,0,33,0,4,1
+1068465,2017,2017-05-07,Royal London One-Day Cup,Sussex,Surrey,Surrey,field,Sussex,"County Ground, Hove, Brighton",5,4,80,3,3,100,27,3,3,0,11,0,2,2
+1068464,2017,2017-05-07,Royal London One-Day Cup,Yorkshire,Derbyshire,Derbyshire,field,Yorkshire,"Headingley, Leeds",6,6,100,1,1,100,18,1,1,0,5,0,3,1
+1068463,2017,2017-05-07,Royal London One-Day Cup,Warwickshire,Lancashire,Warwickshire,field,Lancashire,"Edgbaston Foundation Community Sports Ground, Birmingham",4,2,50,2,1,50,26,2,1,1,3,50,3,3
+1068462,2017,2017-05-05,Royal London One-Day Cup,Somerset,Glamorgan,Glamorgan,field,Somerset,"Sophia Gardens, Cardiff",7,5,71,2,2,100,2,19,2,0,100,0,3,2
+1068461,2017,2017-05-05,Royal London One-Day Cup,Sussex,Kent,Sussex,field,Sussex,"St Lawrence Ground, Canterbury",6,3,50,3,1,33,3,14,1,2,33,14,3,1
+1068460,2017,2017-05-05,Royal London One-Day Cup,Northamptonshire,Lancashire,Northamptonshire,field,Northamptonshire,"Aigburth, Liverpool",6,4,67,1,1,100,1,2,1,0,100,0,2,2
+1068459,2017,2017-05-05,Royal London One-Day Cup,Yorkshire,Worcestershire,Yorkshire,field,Worcestershire,"County Ground, New Road, Worcester",7,3,43,3,1,33,3,4,1,2,33,50,4,3
+1068458,2017,2017-05-05,Royal London One-Day Cup,Surrey,Middlesex,Surrey,field,Surrey,"Kennington Oval, London",6,3,50,2,1,50,22,2,1,1,4,50,3,2
+1068457,2017,2017-05-05,Royal London One-Day Cup,Warwickshire,Nottinghamshire,Nottinghamshire,bat,Nottinghamshire,"Edgbaston Foundation Community Sports Ground, Birmingham",8,2,25,3,0,0,26,3,0,3,0,100,2,2
+1068456,2017,2017-05-05,Royal London One-Day Cup,Leicestershire,Durham,Durham,field,Durham,"Roseworth Terrace, Gosforth",6,2,33,1,0,0,1,8,0,1,0,12,3,4
+1068455,2017,2017-05-04,Royal London One-Day Cup,Gloucestershire,Essex,Gloucestershire,field,Essex,"County Ground, Chelmsford",4,2,50,2,1,50,2,38,1,1,50,2,4,3
+1068454,2017,2017-05-03,Royal London One-Day Cup,Yorkshire,Durham,Durham,bat,Yorkshire,"Headingley, Leeds",5,3,60,2,1,50,18,2,1,1,5,50,3,4
+1068452,2017,2017-05-03,Royal London One-Day Cup,Middlesex,Hampshire,Hampshire,field,Middlesex,"The Rose Bowl, Southampton",6,1,17,4,1,25,4,24,1,3,25,12,3,4
+1068451,2017,2017-05-02,Royal London One-Day Cup,Nottinghamshire,Derbyshire,Derbyshire,bat,Nottinghamshire,"County Ground, Derby",6,5,83,3,2,66,3,30,2,1,66,3,3,1
+1068450,2017,2017-05-02,Royal London One-Day Cup,Sussex,Glamorgan,Sussex,bat,Sussex,"County Ground, Hove, Brighton",6,1,17,4,1,25,27,4,1,3,3,75,3,2
+1068449,2017,2017-05-02,Royal London One-Day Cup,Surrey,Essex,Surrey,bat,Essex,"Kennington Oval, London",5,4,80,2,1,50,22,2,1,1,4,50,4,3
+1068448,2017,2017-05-02,Royal London One-Day Cup,Somerset,Kent,Kent,bat,Somerset,"County Ground, Taunton",4,1,25,2,1,50,12,2,1,1,8,50,2,1
+1068447,2017,2017-05-02,Royal London One-Day Cup,Warwickshire,Leicestershire,Leicestershire,bat,Leicestershire,"Grace Road, Leicester",6,3,50,3,0,0,3,20,0,3,0,15,1,1
+1089605,2017,2017-05-01,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Leinster Lightning,Leinster Lightning,bat,Leinster Lightning,"The Vineyard, Dublin",12,0,0,1,0,0,1,2,0,1,0,50,1,3
+1089490,2017,2017-05-01,ICC World Cricket League Asia Region Division One,Bhutan,Bahrain,Bhutan,field,Bahrain,"Royal Chiangmai Golf Club, Chiang Mai",2,0,0,1,0,0,1,3,0,1,0,33,0,3
+1089489,2017,2017-05-01,ICC World Cricket League Asia Region Division One,Kuwait,Thailand,Kuwait,bat,Thailand,"Gymkhana Club, Chiang Mai",1,0,0,1,0,0,2,1,0,1,0,100,4,1
+1068446,2017,2017-05-01,Royal London One-Day Cup,Yorkshire,Lancashire,Lancashire,field,Yorkshire,"Headingley, Leeds",6,4,67,2,1,50,18,2,1,1,5,50,2,2
+1068445,2017,2017-05-01,Royal London One-Day Cup,Warwickshire,Durham,Warwickshire,field,Durham,"Edgbaston Foundation Community Sports Ground, Birmingham",8,2,25,3,0,0,26,3,0,3,0,100,1,4
+1068444,2017,2017-04-30,Royal London One-Day Cup,Sussex,Somerset,Sussex,field,Somerset,"County Ground, Hove, Brighton",7,4,57,2,0,0,27,2,0,2,0,100,3,0
+1068443,2017,2017-04-30,Royal London One-Day Cup,Middlesex,Gloucestershire,Middlesex,bat,Gloucestershire,"Lord'S, London",5,3,60,2,1,50,8,3,1,1,12,33,2,2
+1068442,2017,2017-04-30,Royal London One-Day Cup,Worcestershire,Leicestershire,Leicestershire,field,Worcestershire,"Grace Road, Leicester",5,3,60,3,1,33,3,20,1,2,33,10,4,1
+1068441,2017,2017-04-30,Royal London One-Day Cup,Surrey,Glamorgan,Surrey,field,Surrey,"Sophia Gardens, Cardiff",4,2,50,2,1,50,2,19,1,1,50,5,4,3
+1068440,2017,2017-04-30,Royal London One-Day Cup,Hampshire,Essex,Hampshire,field,Essex,"County Ground, Chelmsford",9,3,33,3,0,0,3,38,0,3,0,7,5,2
+1068439,2017,2017-04-30,Royal London One-Day Cup,Northamptonshire,Derbyshire,Derbyshire,field,Derbyshire,"County Ground, Derby",9,2,22,3,0,0,3,30,0,3,0,10,1,2
+1089487,2017,2017-04-29,ICC World Cricket League Asia Region Division One,Thailand,Saudi Arabia,Saudi Arabia,field,Saudi Arabia,"Royal Chiangmai Golf Club, Chiang Mai",1,0,0,1,0,0,1,1,0,1,0,100,1,4
+1089486,2017,2017-04-29,ICC World Cricket League Asia Region Division One,Kuwait,Bhutan,Bhutan,field,Kuwait,"Gymkhana Club, Chiang Mai",2,2,100,1,1,100,2,1,1,0,50,0,4,0
+1089485,2017,2017-04-29,ICC World Cricket League Asia Region Division One,China,Bahrain,Bahrain,field,Bahrain,"Prem Tinsulanonda International School, Chiang Mai",1,0,0,1,0,0,1,1,0,1,0,100,0,3
+1068438,2017,2017-04-29,Royal London One-Day Cup,Yorkshire,Nottinghamshire,Yorkshire,field,Yorkshire,"Trent Bridge, Nottingham",3,2,67,2,1,50,2,9,1,1,50,11,2,2
+1089484,2017,2017-04-28,ICC World Cricket League Asia Region Division One,Kuwait,Bahrain,Kuwait,bat,Kuwait,"Royal Chiangmai Golf Club, Chiang Mai",1,1,100,1,1,100,1,3,1,0,100,0,3,3
+1089483,2017,2017-04-28,ICC World Cricket League Asia Region Division One,Qatar,China,China,field,Qatar,"Gymkhana Club, Chiang Mai",1,1,100,1,1,100,1,1,1,0,100,0,3,0
+1089482,2017,2017-04-28,ICC World Cricket League Asia Region Division One,Saudi Arabia,Bhutan,Bhutan,bat,Saudi Arabia,"Prem Tinsulanonda International School, Chiang Mai",2,2,100,1,1,100,1,1,1,0,100,0,4,0
+1068437,2017,2017-04-28,Royal London One-Day Cup,Surrey,Somerset,Somerset,field,Somerset,"County Ground, Taunton",7,2,29,2,0,0,2,6,0,2,0,33,4,1
+1068436,2017,2017-04-28,Royal London One-Day Cup,Leicestershire,Lancashire,Lancashire,bat,Leicestershire,"Old Trafford, Manchester",6,3,50,4,2,50,4,16,2,2,50,12,2,2
+1068434,2017,2017-04-27,Royal London One-Day Cup,Kent,Hampshire,Hampshire,field,Hampshire,"St Lawrence Ground, Canterbury",10,4,40,3,1,33,11,3,1,2,9,66,2,3
+1068433,2017,2017-04-27,Royal London One-Day Cup,Gloucestershire,Glamorgan,Gloucestershire,field,Glamorgan,"County Ground, Bristol",5,2,40,2,0,0,7,2,0,2,0,100,3,3
+1068432,2017,2017-04-27,Royal London One-Day Cup,Worcestershire,Nottinghamshire,Worcestershire,field,Worcestershire,"County Ground, New Road, Worcester",4,3,75,2,2,100,33,2,2,0,6,0,4,2
+1068430,2017,2017-04-27,Royal London One-Day Cup,Warwickshire,Northamptonshire,Warwickshire,field,Warwickshire,"County Ground, Northampton",5,4,80,2,1,50,2,14,1,1,50,7,0,2
+1089481,2017,2017-04-26,ICC World Cricket League Asia Region Division One,China,Thailand,Thailand,field,Thailand,"Royal Chiangmai Golf Club, Chiang Mai",1,0,0,1,0,0,1,1,0,1,0,100,0,1
+1089480,2017,2017-04-26,ICC World Cricket League Asia Region Division One,Bahrain,Qatar,Qatar,field,Bahrain,"Gymkhana Club, Chiang Mai",1,1,100,1,1,100,1,1,1,0,100,0,3,1
+1089478,2017,2017-04-25,ICC World Cricket League Asia Region Division One,Saudi Arabia,Bahrain,Saudi Arabia,field,Saudi Arabia,"Royal Chiangmai Golf Club, Chiang Mai",2,2,100,1,1,100,1,3,1,0,100,0,3,2
+1089473,2017,2017-04-23,ICC World Cricket League Asia Region Division One,Bahrain,Thailand,Bahrain,bat,Bahrain,"Prem Tinsulanonda International School, Chiang Mai",1,1,100,1,1,100,1,1,1,0,100,0,3,0
+1089472,2017,2017-04-22,ICC World Cricket League Asia Region Division One,Qatar,Kuwait,Kuwait,field,Qatar,"Royal Chiangmai Golf Club, Chiang Mai",1,1,100,1,1,100,1,1,1,0,100,0,3,4
+1089150,2017,2017-04-13,ICC World Cricket League Africa Region Qualifiers,Ghana,Zambia,Zambia,bat,Ghana,"Willowmoore Park C Field, Benoni",1,1,100,1,1,100,2,2,1,0,50,0,4,1
+1089148,2017,2017-04-13,ICC World Cricket League Africa Region Qualifiers,Sierra Leone,Tanzania,Tanzania,bat,Tanzania,"Willowmoore Park, Benoni",1,0,0,1,0,0,2,1,0,1,0,100,0,3
+1089147,2017,2017-04-11,ICC World Cricket League Africa Region Qualifiers,Ghana,Tanzania,Ghana,field,Ghana,"Willowmoore Park C Field, Benoni",1,1,100,1,1,100,2,2,1,0,50,0,5,3
+1089146,2017,2017-04-11,ICC World Cricket League Africa Region Qualifiers,Botswana,Sierra Leone,Sierra Leone,bat,Botswana,"Willowmoore Park B Field, Benoni",1,1,100,1,1,100,1,2,1,0,100,0,2,0
+1089145,2017,2017-04-11,ICC World Cricket League Africa Region Qualifiers,Nigeria,Zambia,Zambia,bat,Nigeria,"Willowmoore Park, Benoni",1,1,100,1,1,100,1,2,1,0,100,0,1,1
+1089144,2017,2017-04-10,ICC World Cricket League Africa Region Qualifiers,Nigeria,Sierra Leone,Nigeria,bat,Nigeria,"Willowmoore Park C Field, Benoni",1,1,100,1,1,100,1,1,1,0,100,0,0,0
+1089143,2017,2017-04-10,ICC World Cricket League Africa Region Qualifiers,Tanzania,Zambia,Tanzania,field,Tanzania,"Willowmoore Park B Field, Benoni",1,1,100,1,1,100,1,1,1,0,100,0,3,1
+1089142,2017,2017-04-10,ICC World Cricket League Africa Region Qualifiers,Botswana,Ghana,Ghana,field,Ghana,"Willowmoore Park, Benoni",1,0,0,1,0,0,1,2,0,1,0,50,2,4
+1089141,2017,2017-04-08,ICC World Cricket League Africa Region Qualifiers,Botswana,Tanzania,Tanzania,field,Botswana,"Willowmoore Park C Field, Benoni",1,1,100,1,1,100,2,2,1,0,50,0,1,2
+1089140,2017,2017-04-08,ICC World Cricket League Africa Region Qualifiers,Ghana,Nigeria,Ghana,field,Ghana,"Willowmoore Park B Field, Benoni",1,1,100,1,1,100,2,1,1,0,50,0,5,1
+1089139,2017,2017-04-08,ICC World Cricket League Africa Region Qualifiers,Sierra Leone,Zambia,Zambia,bat,Zambia,"Willowmoore Park, Benoni",1,0,0,1,0,0,2,2,0,1,0,50,0,0
+1089138,2017,2017-04-07,ICC World Cricket League Africa Region Qualifiers,Botswana,Zambia,Zambia,field,Botswana,"Willowmoore Park C Field, Benoni",1,1,100,1,1,100,2,2,1,0,50,0,0,0
+1089137,2017,2017-04-07,ICC World Cricket League Africa Region Qualifiers,Ghana,Sierra Leone,Sierra Leone,field,Ghana,"Willowmoore Park B Field, Benoni",1,1,100,1,1,100,2,2,1,0,50,0,4,0
+1089136,2017,2017-04-07,ICC World Cricket League Africa Region Qualifiers,Tanzania,Nigeria,Nigeria,field,Tanzania,"Willowmoore Park, Benoni",2,2,100,1,1,100,1,1,1,0,100,0,3,0
+1068734,2017,2017-03-13,ICC World Cricket League Championship,Nepal,Kenya,Nepal,field,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",5,2,40,2,1,50,4,2,1,1,25,50,3,0
+1068733,2017,2017-03-11,ICC World Cricket League Championship,Nepal,Kenya,Kenya,field,Kenya,"Tribhuvan University International Cricket Ground, Kirtipur",5,2,40,2,1,50,4,2,1,1,25,50,3,0
+1082231,2017,2017-02-25,ICC World Cricket League East Asia-Pacific Region Qualifiers,Japan,Philippines,Philippines,field,Philippines,"White Hills Oval, Bendigo",1,0,0,1,0,0,1,1,0,1,0,100,2,0
+1082230,2017,2017-02-25,ICC World Cricket League East Asia-Pacific Region Qualifiers,Indonesia,Samoa,Indonesia,bat,Samoa,"Canterbury Park, Bendigo",1,0,0,1,0,0,1,1,0,1,0,100,0,1
+1082227,2017,2017-02-23,ICC World Cricket League East Asia-Pacific Region Qualifiers,Japan,Vanuatu,Japan,bat,Vanuatu,"Strathfieldsaye, Bendigo",1,0,0,1,0,0,1,1,0,1,0,100,2,1
+1082226,2017,2017-02-23,ICC World Cricket League East Asia-Pacific Region Qualifiers,Fiji,Indonesia,Fiji,bat,Fiji,"White Hills Oval, Bendigo",1,1,100,1,1,100,1,1,1,0,100,0,1,0
+1082223,2017,2017-02-22,ICC World Cricket League East Asia-Pacific Region Qualifiers,Vanuatu,Samoa,Vanuatu,bat,Vanuatu,"Queen Elizabeth Ii Oval, Bendigo",1,1,100,1,1,100,1,1,1,0,100,0,3,1
+1082222,2017,2017-02-20,ICC World Cricket League East Asia-Pacific Region Qualifiers,Vanuatu,Philippines,Philippines,field,Vanuatu,"Canterbury Park, Bendigo",1,1,100,1,1,100,1,1,1,0,100,0,3,0
+1082218,2017,2017-02-19,ICC World Cricket League East Asia-Pacific Region Qualifiers,Indonesia,Vanuatu,Vanuatu,field,Vanuatu,"Dower Park, Bendigo",1,0,0,1,0,0,1,1,0,1,0,100,0,2
+1068732,2017,2017-02-18,ICC World Cricket League Championship,Netherlands,Hong Kong,Netherlands,bat,Netherlands,"Mission Road Ground, Mong Kok, Hong Kong, Mong Kok",3,3,100,2,2,100,2,3,2,0,100,0,3,2
+1068731,2017,2017-02-16,ICC World Cricket League Championship,Netherlands,Hong Kong,Netherlands,bat,Netherlands,"Mission Road Ground, Mong Kok, Hong Kong, Mong Kok",3,3,100,2,2,100,2,3,2,0,100,0,4,2
+1004269,2016,2016-11-20,ICC World Cricket League Championship,Kenya,Hong Kong,Kenya,field,Hong Kong,"Gymkhana Club Ground, Nairobi",1,0,0,1,0,0,1,1,0,1,0,100,1,1
+1062514,2016,2016-11-05,ICC World Cricket League Division Four,United States Of America,Oman,United States of America,bat,United States Of America,"Severn Cricket Field, Woodley Park, Los Angeles",4,2,50,1,1,100,2,1,1,0,50,0,2,3
+1062512,2016,2016-11-05,ICC World Cricket League Division Four,Denmark,Bermuda,Denmark,bat,Denmark,"Wright Cricket Field, Woodley Park, Los Angeles",3,2,67,1,1,100,1,2,1,0,100,0,4,2
+1062511,2016,2016-11-04,ICC World Cricket League Division Four,United States Of America,Jersey,Jersey,bat,Jersey,"Wong Cricket Field, Woodley Park, Los Angeles",1,0,0,1,0,0,2,1,0,1,0,100,2,4
+1062510,2016,2016-11-04,ICC World Cricket League Division Four,Italy,Bermuda,Bermuda,field,Italy,"Wright Cricket Field, Woodley Park, Los Angeles",3,2,67,1,1,100,2,2,1,0,50,0,1,2
+1062509,2016,2016-11-04,ICC World Cricket League Division Four,Oman,Denmark,Denmark,field,Oman,"Severn Cricket Field, Woodley Park, Los Angeles",3,2,67,1,1,100,2,2,1,0,50,0,2,4
+1062508,2016,2016-11-02,ICC World Cricket League Division Four,Oman,Italy,Italy,bat,Oman,"Wong Cricket Field, Woodley Park, Los Angeles",3,2,67,1,1,100,1,2,1,0,100,0,3,4
+1062507,2016,2016-11-02,ICC World Cricket League Division Four,Bermuda,Jersey,Bermuda,bat,Bermuda,"Wright Cricket Field, Woodley Park, Los Angeles",1,1,100,1,1,100,1,1,1,0,100,0,0,4
+1062506,2016,2016-11-02,ICC World Cricket League Division Four,United States Of America,Denmark,Denmark,field,Denmark,"Severn Cricket Field, Woodley Park, Los Angeles",2,0,0,1,0,0,2,2,0,1,0,50,3,3
+1062505,2016,2016-11-01,ICC World Cricket League Division Four,Denmark,Bermuda,Denmark,field,Bermuda,"Wong Cricket Field, Woodley Park, Los Angeles",3,2,67,1,0,0,1,1,0,1,0,100,4,2
+1062504,2016,2016-11-01,ICC World Cricket League Division Four,United States Of America,Oman,United States of America,field,United States Of America,"Wright Cricket Field, Woodley Park, Los Angeles",4,2,50,1,1,100,1,1,1,0,100,0,3,3
+1062503,2016,2016-11-01,ICC World Cricket League Division Four,Jersey,Italy,Jersey,field,Jersey,"Severn Cricket Field, Woodley Park, Los Angeles",4,4,100,1,1,100,1,1,1,0,100,0,3,3
+1062502,2016,2016-10-30,ICC World Cricket League Division Four,United States Of America,Italy,Italy,bat,United States Of America,"Wong Cricket Field, Woodley Park, Los Angeles",2,2,100,1,1,100,2,2,1,0,50,0,3,2
+1062501,2016,2016-10-30,ICC World Cricket League Division Four,Jersey,Denmark,Denmark,field,Denmark,"Wright Cricket Field, Woodley Park, Los Angeles",2,0,0,1,0,0,1,2,0,1,0,50,3,3
+1062500,2016,2016-10-30,ICC World Cricket League Division Four,Oman,Bermuda,Oman,field,Oman,"Severn Cricket Field, Woodley Park, Los Angeles",2,1,50,1,1,100,2,1,1,0,50,0,3,1
+1062498,2016,2016-10-29,ICC World Cricket League Division Four,Italy,Denmark,Italy,field,Denmark,"Wright Cricket Field, Woodley Park, Los Angeles",2,0,0,1,0,0,2,2,0,1,0,50,2,3
+1004255,2016,2016-10-23,ICC World Cricket League Championship,Papua New Guinea,Namibia,Namibia,bat,Papua New Guinea,"Amini Park, Port Moresby",3,2,67,2,2,100,4,2,2,0,50,0,4,3
+1004253,2016,2016-10-21,ICC World Cricket League Championship,Papua New Guinea,Namibia,Namibia,bat,Papua New Guinea,"Amini Park, Port Moresby",3,2,67,2,2,100,4,2,2,0,50,0,5,2
+947513,2016,2016-09-17,Royal London One-Day Cup,Warwickshire,Surrey,Surrey,bat,Warwickshire,"Lord'S, London",3,2,67,1,1,100,3,1,1,0,33,0,0,2
+947511,2016,2016-08-29,Royal London One-Day Cup,Warwickshire,Somerset,Warwickshire,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",5,3,60,3,2,66,26,3,2,1,7,33,1,2
+947509,2016,2016-08-28,Royal London One-Day Cup,Yorkshire,Surrey,Yorkshire,field,Surrey,"Headingley, Leeds",5,1,20,2,0,0,18,2,0,2,0,100,3,1
+947507,2016,2016-08-18,Royal London One-Day Cup,Yorkshire,Kent,Kent,field,Yorkshire,"St Lawrence Ground, Canterbury",3,1,33,2,1,50,2,14,1,1,50,7,3,2
+947505,2016,2016-08-18,Royal London One-Day Cup,Surrey,Northamptonshire,Northamptonshire,bat,Surrey,"County Ground, Northampton",2,2,100,1,1,100,1,14,1,0,100,0,3,2
+947503,2016,2016-08-17,Royal London One-Day Cup,Warwickshire,Essex,Warwickshire,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",3,2,67,1,1,100,26,1,1,0,3,0,2,2
+947501,2016,2016-08-17,Royal London One-Day Cup,Worcestershire,Somerset,Worcestershire,bat,Somerset,"County Ground, Taunton",4,0,0,2,0,0,2,6,0,2,0,33,3,3
+1004261,2016,2016-08-13,ICC World Cricket League Championship,Netherlands,Nepal,Netherlands,field,Netherlands,"Vra Cricket Ground, Amstelveen",3,2,67,1,1,100,1,1,1,0,100,0,5,1
+1002151,2016,2016-08-07,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,North-West Warriors,North-West Warriors,bat,Northern Knights,"The Lawn, Waringstown",12,6,50,2,1,50,2,2,1,1,50,50,0,2
+947499,2016,2016-08-02,Royal London One-Day Cup,Surrey,Middlesex,Surrey,field,Surrey,"Lord'S, London",6,3,50,3,2,66,5,8,2,1,40,12,3,2
+947497,2016,2016-08-02,Royal London One-Day Cup,Somerset,Hampshire,Somerset,bat,Somerset,"The Rose Bowl, Southampton",5,3,60,2,2,100,2,24,2,0,100,0,2,3
+947495,2016,2016-08-02,Royal London One-Day Cup,Sussex,Kent,Kent,field,Kent,"County Ground, Hove, Brighton",6,3,50,2,1,50,27,2,1,1,3,50,3,2
+947491,2016,2016-08-01,Royal London One-Day Cup,Worcestershire,Nottinghamshire,Worcestershire,field,Worcestershire,"Trent Bridge, Nottingham",4,3,75,2,1,50,2,9,1,1,50,11,4,3
+947489,2016,2016-08-01,Royal London One-Day Cup,Yorkshire,Warwickshire,Warwickshire,bat,Warwickshire,"Headingley, Leeds",4,1,25,2,0,0,18,2,0,2,0,100,4,3
+1002149,2016,2016-07-31,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Northern Knights,bat,Leinster Lightning,"Observatory Lane, Rathmines, Dublin",16,4,25,2,0,0,2,3,0,2,0,66,0,2
+947481,2016,2016-07-31,Royal London One-Day Cup,Yorkshire,Durham,Durham,bat,Durham,"Riverside Ground, Chester-Le-Street",5,3,60,3,2,66,3,23,2,1,66,4,4,3
+947479,2016,2016-07-31,Royal London One-Day Cup,Nottinghamshire,Leicestershire,Leicestershire,bat,Leicestershire,"Grace Road, Leicester",7,6,86,4,3,75,4,20,3,1,75,5,4,2
+947477,2016,2016-07-31,Royal London One-Day Cup,Worcestershire,Lancashire,Lancashire,bat,Worcestershire,"County Ground, New Road, Worcester",6,4,67,3,3,100,33,3,3,0,9,0,4,2
+947475,2016,2016-07-31,Royal London One-Day Cup,Hampshire,Glamorgan,Hampshire,bat,Hampshire,"St Helen'S, Swansea",5,3,60,2,2,100,2,4,2,0,100,0,4,2
+947473,2016,2016-07-31,Royal London One-Day Cup,Kent,Gloucestershire,Kent,field,Kent,"St Lawrence Ground, Canterbury",6,3,50,2,2,100,11,2,2,0,18,0,2,3
+947471,2016,2016-07-31,Royal London One-Day Cup,Middlesex,Essex,Essex,field,Middlesex,"Lord'S, London",6,2,33,1,1,100,8,1,1,0,12,0,2,3
+947469,2016,2016-07-31,Royal London One-Day Cup,Northamptonshire,Derbyshire,Derbyshire,bat,Northamptonshire,"County Ground, Northampton",9,2,22,6,2,33,19,6,2,4,10,66,1,2
+947467,2016,2016-07-30,Royal London One-Day Cup,Sussex,Somerset,Somerset,bat,Somerset,"County Ground, Taunton",7,4,57,2,1,50,2,6,1,1,50,16,2,4
+947465,2016,2016-07-27,Royal London One-Day Cup,Warwickshire,Durham,Durham,field,Durham,"Roseworth Terrace, Gosforth",8,2,25,2,0,0,2,8,0,2,0,25,3,4
+947463,2016,2016-07-27,Royal London One-Day Cup,Yorkshire,Nottinghamshire,Yorkshire,field,Yorkshire,"North Marine Road Ground, Scarborough",3,2,67,1,1,100,9,1,1,0,11,0,3,2
+947461,2016,2016-07-27,Royal London One-Day Cup,Worcestershire,Northamptonshire,Worcestershire,field,Northamptonshire,"County Ground, New Road, Worcester",7,5,71,3,1,33,33,3,1,2,3,66,3,2
+947459,2016,2016-07-27,Royal London One-Day Cup,Lancashire,Derbyshire,Lancashire,bat,Lancashire,"County Ground, Derby",6,6,100,3,3,100,3,30,3,0,100,0,4,3
+947457,2016,2016-07-27,Royal London One-Day Cup,Sussex,Hampshire,Sussex,field,Hampshire,"County Ground, Hove, Brighton",4,0,0,2,0,0,27,2,0,2,0,100,1,4
+947455,2016,2016-07-27,Royal London One-Day Cup,Surrey,Gloucestershire,Surrey,bat,Surrey,"Kennington Oval, London",7,4,57,4,3,75,22,4,3,1,13,25,2,3
+947453,2016,2016-07-26,Royal London One-Day Cup,Warwickshire,Northamptonshire,Warwickshire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",5,4,80,3,3,100,26,3,3,0,11,0,4,1
+947451,2016,2016-07-26,Royal London One-Day Cup,Somerset,Middlesex,Somerset,field,Somerset,"County Ground, Taunton",5,3,60,1,1,100,12,1,1,0,8,0,3,2
+947449,2016,2016-07-26,Royal London One-Day Cup,Leicestershire,Lancashire,Lancashire,field,Leicestershire,"Grace Road, Leicester",6,3,50,1,1,100,12,1,1,0,8,0,2,2
+947447,2016,2016-07-26,Royal London One-Day Cup,Kent,Hampshire,Kent,field,Kent,"The Rose Bowl, Southampton",10,4,40,3,3,100,3,24,3,0,100,0,2,4
+947445,2016,2016-07-26,Royal London One-Day Cup,Glamorgan,Essex,Glamorgan,bat,Essex,"County Ground, Chelmsford",7,3,43,3,0,0,3,38,0,3,0,7,1,4
+947443,2016,2016-07-24,Royal London One-Day Cup,Yorkshire,Leicestershire,Yorkshire,bat,Yorkshire,"Grace Road, Leicester",8,7,88,5,4,80,5,20,4,1,80,5,3,2
+947441,2016,2016-07-24,Royal London One-Day Cup,Worcestershire,Warwickshire,Worcestershire,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",5,2,40,2,1,50,2,4,1,1,50,25,2,2
+947439,2016,2016-07-24,Royal London One-Day Cup,Sussex,Gloucestershire,Sussex,field,Gloucestershire,"College Ground, Cheltenham",6,1,17,1,0,0,1,4,0,1,0,25,0,4
+947437,2016,2016-07-24,Royal London One-Day Cup,Surrey,Essex,Surrey,bat,Surrey,"County Ground, Chelmsford",5,4,80,3,3,100,3,38,3,0,100,0,2,3
+947435,2016,2016-07-24,Royal London One-Day Cup,Middlesex,Kent,Kent,bat,Middlesex,"Lord'S, London",8,5,62,1,1,100,8,1,1,0,12,0,2,3
+947433,2016,2016-07-24,Royal London One-Day Cup,Somerset,Glamorgan,Glamorgan,field,Somerset,"County Ground, Taunton",7,5,71,2,1,50,12,2,1,1,8,50,2,1
+947431,2016,2016-07-24,Royal London One-Day Cup,Northamptonshire,Durham,Durham,field,Northamptonshire,"County Ground, Northampton",6,2,33,3,1,33,19,3,1,2,5,66,1,3
+947429,2016,2016-07-24,Royal London One-Day Cup,Nottinghamshire,Derbyshire,Derbyshire,field,Nottinghamshire,"Welbeck Colliery Cricket Club Ground, Market Warsop",6,5,83,1,1,100,3,1,1,0,33,0,3,3
+947427,2016,2016-06-15,Royal London One-Day Cup,Yorkshire,Lancashire,Yorkshire,bat,Yorkshire,"Old Trafford, Manchester",6,4,67,3,3,100,3,16,3,0,100,0,2,3
+947425,2016,2016-06-15,Royal London One-Day Cup,Surrey,Hampshire,Surrey,field,Hampshire,"The Rose Bowl, Southampton",5,1,20,2,0,0,2,24,0,2,0,8,2,3
+947423,2016,2016-06-15,Royal London One-Day Cup,Nottinghamshire,Durham,Nottinghamshire,bat,Durham,"Riverside Ground, Chester-Le-Street",7,3,43,4,1,25,4,23,1,3,25,13,3,2
+947419,2016,2016-06-15,Royal London One-Day Cup,Kent,Essex,Essex,field,Essex,"County Ground, Chelmsford",7,2,29,4,0,0,5,38,0,4,0,10,1,4
+947415,2016,2016-06-14,Royal London One-Day Cup,Sussex,Surrey,Surrey,field,Surrey,"Woodbridge Road, Guildford",5,4,80,1,0,0,1,1,0,1,0,100,0,2
+947413,2016,2016-06-14,Royal London One-Day Cup,Somerset,Kent,Somerset,field,Kent,"St Lawrence Ground, Canterbury",4,1,25,2,0,0,2,14,0,2,0,14,2,4
+947411,2016,2016-06-14,Royal London One-Day Cup,Yorkshire,Northamptonshire,Yorkshire,field,Yorkshire,"North Marine Road Ground, Scarborough",6,6,100,1,1,100,9,1,1,0,11,0,2,1
+947409,2016,2016-06-14,Royal London One-Day Cup,Middlesex,Glamorgan,Glamorgan,field,Middlesex,"Sophia Gardens, Cardiff",6,5,83,3,2,66,3,19,2,1,66,5,3,2
+947407,2016,2016-06-14,Royal London One-Day Cup,Hampshire,Gloucestershire,Hampshire,field,Gloucestershire,"County Ground, Bristol",6,2,33,4,0,0,4,21,0,4,0,19,4,3
+947403,2016,2016-06-12,Royal London One-Day Cup,Worcestershire,Durham,Worcestershire,field,Worcestershire,"Riverside Ground, Chester-Le-Street",6,4,67,2,2,100,2,23,2,0,100,0,3,2
+947397,2016,2016-06-12,Royal London One-Day Cup,Sussex,Middlesex,Middlesex,field,Sussex,"County Ground, Hove, Brighton",7,4,57,6,3,50,27,6,3,3,11,50,1,2
+947393,2016,2016-06-12,Royal London One-Day Cup,Kent,Glamorgan,Glamorgan,field,Glamorgan,"St Lawrence Ground, Canterbury",6,2,33,3,2,66,11,3,2,1,18,33,1,1
+947391,2016,2016-06-08,Royal London One-Day Cup,Warwickshire,Nottinghamshire,Warwickshire,field,Nottinghamshire,"Trent Bridge, Nottingham",8,2,25,3,1,33,3,9,1,2,33,22,5,3
+947389,2016,2016-06-08,Royal London One-Day Cup,Sussex,Glamorgan,Glamorgan,bat,Glamorgan,"Sophia Gardens, Cardiff",6,1,17,2,0,0,2,19,0,2,0,10,1,1
+947387,2016,2016-06-08,Royal London One-Day Cup,Surrey,Somerset,Surrey,bat,Somerset,"Kennington Oval, London",7,2,29,4,2,50,22,4,2,2,9,50,3,5
+947385,2016,2016-06-08,Royal London One-Day Cup,Middlesex,Gloucestershire,Middlesex,field,Middlesex,"County Ground, Bristol",5,3,60,2,2,100,2,21,2,0,100,0,3,2
+947383,2016,2016-06-08,Royal London One-Day Cup,Northamptonshire,Lancashire,Lancashire,field,Northamptonshire,"County Ground, Northampton",6,4,67,2,2,100,19,2,2,0,10,0,1,2
+947381,2016,2016-06-07,Royal London One-Day Cup,Yorkshire,Worcestershire,Yorkshire,bat,Worcestershire,"Headingley, Leeds",7,3,43,3,1,33,18,3,1,2,5,66,3,3
+947379,2016,2016-06-07,Royal London One-Day Cup,Warwickshire,Leicestershire,Warwickshire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",6,3,50,3,3,100,26,3,3,0,11,0,4,1
+947377,2016,2016-06-07,Royal London One-Day Cup,Middlesex,Hampshire,Hampshire,field,Hampshire,"Radlett Cricket Club, Radlett",6,1,17,1,0,0,8,1,0,1,0,100,3,3
+947375,2016,2016-06-07,Royal London One-Day Cup,Durham,Derbyshire,Derbyshire,field,Derbyshire,"County Ground, Derby",5,3,60,2,0,0,2,30,0,2,0,6,2,4
+947373,2016,2016-06-06,Royal London One-Day Cup,Nottinghamshire,Northamptonshire,Nottinghamshire,bat,Nottinghamshire,"Trent Bridge, Nottingham",4,3,75,1,1,100,10,1,1,0,10,0,3,2
+947371,2016,2016-06-06,Royal London One-Day Cup,Gloucestershire,Glamorgan,Gloucestershire,field,Glamorgan,"Sophia Gardens, Cardiff",5,2,40,3,2,66,3,19,2,1,66,5,3,1
+947369,2016,2016-06-06,Royal London One-Day Cup,Sussex,Essex,Essex,field,Essex,"County Ground, Hove, Brighton",5,1,20,1,0,0,27,1,0,1,0,100,1,3
+947367,2016,2016-06-05,Royal London One-Day Cup,Warwickshire,Lancashire,Lancashire,bat,Lancashire,"Old Trafford, Manchester",4,2,50,2,1,50,2,16,1,1,50,6,4,2
+947365,2016,2016-06-05,Royal London One-Day Cup,Surrey,Kent,Surrey,bat,Kent,"Kent County Cricket Ground, Beckenham",6,2,33,2,0,0,2,5,0,2,0,40,3,4
+947363,2016,2016-06-05,Royal London One-Day Cup,Somerset,Gloucestershire,Somerset,field,Somerset,"County Ground, Taunton",6,2,33,1,1,100,12,1,1,0,8,0,3,2
+947361,2016,2016-06-05,Royal London One-Day Cup,Hampshire,Essex,Essex,field,Essex,"The Rose Bowl, Southampton",9,3,33,6,3,50,10,6,3,3,30,50,3,2
+947359,2016,2016-06-05,Royal London One-Day Cup,Leicestershire,Durham,Leicestershire,field,Durham,"Grace Road, Leicester",6,2,33,4,2,50,12,4,2,2,16,50,2,2
+947357,2016,2016-06-05,Royal London One-Day Cup,Worcestershire,Derbyshire,Worcestershire,bat,Derbyshire,"County Ground, New Road, Worcester",7,4,57,3,1,33,33,3,1,2,3,66,3,3
+1014847,2016,2016-05-30,ICC World Cricket League Championship,Papua New Guinea,Kenya,Papua New Guinea,bat,Papua New Guinea,"Amini Park, Port Moresby",2,2,100,2,2,100,4,2,2,0,50,0,5,1
+1002145,2016,2016-05-30,Cricket Ireland Inter-Provincial Limited Over Cup,North-West Warriors,Leinster Lightning,Leinster Lightning,bat,Leinster Lightning,"New Strabane Park, Strabane",12,0,0,1,0,0,1,1,0,1,0,100,1,1
+1014845,2016,2016-05-28,ICC World Cricket League Championship,Papua New Guinea,Kenya,Kenya,bat,Papua New Guinea,"Amini Park, Port Moresby",2,2,100,2,2,100,4,2,2,0,50,0,5,1
+979845,2016,2016-05-28,ICC World Cricket League Division Five,Oman,Jersey,Oman,field,Jersey,"Grainville, St Saviour, Jersey, St Saviour",3,2,67,1,0,0,2,2,0,1,0,50,2,3
+979839,2016,2016-05-27,ICC World Cricket League Division Five,Guernsey,Oman,Oman,field,Oman,"Fb Fields, St Clement",1,0,0,1,0,0,1,2,0,1,0,50,3,2
+979837,2016,2016-05-27,ICC World Cricket League Division Five,Jersey,Nigeria,Jersey,field,Jersey,"Farmers Cricket Club Ground, St Martin",1,1,100,1,1,100,2,1,1,0,50,0,3,1
+979835,2016,2016-05-27,ICC World Cricket League Division Five,Tanzania,Vanuatu,Vanuatu,bat,Tanzania,"Grainville, St Saviour, Jersey, St Saviour",1,1,100,1,1,100,1,1,1,0,100,0,2,2
+979829,2016,2016-05-25,ICC World Cricket League Division Five,Oman,Tanzania,Oman,field,Oman,"Grainville, St Saviour, Jersey, St Saviour",1,1,100,1,1,100,2,1,1,0,50,0,3,2
+979827,2016,2016-05-24,ICC World Cricket League Division Five,Jersey,Tanzania,Jersey,bat,Jersey,"Fb Fields, St Clement",1,1,100,1,1,100,1,1,1,0,100,0,4,2
+979821,2016,2016-05-22,ICC World Cricket League Division Five,Nigeria,Oman,Nigeria,field,Oman,"Fb Fields, St Clement",1,0,0,1,0,0,1,2,0,1,0,50,1,2
+979819,2016,2016-05-22,ICC World Cricket League Division Five,Guernsey,Tanzania,Tanzania,bat,Guernsey,"Farmers Cricket Club Ground, St Martin",1,1,100,1,1,100,1,1,1,0,100,0,4,1
+1002143,2016,2016-05-02,Cricket Ireland Inter-Provincial Limited Over Cup,Northern Knights,Leinster Lightning,Northern Knights,bat,Leinster Lightning,"Civil Service Cricket Club, Stormont, Belfast",16,4,25,5,1,20,14,5,1,4,7,80,0,0
+952199,2016,2016-04-18,ICC World Cricket League Championship,Nepal,Namibia,Nepal,field,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",3,3,100,2,2,100,4,2,2,0,50,0,2,1
+952197,2016,2016-04-16,ICC World Cricket League Championship,Nepal,Namibia,Namibia,bat,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",3,3,100,2,2,100,4,2,2,0,50,0,1,1
+973773,2016,2016-02-20,Stan Nagaiah Trophy,Singapore,Malaysia,Malaysia,field,Malaysia,"Kinrara Academy Oval, Kuala Lumpur",9,5,56,3,2,66,4,6,2,1,50,16,3,2
+952191,2016,2016-01-29,ICC World Cricket League Championship,United Arab Emirates,Netherlands,United Arab Emirates,field,Netherlands,"Sheikh Zayed Stadium, Abu Dhabi",3,1,33,2,0,0,4,2,0,2,0,100,1,3
+952189,2016,2016-01-27,ICC World Cricket League Championship,United Arab Emirates,Netherlands,Netherlands,field,Netherlands,"Sheikh Zayed Stadium, Abu Dhabi",3,1,33,2,0,0,4,2,0,2,0,100,2,4
+911057,2015,2015-11-18,ICC World Cricket League Championship,Papua New Guinea,Nepal,Nepal,bat,Papua New Guinea,"Sheikh Zayed Stadium, Abu Dhabi",3,2,67,2,2,100,2,4,2,0,100,0,4,1
+911055,2015,2015-11-16,ICC World Cricket League Championship,Papua New Guinea,Nepal,Nepal,bat,Papua New Guinea,"Sheikh Zayed Stadium, Abu Dhabi",3,2,67,2,2,100,2,4,2,0,100,0,3,1
+930569,2015,2015-11-14,Oman tour of United Arab Emirates,Oman,Nepal,Oman,field,Oman,"Sheikh Zayed Stadium Nursery 1, Abu Dhabi",2,2,100,1,1,100,1,1,1,0,100,0,3,2
+930567,2015,2015-11-12,Oman tour of United Arab Emirates,Papua New Guinea,Oman,Papua New Guinea,field,Papua New Guinea,"Icc Academy Ground No 2, Dubai",2,2,100,1,1,100,1,1,1,0,100,0,2,3
+911045,2015,2015-11-02,ICC World Cricket League Championship,Namibia,Kenya,Kenya,bat,Kenya,"Wanderers Cricket Ground, Windhoek",6,3,50,3,1,33,8,5,1,2,12,40,3,1
+911043,2015,2015-10-30,ICC World Cricket League Championship,Namibia,Kenya,Kenya,bat,Kenya,"Wanderers Cricket Ground, Windhoek",6,3,50,3,1,33,8,5,1,2,12,40,3,2
+804869,2015,2015-09-19,Royal London One-Day Cup,Surrey,Gloucestershire,Surrey,field,Gloucestershire,"Lord'S, London",7,4,57,1,0,0,5,3,0,1,0,33,4,2
+913455,2015,2015-09-13,ICC World Cricket League Division Six,Suriname,Guernsey,Suriname,field,Suriname,"County Ground, Chelmsford",2,1,50,1,1,100,1,1,1,0,100,0,2,1
+913451,2015,2015-09-13,ICC World Cricket League Division Six,Botswana,Fiji,Botswana,field,Fiji,"Cricket Field Lane, Bishop'S Stortford",1,0,0,1,0,0,1,1,0,1,0,100,0,1
+913447,2015,2015-09-11,ICC World Cricket League Division Six,Suriname,Vanuatu,Suriname,field,Suriname,"Hare Field, Coggeshall",1,1,100,1,1,100,1,1,1,0,100,0,1,2
+913445,2015,2015-09-11,ICC World Cricket League Division Six,Guernsey,Norway,Guernsey,bat,Guernsey,"Ashlyns Road, Frinton-On-Sea",1,1,100,1,1,100,1,1,1,0,100,0,4,1
+913435,2015,2015-09-10,ICC World Cricket League Division Six,Suriname,Guernsey,Suriname,field,Guernsey,"Star Stile, Halstead",2,1,50,1,0,0,1,1,0,1,0,100,1,2
+913431,2015,2015-09-08,ICC World Cricket League Division Six,Botswana,Guernsey,Guernsey,bat,Guernsey,"Ashlyns Road, Frinton-On-Sea",1,0,0,1,0,0,1,1,0,1,0,100,0,3
+913429,2015,2015-09-08,ICC World Cricket League Division Six,Fiji,Suriname,Fiji,bat,Suriname,"Castle Park Cricket Ground, Colchester",1,0,0,1,0,0,2,1,0,1,0,100,0,2
+913427,2015,2015-09-08,ICC World Cricket League Division Six,Norway,Vanuatu,Norway,bat,Vanuatu,West Mersea Cricket Club,1,0,0,1,0,0,1,1,0,1,0,100,1,2
+913421,2015,2015-09-07,ICC World Cricket League Division Six,Cayman Islands,Vanuatu,Cayman Islands,bat,Vanuatu,"Ashlyns Road, Frinton-On-Sea",1,0,0,1,0,0,1,1,0,1,0,100,0,2
+913419,2015,2015-09-07,ICC World Cricket League Division Six,Fiji,Guernsey,Fiji,field,Guernsey,"Castle Park Cricket Ground, Colchester",1,0,0,1,0,0,2,1,0,1,0,100,0,4
+804867,2015,2015-09-07,Royal London One-Day Cup,Surrey,Nottinghamshire,Surrey,bat,Surrey,"Kennington Oval, London",5,3,60,1,1,100,22,1,1,0,4,0,5,3
+804865,2015,2015-09-06,Royal London One-Day Cup,Yorkshire,Gloucestershire,Gloucestershire,field,Gloucestershire,"Headingley, Leeds",2,0,0,2,0,0,18,2,0,2,0,100,4,1
+804863,2015,2015-08-27,Royal London One-Day Cup,Surrey,Kent,Surrey,bat,Surrey,"Kennington Oval, London",6,2,33,4,2,50,22,4,2,2,9,50,4,4
+804861,2015,2015-08-27,Royal London One-Day Cup,Yorkshire,Essex,Essex,field,Yorkshire,"County Ground, Chelmsford",6,3,50,5,3,60,5,38,3,2,60,5,3,2
+804859,2015,2015-08-26,Royal London One-Day Cup,Hampshire,Gloucestershire,Gloucestershire,field,Gloucestershire,"County Ground, Bristol",6,2,33,4,0,0,4,21,0,4,0,19,3,1
+804857,2015,2015-08-25,Royal London One-Day Cup,Nottinghamshire,Durham,Durham,field,Nottinghamshire,"Trent Bridge, Nottingham",7,3,43,2,1,50,10,3,1,1,10,33,4,2
+804845,2015,2015-08-18,Royal London One-Day Cup,Somerset,Leicestershire,Somerset,field,Somerset,"Grace Road, Leicester",3,1,33,2,1,50,2,20,1,1,50,5,2,1
+804843,2015,2015-08-18,Royal London One-Day Cup,Surrey,Gloucestershire,Gloucestershire,field,Surrey,"County Ground, Bristol",7,4,57,2,1,50,2,21,1,1,50,4,4,2
+804841,2015,2015-08-18,Royal London One-Day Cup,Worcestershire,Derbyshire,Derbyshire,bat,Derbyshire,"County Ground, Derby",7,4,57,4,3,75,4,30,3,1,75,3,2,3
+804839,2015,2015-08-17,Royal London One-Day Cup,Worcestershire,Leicestershire,Leicestershire,bat,Worcestershire,"County Ground, New Road, Worcester",5,3,60,2,2,100,33,2,2,0,6,0,2,1
+804837,2015,2015-08-17,Royal London One-Day Cup,Warwickshire,Sussex,Warwickshire,field,Warwickshire,"Rugby School Ground, Rugby",4,4,100,1,1,100,1,1,1,0,100,0,4,2
+804835,2015,2015-08-17,Royal London One-Day Cup,Surrey,Somerset,Somerset,field,Somerset,"County Ground, Taunton",7,2,29,2,0,0,2,6,0,2,0,33,3,5
+804833,2015,2015-08-17,Royal London One-Day Cup,Nottinghamshire,Kent,Kent,field,Kent,"Trent Bridge, Nottingham",3,1,33,2,0,0,10,2,0,2,0,100,4,5
+804831,2015,2015-08-17,Royal London One-Day Cup,Northamptonshire,Gloucestershire,Gloucestershire,bat,Northamptonshire,"County Ground, Northampton",3,2,67,1,1,100,19,1,1,0,5,0,0,2
+804829,2015,2015-08-17,Royal London One-Day Cup,Middlesex,Glamorgan,Glamorgan,bat,Middlesex,"Lord'S, London",6,5,83,2,2,100,8,2,2,0,25,0,3,1
+804827,2015,2015-08-17,Royal London One-Day Cup,Lancashire,Hampshire,Lancashire,bat,Lancashire,"The Rose Bowl, Southampton",6,2,33,4,2,50,4,24,2,2,50,8,3,3
+804825,2015,2015-08-17,Royal London One-Day Cup,Durham,Derbyshire,Derbyshire,field,Durham,"Riverside Ground, Chester-Le-Street",5,3,60,3,3,100,3,3,3,0,100,0,1,2
+804823,2015,2015-08-08,Royal London One-Day Cup,Lancashire,Kent,Kent,field,Lancashire,"St Lawrence Ground, Canterbury",3,2,67,2,1,50,2,14,1,1,50,7,3,4
+804821,2015,2015-08-06,Royal London One-Day Cup,Nottinghamshire,Middlesex,Middlesex,field,Nottinghamshire,"Lord'S, London",4,2,50,2,2,100,2,8,2,0,100,0,5,2
+804819,2015,2015-08-06,Royal London One-Day Cup,Leicestershire,Durham,Leicestershire,field,Durham,"Grace Road, Leicester",6,2,33,4,2,50,12,4,2,2,16,50,2,3
+804817,2015,2015-08-05,Royal London One-Day Cup,Yorkshire,Somerset,Yorkshire,bat,Somerset,"North Marine Road Ground, Scarborough",2,0,0,1,0,0,9,1,0,1,0,100,4,5
+804815,2015,2015-08-05,Royal London One-Day Cup,Worcestershire,Gloucestershire,Gloucestershire,field,Gloucestershire,"County Ground, New Road, Worcester",4,2,50,3,1,33,33,3,1,2,3,66,3,2
+804813,2015,2015-08-05,Royal London One-Day Cup,Warwickshire,Hampshire,Warwickshire,field,Hampshire,"Edgbaston Foundation Community Sports Ground, Birmingham",2,0,0,2,0,0,26,2,0,2,0,100,3,3
+804807,2015,2015-08-04,Royal London One-Day Cup,Worcestershire,Surrey,Surrey,bat,Surrey,"Kennington Oval, London",2,0,0,1,0,0,1,4,0,1,0,25,2,3
+804805,2015,2015-08-04,Royal London One-Day Cup,Nottinghamshire,Lancashire,Nottinghamshire,field,Nottinghamshire,"Aigburth, Liverpool",6,4,67,1,1,100,1,2,1,0,100,0,4,2
+804803,2015,2015-08-04,Royal London One-Day Cup,Hampshire,Essex,Hampshire,bat,Essex,"The Rose Bowl, Southampton",9,3,33,6,3,50,10,6,3,3,30,50,2,3
+804801,2015,2015-08-04,Royal London One-Day Cup,Gloucestershire,Durham,Gloucestershire,bat,Gloucestershire,"County Ground, Bristol",4,4,100,2,2,100,7,2,2,0,28,0,2,3
+804799,2015,2015-08-04,Royal London One-Day Cup,Leicestershire,Derbyshire,Derbyshire,field,Derbyshire,"County Ground, Derby",6,2,33,2,0,0,2,30,0,2,0,6,2,2
+804797,2015,2015-08-03,Royal London One-Day Cup,Yorkshire,Leicestershire,Leicestershire,field,Yorkshire,"Headingley, Leeds",8,7,88,3,3,100,18,3,3,0,16,0,3,0
+804795,2015,2015-08-03,Royal London One-Day Cup,Warwickshire,Glamorgan,Glamorgan,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",4,3,75,1,1,100,26,1,1,0,3,0,3,1
+804793,2015,2015-08-03,Royal London One-Day Cup,Sussex,Middlesex,Sussex,field,Middlesex,"County Ground, Hove, Brighton",7,4,57,6,3,50,27,6,3,3,11,50,1,3
+804791,2015,2015-08-03,Royal London One-Day Cup,Somerset,Northamptonshire,Somerset,bat,Northamptonshire,"County Ground, Northampton",3,0,0,3,0,0,3,14,0,3,0,21,2,1
+804789,2015,2015-08-02,Royal London One-Day Cup,Worcestershire,Northamptonshire,Northamptonshire,bat,Northamptonshire,"County Ground, New Road, Worcester",7,5,71,3,1,33,33,3,1,2,3,66,1,1
+804787,2015,2015-08-02,Royal London One-Day Cup,Surrey,Derbyshire,Derbyshire,field,Surrey,"Woodbridge Road, Guildford",2,2,100,1,1,100,6,1,1,0,16,0,2,2
+804785,2015,2015-08-02,Royal London One-Day Cup,Warwickshire,Lancashire,Warwickshire,field,Warwickshire,"Old Trafford, Manchester",4,2,50,2,1,50,2,16,1,1,50,6,3,3
+804783,2015,2015-08-02,Royal London One-Day Cup,Sussex,Kent,Kent,field,Kent,"St Lawrence Ground, Canterbury",6,3,50,3,1,33,3,14,1,2,33,14,1,3
+804781,2015,2015-08-02,Royal London One-Day Cup,Somerset,Gloucestershire,Somerset,bat,Gloucestershire,"County Ground, Bristol",6,2,33,5,1,20,5,21,1,4,20,19,3,2
+804777,2015,2015-08-02,Royal London One-Day Cup,Nottinghamshire,Essex,Nottinghamshire,field,Nottinghamshire,"County Ground, Chelmsford",3,3,100,3,3,100,3,38,3,0,100,0,4,2
+804775,2015,2015-08-02,Royal London One-Day Cup,Yorkshire,Durham,Yorkshire,field,Yorkshire,"Riverside Ground, Chester-Le-Street",5,3,60,3,2,66,3,23,2,1,66,4,3,2
+804773,2015,2015-08-01,Royal London One-Day Cup,Middlesex,Hampshire,Middlesex,bat,Hampshire,"The Rose Bowl, Southampton",6,1,17,4,1,25,4,24,1,3,25,12,2,2
+804771,2015,2015-07-31,Royal London One-Day Cup,Worcestershire,Somerset,Somerset,bat,Somerset,"County Ground, Taunton",4,0,0,2,0,0,2,6,0,2,0,33,1,4
+804769,2015,2015-07-31,Royal London One-Day Cup,Middlesex,Kent,Middlesex,bat,Middlesex,"Brunton Memorial Ground, Radlett",8,5,62,1,1,100,1,1,1,0,100,0,1,2
+804767,2015,2015-07-31,Royal London One-Day Cup,Leicestershire,Gloucestershire,Leicestershire,field,Gloucestershire,"Grace Road, Leicester",4,2,50,2,1,50,12,2,1,1,8,50,2,2
+804765,2015,2015-07-31,Royal London One-Day Cup,Glamorgan,Essex,Essex,field,Glamorgan,"Sophia Gardens, Cardiff",7,3,43,4,3,75,5,4,3,1,60,25,2,3
+804763,2015,2015-07-31,Royal London One-Day Cup,Surrey,Durham,Durham,field,Surrey,"Riverside Ground, Chester-Le-Street",4,2,50,3,1,33,3,23,1,2,33,8,1,2
+804761,2015,2015-07-31,Royal London One-Day Cup,Northamptonshire,Derbyshire,Derbyshire,field,Derbyshire,"County Ground, Derby",9,2,22,3,0,0,3,30,0,3,0,10,0,2
+804759,2015,2015-07-30,Royal London One-Day Cup,Yorkshire,Worcestershire,Yorkshire,bat,Yorkshire,"County Ground, New Road, Worcester",7,3,43,3,1,33,3,4,1,2,33,50,3,4
+804757,2015,2015-07-30,Royal London One-Day Cup,Sussex,Nottinghamshire,Sussex,bat,Nottinghamshire,"County Ground, Hove, Brighton",3,0,0,1,0,0,27,1,0,1,0,100,0,4
+804755,2015,2015-07-30,Royal London One-Day Cup,Kent,Hampshire,Kent,field,Kent,"St Lawrence Ground, Canterbury",10,4,40,3,1,33,11,3,1,2,9,66,2,2
+804753,2015,2015-07-29,Royal London One-Day Cup,Yorkshire,Surrey,Surrey,bat,Surrey,"Kennington Oval, London",5,1,20,1,0,0,1,4,0,1,0,25,3,3
+804751,2015,2015-07-29,Royal London One-Day Cup,Somerset,Durham,Somerset,bat,Durham,"County Ground, Taunton",4,2,50,2,1,50,12,2,1,1,8,50,4,2
+804749,2015,2015-07-29,Royal London One-Day Cup,Northamptonshire,Leicestershire,Northamptonshire,bat,Northamptonshire,"County Ground, Northampton",4,2,50,3,1,33,19,3,1,2,5,66,1,0
+804747,2015,2015-07-29,Royal London One-Day Cup,Middlesex,Lancashire,Lancashire,field,Lancashire,"Stanley Park, Blackpool",4,1,25,1,0,0,1,3,0,1,0,33,2,3
+804745,2015,2015-07-29,Royal London One-Day Cup,Gloucestershire,Derbyshire,Gloucestershire,field,Gloucestershire,"County Ground, Bristol",3,2,67,1,1,100,7,1,1,0,14,0,2,2
+804743,2015,2015-07-29,Royal London One-Day Cup,Warwickshire,Essex,Warwickshire,field,Essex,"County Ground, Chelmsford",3,2,67,2,1,50,2,38,1,1,50,2,3,4
+804741,2015,2015-07-28,Royal London One-Day Cup,Kent,Glamorgan,Glamorgan,field,Glamorgan,"Sophia Gardens, Cardiff",6,2,33,1,0,0,1,19,0,1,0,5,2,2
+804739,2015,2015-07-27,Royal London One-Day Cup,Surrey,Northamptonshire,Surrey,bat,Surrey,"Kennington Oval, London",2,2,100,1,1,100,22,1,1,0,4,0,2,1
+804737,2015,2015-07-27,Royal London One-Day Cup,Sussex,Hampshire,Hampshire,bat,Hampshire,"The Rose Bowl, Southampton",4,0,0,2,0,0,2,24,0,2,0,8,0,3
+804735,2015,2015-07-27,Royal London One-Day Cup,Lancashire,Essex,Essex,field,Essex,"County Ground, Chelmsford",2,0,0,2,0,0,2,38,0,2,0,5,3,4
+804731,2015,2015-07-27,Royal London One-Day Cup,Yorkshire,Derbyshire,Derbyshire,field,Yorkshire,"County Ground, Derby",6,6,100,2,2,100,2,30,2,0,100,0,3,2
+804725,2015,2015-07-26,Royal London One-Day Cup,Somerset,Derbyshire,Somerset,field,Derbyshire,"County Ground, Taunton",3,2,67,1,0,0,12,1,0,1,0,100,4,3
+804715,2015,2015-07-25,Royal London One-Day Cup,Warwickshire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire,"Welbeck Colliery Cricket Club Ground, Market Warsop",8,2,25,1,0,0,1,1,0,1,0,100,2,4
+804713,2015,2015-07-25,Royal London One-Day Cup,Northamptonshire,Durham,Northamptonshire,field,Durham,"County Ground, Northampton",6,2,33,3,1,33,19,3,1,2,5,66,2,2
+870891,2015,2015-06-27,ICC World Cricket League Championship,United Arab Emirates,Kenya,United Arab Emirates,field,Kenya,"The Rose Bowl (Nursery), Southampton",4,2,50,1,0,0,1,1,0,1,0,100,3,2
+870887,2015,2015-06-24,ICC World Cricket League Championship,Papua New Guinea,Netherlands,Papua New Guinea,field,Netherlands,"Vra Cricket Ground, Amstelveen",2,0,0,1,0,0,1,1,0,1,0,100,1,5
+812809,2015,2015-01-24,ICC World Cricket League Division Two,Netherlands,Namibia,Netherlands,field,Netherlands,"Wanderers Cricket Ground, Windhoek",4,3,75,3,3,100,4,10,3,0,75,0,5,0
+812807,2015,2015-01-24,ICC World Cricket League Division Two,Uganda,Canada,Canada,bat,Uganda,"United Cricket Club Ground, Windhoek",2,1,50,1,1,100,2,6,1,0,50,0,1,2
+812805,2015,2015-01-24,ICC World Cricket League Division Two,Nepal,Kenya,Nepal,field,Kenya,"Affies Park, Windhoek",5,2,40,2,0,0,2,2,0,2,0,100,1,1
+812803,2015,2015-01-23,ICC World Cricket League Division Two,Nepal,Kenya,Kenya,field,Kenya,"Affies Park, Windhoek",5,2,40,2,0,0,2,2,0,2,0,100,1,1
+812801,2015,2015-01-23,ICC World Cricket League Division Two,Namibia,Canada,Namibia,field,Namibia,"United Cricket Club Ground, Windhoek",6,4,67,3,3,100,6,6,3,0,50,0,4,2
+812799,2015,2015-01-23,ICC World Cricket League Division Two,Netherlands,Uganda,Netherlands,field,Netherlands,"Wanderers Cricket Ground, Windhoek",1,1,100,1,1,100,4,1,1,0,25,0,5,3
+812797,2015,2015-01-21,ICC World Cricket League Division Two,Uganda,Canada,Canada,bat,Canada,"Affies Park, Windhoek",2,1,50,1,0,0,2,6,0,1,0,16,1,2
+812795,2015,2015-01-21,ICC World Cricket League Division Two,Nepal,Namibia,Nepal,field,Nepal,"United Cricket Club Ground, Windhoek",3,3,100,1,1,100,1,1,1,0,100,0,1,0
+812791,2015,2015-01-20,ICC World Cricket League Division Two,Netherlands,Namibia,Netherlands,field,Namibia,"Affies Park, Windhoek",4,3,75,1,0,0,1,3,0,1,0,33,5,0
+812789,2015,2015-01-20,ICC World Cricket League Division Two,Uganda,Kenya,Kenya,field,Kenya,"United Cricket Club Ground, Windhoek",4,1,25,1,0,0,2,6,0,1,0,16,1,2
+812787,2015,2015-01-20,ICC World Cricket League Division Two,Nepal,Canada,Canada,bat,Nepal,"Wanderers Cricket Ground, Windhoek",2,2,100,2,2,100,3,5,2,0,66,0,2,2
+812785,2015,2015-01-18,ICC World Cricket League Division Two,Kenya,Canada,Canada,bat,Canada,"Affies Park, Windhoek",2,0,0,2,0,0,2,6,0,2,0,33,0,2
+812783,2015,2015-01-18,ICC World Cricket League Division Two,Netherlands,Nepal,Netherlands,bat,Nepal,"United Cricket Club Ground, Windhoek",3,2,67,1,0,0,1,2,0,1,0,50,5,3
+812781,2015,2015-01-18,ICC World Cricket League Division Two,Uganda,Namibia,Uganda,bat,Namibia,"Wanderers Cricket Ground, Windhoek",3,0,0,3,0,0,3,10,0,3,0,30,2,0
+812779,2015,2015-01-17,ICC World Cricket League Division Two,Uganda,Nepal,Uganda,bat,Uganda,"Affies Park, Windhoek",4,2,50,1,1,100,2,2,1,0,50,0,2,2
+812777,2015,2015-01-17,ICC World Cricket League Division Two,Canada,Netherlands,Canada,field,Netherlands,"United Cricket Club Ground, Windhoek",1,0,0,1,0,0,1,1,0,1,0,100,5,5
+812775,2015,2015-01-17,ICC World Cricket League Division Two,Namibia,Kenya,Namibia,field,Namibia,"Wanderers Cricket Ground, Windhoek",6,3,50,3,1,33,8,5,1,2,12,40,3,2
+785993,2014,2014-10-30,ICC World Cricket League Division Three,Uganda,Nepal,Nepal,bat,Nepal,"Kinrara Academy Oval, Kuala Lumpur",4,2,50,2,1,50,5,4,1,1,20,25,3,2
+785991,2014,2014-10-30,ICC World Cricket League Division Three,United States Of America,Bermuda,Bermuda,bat,United States Of America,"Selangor Turf Club, Kuala Lumpur",3,3,100,1,1,100,3,2,1,0,33,0,3,0
+785989,2014,2014-10-30,ICC World Cricket League Division Three,Singapore,Malaysia,Malaysia,field,Malaysia,"Bayuemas Oval, Kuala Lumpur",9,5,56,2,0,0,5,4,0,2,0,50,3,3
+785987,2014,2014-10-29,ICC World Cricket League Division Three,Nepal,Malaysia,Nepal,field,Nepal,"Selangor Turf Club, Kuala Lumpur",3,3,100,2,2,100,4,5,2,0,50,0,3,3
+785985,2014,2014-10-29,ICC World Cricket League Division Three,Uganda,Bermuda,Bermuda,bat,Uganda,"Bayuemas Oval, Kuala Lumpur",3,3,100,1,1,100,2,3,1,0,50,0,3,0
+785983,2014,2014-10-29,ICC World Cricket League Division Three,United States Of America,Singapore,Singapore,bat,Singapore,"Kinrara Academy Oval, Kuala Lumpur",4,2,50,1,0,0,2,2,0,1,0,50,2,5
+793201,2014,2014-10-28,ICC World Cricket League Division Three,Singapore,Bermuda,Bermuda,bat,Singapore,"Bayuemas Oval, Kuala Lumpur",1,1,100,1,1,100,5,3,1,0,20,0,2,1
+785979,2014,2014-10-27,ICC World Cricket League Division Three,Uganda,Malaysia,Uganda,bat,Malaysia,"Bayuemas Oval, Kuala Lumpur",3,1,33,1,0,0,2,4,0,1,0,25,4,2
+785975,2014,2014-10-26,ICC World Cricket League Division Three,United States Of America,Uganda,Uganda,bat,Uganda,"Selangor Turf Club, Kuala Lumpur",2,1,50,1,0,0,3,1,0,1,0,100,2,3
+785969,2014,2014-10-24,ICC World Cricket League Division Three,Nepal,Bermuda,Nepal,field,Nepal,"Selangor Turf Club, Kuala Lumpur",2,2,100,1,1,100,4,2,1,0,25,0,2,1
+785967,2014,2014-10-24,ICC World Cricket League Division Three,Malaysia,United States Of America,Malaysia,field,Malaysia,"Bayuemas Oval, Kuala Lumpur",1,1,100,1,1,100,3,1,1,0,33,0,2,2
+785965,2014,2014-10-24,ICC World Cricket League Division Three,Uganda,Singapore,Uganda,bat,Uganda,"Kinrara Academy Oval, Kuala Lumpur",3,2,67,1,1,100,5,2,1,0,20,0,3,4
+785963,2014,2014-10-23,ICC World Cricket League Division Three,Singapore,Malaysia,Singapore,field,Singapore,"Selangor Turf Club, Kuala Lumpur",9,5,56,1,1,100,5,5,1,0,20,0,2,3
+785961,2014,2014-10-23,ICC World Cricket League Division Three,United States Of America,Bermuda,United States of America,field,United States Of America,"Bayuemas Oval, Kuala Lumpur",3,3,100,1,1,100,2,3,1,0,50,0,2,2
+785959,2014,2014-10-23,ICC World Cricket League Division Three,Uganda,Nepal,Nepal,field,Uganda,"Kinrara Academy Oval, Kuala Lumpur",4,2,50,2,1,50,5,4,1,1,20,25,3,2
+693431,2014,2014-09-20,Royal London One-Day Cup,Warwickshire,Durham,Durham,field,Durham,"Lord'S, London",8,2,25,1,0,0,3,1,0,1,0,100,3,3
+693429,2014,2014-09-06,Royal London One-Day Cup,Nottinghamshire,Durham,Nottinghamshire,field,Durham,"Riverside Ground, Chester-Le-Street",7,3,43,4,1,25,4,23,1,3,25,13,4,4
+693427,2014,2014-09-04,Royal London One-Day Cup,Kent,Warwickshire,Kent,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",1,0,0,1,0,0,1,4,0,1,0,25,3,3
+693425,2014,2014-08-29,Royal London One-Day Cup,Kent,Gloucestershire,Kent,bat,Kent,"St Lawrence Ground, Canterbury",6,3,50,2,2,100,11,2,2,0,18,0,4,2
+693423,2014,2014-08-28,Royal London One-Day Cup,Warwickshire,Essex,Essex,field,Warwickshire,"County Ground, Chelmsford",3,2,67,2,1,50,2,38,1,1,50,2,3,4
+693421,2014,2014-08-28,Royal London One-Day Cup,Yorkshire,Durham,Yorkshire,field,Durham,"Headingley, Leeds",5,3,60,2,1,50,18,2,1,1,5,50,4,5
+693419,2014,2014-08-26,Royal London One-Day Cup,Nottinghamshire,Derbyshire,Nottinghamshire,bat,Nottinghamshire,"Trent Bridge, Nottingham",6,5,83,2,2,100,10,2,2,0,20,0,4,2
+693417,2014,2014-08-21,Royal London One-Day Cup,Yorkshire,Hampshire,Yorkshire,field,Yorkshire,"The Rose Bowl, Southampton",4,1,25,2,1,50,2,24,1,1,50,4,4,2
+693415,2014,2014-08-21,Royal London One-Day Cup,Gloucestershire,Derbyshire,Gloucestershire,field,Derbyshire,"County Ground, Derby",3,2,67,1,0,0,1,30,0,1,0,3,2,3
+693413,2014,2014-08-21,Royal London One-Day Cup,Leicestershire,Lancashire,Leicestershire,bat,Lancashire,"Old Trafford, Manchester",6,3,50,4,2,50,4,16,2,2,50,12,1,4
+693411,2014,2014-08-21,Royal London One-Day Cup,Northamptonshire,Essex,Essex,field,Essex,"County Ground, Northampton",2,1,50,2,1,50,19,2,1,1,5,50,2,4
+693409,2014,2014-08-20,Royal London One-Day Cup,Middlesex,Kent,Middlesex,field,Middlesex,"St Lawrence Ground, Canterbury",8,5,62,3,2,66,3,14,2,1,66,7,2,1
+693407,2014,2014-08-20,Royal London One-Day Cup,Sussex,Glamorgan,Sussex,bat,Glamorgan,"County Ground, Hove, Brighton",6,1,17,4,1,25,27,4,1,3,3,75,0,3
+693405,2014,2014-08-20,Royal London One-Day Cup,Surrey,Somerset,Somerset,field,Surrey,"Kennington Oval, London",7,2,29,4,2,50,22,4,2,2,9,50,2,3
+693403,2014,2014-08-20,Royal London One-Day Cup,Warwickshire,Nottinghamshire,Warwickshire,bat,Nottinghamshire,"Trent Bridge, Nottingham",8,2,25,3,1,33,3,9,1,2,33,22,3,5
+693401,2014,2014-08-14,Royal London One-Day Cup,Surrey,Durham,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",4,2,50,3,1,33,3,23,1,2,33,8,3,5
+693399,2014,2014-08-14,Royal London One-Day Cup,Northamptonshire,Lancashire,Lancashire,field,Northamptonshire,"Old Trafford, Manchester",6,4,67,2,1,50,2,16,1,1,50,6,2,3
+693397,2014,2014-08-14,Royal London One-Day Cup,Worcestershire,Leicestershire,Leicestershire,field,Leicestershire,"Grace Road, Leicester",5,3,60,3,1,33,3,20,1,2,33,10,1,1
+693395,2014,2014-08-14,Royal London One-Day Cup,Nottinghamshire,Middlesex,Middlesex,field,Nottinghamshire,"Lord'S, London",4,2,50,2,2,100,2,8,2,0,100,0,3,3
+693393,2014,2014-08-14,Royal London One-Day Cup,Warwickshire,Glamorgan,Warwickshire,field,Warwickshire,"St Helen'S, Swansea",4,3,75,1,1,100,1,4,1,0,100,0,2,3
+693391,2014,2014-08-13,Royal London One-Day Cup,Sussex,Kent,Sussex,field,Kent,"St Lawrence Ground, Canterbury",6,3,50,3,1,33,3,14,1,2,33,14,0,0
+693389,2014,2014-08-13,Royal London One-Day Cup,Hampshire,Essex,Hampshire,field,Essex,"County Ground, Chelmsford",9,3,33,3,0,0,3,38,0,3,0,7,3,4
+693387,2014,2014-08-13,Royal London One-Day Cup,Worcestershire,Gloucestershire,Gloucestershire,field,Gloucestershire,"County Ground, New Road, Worcester",4,2,50,3,1,33,33,3,1,2,3,66,0,2
+693385,2014,2014-08-13,Royal London One-Day Cup,Yorkshire,Derbyshire,Yorkshire,field,Yorkshire,"North Marine Road Ground, Scarborough",6,6,100,1,1,100,9,1,1,0,11,0,3,3
+693381,2014,2014-08-12,Royal London One-Day Cup,Warwickshire,Surrey,Warwickshire,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",3,2,67,1,1,100,26,1,1,0,3,0,2,3
+693379,2014,2014-08-12,Royal London One-Day Cup,Nottinghamshire,Durham,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",7,3,43,4,1,25,4,23,1,3,25,13,3,5
+693377,2014,2014-08-12,Royal London One-Day Cup,Somerset,Glamorgan,Somerset,field,Glamorgan,"County Ground, Taunton",7,5,71,2,1,50,12,2,1,1,8,50,4,3
+693373,2014,2014-08-11,Royal London One-Day Cup,Northamptonshire,Derbyshire,Derbyshire,bat,Derbyshire,"County Ground, Northampton",9,2,22,6,2,33,19,6,2,4,10,66,2,3
+693371,2014,2014-08-11,Royal London One-Day Cup,Yorkshire,Essex,Essex,field,Essex,"North Marine Road Ground, Scarborough",6,3,50,1,0,0,9,1,0,1,0,100,4,3
+693361,2014,2014-08-10,Royal London One-Day Cup,Sussex,Somerset,Sussex,field,Sussex,"County Ground, Taunton",7,4,57,2,1,50,2,6,1,1,50,16,0,2
+693357,2014,2014-08-09,Royal London One-Day Cup,Worcestershire,Lancashire,Worcestershire,field,Worcestershire,"County Ground, New Road, Worcester",6,4,67,3,3,100,33,3,3,0,9,0,0,3
+693351,2014,2014-08-08,Royal London One-Day Cup,Yorkshire,Leicestershire,Yorkshire,field,Yorkshire,"Grace Road, Leicester",8,7,88,5,4,80,5,20,4,1,80,5,3,1
+693349,2014,2014-08-08,Royal London One-Day Cup,Sussex,Middlesex,Sussex,bat,Middlesex,"County Ground, Hove, Brighton",7,4,57,6,3,50,27,6,3,3,11,50,1,4
+693347,2014,2014-08-08,Royal London One-Day Cup,Glamorgan,Durham,Durham,bat,Durham,"Sophia Gardens, Cardiff",2,1,50,1,0,0,5,1,0,1,0,100,3,5
+693343,2014,2014-08-07,Royal London One-Day Cup,Lancashire,Derbyshire,Lancashire,bat,Lancashire,"County Ground, Derby",6,6,100,3,3,100,3,30,3,0,100,0,4,2
+693341,2014,2014-08-07,Royal London One-Day Cup,Yorkshire,Worcestershire,Worcestershire,bat,Yorkshire,"Headingley, Leeds",7,3,43,3,1,33,18,3,1,2,5,66,2,3
+693339,2014,2014-08-07,Royal London One-Day Cup,Somerset,Middlesex,Somerset,field,Somerset,"Lord'S, London",5,3,60,1,1,100,2,8,1,0,50,0,4,3
+693337,2014,2014-08-06,Royal London One-Day Cup,Leicestershire,Hampshire,Hampshire,bat,Leicestershire,"The Rose Bowl, Southampton",3,3,100,2,2,100,2,24,2,0,100,0,1,2
+693335,2014,2014-08-06,Royal London One-Day Cup,Kent,Glamorgan,Glamorgan,bat,Kent,"St Lawrence Ground, Canterbury",6,2,33,3,2,66,11,3,2,1,18,33,4,3
+693333,2014,2014-08-06,Royal London One-Day Cup,Sussex,Surrey,Sussex,bat,Sussex,"Kennington Oval, London",5,4,80,1,1,100,1,4,1,0,100,0,1,3
+693331,2014,2014-08-05,Royal London One-Day Cup,Leicestershire,Gloucestershire,Gloucestershire,field,Gloucestershire,"County Ground, Bristol",4,2,50,2,1,50,2,21,1,1,50,4,1,3
+693329,2014,2014-08-05,Royal London One-Day Cup,Lancashire,Essex,Essex,field,Essex,"County Ground, Chelmsford",2,0,0,2,0,0,2,38,0,2,0,5,4,2
+693327,2014,2014-08-05,Royal London One-Day Cup,Warwickshire,Somerset,Warwickshire,field,Somerset,"Edgbaston Foundation Community Sports Ground, Birmingham",5,3,60,3,2,66,26,3,2,1,7,33,2,2
+693325,2014,2014-08-05,Royal London One-Day Cup,Sussex,Durham,Durham,bat,Sussex,"County Ground, Hove, Brighton",3,2,67,2,1,50,27,2,1,1,3,50,2,4
+693321,2014,2014-08-05,Royal London One-Day Cup,Yorkshire,Northamptonshire,Yorkshire,field,Yorkshire,"County Ground, Northampton",6,6,100,3,3,100,3,14,3,0,100,0,1,1
+693319,2014,2014-07-31,Royal London One-Day Cup,Hampshire,Gloucestershire,Hampshire,field,Gloucestershire,"County Ground, Bristol",6,2,33,4,0,0,4,21,0,4,0,19,2,3
+693317,2014,2014-07-31,Royal London One-Day Cup,Leicestershire,Essex,Leicestershire,bat,Leicestershire,"County Ground, Chelmsford",2,2,100,1,1,100,1,38,1,0,100,0,1,1
+693315,2014,2014-07-31,Royal London One-Day Cup,Warwickshire,Durham,Durham,field,Durham,"Roseworth Terrace, Gosforth",8,2,25,2,0,0,2,8,0,2,0,25,2,4
+693313,2014,2014-07-31,Royal London One-Day Cup,Surrey,Middlesex,Surrey,bat,Middlesex,"Lord'S, London",6,3,50,3,2,66,5,8,2,1,40,12,3,3
+693309,2014,2014-07-31,Royal London One-Day Cup,Somerset,Kent,Somerset,field,Kent,"County Ground, Taunton",4,1,25,2,1,50,12,2,1,1,8,50,4,0
+693307,2014,2014-07-30,Royal London One-Day Cup,Nottinghamshire,Glamorgan,Nottinghamshire,field,Nottinghamshire,"Sophia Gardens, Cardiff",2,1,50,2,1,50,2,19,1,1,50,5,2,3
+693305,2014,2014-07-29,Royal London One-Day Cup,Kent,Durham,Durham,bat,Kent,"St Lawrence Ground, Canterbury",2,1,50,1,1,100,11,1,1,0,9,0,4,3
+693303,2014,2014-07-29,Royal London One-Day Cup,Warwickshire,Sussex,Warwickshire,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",4,4,100,1,1,100,26,1,1,0,3,0,2,3
+693301,2014,2014-07-29,Royal London One-Day Cup,Yorkshire,Gloucestershire,Yorkshire,bat,Gloucestershire,"Headingley, Leeds",2,0,0,2,0,0,18,2,0,2,0,100,1,3
+693299,2014,2014-07-29,Royal London One-Day Cup,Worcestershire,Northamptonshire,Northamptonshire,field,Worcestershire,"Campbell Park, Milton Keynes",7,5,71,1,1,100,1,1,1,0,100,0,0,0
+693295,2014,2014-07-27,Royal London One-Day Cup,Northamptonshire,Gloucestershire,Northamptonshire,field,Northamptonshire,"College Ground, Cheltenham",3,2,67,2,1,50,2,4,1,1,50,25,2,3
+693293,2014,2014-07-27,Royal London One-Day Cup,Lancashire,Hampshire,Hampshire,bat,Hampshire,"Old Trafford, Manchester",6,2,33,2,0,0,5,2,0,2,0,100,5,3
+693291,2014,2014-07-27,Royal London One-Day Cup,Leicestershire,Derbyshire,Leicestershire,bat,Derbyshire,"Grace Road, Leicester",6,2,33,4,2,50,12,4,2,2,16,50,2,2
+693289,2014,2014-07-27,Royal London One-Day Cup,Surrey,Glamorgan,Glamorgan,field,Glamorgan,"Woodbridge Road, Guildford",4,2,50,1,0,0,6,1,0,1,0,100,4,3
+693287,2014,2014-07-27,Royal London One-Day Cup,Sussex,Nottinghamshire,Sussex,field,Nottinghamshire,"Cricket Field Road Ground, Horsham",3,0,0,1,0,0,1,1,0,1,0,100,3,4
+693285,2014,2014-07-27,Royal London One-Day Cup,Warwickshire,Middlesex,Warwickshire,bat,Warwickshire,"Lord'S, London",2,1,50,1,1,100,3,8,1,0,33,0,3,3
+693283,2014,2014-07-27,Royal London One-Day Cup,Worcestershire,Essex,Essex,field,Essex,"County Ground, New Road, Worcester",3,2,67,2,1,50,33,2,1,1,3,50,1,1
+693281,2014,2014-07-27,Royal London One-Day Cup,Somerset,Durham,Durham,bat,Somerset,"County Ground, Taunton",4,2,50,2,1,50,12,2,1,1,8,50,4,2
+693279,2014,2014-07-26,Royal London One-Day Cup,Hampshire,Derbyshire,Hampshire,field,Derbyshire,"County Ground, Derby",2,1,50,2,1,50,2,30,1,1,50,3,2,1
+693277,2014,2014-07-26,Royal London One-Day Cup,Yorkshire,Lancashire,Yorkshire,bat,Yorkshire,"Old Trafford, Manchester",6,4,67,3,3,100,3,16,3,0,100,0,0,2
+693275,2014,2014-07-26,Royal London One-Day Cup,Middlesex,Glamorgan,Glamorgan,field,Glamorgan,"Sophia Gardens, Cardiff",6,5,83,3,2,66,3,19,2,1,66,5,1,3
+749573,2014,2014-06-28,ICC World Cricket League Division Four,Oman,Jersey,Jersey,field,Oman,"Indian Association Ground, Singapore",3,2,67,1,1,100,2,3,1,0,50,0,2,3
+749571,2014,2014-06-28,ICC World Cricket League Division Four,Italy,Denmark,Denmark,bat,Denmark,"Singapore Cricket Club, Padang",2,0,0,1,0,0,1,1,0,1,0,100,3,4
+749569,2014,2014-06-28,ICC World Cricket League Division Four,Singapore,Malaysia,Singapore,field,Malaysia,"Kallang Ground, Singapore",9,5,56,1,0,0,4,2,0,1,0,50,1,4
+749567,2014,2014-06-27,ICC World Cricket League Division Four,Singapore,Jersey,Singapore,field,Singapore,"Indian Association Ground, Singapore",1,1,100,1,1,100,1,3,1,0,100,0,2,3
+749563,2014,2014-06-27,ICC World Cricket League Division Four,Oman,Malaysia,Malaysia,field,Malaysia,"Kallang Ground, Singapore",2,1,50,1,0,0,1,2,0,1,0,50,3,4
+749561,2014,2014-06-25,ICC World Cricket League Division Four,Italy,Malaysia,Italy,field,Malaysia,"Indian Association Ground, Singapore",1,0,0,1,0,0,1,1,0,1,0,100,4,3
+749557,2014,2014-06-25,ICC World Cricket League Division Four,Singapore,Oman,Singapore,field,Singapore,"Kallang Ground, Singapore",3,1,33,1,1,100,4,1,1,0,25,0,2,3
+749555,2014,2014-06-24,ICC World Cricket League Division Four,Oman,Denmark,Oman,field,Denmark,"Indian Association Ground, Singapore",3,2,67,1,0,0,2,1,0,1,0,100,3,4
+749553,2014,2014-06-24,ICC World Cricket League Division Four,Singapore,Malaysia,Malaysia,field,Singapore,"Singapore Cricket Club, Padang",9,5,56,1,1,100,1,1,1,0,100,0,2,4
+749551,2014,2014-06-24,ICC World Cricket League Division Four,Jersey,Italy,Jersey,field,Jersey,"Kallang Ground, Singapore",4,4,100,1,1,100,1,1,1,0,100,0,4,1
+749547,2014,2014-06-22,ICC World Cricket League Division Four,Oman,Jersey,Jersey,bat,Oman,"Singapore Cricket Club, Padang",3,2,67,1,1,100,2,1,1,0,50,0,3,4
+749545,2014,2014-06-22,ICC World Cricket League Division Four,Malaysia,Denmark,Malaysia,field,Malaysia,"Kallang Ground, Singapore",5,3,60,1,1,100,1,2,1,0,100,0,2,4
+749543,2014,2014-06-21,ICC World Cricket League Division Four,Malaysia,Jersey,Jersey,bat,Malaysia,"Indian Association Ground, Singapore",2,1,50,1,1,100,1,3,1,0,100,0,3,3
+749541,2014,2014-06-21,ICC World Cricket League Division Four,Oman,Italy,Oman,bat,Italy,"Singapore Cricket Club, Padang",3,2,67,1,0,0,2,1,0,1,0,100,3,0
+749539,2014,2014-06-21,ICC World Cricket League Division Four,Singapore,Denmark,Singapore,field,Denmark,"Kallang Ground, Singapore",7,4,57,1,0,0,4,2,0,1,0,50,3,4
+746109,2014,2014-06-13,Asian Cricket Council Elite League,Bhutan,Bahrain,Bhutan,field,Bahrain,"Indian Association Ground, Singapore",2,0,0,1,0,0,1,2,0,1,0,50,0,2
+746107,2014,2014-06-13,Asian Cricket Council Elite League,Singapore,Maldives,Singapore,field,Singapore,"The Padang, Singapore",1,1,100,1,1,100,2,1,1,0,50,0,3,1
+746105,2014,2014-06-13,Asian Cricket Council Elite League,Kuwait,Saudi Arabia,Kuwait,field,Kuwait,"Kallang Ground, Singapore",1,1,100,1,1,100,2,1,1,0,50,0,3,3
+746101,2014,2014-06-11,Asian Cricket Council Elite League,Kuwait,Bhutan,Bhutan,bat,Kuwait,"Singapore Cricket Club, Padang",2,2,100,1,1,100,1,1,1,0,100,0,2,0
+746097,2014,2014-06-10,Asian Cricket Council Elite League,Saudi Arabia,Bahrain,Saudi Arabia,field,Saudi Arabia,"Indian Association Ground, Singapore",2,2,100,1,1,100,1,2,1,0,100,0,2,1
+746095,2014,2014-06-10,Asian Cricket Council Elite League,Singapore,Bhutan,Singapore,bat,Singapore,"The Padang, Singapore",1,1,100,1,1,100,2,2,1,0,50,0,3,0
+746093,2014,2014-06-10,Asian Cricket Council Elite League,Kuwait,Maldives,Maldives,field,Kuwait,"Kallang Ground, Singapore",1,1,100,1,1,100,2,1,1,0,50,0,1,1
+746091,2014,2014-06-08,Asian Cricket Council Elite League,Bahrain,Maldives,Bahrain,bat,Maldives,"Indian Association Ground, Singapore",1,0,0,1,0,0,1,1,0,1,0,100,3,0
+746089,2014,2014-06-08,Asian Cricket Council Elite League,Saudi Arabia,Bhutan,Saudi Arabia,bat,Saudi Arabia,"The Padang, Singapore",2,2,100,1,1,100,1,2,1,0,100,0,2,0
+746087,2014,2014-06-08,Asian Cricket Council Elite League,Singapore,Kuwait,Kuwait,field,Singapore,"Kallang Ground, Singapore",1,1,100,1,1,100,4,1,1,0,25,0,3,4
+736525,2014,2014-05-07,Asian Cricket Council Premier League,Malaysia,Hong Kong,Hong Kong,field,Hong Kong,"Selangor Turf Club, Kuala Lumpur",1,0,0,1,0,0,1,2,0,1,0,50,3,2
+736521,2014,2014-05-07,Asian Cricket Council Premier League,Nepal,Afghanistan,Nepal,field,Afghanistan,"Kinrara Academy Oval, Kuala Lumpur",2,0,0,1,0,0,1,1,0,1,0,100,2,3
+736519,2014,2014-05-05,Asian Cricket Council Premier League,Malaysia,United Arab Emirates,United Arab Emirates,field,United Arab Emirates,"Kinrara Academy Oval, Kuala Lumpur",1,0,0,1,0,0,5,1,0,1,0,100,2,3
+736517,2014,2014-05-05,Asian Cricket Council Premier League,Nepal,Hong Kong,Nepal,field,Nepal,"Bayuemas Oval, Kuala Lumpur",3,2,67,1,1,100,3,1,1,0,33,0,2,3
+736515,2014,2014-05-05,Asian Cricket Council Premier League,Afghanistan,Oman,Afghanistan,field,Afghanistan,"Selangor Turf Club, Kuala Lumpur",1,1,100,1,1,100,1,1,1,0,100,0,4,2
+736507,2014,2014-05-02,Asian Cricket Council Premier League,Oman,Hong Kong,Hong Kong,field,Oman,"Selangor Turf Club, Kuala Lumpur",2,2,100,1,1,100,1,2,1,0,100,0,4,2
+736505,2014,2014-05-02,Asian Cricket Council Premier League,Nepal,Malaysia,Malaysia,bat,Nepal,"Bayuemas Oval, Kuala Lumpur",3,3,100,1,1,100,3,4,1,0,33,0,1,4
+736501,2014,2014-05-01,Asian Cricket Council Premier League,United Arab Emirates,Nepal,Nepal,field,Nepal,"Selangor Turf Club, Kuala Lumpur",5,3,60,1,0,0,1,1,0,1,0,100,3,1
+736499,2014,2014-05-01,Asian Cricket Council Premier League,Oman,Malaysia,Oman,bat,Oman,"Kinrara Academy Oval, Kuala Lumpur",2,1,50,1,1,100,1,6,1,0,100,0,4,3
+722687,2014,2014-03-13,ICC World Cricket League Division Five,Tanzania,Nigeria,Nigeria,bat,Tanzania,"Royal Selangor Club, Kuala Lumpur",2,2,100,1,1,100,1,1,1,0,100,0,2,1
+722679,2014,2014-03-12,ICC World Cricket League Division Five,Guernsey,Jersey,Guernsey,bat,Jersey,"Kinrara Academy Oval, Kuala Lumpur",1,0,0,1,0,0,1,1,0,1,0,100,4,3
+722677,2014,2014-03-10,ICC World Cricket League Division Five,Cayman Islands,Jersey,Jersey,bat,Jersey,"Bayuemas Oval, Kuala Lumpur",1,0,0,1,0,0,1,1,0,1,0,100,1,3
+722673,2014,2014-03-10,ICC World Cricket League Division Five,Malaysia,Guernsey,Malaysia,bat,Malaysia,"Kinrara Academy Oval, Kuala Lumpur",1,1,100,1,1,100,5,1,1,0,20,0,3,4
+722667,2014,2014-03-09,ICC World Cricket League Division Five,Cayman Islands,Nigeria,Nigeria,field,Nigeria,"Kinrara Academy Oval, Kuala Lumpur",1,0,0,1,0,0,1,1,0,1,0,100,1,1
+722665,2014,2014-03-07,ICC World Cricket League Division Five,Malaysia,Cayman Islands,Cayman Islands,field,Malaysia,"Bayuemas Oval, Kuala Lumpur",1,1,100,1,1,100,3,1,1,0,33,0,4,1
+661889,2013,2013-09-29,ICC World Cricket League Championship,United Arab Emirates,Namibia,Namibia,field,United Arab Emirates,"Sharjah Cricket Association Stadium, Sharjah",4,4,100,2,2,100,6,2,2,0,33,0,2,1
+661887,2013,2013-09-27,ICC World Cricket League Championship,United Arab Emirates,Namibia,Namibia,field,United Arab Emirates,"Sharjah Cricket Association Stadium, Sharjah",4,4,100,2,2,100,6,2,2,0,33,0,3,1
+631143,2013,2013-08-11,ICC World Cricket League Championship,Namibia,Afghanistan,Namibia,bat,Afghanistan,"Wanderers Cricket Ground, Windhoek",2,0,0,2,0,0,8,2,0,2,0,100,2,2
+631142,2013,2013-08-09,ICC World Cricket League Championship,Namibia,Afghanistan,Namibia,field,Afghanistan,"Wanderers Cricket Ground, Windhoek",2,0,0,2,0,0,8,2,0,2,0,100,1,1
+628096,2013,2013-05-05,ICC World Cricket League Division Three,Uganda,Nepal,Uganda,bat,Nepal,"National Stadium, Hamilton",4,2,50,1,0,0,1,1,0,1,0,100,2,0
+628095,2013,2013-05-05,ICC World Cricket League Division Three,Oman,Italy,Italy,bat,Oman,"Somerset Cricket Club, Bermuda",3,2,67,1,1,100,1,1,1,0,100,0,4,0
+628093,2013,2013-05-04,ICC World Cricket League Division Three,Uganda,Oman,Uganda,bat,Oman,"Somerset Cricket Club, Bermuda",3,0,0,1,0,0,1,1,0,1,0,100,1,3
+628092,2013,2013-05-04,ICC World Cricket League Division Three,Italy,Nepal,Nepal,field,Nepal,"Lords, St David'S Cricket Club Ground, Bermuda",1,0,0,1,0,0,1,1,0,1,0,100,4,1
+628090,2013,2013-05-02,ICC World Cricket League Division Three,Italy,Bermuda,Bermuda,bat,Bermuda,"Somerset Cricket Club, Bermuda",3,2,67,1,0,0,1,1,0,1,0,100,3,2
+628086,2013,2013-05-01,ICC World Cricket League Division Three,Nepal,Bermuda,Nepal,field,Nepal,"Lords, St David'S Cricket Club Ground, Bermuda",2,2,100,1,1,100,1,2,1,0,100,0,0,3
+628083,2013,2013-04-29,ICC World Cricket League Division Three,Oman,Bermuda,Oman,field,Bermuda,"Lords, St David'S Cricket Club Ground, Bermuda",2,1,50,1,0,0,1,2,0,1,0,50,4,3
+628081,2013,2013-04-28,ICC World Cricket League Division Three,United States Of America,Nepal,Nepal,field,United States Of America,"Somerset Cricket Club, Bermuda",3,2,67,1,1,100,1,1,1,0,100,0,3,2
+592275,2013,2013-04-18,ICC World Cricket League Championship,Netherlands,Namibia,Netherlands,field,Netherlands,"Wanderers Cricket Ground, Windhoek",4,3,75,3,3,100,4,10,3,0,75,0,4,2
+592274,2013,2013-04-16,ICC World Cricket League Championship,Netherlands,Namibia,Namibia,field,Netherlands,"Wanderers Cricket Ground, Windhoek",4,3,75,3,3,100,4,10,3,0,75,0,3,3
+592264,2013,2013-03-20,ICC World Cricket League Championship,United Arab Emirates,Ireland,Ireland,field,Ireland,"Sharjah Cricket Association Stadium, Sharjah",2,0,0,2,0,0,6,2,0,2,0,100,3,2
+592263,2013,2013-03-18,ICC World Cricket League Championship,United Arab Emirates,Ireland,Ireland,field,Ireland,"Sharjah Cricket Association Stadium, Sharjah",2,0,0,2,0,0,6,2,0,2,0,100,3,1
+555888,2012,2012-10-04,ICC World Cricket League Championship,Namibia,Kenya,Namibia,field,Namibia,"United Cricket Club Ground, Windhoek",6,3,50,3,2,66,6,6,2,1,33,16,1,3
+555887,2012,2012-10-02,ICC World Cricket League Championship,Namibia,Kenya,Kenya,field,Kenya,"United Cricket Club Ground, Windhoek",6,3,50,3,2,66,6,6,2,1,33,16,0,4
+579755,2012,2012-09-22,ICC World Cricket League Division Eight,Samoa,Norway,Samoa,field,Norway,"Faleata Oval No 3, Apia",1,0,0,1,0,0,2,1,0,1,0,100,1,1
+579754,2012,2012-09-22,ICC World Cricket League Division Eight,Belgium,Japan,Japan,bat,Japan,"Faleata Oval No 2, Apia",1,0,0,1,0,0,1,1,0,1,0,100,0,2
+579753,2012,2012-09-22,ICC World Cricket League Division Eight,Vanuatu,Ghana,Vanuatu,bat,Vanuatu,"Faleata Oval No 1, Apia",3,2,67,2,2,100,2,2,2,0,100,0,3,3
+579751,2012,2012-09-20,ICC World Cricket League Division Eight,Samoa,Bhutan,Bhutan,bat,Samoa,"Faleata Oval No 3, Apia",1,1,100,1,1,100,2,1,1,0,50,0,1,0
+579743,2012,2012-09-17,ICC World Cricket League Division Eight,Bhutan,Japan,Japan,bat,Japan,"Faleata Oval No 3, Apia",1,0,0,1,0,0,1,1,0,1,0,100,0,2
+579741,2012,2012-09-17,ICC World Cricket League Division Eight,Vanuatu,Ghana,Ghana,bat,Vanuatu,"Faleata Oval No 1, Apia",3,2,67,2,2,100,2,2,2,0,100,0,4,2
+576418,2012,2012-09-10,ICC World Cricket League Division Four,Singapore,Denmark,Denmark,bat,Singapore,"Selangor Turf Club, Kuala Lumpur",7,4,57,2,2,100,5,4,2,0,40,0,4,3
+576416,2012,2012-09-09,ICC World Cricket League Division Four,United States Of America,Singapore,United States of America,bat,United States Of America,"Bayuemas Oval, Kuala Lumpur",4,2,50,1,1,100,2,2,1,0,50,0,3,3
+576414,2012,2012-09-09,ICC World Cricket League Division Four,Denmark,Nepal,Nepal,bat,Nepal,"Kinrara Academy Oval, Kuala Lumpur",1,0,0,1,0,0,3,4,0,1,0,25,4,3
+576412,2012,2012-09-07,ICC World Cricket League Division Four,Singapore,Tanzania,Singapore,field,Singapore,"Selangor Turf Club, Kuala Lumpur",1,1,100,1,1,100,5,1,1,0,20,0,3,1
+576411,2012,2012-09-07,ICC World Cricket League Division Four,United States Of America,Nepal,Nepal,bat,Nepal,"Kinrara Academy Oval, Kuala Lumpur",3,2,67,1,0,0,2,4,0,1,0,25,4,3
+576410,2012,2012-09-06,ICC World Cricket League Division Four,Singapore,Denmark,Denmark,bat,Singapore,"Bayuemas Oval, Kuala Lumpur",7,4,57,1,1,100,5,2,1,0,20,0,4,2
+576409,2012,2012-09-06,ICC World Cricket League Division Four,Nepal,Malaysia,Malaysia,bat,Nepal,"Selangor Turf Club, Kuala Lumpur",3,3,100,2,2,100,4,5,2,0,50,0,1,3
+576408,2012,2012-09-06,ICC World Cricket League Division Four,Tanzania,United States Of America,United States of America,field,United States Of America,"Kinrara Academy Oval, Kuala Lumpur",1,0,0,1,0,0,1,1,0,1,0,100,2,3
+576407,2012,2012-09-04,ICC World Cricket League Division Four,Nepal,Tanzania,Tanzania,bat,Nepal,"Bayuemas Oval, Kuala Lumpur",1,1,100,1,1,100,3,1,1,0,33,0,2,1
+576406,2012,2012-09-04,ICC World Cricket League Division Four,United States Of America,Denmark,United States of America,field,Denmark,"Selangor Turf Club, Kuala Lumpur",2,0,0,1,0,0,3,4,0,1,0,25,3,1
+576405,2012,2012-09-04,ICC World Cricket League Division Four,Singapore,Malaysia,Singapore,bat,Singapore,"Kinrara Academy Oval, Kuala Lumpur",9,5,56,3,2,66,4,6,2,1,50,16,4,4
+576403,2012,2012-09-03,ICC World Cricket League Division Four,Nepal,Singapore,Singapore,bat,Nepal,"Selangor Turf Club, Kuala Lumpur",1,1,100,1,1,100,4,2,1,0,25,0,3,2
+576402,2012,2012-09-03,ICC World Cricket League Division Four,Denmark,Tanzania,Denmark,bat,Denmark,"Kinrara Academy Oval, Kuala Lumpur",1,1,100,1,1,100,3,1,1,0,33,0,3,1
+543891,2012,2012-04-12,ICC World Cricket League Championship,Namibia,Canada,Namibia,bat,Namibia,"Wanderers Cricket Ground, Windhoek",6,4,67,2,1,50,8,5,1,1,12,20,0,3
+543890,2012,2012-04-10,ICC World Cricket League Championship,Namibia,Canada,Canada,field,Canada,"Wanderers Cricket Ground, Windhoek",6,4,67,2,1,50,8,5,1,1,12,20,0,2
+543887,2012,2012-03-09,ICC World Cricket League Championship,United Arab Emirates,Scotland,Scotland,bat,United Arab Emirates,"Sharjah Cricket Association Stadium, Sharjah",2,2,100,2,2,100,6,2,2,0,33,0,3,3
+543886,2012,2012-03-07,ICC World Cricket League Championship,United Arab Emirates,Scotland,United Arab Emirates,field,United Arab Emirates,"Sharjah Cricket Association Stadium, Sharjah",2,2,100,2,2,100,6,2,2,0,33,0,3,2
+523806,2011,2011-09-28,ICC World Cricket League Championship,Scotland,Namibia,Namibia,bat,Scotland,"Wanderers Cricket Ground, Windhoek",3,2,67,1,1,100,1,10,1,0,100,0,1,4
+518072,2011,2011-07-26,ICC World Cricket League Championship,United Arab Emirates,Kenya,United Arab Emirates,field,United Arab Emirates,"Gymkhana Club Ground, Nairobi",4,2,50,2,1,50,2,2,1,1,50,50,2,5
+518071,2011,2011-07-25,ICC World Cricket League Championship,United Arab Emirates,Kenya,Kenya,bat,Kenya,"Gymkhana Club Ground, Nairobi",4,2,50,2,1,50,2,2,1,1,50,50,1,5
+467095,2010,2010-08-21,ICC World Cricket League Division Four,Argentina,Cayman Islands,Argentina,bat,Cayman Islands,"Centro Sportivo Dozza, Navile",1,0,0,1,0,0,2,1,0,1,0,100,0,1
+467093,2010,2010-08-21,ICC World Cricket League Division Four,United States Of America,Italy,Italy,bat,United States Of America,"Ovale Di Rastignano, Pianoro",2,2,100,1,1,100,2,1,1,0,50,0,3,0
+467092,2010,2010-08-20,ICC World Cricket League Division Four,Italy,Tanzania,Italy,bat,Italy,"Centro Sportivo Dozza, Navile",1,1,100,1,1,100,1,1,1,0,100,0,2,0
+467091,2010,2010-08-20,ICC World Cricket League Division Four,Cayman Islands,Nepal,Cayman Islands,bat,Nepal,"Centro Sportivo Ca'Nova, Medicina",1,0,0,1,0,0,1,1,0,1,0,100,1,4
+467090,2010,2010-08-20,ICC World Cricket League Division Four,Argentina,United States Of America,United States of America,bat,United States Of America,"Ovale Di Rastignano, Pianoro",1,0,0,1,0,0,1,1,0,1,0,100,0,2
+473029,2010,2010-08-19,ICC World Cricket League Division Four,United States Of America,Nepal,United States of America,bat,United States Of America,"Ovale Di Rastignano, Pianoro",3,2,67,1,1,100,2,1,1,0,50,0,3,4
+467089,2010,2010-08-18,ICC World Cricket League Division Four,Argentina,Nepal,Argentina,bat,Nepal,"Centro Sportivo Dozza, Navile",1,0,0,1,0,0,2,1,0,1,0,100,0,4
+467084,2010,2010-08-17,ICC World Cricket League Division Four,Italy,Argentina,Italy,bat,Italy,"Ovale Di Rastignano, Pianoro",1,1,100,1,1,100,1,1,1,0,100,0,1,0
+460048,2010,2010-06-01,ICC World Cricket League Americas Region Division One,United States Of America,Bermuda,United States of America,field,United States Of America,"National Stadium, Hamilton",3,3,100,1,1,100,2,2,1,0,50,0,4,3
+460045,2010,2010-05-31,ICC World Cricket League Americas Region Division One,Bermuda,Cayman Islands,Cayman Islands,field,Bermuda,"National Stadium, Hamilton",1,1,100,1,1,100,1,1,1,0,100,0,0,1
+460042,2010,2010-05-29,ICC World Cricket League Americas Region Division One,United States Of America,Canada,Canada,field,Canada,"National Stadium, Hamilton",2,0,0,1,0,0,2,1,0,1,0,100,4,2
+460039,2010,2010-05-28,ICC World Cricket League Americas Region Division One,Bahamas,Bermuda,Bermuda,field,Bermuda,"National Stadium, Hamilton",1,0,0,1,0,0,1,2,0,1,0,50,0,2

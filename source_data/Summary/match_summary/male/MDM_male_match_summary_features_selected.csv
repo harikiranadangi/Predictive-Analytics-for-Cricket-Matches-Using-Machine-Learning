@@ -1,0 +1,1029 @@
+match_id,season,match_date,event_name,team1,team2,toss_winner,toss_decision,winner,ground,h2h,h2h_team1_wins,h2h_team1_wins%,h2h_venue,h2h_venue_team1_wins,h2h_venue_team1_wins%,team1_venue,team2_venue,team1_venue_wins,team2_venue_wins,team1_venue_wins%,team2_venue_wins%,team1_last_5_wins,team2_last_5_wins
+1410225,2024,2024-05-27,County Championship,Kent,Essex,Essex,bat,Essex,"St Lawrence Ground, Canterbury",10,1,10,3,0,0,14,3,0,3,0,100,1,3
+1410224,2024,2024-05-26,County Championship,Surrey,Hampshire,Surrey,bat,Hampshire,"The Rose Bowl, Southampton",10,7,70,4,2,50,4,29,2,2,50,6,4,4
+1410223,2024,2024-05-25,County Championship,Somerset,Durham,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",5,2,40,2,0,0,2,41,0,2,0,4,3,4
+1410284,2024,2024-05-20,County Championship,Middlesex,Glamorgan,Middlesex,field,Middlesex,"Sophia Gardens, Cardiff",3,3,100,2,2,100,2,25,2,0,100,0,2,3
+1410221,2024,2024-05-20,County Championship,Somerset,Kent,Kent,field,Somerset,"The Cooper Associates County Ground, Taunton",3,2,67,1,1,100,12,1,1,0,8,0,3,1
+1410220,2024,2024-05-20,County Championship,Nottinghamshire,Hampshire,Hampshire,field,Hampshire,"Trent Bridge, Nottingham",10,1,10,5,1,20,28,5,1,4,3,80,3,3
+1410219,2024,2024-05-20,County Championship,Lancashire,Durham,Durham,field,Lancashire,"Stanley Park, Blackpool",5,2,40,1,1,100,2,1,1,0,50,0,1,5
+1410218,2024,2024-05-20,County Championship,Warwickshire,Essex,Warwickshire,bat,Essex,"County Ground, Chelmsford",8,3,38,4,0,0,4,46,0,4,0,8,2,2
+1410286,2024,2024-05-19,County Championship,Yorkshire,Sussex,Yorkshire,field,Sussex,"County Ground, Hove, Brighton",5,4,80,2,1,50,2,6,1,1,50,16,3,4
+1410222,2024,2024-05-19,County Championship,Worcestershire,Surrey,Worcestershire,field,Surrey,"Kennington Oval, London",3,1,33,1,0,0,1,9,0,1,0,11,3,4
+1410282,2024,2024-05-13,County Championship,Northamptonshire,Gloucestershire,Northamptonshire,field,Gloucestershire,"County Ground, Northampton",6,3,50,3,2,66,23,3,2,1,8,33,1,0
+1410217,2024,2024-05-13,County Championship,Warwickshire,Surrey,Surrey,field,Surrey,"Kennington Oval, London",9,2,22,5,0,0,5,9,0,5,0,55,3,4
+1410216,2024,2024-05-13,County Championship,Nottinghamshire,Lancashire,Lancashire,bat,Nottinghamshire,"Trent Bridge, Nottingham",6,4,67,3,2,66,28,3,2,1,7,33,2,1
+1410281,2024,2024-05-12,County Championship,Sussex,Glamorgan,Glamorgan,field,Glamorgan,"Sophia Gardens, Cardiff",6,4,67,4,2,50,4,25,2,2,50,8,4,3
+1410212,2024,2024-05-06,County Championship,Lancashire,Kent,Lancashire,field,Kent,"Old Trafford, Manchester",5,4,80,3,2,66,10,3,2,1,20,33,2,1
+1410278,2024,2024-05-05,County Championship,Sussex,Derbyshire,Sussex,field,Sussex,"County Ground, Derby",6,3,50,2,1,50,2,24,1,1,50,4,4,0
+1410213,2024,2024-05-04,County Championship,Somerset,Essex,Somerset,field,Somerset,"The Cooper Associates County Ground, Taunton",7,2,29,2,1,50,12,2,1,1,8,50,2,3
+1410209,2024,2024-04-29,County Championship,Surrey,Hampshire,Surrey,field,Surrey,"Kennington Oval, London",10,7,70,5,5,100,24,5,5,0,20,0,4,4
+1410274,2024,2024-04-22,County Championship,Sussex,Gloucestershire,Sussex,field,Sussex,"County Ground, Hove, Brighton",5,5,100,3,3,100,32,3,3,0,9,0,4,0
+1410205,2024,2024-04-22,County Championship,Surrey,Kent,Surrey,field,Surrey,"St Lawrence Ground, Canterbury",7,4,57,2,2,100,2,19,2,0,100,0,4,1
+1410272,2024,2024-04-21,County Championship,Yorkshire,Middlesex,Middlesex,field,Middlesex,"Lord'S, London",7,2,29,4,0,0,4,17,0,4,0,23,3,2
+1410207,2024,2024-04-21,County Championship,Worcestershire,Durham,Durham,bat,Durham,"Chester Road North Ground, Kidderminster",8,2,25,1,0,0,2,1,0,1,0,100,4,5
+1410203,2024,2024-04-21,County Championship,Lancashire,Essex,Essex,field,Essex,"County Ground, Chelmsford",6,1,17,3,1,33,3,46,1,2,33,4,3,3
+1410196,2024,2024-04-08,County Championship,Nottinghamshire,Essex,Nottinghamshire,field,Essex,"Trent Bridge, Nottingham",6,2,33,4,1,25,28,4,1,3,3,75,3,3
+1391926,2024,2024-03-27,Plunket Shield,Otago Volts,Central Stags,Central Stags,field,Central Stags,"Mclean Park, Napier",11,3,27,3,0,0,3,9,0,3,0,33,1,3
+1391924,2024,2024-03-26,Plunket Shield,Canterbury,Auckland Aces,Canterbury,field,Canterbury,Kennards Hire Community Oval,12,6,50,3,1,33,3,18,1,2,33,11,2,1
+1391800,2024,2024-03-24,Sheffield Shield,Western Australia,Tasmania,Tasmania,field,Western Australia,"Western Australia Cricket Association Ground, Perth",8,4,50,4,2,50,18,4,2,2,11,50,3,3
+1391923,2024,2024-03-19,Plunket Shield,Northern Districts,Canterbury,Canterbury,field,Canterbury,"Mainpower Oval, Rangiora",11,3,27,3,0,0,3,11,0,3,0,27,4,2
+1391921,2024,2024-03-19,Plunket Shield,Central Stags,Auckland Aces,Central Stags,field,Auckland Aces,"Mclean Park, Napier",12,7,58,3,1,33,4,3,1,2,25,66,3,0
+1391922,2024,2024-03-18,Plunket Shield,Wellington Firebirds,Otago Volts,Wellington Firebirds,field,Wellington Firebirds,Cello Basin Reserve,12,8,67,4,4,100,13,4,4,0,30,0,3,1
+1391799,2024,2024-03-14,Sheffield Shield,Queensland,New South Wales,New South Wales,field,New South Wales,"Allan Border Field, Brisbane",8,2,25,3,1,33,3,3,1,2,33,66,1,3
+1391798,2024,2024-03-13,Sheffield Shield,Western Australia,Victoria,Victoria,field,Western Australia,"Junction Oval, Melbourne",6,5,83,1,1,100,1,1,1,0,100,0,3,4
+1391797,2024,2024-03-13,Sheffield Shield,Tasmania,South Australia,Tasmania,field,South Australia,"Bellerive Oval, Hobart",6,3,50,3,0,0,10,3,0,3,0,100,3,1
+1391918,2024,2024-03-11,Plunket Shield,Northern Districts,Auckland Aces,Auckland Aces,field,Northern Districts,"Seddon Park, Hamilton",11,2,18,2,1,50,9,2,1,1,11,50,4,1
+1391920,2024,2024-03-10,Plunket Shield,Otago Volts,Canterbury,Otago Volts,field,Otago Volts,"Molyneux Park, Alexandra",12,5,42,1,1,100,5,1,1,0,20,0,1,2
+1391796,2024,2024-03-04,Sheffield Shield,Western Australia,Queensland,Queensland,field,Western Australia,"Western Australia Cricket Association Ground, Perth",4,4,100,3,3,100,18,3,3,0,16,0,3,1
+1391795,2024,2024-03-04,Sheffield Shield,Victoria,Tasmania,Victoria,field,Tasmania,"Bellerive Oval, Hobart",4,2,50,2,1,50,2,6,1,1,50,16,4,4
+1391916,2024,2024-03-03,Plunket Shield,Wellington Firebirds,Canterbury,Wellington Firebirds,field,Wellington Firebirds,"Mainpower Oval, Rangiora",17,8,47,3,1,33,3,11,1,2,33,18,3,2
+1391793,2024,2024-02-18,Sheffield Shield,South Australia,Queensland,South Australia,bat,Queensland,"Adelaide Oval, Adelaide",7,1,14,2,0,0,6,2,0,2,0,100,1,1
+1391790,2024,2024-02-06,Sheffield Shield,Western Australia,New South Wales,New South Wales,field,New South Wales,"Western Australia Cricket Association Ground, Perth",5,3,60,3,2,66,18,3,2,1,11,33,4,2
+1391788,2024,2024-02-06,Sheffield Shield,Victoria,South Australia,Victoria,field,Victoria,"Junction Oval, Melbourne",5,5,100,2,2,100,5,2,2,0,40,0,4,1
+1391789,2024,2024-02-05,Sheffield Shield,Tasmania,Queensland,Queensland,bat,Tasmania,"Brisbane Cricket Ground, Woolloongabba, Brisbane",9,4,44,3,2,66,3,9,2,1,66,11,4,1
+1391785,2023,2023-12-01,Sheffield Shield,Victoria,South Australia,South Australia,field,Victoria,"Adelaide Oval, Adelaide",5,5,100,2,2,100,2,8,2,0,100,0,3,2
+1391786,2023,2023-11-30,Sheffield Shield,Tasmania,New South Wales,Tasmania,field,New South Wales,"Sydney Cricket Ground, Sydney",8,3,38,2,0,0,2,6,0,2,0,33,4,1
+1391784,2023,2023-11-20,Sheffield Shield,Tasmania,New South Wales,Tasmania,field,Tasmania,"Bellerive Oval, Hobart",8,3,38,4,3,75,10,4,3,1,30,25,3,1
+1391783,2023,2023-11-19,Sheffield Shield,Victoria,Queensland,Queensland,field,Victoria,"Melbourne Cricket Ground, Melbourne",8,4,50,3,2,66,6,3,2,1,33,33,2,2
+1391914,2023,2023-11-18,Plunket Shield,Otago Volts,Northern Districts,Otago Volts,field,Northern Districts,University Of Otago Oval,13,2,15,3,0,0,10,3,0,3,0,100,0,4
+1391782,2023,2023-11-17,Sheffield Shield,Western Australia,South Australia,Western Australia,field,Western Australia,"Western Australia Cricket Association Ground, Perth",9,7,78,3,3,100,18,3,3,0,16,0,3,2
+1391911,2023,2023-11-09,Plunket Shield,Otago Volts,Central Stags,Otago Volts,field,Central Stags,University Of Otago Oval,11,3,27,3,1,33,10,3,1,2,10,66,0,4
+1391910,2023,2023-11-09,Plunket Shield,Canterbury,Auckland Aces,Canterbury,field,Canterbury,"Hagley Oval, Christchurch",12,6,50,2,1,50,2,2,1,1,50,50,2,2
+1391781,2023,2023-11-09,Sheffield Shield,South Australia,Queensland,Queensland,field,South Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",7,1,14,3,1,33,3,9,1,2,33,22,1,3
+1391780,2023,2023-11-08,Sheffield Shield,Western Australia,New South Wales,New South Wales,field,New South Wales,"Sydney Cricket Ground, Sydney",5,3,60,2,1,50,2,6,1,1,50,16,4,0
+1391906,2023,2023-10-31,Plunket Shield,Northern Districts,Auckland Aces,Northern Districts,field,Northern Districts,Kennards Hire Community Oval,11,2,18,6,1,16,6,18,1,5,16,27,4,2
+1391907,2023,2023-10-30,Plunket Shield,Wellington Firebirds,Central Stags,Wellington Firebirds,bat,Wellington Firebirds,"Saxton Oval, Nelson",9,5,56,3,2,66,3,6,2,1,66,16,2,4
+1391778,2023,2023-10-29,Sheffield Shield,Western Australia,South Australia,Western Australia,bat,Western Australia,"Adelaide Oval, Adelaide",9,7,78,4,2,50,4,8,2,2,50,25,4,2
+1391777,2023,2023-10-29,Sheffield Shield,Tasmania,Queensland,Tasmania,field,Tasmania,"Bellerive Oval, Hobart",9,4,44,3,2,66,10,3,2,1,20,33,3,3
+1391776,2023,2023-10-29,Sheffield Shield,Victoria,New South Wales,New South Wales,field,Victoria,"Melbourne Cricket Ground, Melbourne",7,7,100,2,2,100,6,2,2,0,33,0,2,0
+1391905,2023,2023-10-22,Plunket Shield,Wellington Firebirds,Canterbury,Canterbury,field,Wellington Firebirds,Cello Basin Reserve,17,8,47,4,3,75,13,4,3,1,23,25,1,3
+1391904,2023,2023-10-22,Plunket Shield,Otago Volts,Northern Districts,Northern Districts,field,Northern Districts,"Seddon Park, Hamilton",13,2,15,2,0,0,2,6,0,2,0,33,1,4
+1391903,2023,2023-10-22,Plunket Shield,Central Stags,Auckland Aces,Auckland Aces,field,Central Stags,Kennards Hire Community Oval,12,7,58,4,3,75,4,18,3,1,75,5,4,2
+1391774,2023,2023-10-18,Sheffield Shield,South Australia,New South Wales,New South Wales,field,South Australia,"Adelaide Oval, Adelaide",6,2,33,4,1,25,6,4,1,3,16,75,2,0
+1391773,2023,2023-10-17,Sheffield Shield,Victoria,Queensland,Queensland,field,Queensland,"Great Barrier Reef Arena, Mackay",8,4,50,1,0,0,1,1,0,1,0,100,2,4
+1391772,2023,2023-10-07,Sheffield Shield,Western Australia,Victoria,Western Australia,field,Western Australia,"Western Australia Cricket Association Ground, Perth",6,5,83,5,4,80,18,5,4,1,22,20,3,4
+1391770,2023,2023-10-05,Sheffield Shield,Tasmania,South Australia,South Australia,bat,Tasmania,"Karen Rolton Oval, Adelaide",6,3,50,1,1,100,1,3,1,0,100,0,2,1
+1347273,2023,2023-09-29,County Championship,Surrey,Hampshire,Surrey,field,Hampshire,"The Rose Bowl, Southampton",10,7,70,4,2,50,4,29,2,2,50,6,4,4
+1347272,2023,2023-09-29,County Championship,Nottinghamshire,Middlesex,Middlesex,bat,Nottinghamshire,"Trent Bridge, Nottingham",4,2,50,3,2,66,28,3,2,1,7,33,2,1
+1347205,2023,2023-09-29,County Championship,Yorkshire,Worcestershire,Yorkshire,field,Yorkshire,"Headingley, Leeds",4,3,75,1,1,100,28,1,1,0,3,0,2,3
+1347204,2023,2023-09-29,County Championship,Sussex,Gloucestershire,Gloucestershire,field,Sussex,"County Ground, Hove, Brighton",5,5,100,3,3,100,32,3,3,0,9,0,3,0
+1347202,2023,2023-09-29,County Championship,Leicestershire,Durham,Leicestershire,field,Durham,"Riverside Ground, Chester-Le-Street",5,1,20,2,0,0,2,41,0,2,0,4,2,5
+1347275,2023,2023-09-28,County Championship,Northamptonshire,Essex,Essex,field,Northamptonshire,"County Ground, Northampton",4,1,25,2,1,50,23,2,1,1,4,50,0,4
+1347269,2023,2023-09-22,County Championship,Hampshire,Essex,Essex,bat,Hampshire,"County Ground, Chelmsford",10,3,30,5,1,20,5,46,1,4,20,8,4,5
+1347267,2023,2023-09-22,County Championship,Warwickshire,Middlesex,Warwickshire,field,Warwickshire,"Lord'S, London",6,3,50,3,2,66,4,17,2,1,50,5,2,1
+1347264,2023,2023-09-13,County Championship,Warwickshire,Northamptonshire,Warwickshire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",5,5,100,3,3,100,35,3,3,0,8,0,2,1
+1347197,2023,2023-09-13,County Championship,Sussex,Leicestershire,Leicestershire,field,Sussex,"County Ground, Hove, Brighton",6,4,67,3,2,66,32,3,2,1,6,33,2,2
+1347262,2023,2023-09-06,County Championship,Middlesex,Essex,Essex,bat,Essex,"County Ground, Chelmsford",4,0,0,3,0,0,3,46,0,3,0,6,1,5
+1347261,2023,2023-09-06,County Championship,Northamptonshire,Lancashire,Lancashire,field,Lancashire,"County Ground, Northampton",6,0,0,3,0,0,23,3,0,3,0,100,0,2
+1347260,2023,2023-09-06,County Championship,Warwickshire,Surrey,Warwickshire,field,Surrey,"Kennington Oval, London",9,2,22,5,0,0,5,9,0,5,0,55,3,4
+1347259,2023,2023-09-06,County Championship,Somerset,Hampshire,Hampshire,bat,Hampshire,"The Rose Bowl, Southampton",8,3,38,6,2,33,6,29,2,4,33,13,3,3
+1347194,2023,2023-09-06,County Championship,Yorkshire,Derbyshire,Derbyshire,field,Yorkshire,"North Marine Road Ground, Scarborough",2,2,100,1,1,100,16,1,1,0,6,0,1,1
+1347193,2023,2023-09-06,County Championship,Worcestershire,Glamorgan,Glamorgan,field,Worcestershire,"County Ground, New Road, Worcester",8,4,50,6,3,50,45,6,3,3,6,50,4,4
+1347192,2023,2023-09-06,County Championship,Sussex,Durham,Sussex,bat,Durham,"Riverside Ground, Chester-Le-Street",12,5,42,7,2,28,7,41,2,5,28,12,2,5
+1347195,2023,2023-09-05,County Championship,Leicestershire,Gloucestershire,Leicestershire,field,Leicestershire,"Grace Road, Leicester",11,4,36,4,2,50,22,4,2,2,9,50,3,1
+1347191,2023,2023-07-29,County Championship,Worcestershire,Gloucestershire,Gloucestershire,field,Worcestershire,"College Ground, Cheltenham",8,4,50,3,2,66,3,12,2,1,66,8,3,2
+1347257,2023,2023-07-28,County Championship,Nottinghamshire,Kent,Kent,field,Nottinghamshire,"Trent Bridge, Nottingham",3,1,33,2,1,50,28,2,1,1,3,50,2,1
+1347258,2023,2023-07-27,County Championship,Surrey,Somerset,Somerset,bat,Surrey,"The Cooper Associates County Ground, Taunton",5,4,80,2,2,100,2,3,2,0,100,0,3,3
+1347255,2023,2023-07-27,County Championship,Warwickshire,Middlesex,Middlesex,field,Middlesex,"Edgbaston Foundation Community Sports Ground, Birmingham",6,3,50,3,1,33,35,3,1,2,2,66,3,1
+1347254,2023,2023-07-27,County Championship,Hampshire,Essex,Essex,field,Essex,"The Rose Bowl, Southampton",10,3,30,4,2,50,6,4,2,2,33,50,3,4
+1347252,2023,2023-07-22,County Championship,Kent,Essex,Kent,bat,Essex,"County Ground, Chelmsford",10,1,10,6,0,0,6,46,0,6,0,13,1,4
+1347251,2023,2023-07-22,County Championship,Surrey,Middlesex,Middlesex,field,Surrey,"Lord'S, London",4,2,50,2,1,50,2,17,1,1,50,5,4,1
+1347253,2023,2023-07-21,County Championship,Somerset,Northamptonshire,Northamptonshire,field,Somerset,"County Ground, Northampton",4,4,100,3,3,100,3,17,3,0,100,0,3,0
+1347250,2023,2023-07-21,County Championship,Nottinghamshire,Hampshire,Nottinghamshire,field,Hampshire,"Trent Bridge, Nottingham",10,1,10,5,1,20,28,5,1,4,3,80,2,3
+1347187,2023,2023-07-21,County Championship,Worcestershire,Leicestershire,Leicestershire,field,Worcestershire,"Oakham School Ground, Oakham",10,10,100,1,1,100,1,1,1,0,100,0,3,3
+1347248,2023,2023-07-13,County Championship,Lancashire,Essex,Essex,bat,Essex,"Stanley Park, Blackpool",6,1,17,1,0,0,2,1,0,1,0,100,4,4
+1347246,2023,2023-07-12,County Championship,Warwickshire,Kent,Kent,bat,Warwickshire,"St Lawrence Ground, Canterbury",6,3,50,1,1,100,1,19,1,0,100,0,3,1
+1347184,2023,2023-07-12,County Championship,Gloucestershire,Durham,Gloucestershire,bat,Durham,"Riverside Ground, Chester-Le-Street",5,3,60,2,1,50,2,41,1,1,50,2,0,4
+1347243,2023,2023-06-28,County Championship,Somerset,Nottinghamshire,Somerset,bat,Somerset,"The Cooper Associates County Ground, Taunton",12,9,75,2,1,50,12,2,1,1,8,50,2,3
+1347242,2023,2023-06-28,County Championship,Warwickshire,Essex,Essex,bat,Essex,"County Ground, Chelmsford",8,3,38,4,0,0,4,46,0,4,0,8,4,3
+1347241,2023,2023-06-28,County Championship,Surrey,Lancashire,Surrey,field,Lancashire,"Kennington Oval, London",6,2,33,3,2,66,24,3,2,1,8,33,4,3
+1347240,2023,2023-06-28,County Championship,Northamptonshire,Kent,Northamptonshire,bat,Kent,"County Ground, Northampton",7,4,57,2,1,50,23,2,1,1,4,50,0,1
+1347239,2023,2023-06-28,County Championship,Middlesex,Hampshire,Hampshire,bat,Hampshire,"The Rose Bowl, Southampton",6,2,33,2,0,0,2,29,0,2,0,6,1,3
+1347238,2023,2023-06-14,County Championship,Surrey,Kent,Kent,bat,Surrey,"St Lawrence Ground, Canterbury",7,4,57,2,2,100,2,19,2,0,100,0,4,1
+1347236,2023,2023-06-14,County Championship,Somerset,Essex,Essex,bat,Essex,"County Ground, Chelmsford",7,2,29,3,0,0,3,46,0,3,0,6,2,3
+1347235,2023,2023-06-14,County Championship,Lancashire,Hampshire,Lancashire,field,Lancashire,"Trafalgar Road Ground, Southport",4,4,100,1,1,100,2,1,1,0,50,0,4,3
+1347175,2023,2023-06-14,County Championship,Yorkshire,Derbyshire,Yorkshire,field,Yorkshire,"Queen'S Park, Chesterfield",2,2,100,1,1,100,1,5,1,0,100,0,0,1
+1347174,2023,2023-06-14,County Championship,Leicestershire,Gloucestershire,Gloucestershire,bat,Leicestershire,"County Ground, Bristol",11,4,36,4,1,25,4,17,1,3,25,17,2,2
+1347172,2023,2023-05-21,County Championship,Gloucestershire,Durham,Durham,bat,Durham,"County Ground, Bristol",5,3,60,2,1,50,7,2,1,1,14,50,0,3
+1347233,2023,2023-05-20,County Championship,Somerset,Middlesex,Middlesex,field,Somerset,"Lord'S, London",6,4,67,2,2,100,2,17,2,0,100,0,2,1
+1347232,2023,2023-05-20,County Championship,Surrey,Kent,Surrey,field,Surrey,"Kennington Oval, London",7,4,57,4,2,50,24,4,2,2,8,50,4,1
+1347231,2023,2023-05-20,County Championship,Northamptonshire,Hampshire,Hampshire,bat,Hampshire,"The Rose Bowl, Southampton",3,0,0,2,0,0,2,29,0,2,0,6,1,2
+1347170,2023,2023-05-20,County Championship,Worcestershire,Leicestershire,Worcestershire,field,Worcestershire,"County Ground, New Road, Worcester",10,10,100,6,6,100,45,6,6,0,13,0,3,2
+1347228,2023,2023-05-14,County Championship,Surrey,Middlesex,Surrey,field,Surrey,"Kennington Oval, London",4,2,50,2,1,50,24,2,1,1,4,50,5,2
+1347166,2023,2023-05-14,County Championship,Yorkshire,Durham,Yorkshire,bat,Durham,"Riverside Ground, Chester-Le-Street",5,4,80,3,2,66,3,41,2,1,66,2,0,3
+1347229,2023,2023-05-13,County Championship,Nottinghamshire,Northamptonshire,Nottinghamshire,field,Nottinghamshire,"County Ground, Northampton",5,4,80,3,2,66,3,17,2,1,66,5,3,0
+1347226,2023,2023-05-13,County Championship,Warwickshire,Essex,Warwickshire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",8,3,38,4,3,75,35,4,3,1,8,25,3,4
+1347168,2023,2023-05-13,County Championship,Worcestershire,Glamorgan,Glamorgan,field,Glamorgan,"Sophia Gardens, Cardiff",8,4,50,2,1,50,2,25,1,1,50,4,2,4
+1347222,2023,2023-05-07,County Championship,Warwickshire,Hampshire,Hampshire,bat,Warwickshire,"The Rose Bowl, Southampton",7,2,29,4,1,25,4,29,1,3,25,10,2,3
+1347221,2023,2023-04-29,County Championship,Warwickshire,Surrey,Surrey,field,Surrey,"Edgbaston Foundation Community Sports Ground, Birmingham",9,2,22,3,1,33,35,3,1,2,2,66,2,4
+1347220,2023,2023-04-29,County Championship,Middlesex,Kent,Middlesex,field,Middlesex,"Lord'S, London",4,1,25,2,1,50,17,2,1,1,5,50,1,2
+1347160,2023,2023-04-29,County Championship,Durham,Derbyshire,Durham,bat,Durham,"Riverside Ground, Chester-Le-Street",6,5,83,4,4,100,4,4,4,0,100,0,4,2
+1347216,2023,2023-04-23,County Championship,Nottinghamshire,Middlesex,Middlesex,field,Middlesex,"Lord'S, London",4,2,50,1,0,0,1,17,0,1,0,5,2,2
+1347218,2023,2023-04-22,County Championship,Northamptonshire,Hampshire,Northamptonshire,field,Hampshire,"County Ground, Northampton",3,0,0,1,0,0,23,1,0,1,0,100,1,2
+1347215,2023,2023-04-16,County Championship,Northamptonshire,Middlesex,Northamptonshire,field,Northamptonshire,"County Ground, Northampton",4,1,25,3,1,33,23,3,1,2,4,66,1,2
+1347213,2023,2023-04-16,County Championship,Somerset,Nottinghamshire,Somerset,field,Nottinghamshire,"Trent Bridge, Nottingham",12,9,75,6,4,66,6,24,4,2,66,8,1,2
+1347212,2023,2023-04-16,County Championship,Surrey,Hampshire,Hampshire,bat,Surrey,"Kennington Oval, London",10,7,70,5,5,100,24,5,5,0,20,0,4,2
+1347211,2023,2023-04-16,County Championship,Warwickshire,Kent,Kent,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",6,3,50,4,2,50,35,4,2,2,5,50,1,3
+1347155,2023,2023-04-16,County Championship,Worcestershire,Durham,Worcestershire,field,Durham,"Riverside Ground, Chester-Le-Street",8,2,25,4,0,0,4,41,0,4,0,9,3,3
+1347210,2023,2023-04-09,County Championship,Northamptonshire,Kent,Kent,field,Kent,"St Lawrence Ground, Canterbury",7,4,57,4,2,50,4,19,2,2,50,10,1,3
+1347209,2023,2023-04-09,County Championship,Middlesex,Essex,Middlesex,field,Essex,"Lord'S, London",4,0,0,1,0,0,17,1,0,1,0,100,1,3
+1347153,2023,2023-04-09,County Championship,Yorkshire,Leicestershire,Leicestershire,field,Leicestershire,"Headingley, Leeds",2,1,50,2,1,50,28,2,1,1,3,50,0,2
+1347152,2023,2023-04-09,County Championship,Worcestershire,Derbyshire,Worcestershire,field,Worcestershire,"County Ground, Derby",6,3,50,2,1,50,2,24,1,1,50,4,3,2
+1347150,2023,2023-04-09,County Championship,Sussex,Durham,Sussex,field,Sussex,"County Ground, Hove, Brighton",12,5,42,3,2,66,32,3,2,1,6,33,2,2
+1347206,2023,2023-04-08,County Championship,Nottinghamshire,Hampshire,Nottinghamshire,bat,Hampshire,"The Rose Bowl, Southampton",10,1,10,4,0,0,4,29,0,4,0,13,3,2
+1328690,2023,2023-04-04,Plunket Shield,Central Stags,Auckland Aces,Auckland Aces,field,Central Stags,"Saxton Oval, Nelson",12,7,58,2,2,100,5,2,2,0,40,0,4,2
+1322426,2023,2023-03-26,Sheffield Shield,Western Australia,Victoria,Western Australia,field,Western Australia,"Western Australia Cricket Association Ground, Perth",6,5,83,5,4,80,18,5,4,1,22,20,3,3
+1328700,2023,2023-03-24,Plunket Shield,Wellington Firebirds,Canterbury,Wellington Firebirds,field,Canterbury,"Mainpower Oval, Rangiora",17,8,47,3,1,33,3,11,1,2,33,18,2,3
+1328699,2023,2023-03-24,Plunket Shield,Otago Volts,Central Stags,Central Stags,field,Central Stags,"Fitzherbert Park, Palmerston North",11,3,27,1,0,0,1,2,0,1,0,50,2,4
+1328698,2023,2023-03-24,Plunket Shield,Northern Districts,Auckland Aces,Northern Districts,field,Auckland Aces,Kennards Hire Community Oval,11,2,18,6,1,16,6,18,1,5,16,27,3,2
+1322425,2023,2023-03-17,Sheffield Shield,Western Australia,Victoria,Victoria,field,Victoria,"Western Australia Cricket Association Ground, Perth",6,5,83,5,4,80,18,5,4,1,22,20,4,2
+1328696,2023,2023-03-16,Plunket Shield,Central Stags,Canterbury,Canterbury,bat,Central Stags,"Mainpower Oval, Rangiora",11,5,45,3,1,33,3,11,1,2,33,18,4,4
+1328695,2023,2023-03-16,Plunket Shield,Wellington Firebirds,Northern Districts,Wellington Firebirds,field,Northern Districts,"Seddon Park, Hamilton",11,5,45,4,1,25,4,6,1,3,25,50,3,4
+1328693,2023,2023-03-08,Plunket Shield,Northern Districts,Central Stags,Northern Districts,bat,Northern Districts,"Bay Oval, Mount Maunganui",12,7,58,2,1,50,5,2,1,1,20,50,3,3
+1322422,2023,2023-03-04,Sheffield Shield,Western Australia,Tasmania,Tasmania,bat,Western Australia,"Western Australia Cricket Association Ground, Perth",8,4,50,4,2,50,18,4,2,2,11,50,4,4
+1322421,2023,2023-03-04,Sheffield Shield,South Australia,Queensland,Queensland,field,Queensland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",7,1,14,3,1,33,3,9,1,2,33,22,2,3
+1322420,2023,2023-03-04,Sheffield Shield,Victoria,New South Wales,Victoria,field,Victoria,"Lavington Sports Oval, Albury",7,7,100,1,1,100,1,1,1,0,100,0,3,0
+1328689,2023,2023-02-28,Plunket Shield,Northern Districts,Canterbury,Canterbury,field,Canterbury,"Seddon Park, Hamilton",11,3,27,4,2,50,9,4,2,2,22,50,3,4
+1322419,2023,2023-02-24,Sheffield Shield,Queensland,New South Wales,Queensland,field,Queensland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",8,2,25,4,1,25,4,4,1,3,25,75,1,1
+1322418,2023,2023-02-24,Sheffield Shield,Western Australia,Tasmania,Tasmania,field,Western Australia,"Bellerive Oval, Hobart",8,4,50,4,2,50,4,6,2,2,50,33,4,3
+1322417,2023,2023-02-22,Sheffield Shield,Victoria,South Australia,Victoria,bat,Victoria,"Junction Oval, Melbourne",5,5,100,2,2,100,5,2,2,0,40,0,4,2
+1322415,2023,2023-02-13,Sheffield Shield,Western Australia,South Australia,Western Australia,field,South Australia,"Adelaide Oval, Adelaide",9,7,78,4,2,50,4,8,2,2,50,25,5,2
+1322414,2023,2023-02-12,Sheffield Shield,Victoria,Queensland,Queensland,field,Victoria,"Melbourne Cricket Ground, Melbourne",8,4,50,3,2,66,6,3,2,1,33,33,5,3
+1322411,2022,2022-12-04,Sheffield Shield,Victoria,New South Wales,New South Wales,field,Victoria,"Junction Oval, Melbourne",7,7,100,1,1,100,5,1,1,0,20,0,4,2
+1322412,2022,2022-12-03,Sheffield Shield,Tasmania,South Australia,Tasmania,field,South Australia,"Bellerive Oval, Hobart",6,3,50,3,0,0,10,3,0,3,0,100,2,2
+1322410,2022,2022-11-27,Sheffield Shield,Victoria,Tasmania,Tasmania,field,Tasmania,"Melbourne Cricket Ground, Melbourne",4,2,50,1,0,0,6,1,0,1,0,100,3,3
+1322409,2022,2022-11-24,Sheffield Shield,Western Australia,New South Wales,Western Australia,bat,Western Australia,"Sydney Cricket Ground, Sydney",5,3,60,2,1,50,2,6,1,1,50,16,5,2
+1328688,2022,2022-11-17,Plunket Shield,Otago Volts,Northern Districts,Otago Volts,bat,Northern Districts,University Of Otago Oval,13,2,15,3,0,0,10,3,0,3,0,100,2,3
+1328686,2022,2022-11-17,Plunket Shield,Wellington Firebirds,Central Stags,Central Stags,field,Wellington Firebirds,"Fitzherbert Park, Palmerston North",9,5,56,1,1,100,1,2,1,0,100,0,2,3
+1322406,2022,2022-11-14,Sheffield Shield,Western Australia,South Australia,Western Australia,field,Western Australia,"Western Australia Cricket Association Ground, Perth",9,7,78,3,3,100,18,3,3,0,16,0,4,2
+1322405,2022,2022-11-11,Sheffield Shield,Victoria,Queensland,Victoria,bat,Queensland,"Allan Border Field, Brisbane",8,4,50,1,0,0,1,3,0,1,0,33,2,2
+1328685,2022,2022-11-08,Plunket Shield,Otago Volts,Canterbury,Canterbury,field,Canterbury,"Hagley Oval, Christchurch",12,5,42,4,1,25,4,16,1,3,25,18,2,4
+1328683,2022,2022-11-08,Plunket Shield,Northern Districts,Central Stags,Central Stags,bat,Central Stags,"Saxton Oval, Nelson",12,7,58,2,1,50,2,6,1,1,50,16,2,3
+1328684,2022,2022-11-07,Plunket Shield,Wellington Firebirds,Auckland Aces,Auckland Aces,field,Auckland Aces,Cello Basin Reserve,9,4,44,2,1,50,13,2,1,1,7,50,2,2
+1322404,2022,2022-11-02,Sheffield Shield,Western Australia,Queensland,Western Australia,field,Western Australia,"Western Australia Cricket Association Ground, Perth",4,4,100,3,3,100,18,3,3,0,16,0,3,2
+1328682,2022,2022-10-28,Plunket Shield,Wellington Firebirds,Canterbury,Wellington Firebirds,field,Canterbury,Cello Basin Reserve,17,8,47,4,3,75,13,4,3,1,23,25,2,4
+1328680,2022,2022-10-27,Plunket Shield,Central Stags,Auckland Aces,Auckland Aces,bat,Central Stags,Kennards Hire Community Oval,12,7,58,4,3,75,4,18,3,1,75,5,3,3
+1328679,2022,2022-10-21,Plunket Shield,Wellington Firebirds,Northern Districts,Wellington Firebirds,field,Wellington Firebirds,Cello Basin Reserve,11,5,45,2,1,50,13,2,1,1,7,50,1,3
+1328678,2022,2022-10-20,Plunket Shield,Otago Volts,Auckland Aces,Auckland Aces,field,Otago Volts,Kennards Hire Community Oval,12,3,25,4,1,25,4,18,1,3,25,16,2,4
+1322399,2022,2022-10-19,Sheffield Shield,Tasmania,South Australia,South Australia,bat,Tasmania,"Adelaide Oval, Adelaide",6,3,50,2,2,100,2,8,2,0,100,0,2,3
+1322397,2022,2022-10-08,Sheffield Shield,Tasmania,Queensland,Queensland,field,Queensland,"Allan Border Field, Brisbane",9,4,44,2,0,0,2,3,0,2,0,66,2,2
+1322396,2022,2022-10-06,Sheffield Shield,Western Australia,New South Wales,Western Australia,field,Western Australia,"Western Australia Cricket Association Ground, Perth",5,3,60,3,2,66,18,3,2,1,11,33,3,2
+1297793,2022,2022-09-29,County Championship,Northamptonshire,Essex,Northamptonshire,field,Essex,"County Ground, Northampton",4,1,25,2,1,50,23,2,1,1,4,50,1,3
+1297791,2022,2022-09-29,County Championship,Warwickshire,Hampshire,Hampshire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",7,2,29,3,1,33,35,3,1,2,2,66,0,3
+1297788,2022,2022-09-29,County Championship,Nottinghamshire,Durham,Nottinghamshire,bat,Nottinghamshire,"Trent Bridge, Nottingham",5,3,60,2,2,100,28,2,2,0,7,0,3,3
+1297785,2022,2022-09-29,County Championship,Somerset,Kent,Somerset,bat,Kent,"St Lawrence Ground, Canterbury",3,2,67,1,0,0,1,19,0,1,0,5,2,3
+1297792,2022,2022-09-28,County Championship,Surrey,Lancashire,Lancashire,bat,Lancashire,"Old Trafford, Manchester",6,2,33,3,0,0,3,16,0,3,0,18,4,4
+1297790,2022,2022-09-28,County Championship,Yorkshire,Gloucestershire,Gloucestershire,bat,Gloucestershire,"Headingley, Leeds",2,1,50,1,0,0,28,1,0,1,0,100,0,2
+1297781,2022,2022-09-23,County Championship,Middlesex,Leicestershire,Leicestershire,field,Middlesex,"Grace Road, Leicester",5,4,80,3,2,66,3,15,2,1,66,6,1,1
+1297780,2022,2022-09-23,County Championship,Glamorgan,Derbyshire,Derbyshire,field,Glamorgan,"Sophia Gardens, Cardiff",7,4,57,3,2,66,6,3,2,1,33,33,3,3
+1297779,2022,2022-09-23,County Championship,Sussex,Durham,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",12,5,42,7,2,28,7,41,2,5,28,12,1,3
+1297778,2022,2022-09-23,County Championship,Somerset,Northamptonshire,Somerset,bat,Somerset,"The Cooper Associates County Ground, Taunton",4,4,100,1,1,100,12,1,1,0,8,0,3,0
+1297784,2022,2022-09-22,County Championship,Kent,Hampshire,Hampshire,field,Kent,"The Rose Bowl, Southampton",4,2,50,1,1,100,1,29,1,0,100,0,1,3
+1297782,2022,2022-09-22,County Championship,Worcestershire,Nottinghamshire,Nottinghamshire,field,Worcestershire,"County Ground, New Road, Worcester",7,2,29,3,1,33,45,3,1,2,2,66,3,3
+1297777,2022,2022-09-22,County Championship,Warwickshire,Gloucestershire,Warwickshire,bat,Gloucestershire,"County Ground, Bristol",3,1,33,2,0,0,2,17,0,2,0,11,0,2
+1297776,2022,2022-09-22,County Championship,Yorkshire,Surrey,Yorkshire,field,Surrey,"Kennington Oval, London",6,2,33,2,0,0,2,9,0,2,0,22,1,3
+1297783,2022,2022-09-21,County Championship,Lancashire,Essex,Lancashire,bat,Lancashire,"County Ground, Chelmsford",6,1,17,3,1,33,3,46,1,2,33,4,5,4
+1297775,2022,2022-09-15,County Championship,Middlesex,Glamorgan,Middlesex,field,Middlesex,"Lord'S, London",3,3,100,1,1,100,17,1,1,0,5,0,2,3
+1297772,2022,2022-09-15,County Championship,Leicestershire,Durham,Durham,field,Durham,"Grace Road, Leicester",5,1,20,3,1,33,22,3,1,2,4,66,2,2
+1297770,2022,2022-09-14,County Championship,Yorkshire,Essex,Essex,field,Essex,"Headingley, Leeds",5,1,20,1,0,0,28,1,0,1,0,100,1,4
+1297769,2022,2022-09-08,County Championship,Northamptonshire,Hampshire,Northamptonshire,field,Hampshire,"The Rose Bowl, Southampton",3,0,0,2,0,0,2,29,0,2,0,6,1,4
+1297768,2022,2022-09-08,County Championship,Kent,Essex,Kent,field,Essex,"St Lawrence Ground, Canterbury",10,1,10,3,0,0,14,3,0,3,0,100,1,3
+1297763,2022,2022-09-07,County Championship,Nottinghamshire,Leicestershire,Leicestershire,field,Nottinghamshire,"Trent Bridge, Nottingham",4,4,100,2,2,100,28,2,2,0,7,0,4,1
+1297762,2022,2022-07-28,County Championship,Sussex,Nottinghamshire,Sussex,field,Nottinghamshire,"Trent Bridge, Nottingham",6,1,17,4,1,25,4,24,1,3,25,12,1,2
+1297761,2022,2022-07-28,County Championship,Warwickshire,Surrey,Surrey,field,Surrey,"Kennington Oval, London",9,2,22,5,0,0,5,9,0,5,0,55,1,4
+1297760,2022,2022-07-28,County Championship,Northamptonshire,Gloucestershire,Gloucestershire,bat,Northamptonshire,"College Ground, Cheltenham",6,3,50,2,1,50,2,12,1,1,50,8,1,1
+1297759,2022,2022-07-28,County Championship,Yorkshire,Hampshire,Yorkshire,bat,Hampshire,"North Marine Road Ground, Scarborough",6,3,50,1,0,0,16,1,0,1,0,100,1,4
+1297756,2022,2022-07-28,County Championship,Worcestershire,Derbyshire,Worcestershire,field,Derbyshire,"County Ground, New Road, Worcester",6,3,50,3,2,66,45,3,2,1,4,33,2,3
+1297755,2022,2022-07-28,County Championship,Lancashire,Kent,Kent,field,Lancashire,"Old Trafford, Manchester",5,4,80,3,2,66,10,3,2,1,20,33,5,3
+1297754,2022,2022-07-23,County Championship,Leicestershire,Glamorgan,Leicestershire,bat,Glamorgan,"Grace Road, Leicester",6,1,17,1,0,0,22,1,0,1,0,100,1,4
+1297753,2022,2022-07-22,County Championship,Northamptonshire,Lancashire,Northamptonshire,bat,Lancashire,"County Ground, Northampton",6,0,0,3,0,0,23,3,0,3,0,100,2,4
+1297750,2022,2022-07-22,County Championship,Warwickshire,Kent,Warwickshire,field,Kent,"Edgbaston Foundation Community Sports Ground, Birmingham",6,3,50,4,2,50,35,4,2,2,5,50,2,2
+1297749,2022,2022-07-22,County Championship,Surrey,Essex,Essex,bat,Surrey,"Kennington Oval, London",5,2,40,1,1,100,24,1,1,0,4,0,4,4
+1297747,2022,2022-07-22,County Championship,Hampshire,Gloucestershire,Hampshire,bat,Hampshire,"College Ground, Cheltenham",4,4,100,2,2,100,2,12,2,0,100,0,4,0
+1297745,2022,2022-07-14,County Championship,Yorkshire,Surrey,Yorkshire,bat,Surrey,"North Marine Road Ground, Scarborough",6,2,33,3,1,33,16,3,1,2,6,66,2,4
+1297744,2022,2022-07-14,County Championship,Northamptonshire,Kent,Northamptonshire,bat,Northamptonshire,"St Lawrence Ground, Canterbury",7,4,57,4,2,50,4,19,2,2,50,10,2,2
+1297739,2022,2022-07-14,County Championship,Warwickshire,Hampshire,Warwickshire,bat,Hampshire,"The Rose Bowl, Southampton",7,2,29,4,1,25,4,29,1,3,25,10,3,4
+1297741,2022,2022-07-13,County Championship,Worcestershire,Middlesex,Middlesex,bat,Worcestershire,"Merchant Taylors' School Ground, Northwood",4,2,50,1,1,100,1,1,1,0,100,0,3,3
+1297740,2022,2022-07-13,County Championship,Gloucestershire,Essex,Gloucestershire,bat,Essex,"County Ground, Chelmsford",6,1,17,5,1,20,5,46,1,4,20,8,0,4
+1297734,2022,2022-06-29,County Championship,Worcestershire,Glamorgan,Glamorgan,field,Glamorgan,"County Ground, New Road, Worcester",8,4,50,6,3,50,45,6,3,3,6,50,3,3
+1297733,2022,2022-06-29,County Championship,Sussex,Derbyshire,Derbyshire,bat,Sussex,"County Ground, Hove, Brighton",6,3,50,4,2,50,32,4,2,2,6,50,1,3
+1297735,2022,2022-06-28,County Championship,Hampshire,Essex,Essex,bat,Essex,"County Ground, Chelmsford",10,3,30,5,1,20,5,46,1,4,20,8,4,4
+1297730,2022,2022-06-15,County Championship,Middlesex,Derbyshire,Middlesex,bat,Derbyshire,"Queen'S Park, Chesterfield",4,2,50,1,0,0,1,5,0,1,0,20,2,2
+1297729,2022,2022-06-15,County Championship,Nottinghamshire,Leicestershire,Nottinghamshire,field,Nottinghamshire,"Grace Road, Leicester",4,4,100,2,2,100,2,15,2,0,100,0,4,0
+1297728,2022,2022-06-15,County Championship,Kent,Gloucestershire,Kent,field,Kent,"St Lawrence Ground, Canterbury",7,4,57,4,2,50,14,4,2,2,14,50,1,0
+1297727,2022,2022-06-15,County Championship,Warwickshire,Lancashire,Warwickshire,bat,Lancashire,"Edgbaston Foundation Community Sports Ground, Birmingham",4,2,50,2,1,50,35,2,1,1,2,50,4,5
+1297725,2022,2022-06-15,County Championship,Yorkshire,Hampshire,Yorkshire,bat,Hampshire,"The Rose Bowl, Southampton",6,3,50,3,2,66,3,29,2,1,66,3,3,4
+1297724,2022,2022-06-15,County Championship,Sussex,Glamorgan,Glamorgan,field,Glamorgan,"Sophia Gardens, Cardiff",6,4,67,4,2,50,4,25,2,2,50,8,0,3
+1297723,2022,2022-06-15,County Championship,Surrey,Somerset,Somerset,bat,Surrey,"The Cooper Associates County Ground, Taunton",5,4,80,2,2,100,2,3,2,0,100,0,4,3
+1297722,2022,2022-05-22,County Championship,Lancashire,Essex,Essex,bat,Essex,"Old Trafford, Manchester",6,1,17,2,0,0,10,2,0,2,0,100,5,4
+1297720,2022,2022-05-22,County Championship,Nottinghamshire,Derbyshire,Nottinghamshire,field,Nottinghamshire,"Trent Bridge, Nottingham",5,4,80,3,2,66,28,3,2,1,7,33,5,2
+1297719,2022,2022-05-22,County Championship,Middlesex,Durham,Middlesex,field,Middlesex,"Lord'S, London",6,4,67,5,3,60,17,5,3,2,17,40,2,2
+1297721,2022,2022-05-21,County Championship,Worcestershire,Leicestershire,Leicestershire,bat,Worcestershire,"County Ground, New Road, Worcester",10,10,100,6,6,100,45,6,6,0,13,0,3,0
+1297717,2022,2022-05-21,County Championship,Somerset,Hampshire,Somerset,bat,Hampshire,"The Cooper Associates County Ground, Taunton",8,3,38,1,0,0,12,1,0,1,0,100,2,4
+1297712,2022,2022-05-15,County Championship,Glamorgan,Durham,Glamorgan,field,Durham,"Riverside Ground, Chester-Le-Street",5,1,20,3,0,0,3,41,0,3,0,7,3,3
+1297715,2022,2022-05-14,County Championship,Somerset,Gloucestershire,Gloucestershire,field,Somerset,"County Ground, Bristol",3,2,67,1,1,100,1,17,1,0,100,0,2,0
+1297705,2022,2022-05-08,County Championship,Sussex,Middlesex,Sussex,bat,Middlesex,"County Ground, Hove, Brighton",10,4,40,6,3,50,32,6,3,3,9,50,0,3
+1297704,2022,2022-05-08,County Championship,Leicestershire,Glamorgan,Glamorgan,field,Glamorgan,"Sophia Gardens, Cardiff",6,1,17,5,1,20,5,25,1,4,20,16,1,2
+1297702,2022,2022-05-08,County Championship,Hampshire,Gloucestershire,Hampshire,bat,Hampshire,"The Rose Bowl, Southampton",4,4,100,1,1,100,6,1,1,0,16,0,3,0
+1297703,2022,2022-05-07,County Championship,Surrey,Northamptonshire,Northamptonshire,field,Surrey,"Kennington Oval, London",2,1,50,1,1,100,24,1,1,0,4,0,4,1
+1297700,2022,2022-04-30,County Championship,Middlesex,Leicestershire,Middlesex,field,Middlesex,"Lord'S, London",5,4,80,1,1,100,17,1,1,0,5,0,3,0
+1297696,2022,2022-04-30,County Championship,Warwickshire,Somerset,Warwickshire,field,Somerset,"The Cooper Associates County Ground, Taunton",9,3,33,1,0,0,1,3,0,1,0,33,4,2
+1297692,2022,2022-04-30,County Championship,Worcestershire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire,"Trent Bridge, Nottingham",7,2,29,4,1,25,4,24,1,3,25,12,2,2
+1297690,2022,2022-04-24,County Championship,Lancashire,Gloucestershire,Gloucestershire,bat,Lancashire,"Old Trafford, Manchester",3,2,67,2,1,50,10,2,1,1,10,50,4,1
+1297689,2022,2022-04-24,County Championship,Surrey,Somerset,Somerset,bat,Surrey,"Kennington Oval, London",5,4,80,1,1,100,24,1,1,0,4,0,5,3
+1297688,2022,2022-04-24,County Championship,Warwickshire,Essex,Essex,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",8,3,38,4,3,75,35,4,3,1,8,25,4,5
+1297686,2022,2022-04-24,County Championship,Leicestershire,Derbyshire,Leicestershire,bat,Derbyshire,"Grace Road, Leicester",6,2,33,4,1,25,22,4,1,3,4,75,0,1
+1297684,2022,2022-04-24,County Championship,Kent,Hampshire,Kent,bat,Hampshire,"St Lawrence Ground, Canterbury",4,2,50,3,1,33,14,3,1,2,7,66,1,4
+1297687,2022,2022-04-23,County Championship,Middlesex,Glamorgan,Middlesex,field,Middlesex,"Sophia Gardens, Cardiff",3,3,100,2,2,100,2,25,2,0,100,0,3,2
+1297685,2022,2022-04-23,County Championship,Worcestershire,Sussex,Worcestershire,bat,Worcestershire,"County Ground, New Road, Worcester",7,3,43,4,2,50,45,4,2,2,4,50,3,4
+1297683,2022,2022-04-23,County Championship,Nottinghamshire,Durham,Nottinghamshire,field,Nottinghamshire,"Riverside Ground, Chester-Le-Street",5,3,60,3,1,33,3,41,1,2,33,4,5,2
+1297681,2022,2022-04-17,County Championship,Yorkshire,Gloucestershire,Yorkshire,field,Yorkshire,"County Ground, Bristol",2,1,50,1,1,100,1,17,1,0,100,0,3,2
+1297677,2022,2022-04-17,County Championship,Nottinghamshire,Glamorgan,Glamorgan,field,Glamorgan,"Trent Bridge, Nottingham",1,0,0,1,0,0,28,1,0,1,0,100,4,1
+1297676,2022,2022-04-17,County Championship,Lancashire,Kent,Lancashire,bat,Lancashire,"St Lawrence Ground, Canterbury",5,4,80,2,2,100,2,19,2,0,100,0,4,2
+1297682,2022,2022-04-16,County Championship,Surrey,Hampshire,Hampshire,field,Surrey,"Kennington Oval, London",10,7,70,5,5,100,24,5,5,0,20,0,5,4
+1297680,2022,2022-04-16,County Championship,Somerset,Essex,Essex,field,Essex,"The Cooper Associates County Ground, Taunton",7,2,29,2,1,50,12,2,1,1,8,50,2,5
+1279987,2022,2022-04-15,Plunket Shield,Canterbury,Auckland Aces,Canterbury,bat,Canterbury,"Bert Sutcliffe Oval, Lincoln",12,6,50,1,1,100,1,1,1,0,100,0,2,5
+1297674,2022,2022-04-10,County Championship,Sussex,Nottinghamshire,Nottinghamshire,field,Nottinghamshire,"County Ground, Hove, Brighton",6,1,17,1,0,0,32,1,0,1,0,100,0,2
+1297668,2022,2022-04-09,County Championship,Somerset,Hampshire,Somerset,bat,Hampshire,"The Rose Bowl, Southampton",8,3,38,6,2,33,6,29,2,4,33,13,1,4
+1279991,2022,2022-04-08,Plunket Shield,Wellington Firebirds,Northern Districts,Northern Districts,bat,Wellington Firebirds,"Cobham Oval (New), Whangarei",11,5,45,2,1,50,2,2,1,1,50,50,0,3
+1280008,2022,2022-03-30,Plunket Shield,Wellington Firebirds,Auckland Aces,Auckland Aces,bat,Auckland Aces,"Eden Park Outer Oval, Auckland",9,4,44,1,0,0,1,8,0,1,0,12,0,5
+1270438,2022,2022-03-26,Sheffield Shield,South Australia,New South Wales,South Australia,field,South Australia,"Karen Rolton Oval, Adelaide",6,2,33,1,1,100,2,2,1,0,50,0,2,2
+1270461,2022,2022-03-25,Sheffield Shield,Western Australia,Victoria,Western Australia,field,Western Australia,"Western Australia Cricket Association Ground, Perth",6,5,83,5,4,80,18,5,4,1,22,20,2,2
+1270455,2022,2022-03-24,Sheffield Shield,Tasmania,Queensland,Tasmania,field,Tasmania,"Bellerive Oval, Hobart",9,4,44,3,2,66,10,3,2,1,20,33,3,2
+1280007,2022,2022-03-23,Plunket Shield,Wellington Firebirds,Otago Volts,Otago Volts,field,Otago Volts,"University Oval, Dunedin",12,8,67,1,0,0,1,1,0,1,0,100,1,1
+1270440,2022,2022-03-18,Sheffield Shield,Victoria,Tasmania,Tasmania,bat,Victoria,"Junction Oval, Melbourne",4,2,50,1,1,100,5,1,1,0,20,0,2,2
+1280002,2022,2022-03-14,Plunket Shield,Northern Districts,Central Stags,Central Stags,field,Northern Districts,"Mclean Park, Napier",12,7,58,4,2,50,4,9,2,2,50,22,1,2
+1279993,2022,2022-03-14,Plunket Shield,Otago Volts,Auckland Aces,Auckland Aces,bat,Auckland Aces,"Molyneux Park, Alexandra",12,3,25,1,0,0,5,1,0,1,0,100,2,5
+1280000,2022,2022-03-06,Plunket Shield,Wellington Firebirds,Northern Districts,Northern Districts,bat,Northern Districts,"Cobham Oval (New), Whangarei",11,5,45,2,1,50,2,2,1,1,50,50,1,2
+1279999,2022,2022-03-06,Plunket Shield,Canterbury,Auckland Aces,Auckland Aces,bat,Auckland Aces,"Eden Park Outer Oval, Auckland",12,6,50,2,0,0,2,8,0,2,0,25,3,4
+1270447,2022,2022-02-21,Sheffield Shield,Tasmania,New South Wales,New South Wales,bat,New South Wales,"Sydney Cricket Ground, Sydney",8,3,38,2,0,0,2,6,0,2,0,33,3,1
+1280004,2022,2022-02-14,Plunket Shield,Otago Volts,Auckland Aces,Otago Volts,field,Auckland Aces,"University Oval, Dunedin",12,3,25,3,1,33,8,3,1,2,12,66,1,4
+1270459,2022,2022-02-11,Sheffield Shield,Queensland,New South Wales,New South Wales,field,New South Wales,"Brisbane Cricket Ground, Woolloongabba, Brisbane",8,2,25,4,1,25,4,4,1,3,25,75,1,1
+1279996,2022,2022-02-07,Plunket Shield,Northern Districts,Auckland Aces,Auckland Aces,field,Auckland Aces,"Eden Park Outer Oval, Auckland",11,2,18,1,0,0,1,8,0,1,0,12,2,4
+1270441,2021,2021-11-26,Sheffield Shield,South Australia,Queensland,South Australia,field,Queensland,"Karen Rolton Oval, Adelaide",7,1,14,1,0,0,2,1,0,1,0,100,1,2
+1279995,2021,2021-11-25,Plunket Shield,Otago Volts,Northern Districts,Northern Districts,field,Northern Districts,"Molyneux Park, Alexandra",13,2,15,2,0,0,5,2,0,2,0,100,1,1
+1279998,2021,2021-11-18,Plunket Shield,Wellington Firebirds,Central Stags,Central Stags,field,Central Stags,"Basin Reserve, Wellington",9,5,56,1,0,0,11,1,0,1,0,100,1,3
+1279997,2021,2021-11-17,Plunket Shield,Northern Districts,Canterbury,Northern Districts,bat,Canterbury,"Bay Oval, Mount Maunganui",11,3,27,2,0,0,5,2,0,2,0,100,2,4
+1270456,2021,2021-11-13,Sheffield Shield,Western Australia,Queensland,Western Australia,field,Western Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",4,4,100,1,1,100,1,9,1,0,100,0,1,3
+1280001,2021,2021-11-10,Plunket Shield,Otago Volts,Central Stags,Central Stags,field,Otago Volts,"Saxton Oval, Nelson",11,3,27,1,1,100,1,6,1,0,100,0,2,3
+1280003,2021,2021-11-09,Plunket Shield,Wellington Firebirds,Canterbury,Wellington Firebirds,field,Canterbury,"Basin Reserve, Wellington",17,8,47,4,0,0,11,4,0,4,0,100,1,4
+1270437,2021,2021-11-08,Sheffield Shield,Victoria,New South Wales,New South Wales,field,Victoria,"Melbourne Cricket Ground, Melbourne",7,7,100,2,2,100,6,2,2,0,33,0,2,1
+1279994,2021,2021-11-03,Plunket Shield,Wellington Firebirds,Canterbury,Wellington Firebirds,field,Canterbury,"Basin Reserve, Wellington",17,8,47,4,0,0,11,4,0,4,0,100,1,4
+1270442,2021,2021-10-30,Sheffield Shield,Victoria,New South Wales,Victoria,bat,Victoria,"Drummoyne Oval, Sydney",7,7,100,1,1,100,1,2,1,0,100,0,3,2
+1279989,2021,2021-10-26,Plunket Shield,Wellington Firebirds,Otago Volts,Wellington Firebirds,field,Wellington Firebirds,"Basin Reserve, Wellington",12,8,67,3,2,66,11,3,2,1,18,33,1,0
+1270452,2021,2021-10-20,Sheffield Shield,Western Australia,Tasmania,Tasmania,field,Tasmania,"Western Australia Cricket Association Ground, Perth",8,4,50,4,2,50,18,4,2,2,11,50,2,2
+1279470,2021,2021-10-01,Bob Willis Trophy,Warwickshire,Lancashire,Warwickshire,field,Warwickshire,"Lord'S, London",4,2,50,1,1,100,4,3,1,0,25,0,4,5
+1271416,2021,2021-09-24,County Championship,Worcestershire,Leicestershire,Leicestershire,bat,Worcestershire,"County Ground, New Road, Worcester",10,10,100,6,6,100,45,6,6,0,13,0,2,0
+1271414,2021,2021-09-24,County Championship,Middlesex,Kent,Kent,field,Kent,"St Lawrence Ground, Canterbury",4,1,25,2,0,0,2,19,0,2,0,10,2,2
+1271410,2021,2021-09-24,County Championship,Warwickshire,Somerset,Somerset,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",9,3,33,4,2,50,35,4,2,2,5,50,3,3
+1271409,2021,2021-09-24,County Championship,Yorkshire,Nottinghamshire,Yorkshire,field,Nottinghamshire,"Trent Bridge, Nottingham",7,6,86,3,2,66,3,24,2,1,66,4,3,3
+1271408,2021,2021-09-24,County Championship,Lancashire,Hampshire,Lancashire,field,Lancashire,"Aigburth, Liverpool",4,4,100,1,1,100,2,1,1,0,50,0,4,3
+1271415,2021,2021-09-23,County Championship,Sussex,Derbyshire,Derbyshire,bat,Derbyshire,"County Ground, Hove, Brighton",6,3,50,4,2,50,32,4,2,2,6,50,0,0
+1271412,2021,2021-09-22,County Championship,Gloucestershire,Durham,Durham,bat,Gloucestershire,"County Ground, Bristol",5,3,60,2,1,50,7,2,1,1,14,50,1,3
+1271411,2021,2021-09-22,County Championship,Northamptonshire,Essex,Northamptonshire,bat,Essex,"County Ground, Chelmsford",4,1,25,2,0,0,2,46,0,2,0,4,2,4
+1271407,2021,2021-09-15,County Championship,Worcestershire,Middlesex,Worcestershire,field,Middlesex,"Lord'S, London",4,2,50,1,0,0,1,17,0,1,0,5,2,2
+1271406,2021,2021-09-15,County Championship,Sussex,Leicestershire,Sussex,bat,Leicestershire,"Grace Road, Leicester",6,4,67,3,2,66,3,15,2,1,66,6,0,0
+1271405,2021,2021-09-15,County Championship,Kent,Derbyshire,Derbyshire,field,Kent,"County Ground, Derby",4,3,75,2,2,100,2,24,2,0,100,0,1,0
+1271402,2021,2021-09-15,County Championship,Gloucestershire,Glamorgan,Gloucestershire,field,Gloucestershire,"Sophia Gardens, Cardiff",7,5,71,3,3,100,3,25,3,0,100,0,2,2
+1271401,2021,2021-09-15,County Championship,Yorkshire,Warwickshire,Yorkshire,field,Warwickshire,"Headingley, Leeds",8,6,75,4,3,75,28,4,3,1,10,25,4,2
+1271400,2021,2021-09-14,County Championship,Somerset,Lancashire,Somerset,field,Lancashire,"The Cooper Associates County Ground, Taunton",3,1,33,1,0,0,12,1,0,1,0,100,0,5
+1271399,2021,2021-09-14,County Championship,Nottinghamshire,Hampshire,Hampshire,bat,Hampshire,"The Rose Bowl, Southampton",10,1,10,4,0,0,4,29,0,4,0,13,4,3
+1271398,2021,2021-09-09,County Championship,Sussex,Middlesex,Middlesex,bat,Middlesex,"County Ground, Hove, Brighton",10,4,40,6,3,50,32,6,3,3,9,50,0,2
+1271395,2021,2021-09-08,County Championship,Surrey,Northamptonshire,Surrey,bat,Northamptonshire,"County Ground, Northampton",2,1,50,1,0,0,1,17,0,1,0,5,5,1
+1271393,2021,2021-09-08,County Championship,Glamorgan,Durham,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",5,1,20,3,0,0,3,41,0,3,0,7,4,4
+1271391,2021,2021-09-08,County Championship,Warwickshire,Hampshire,Warwickshire,field,Hampshire,"Edgbaston Foundation Community Sports Ground, Birmingham",7,2,29,3,1,33,35,3,1,2,2,66,3,3
+1271390,2021,2021-09-08,County Championship,Nottinghamshire,Lancashire,Lancashire,field,Nottinghamshire,"Trent Bridge, Nottingham",6,4,67,3,2,66,28,3,2,1,7,33,4,4
+1271397,2021,2021-09-07,County Championship,Worcestershire,Kent,Kent,field,Kent,"St Lawrence Ground, Canterbury",4,2,50,2,0,0,2,19,0,2,0,10,2,2
+1271394,2021,2021-09-07,County Championship,Gloucestershire,Essex,Essex,field,Essex,"County Ground, Chelmsford",6,1,17,5,1,20,5,46,1,4,20,8,2,3
+1271392,2021,2021-09-06,County Championship,Yorkshire,Somerset,Somerset,bat,Yorkshire,"North Marine Road Ground, Scarborough",8,3,38,2,1,50,16,2,1,1,6,50,4,2
+1271389,2021,2021-09-02,County Championship,Worcestershire,Sussex,Sussex,bat,Worcestershire,"County Ground, New Road, Worcester",7,3,43,4,2,50,45,4,2,2,4,50,2,4
+1271388,2021,2021-09-02,County Championship,Middlesex,Derbyshire,Middlesex,bat,Middlesex,"Lord'S, London",4,2,50,2,2,100,17,2,2,0,11,0,2,0
+1271386,2021,2021-09-02,County Championship,Northamptonshire,Gloucestershire,Gloucestershire,field,Gloucestershire,"County Ground, Bristol",6,3,50,1,0,0,1,17,0,1,0,5,2,2
+1271387,2021,2021-09-01,County Championship,Leicestershire,Kent,Kent,bat,Kent,"Grace Road, Leicester",4,1,25,3,0,0,22,3,0,3,0,100,0,3
+1271385,2021,2021-09-01,County Championship,Glamorgan,Essex,Glamorgan,bat,Essex,"Sophia Gardens, Cardiff",4,2,50,2,1,50,6,2,1,1,16,50,4,3
+1271383,2021,2021-09-01,County Championship,Somerset,Nottinghamshire,Somerset,field,Nottinghamshire,"The Cooper Associates County Ground, Taunton",12,9,75,2,1,50,12,2,1,1,8,50,0,2
+1244301,2021,2021-07-14,County Championship,Middlesex,Leicestershire,Middlesex,bat,Middlesex,"Merchant Taylors' School Ground, Northwood",5,4,80,1,1,100,3,1,1,0,33,0,3,0
+1244300,2021,2021-07-14,County Championship,Hampshire,Gloucestershire,Gloucestershire,bat,Hampshire,"College Ground, Cheltenham",4,4,100,2,2,100,2,12,2,0,100,0,3,3
+1244290,2021,2021-07-08,County Championship,Middlesex,Gloucestershire,Middlesex,field,Gloucestershire,"College Ground, Cheltenham",3,1,33,1,0,0,1,12,0,1,0,8,3,3
+1244292,2021,2021-07-06,County Championship,Nottinghamshire,Derbyshire,Nottinghamshire,field,Nottinghamshire,"Trent Bridge, Nottingham",5,4,80,3,2,66,28,3,2,1,7,33,3,0
+1244289,2021,2021-07-06,County Championship,Yorkshire,Northamptonshire,Yorkshire,bat,Yorkshire,"County Ground, Northampton",4,4,100,2,2,100,2,17,2,0,100,0,4,1
+1244280,2021,2021-06-06,County Championship,Yorkshire,Sussex,Yorkshire,field,Yorkshire,"Headingley, Leeds",5,4,80,2,2,100,28,2,2,0,7,0,4,3
+1244287,2021,2021-06-05,County Championship,Leicestershire,Gloucestershire,Leicestershire,bat,Leicestershire,"Grace Road, Leicester",11,4,36,4,2,50,22,4,2,2,9,50,0,3
+1244285,2021,2021-06-05,County Championship,Lancashire,Glamorgan,Glamorgan,field,Glamorgan,"Sophia Gardens, Cardiff",2,1,50,1,0,0,1,25,0,1,0,4,3,2
+1244283,2021,2021-06-05,County Championship,Warwickshire,Derbyshire,Derbyshire,field,Warwickshire,"County Ground, Derby",2,2,100,1,1,100,1,24,1,0,100,0,4,1
+1244281,2021,2021-06-05,County Championship,Worcestershire,Durham,Durham,field,Durham,"County Ground, New Road, Worcester",8,2,25,3,2,66,45,3,2,1,4,33,1,3
+1244279,2021,2021-05-30,County Championship,Middlesex,Leicestershire,Middlesex,bat,Leicestershire,"Grace Road, Leicester",5,4,80,3,2,66,3,15,2,1,66,6,3,1
+1244278,2021,2021-05-30,County Championship,Surrey,Gloucestershire,Surrey,bat,Surrey,"Kennington Oval, London",4,3,75,3,3,100,24,3,3,0,12,0,5,2
+1244277,2021,2021-05-30,County Championship,Sussex,Northamptonshire,Sussex,bat,Northamptonshire,"County Ground, Hove, Brighton",6,1,17,3,1,33,32,3,1,2,3,66,0,1
+1244276,2021,2021-05-30,County Championship,Yorkshire,Lancashire,Yorkshire,bat,Lancashire,"Old Trafford, Manchester",5,4,80,2,1,50,2,16,1,1,50,6,5,4
+1244275,2021,2021-05-30,County Championship,Worcestershire,Derbyshire,Worcestershire,bat,Worcestershire,"County Ground, New Road, Worcester",6,3,50,3,2,66,45,3,2,1,4,33,2,2
+1244274,2021,2021-05-30,County Championship,Warwickshire,Nottinghamshire,Nottinghamshire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",6,5,83,2,2,100,35,2,2,0,5,0,3,3
+1244273,2021,2021-05-29,County Championship,Essex,Durham,Durham,field,Essex,"Riverside Ground, Chester-Le-Street",2,2,100,1,1,100,1,41,1,0,100,0,3,2
+1244265,2021,2021-05-23,County Championship,Worcestershire,Nottinghamshire,Worcestershire,field,Nottinghamshire,"Trent Bridge, Nottingham",7,2,29,4,1,25,4,24,1,3,25,12,2,3
+1244263,2021,2021-05-16,County Championship,Worcestershire,Durham,Worcestershire,field,Durham,"Riverside Ground, Chester-Le-Street",8,2,25,4,0,0,4,41,0,4,0,9,2,2
+1244259,2021,2021-05-16,County Championship,Essex,Derbyshire,Derbyshire,field,Essex,"County Ground, Chelmsford",5,5,100,3,3,100,4,3,3,0,75,0,2,3
+1244262,2021,2021-05-15,County Championship,Middlesex,Hampshire,Hampshire,field,Hampshire,"Lord'S, London",6,2,33,2,1,50,17,2,1,1,5,50,4,4
+1244258,2021,2021-05-09,County Championship,Nottinghamshire,Essex,Nottinghamshire,field,Nottinghamshire,"Trent Bridge, Nottingham",6,2,33,4,1,25,28,4,1,3,3,75,3,3
+1244257,2021,2021-05-09,County Championship,Somerset,Hampshire,Somerset,field,Somerset,"The Rose Bowl, Southampton",8,3,38,6,2,33,6,29,2,4,33,13,0,4
+1244256,2021,2021-05-09,County Championship,Sussex,Northamptonshire,Northamptonshire,field,Northamptonshire,"County Ground, Northampton",6,1,17,3,0,0,3,17,0,3,0,17,0,1
+1244254,2021,2021-05-08,County Championship,Middlesex,Gloucestershire,Gloucestershire,field,Gloucestershire,"Lord'S, London",3,1,33,1,0,0,17,1,0,1,0,100,4,2
+1244249,2021,2021-05-02,County Championship,Yorkshire,Northamptonshire,Northamptonshire,field,Yorkshire,"Headingley, Leeds",4,4,100,2,2,100,28,2,2,0,7,0,5,1
+1244247,2021,2021-05-02,County Championship,Somerset,Middlesex,Somerset,field,Somerset,"The Cooper Associates County Ground, Taunton",6,4,67,1,1,100,12,1,1,0,8,0,1,3
+1244246,2021,2021-05-02,County Championship,Leicestershire,Gloucestershire,Gloucestershire,field,Gloucestershire,"County Ground, Bristol",11,4,36,4,1,25,4,17,1,3,25,17,0,2
+1244242,2021,2021-05-02,County Championship,Sussex,Lancashire,Sussex,bat,Lancashire,"County Ground, Hove, Brighton",3,1,33,2,1,50,32,2,1,1,3,50,0,4
+1244250,2021,2021-05-01,County Championship,Surrey,Hampshire,Surrey,field,Surrey,"Kennington Oval, London",10,7,70,5,5,100,24,5,5,0,20,0,4,4
+1244245,2021,2021-05-01,County Championship,Warwickshire,Durham,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",7,5,71,4,3,75,4,41,3,1,75,2,2,1
+1244243,2021,2021-05-01,County Championship,Nottinghamshire,Derbyshire,Derbyshire,field,Nottinghamshire,"County Ground, Derby",5,4,80,2,2,100,2,24,2,0,100,0,4,3
+1244248,2021,2021-04-30,County Championship,Kent,Glamorgan,Glamorgan,field,Glamorgan,"Sophia Gardens, Cardiff",6,3,50,4,2,50,4,25,2,2,50,8,1,2
+1244240,2021,2021-04-25,County Championship,Northamptonshire,Glamorgan,Northamptonshire,field,Northamptonshire,"County Ground, Northampton",7,6,86,4,4,100,23,4,4,0,17,0,2,2
+1244238,2021,2021-04-25,County Championship,Warwickshire,Essex,Essex,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",8,3,38,4,3,75,35,4,3,1,8,25,2,3
+1244235,2021,2021-04-25,County Championship,Lancashire,Kent,Kent,field,Lancashire,"St Lawrence Ground, Canterbury",5,4,80,2,2,100,2,19,2,0,100,0,3,3
+1244233,2021,2021-04-25,County Championship,Yorkshire,Sussex,Yorkshire,bat,Yorkshire,"County Ground, Hove, Brighton",5,4,80,2,1,50,2,6,1,1,50,16,4,2
+1244239,2021,2021-04-24,County Championship,Surrey,Middlesex,Middlesex,field,Middlesex,"Lord'S, London",4,2,50,2,1,50,2,17,1,1,50,5,4,3
+1244521,2021,2021-04-18,Sheffield Shield,Queensland,New South Wales,New South Wales,bat,Queensland,"Allan Border Field, Brisbane",8,2,25,3,1,33,3,3,1,2,33,66,2,3
+1244231,2021,2021-04-18,County Championship,Warwickshire,Nottinghamshire,Nottinghamshire,bat,Warwickshire,"Trent Bridge, Nottingham",6,5,83,4,3,75,4,24,3,1,75,4,1,4
+1244230,2021,2021-04-18,County Championship,Essex,Durham,Essex,bat,Essex,"County Ground, Chelmsford",2,2,100,1,1,100,4,1,1,0,25,0,3,1
+1244228,2021,2021-04-18,County Championship,Somerset,Gloucestershire,Gloucestershire,field,Gloucestershire,"The Cooper Associates County Ground, Taunton",3,2,67,2,1,50,12,2,1,1,8,50,2,3
+1244227,2021,2021-04-18,County Championship,Sussex,Glamorgan,Sussex,field,Sussex,"Sophia Gardens, Cardiff",6,4,67,4,2,50,4,25,2,2,50,8,1,2
+1244226,2021,2021-04-18,County Championship,Yorkshire,Kent,Yorkshire,bat,Yorkshire,"St Lawrence Ground, Canterbury",3,2,67,2,2,100,2,19,2,0,100,0,3,4
+1244225,2021,2021-04-18,County Championship,Northamptonshire,Lancashire,Lancashire,bat,Lancashire,"Old Trafford, Manchester",6,0,0,3,0,0,3,16,0,3,0,18,1,3
+1244224,2021,2021-04-18,County Championship,Middlesex,Hampshire,Hampshire,bat,Hampshire,"The Rose Bowl, Southampton",6,2,33,2,0,0,2,29,0,2,0,6,4,3
+1244220,2021,2021-04-11,County Championship,Surrey,Gloucestershire,Gloucestershire,field,Gloucestershire,"County Ground, Bristol",4,3,75,1,0,0,1,17,0,1,0,5,4,3
+1244219,2021,2021-04-11,County Championship,Leicestershire,Hampshire,Hampshire,bat,Hampshire,"Grace Road, Leicester",3,0,0,2,0,0,22,2,0,2,0,100,0,3
+1244218,2021,2021-04-11,County Championship,Somerset,Middlesex,Somerset,field,Somerset,"Lord'S, London",6,4,67,2,2,100,2,17,2,0,100,0,2,3
+1251085,2021,2021-04-06,Sheffield Shield,Western Australia,Tasmania,Western Australia,field,Tasmania,"Western Australia Cricket Association Ground, Perth",8,4,50,4,2,50,18,4,2,2,11,50,3,2
+1234930,2021,2021-04-06,Plunket Shield,Otago Volts,Northern Districts,Northern Districts,field,Northern Districts,"University Oval, Dunedin",13,2,15,3,1,33,8,3,1,2,12,66,2,2
+1234926,2021,2021-03-29,Plunket Shield,Otago Volts,Central Stags,Otago Volts,bat,Otago Volts,"University Oval, Dunedin",11,3,27,1,1,100,8,1,1,0,12,0,2,2
+1244510,2021,2021-03-22,Sheffield Shield,Tasmania,New South Wales,New South Wales,field,Tasmania,"Bellerive Oval, Hobart",8,3,38,4,3,75,10,4,3,1,30,25,2,3
+1234924,2021,2021-03-21,Plunket Shield,Central Stags,Canterbury,Central Stags,bat,Canterbury,"Hagley Oval, Christchurch",11,5,45,4,1,25,4,16,1,3,25,18,3,5
+1234921,2021,2021-03-14,Plunket Shield,Otago Volts,Canterbury,Otago Volts,field,Canterbury,"Mainpower Oval, Rangiora",12,5,42,2,1,50,2,11,1,1,50,9,2,5
+1234919,2021,2021-03-14,Plunket Shield,Wellington Firebirds,Central Stags,Wellington Firebirds,field,Central Stags,"Mclean Park, Napier",9,5,56,2,0,0,2,9,0,2,0,22,2,1
+1251095,2021,2021-03-09,Sheffield Shield,South Australia,New South Wales,South Australia,bat,New South Wales,"Adelaide Oval, Adelaide",6,2,33,4,1,25,6,4,1,3,16,75,2,3
+1244519,2021,2021-02-20,Sheffield Shield,Tasmania,Queensland,Queensland,field,Queensland,"Bellerive Oval, Hobart",9,4,44,3,2,66,10,3,2,1,20,33,2,4
+1244512,2021,2021-02-19,Sheffield Shield,Victoria,New South Wales,Victoria,field,Victoria,"Sydney Cricket Ground, Sydney",7,7,100,2,2,100,2,6,2,0,100,0,4,3
+1234916,2020,2020-11-17,Plunket Shield,Northern Districts,Central Stags,Northern Districts,bat,Northern Districts,"Saxton Oval, Nelson",12,7,58,2,1,50,2,6,1,1,50,16,2,2
+1233453,2020,2020-11-11,Sheffield Shield,South Australia,Queensland,Queensland,bat,Queensland,"Gliderol Stadium, Adelaide",7,1,14,1,0,0,1,1,0,1,0,100,2,3
+1233452,2020,2020-11-11,Sheffield Shield,Tasmania,New South Wales,Tasmania,field,New South Wales,"Park 25 No 2, Adelaide",8,3,38,1,0,0,2,1,0,1,0,100,3,3
+1234914,2020,2020-11-08,Plunket Shield,Wellington Firebirds,Otago Volts,Wellington Firebirds,field,Otago Volts,"Basin Reserve, Wellington",12,8,67,3,2,66,11,3,2,1,18,33,2,0
+1234915,2020,2020-11-07,Plunket Shield,Northern Districts,Canterbury,Canterbury,bat,Canterbury,"Mainpower Oval, Rangiora",11,3,27,3,0,0,3,11,0,3,0,27,3,5
+1233448,2020,2020-11-02,Sheffield Shield,Queensland,New South Wales,New South Wales,field,New South Wales,"Karen Rolton Oval, Adelaide",8,2,25,1,0,0,1,2,0,1,0,50,3,3
+1234912,2020,2020-10-31,Plunket Shield,Wellington Firebirds,Canterbury,Canterbury,field,Canterbury,"Hagley Oval, Christchurch",17,8,47,6,4,66,6,16,4,2,66,12,3,5
+1234911,2020,2020-10-31,Plunket Shield,Central Stags,Auckland Aces,Auckland Aces,bat,Auckland Aces,"Eden Park Outer Oval, Auckland",12,7,58,3,1,33,3,8,1,2,33,25,3,3
+1234910,2020,2020-10-31,Plunket Shield,Otago Volts,Northern Districts,Northern Districts,bat,Northern Districts,"Bay Oval, Mount Maunganui",13,2,15,2,0,0,2,3,0,2,0,66,2,2
+1234909,2020,2020-10-22,Plunket Shield,Otago Volts,Auckland Aces,Auckland Aces,field,Auckland Aces,"Eden Park Outer Oval, Auckland",12,3,25,1,0,0,1,8,0,1,0,12,2,3
+1234908,2020,2020-10-22,Plunket Shield,Wellington Firebirds,Canterbury,Canterbury,field,Canterbury,"Basin Reserve, Wellington",17,8,47,4,0,0,11,4,0,4,0,100,4,4
+1234907,2020,2020-10-22,Plunket Shield,Northern Districts,Central Stags,Central Stags,field,Central Stags,"Seddon Park, Hamilton",12,7,58,3,2,66,9,3,2,1,22,33,3,1
+1233444,2020,2020-10-13,Sheffield Shield,Tasmania,Queensland,Tasmania,bat,Queensland,"Park 25 No 2, Adelaide",9,4,44,1,0,0,2,1,0,1,0,100,3,4
+1233443,2020,2020-10-13,Sheffield Shield,Western Australia,South Australia,Western Australia,bat,Western Australia,"Karen Rolton Oval, Adelaide",9,7,78,1,1,100,1,3,1,0,100,0,3,2
+1227628,2020,2020-09-09,Bob Willis Trophy,Sussex,Surrey,Sussex,bat,Surrey,"Kennington Oval, London",1,0,0,1,0,0,1,9,0,1,0,11,1,4
+1227625,2020,2020-09-09,Bob Willis Trophy,Yorkshire,Leicestershire,Yorkshire,field,Yorkshire,"Headingley, Leeds",2,1,50,2,1,50,28,2,1,1,3,50,3,1
+1227623,2020,2020-09-09,Bob Willis Trophy,Lancashire,Derbyshire,Lancashire,bat,Lancashire,"Aigburth, Liverpool",3,3,100,1,1,100,2,1,1,0,50,0,4,3
+1227622,2020,2020-09-09,Bob Willis Trophy,Worcestershire,Somerset,Somerset,bat,Somerset,"County Ground, New Road, Worcester",4,1,25,3,1,33,45,3,1,2,2,66,3,2
+1227627,2020,2020-09-08,Bob Willis Trophy,Kent,Hampshire,Kent,field,Kent,"St Lawrence Ground, Canterbury",4,2,50,3,1,33,14,3,1,2,7,66,2,3
+1227626,2020,2020-09-08,Bob Willis Trophy,Middlesex,Essex,Middlesex,bat,Essex,"County Ground, Chelmsford",4,0,0,3,0,0,3,46,0,3,0,6,4,4
+1227619,2020,2020-08-25,Bob Willis Trophy,Surrey,Kent,Surrey,field,Kent,"Kennington Oval, London",7,4,57,4,2,50,24,4,2,2,8,50,3,4
+1227612,2020,2020-08-25,Bob Willis Trophy,Somerset,Gloucestershire,Gloucestershire,field,Somerset,"The Cooper Associates County Ground, Taunton",3,2,67,2,1,50,12,2,1,1,8,50,3,4
+1227611,2020,2020-08-25,Bob Willis Trophy,Northamptonshire,Glamorgan,Northamptonshire,field,Northamptonshire,"County Ground, Northampton",7,6,86,4,4,100,23,4,4,0,17,0,2,1
+1227618,2020,2020-08-24,Bob Willis Trophy,Sussex,Middlesex,Sussex,bat,Middlesex,"Brunton Memorial Ground, Radlett",10,4,40,1,0,0,1,1,0,1,0,100,1,4
+1227610,2020,2020-08-18,Bob Willis Trophy,Sussex,Essex,Essex,field,Essex,"County Ground, Hove, Brighton",1,0,0,1,0,0,32,1,0,1,0,100,1,5
+1227608,2020,2020-08-18,Bob Willis Trophy,Surrey,Hampshire,Surrey,bat,Hampshire,"Arundel Castle Cricket Club Ground, Arundel",10,7,70,1,0,0,1,1,0,1,0,100,2,2
+1227603,2020,2020-08-18,Bob Willis Trophy,Worcestershire,Northamptonshire,Northamptonshire,field,Worcestershire,"County Ground, Northampton",5,4,80,3,2,66,3,17,2,1,66,5,3,1
+1227601,2020,2020-08-11,Bob Willis Trophy,Middlesex,Hampshire,Hampshire,field,Hampshire,"Brunton Memorial Ground, Radlett",6,2,33,1,0,0,1,1,0,1,0,100,4,3
+1227599,2020,2020-08-11,Bob Willis Trophy,Surrey,Essex,Essex,bat,Essex,"County Ground, Chelmsford",5,2,40,3,1,33,3,46,1,2,33,4,3,5
+1227598,2020,2020-08-11,Bob Willis Trophy,Yorkshire,Nottinghamshire,Yorkshire,bat,Yorkshire,"Trent Bridge, Nottingham",7,6,86,3,2,66,3,24,2,1,66,4,3,4
+1227593,2020,2020-08-11,Bob Willis Trophy,Warwickshire,Gloucestershire,Warwickshire,field,Gloucestershire,"County Ground, Bristol",3,1,33,2,0,0,2,17,0,2,0,11,1,4
+1227600,2020,2020-08-10,Bob Willis Trophy,Sussex,Kent,Sussex,bat,Kent,"St Lawrence Ground, Canterbury",4,0,0,2,0,0,2,19,0,2,0,10,1,3
+1227597,2020,2020-08-10,Bob Willis Trophy,Leicestershire,Derbyshire,Leicestershire,bat,Derbyshire,"Grace Road, Leicester",6,2,33,4,1,25,22,4,1,3,4,75,0,2
+1227596,2020,2020-08-10,Bob Willis Trophy,Lancashire,Durham,Durham,bat,Lancashire,"Riverside Ground, Chester-Le-Street",5,2,40,3,1,33,3,41,1,2,33,4,3,2
+1227594,2020,2020-08-09,Bob Willis Trophy,Somerset,Northamptonshire,Somerset,bat,Somerset,"County Ground, Northampton",4,4,100,3,3,100,3,17,3,0,100,0,4,2
+1227591,2020,2020-08-04,Bob Willis Trophy,Surrey,Middlesex,Middlesex,bat,Middlesex,"Kennington Oval, London",4,2,50,2,1,50,24,2,1,1,4,50,2,4
+1227590,2020,2020-08-04,Bob Willis Trophy,Kent,Essex,Kent,bat,Essex,"County Ground, Chelmsford",10,1,10,6,0,0,6,46,0,6,0,13,3,5
+1227589,2020,2020-08-04,Bob Willis Trophy,Leicestershire,Lancashire,Lancashire,bat,Leicestershire,"County Ground, New Road, Worcester",3,1,33,1,1,100,1,1,1,0,100,0,1,3
+1227588,2020,2020-08-04,Bob Willis Trophy,Yorkshire,Durham,Durham,bat,Yorkshire,"Riverside Ground, Chester-Le-Street",5,4,80,3,2,66,3,41,2,1,66,2,2,3
+1227587,2020,2020-08-04,Bob Willis Trophy,Nottinghamshire,Derbyshire,Derbyshire,field,Derbyshire,"Trent Bridge, Nottingham",5,4,80,3,2,66,28,3,2,1,7,33,4,2
+1227585,2020,2020-08-04,Bob Willis Trophy,Somerset,Glamorgan,Somerset,bat,Somerset,"The Cooper Associates County Ground, Taunton",1,1,100,1,1,100,12,1,1,0,8,0,4,1
+1227584,2020,2020-08-04,Bob Willis Trophy,Worcestershire,Gloucestershire,Gloucestershire,bat,Worcestershire,"County Ground, Bristol",8,4,50,1,1,100,1,17,1,0,100,0,2,4
+1227592,2020,2020-08-03,Bob Willis Trophy,Sussex,Hampshire,Sussex,bat,Sussex,"County Ground, Hove, Brighton",3,2,67,2,1,50,32,2,1,1,3,50,1,4
+1197596,2020,2020-03-13,Plunket Shield,Wellington Firebirds,Auckland Aces,Auckland Aces,bat,Wellington Firebirds,"Colin Maiden Park, Auckland",9,4,44,3,2,66,3,5,2,1,66,20,3,4
+1197595,2020,2020-03-13,Plunket Shield,Otago Volts,Central Stags,Otago Volts,field,Otago Volts,University Of Otago Oval,11,3,27,3,1,33,10,3,1,2,10,66,3,1
+1197594,2020,2020-03-13,Plunket Shield,Northern Districts,Canterbury,Canterbury,field,Northern Districts,"Seddon Park, Hamilton",11,3,27,4,2,50,9,4,2,2,22,50,3,3
+1196139,2020,2020-03-09,Marsh Sheffield Shield,Victoria,South Australia,South Australia,field,Victoria,"Adelaide Oval, Adelaide",5,5,100,2,2,100,2,8,2,0,100,0,5,1
+1196138,2020,2020-03-08,Marsh Sheffield Shield,Tasmania,New South Wales,Tasmania,field,Tasmania,"Bellerive Oval, Hobart",8,3,38,4,3,75,10,4,3,1,30,25,3,4
+1197593,2020,2020-03-04,Plunket Shield,Northern Districts,Auckland Aces,Auckland Aces,field,Auckland Aces,Kennards Hire Community Oval,11,2,18,6,1,16,6,18,1,5,16,27,3,4
+1197592,2020,2020-03-03,Plunket Shield,Otago Volts,Canterbury,Otago Volts,bat,Otago Volts,"Queen'S Park, Invercargill",12,5,42,2,1,50,2,2,1,1,50,50,2,3
+1197591,2020,2020-03-03,Plunket Shield,Wellington Firebirds,Central Stags,Wellington Firebirds,field,Wellington Firebirds,Cello Basin Reserve,9,5,56,1,1,100,13,1,1,0,7,0,2,2
+1196137,2020,2020-02-27,Marsh Sheffield Shield,Victoria,Queensland,Queensland,field,Victoria,"Brisbane Cricket Ground, Woolloongabba, Brisbane",8,4,50,2,1,50,2,9,1,1,50,11,5,3
+1196136,2020,2020-02-27,Marsh Sheffield Shield,Western Australia,Tasmania,Tasmania,field,Tasmania,"Bellerive Oval, Hobart",8,4,50,4,2,50,4,6,2,2,50,33,4,2
+1196135,2020,2020-02-27,Marsh Sheffield Shield,South Australia,New South Wales,New South Wales,bat,New South Wales,"Bankstown Oval, Sydney",6,2,33,1,0,0,1,1,0,1,0,100,2,4
+1197590,2020,2020-02-25,Plunket Shield,Northern Districts,Central Stags,Central Stags,field,Central Stags,"Mclean Park, Napier",12,7,58,4,2,50,4,9,2,2,50,22,3,2
+1197589,2020,2020-02-25,Plunket Shield,Wellington Firebirds,Canterbury,Canterbury,field,Canterbury,"Mainpower Oval, Rangiora",17,8,47,3,1,33,3,11,1,2,33,18,2,2
+1196133,2020,2020-02-17,Marsh Sheffield Shield,Western Australia,South Australia,Western Australia,field,South Australia,"Adelaide Oval, Adelaide",9,7,78,4,2,50,4,8,2,2,50,25,5,1
+1196132,2020,2020-02-17,Marsh Sheffield Shield,Victoria,New South Wales,Victoria,bat,Victoria,"Sydney Cricket Ground, Sydney",7,7,100,2,2,100,2,6,2,0,100,0,5,5
+1196134,2020,2020-02-16,Marsh Sheffield Shield,Tasmania,Queensland,Queensland,field,Queensland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",9,4,44,3,2,66,3,9,2,1,66,11,3,3
+1196131,2019,2019-12-10,Marsh Sheffield Shield,Tasmania,South Australia,South Australia,field,South Australia,"Bellerive Oval, Hobart",6,3,50,3,0,0,10,3,0,3,0,100,2,1
+1196125,2019,2019-11-15,Marsh Sheffield Shield,Victoria,Queensland,Victoria,field,Queensland,"Melbourne Cricket Ground, Melbourne",8,4,50,3,2,66,6,3,2,1,33,33,4,3
+1196121,2019,2019-11-04,Marsh Sheffield Shield,South Australia,New South Wales,South Australia,field,New South Wales,"Adelaide Oval, Adelaide",6,2,33,4,1,25,6,4,1,3,16,75,2,4
+1197584,2019,2019-11-02,Plunket Shield,Northern Districts,Central Stags,Northern Districts,field,Central Stags,"Bay Oval, Mount Maunganui",12,7,58,2,1,50,5,2,1,1,20,50,3,1
+1197582,2019,2019-11-01,Plunket Shield,Wellington Firebirds,Canterbury,Canterbury,field,Wellington Firebirds,Cello Basin Reserve,17,8,47,4,3,75,13,4,3,1,23,25,2,2
+1197581,2019,2019-10-24,Plunket Shield,Central Stags,Auckland Aces,Central Stags,field,Auckland Aces,Kennards Hire Community Oval,12,7,58,4,3,75,4,18,3,1,75,5,2,3
+1197579,2019,2019-10-23,Plunket Shield,Wellington Firebirds,Otago Volts,Wellington Firebirds,field,Wellington Firebirds,Cello Basin Reserve,12,8,67,4,4,100,13,4,4,0,30,0,1,1
+1196119,2019,2019-10-21,Marsh Sheffield Shield,Western Australia,Victoria,Victoria,bat,Western Australia,"Western Australia Cricket Association Ground, Perth",6,5,83,5,4,80,18,5,4,1,22,20,5,2
+1196118,2019,2019-10-21,Marsh Sheffield Shield,South Australia,Queensland,South Australia,bat,Queensland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",7,1,14,3,1,33,3,9,1,2,33,22,3,4
+1196117,2019,2019-10-21,Marsh Sheffield Shield,Tasmania,New South Wales,Tasmania,bat,New South Wales,"Drummoyne Oval, Sydney",8,3,38,1,0,0,1,2,0,1,0,50,2,4
+1196115,2019,2019-10-13,Marsh Sheffield Shield,Queensland,New South Wales,Queensland,bat,New South Wales,"Brisbane Cricket Ground, Woolloongabba, Brisbane",8,2,25,4,1,25,4,4,1,3,25,75,3,4
+1167032,2019,2019-09-19,Specsavers County Championship,Northamptonshire,Durham,Durham,field,Northamptonshire,"County Ground, Northampton",4,3,75,1,1,100,23,1,1,0,4,0,3,4
+1167031,2019,2019-09-19,Specsavers County Championship,Middlesex,Lancashire,Middlesex,field,Lancashire,"Old Trafford, Manchester",4,1,25,1,0,0,1,16,0,1,0,6,4,4
+1167030,2019,2019-09-19,Specsavers County Championship,Leicestershire,Glamorgan,Leicestershire,field,Glamorgan,"Sophia Gardens, Cardiff",6,1,17,5,1,20,5,25,1,4,20,16,1,1
+1166964,2019,2019-09-19,Specsavers County Championship,Yorkshire,Kent,Kent,bat,Kent,"Headingley, Leeds",3,2,67,1,0,0,28,1,0,1,0,100,3,2
+1167033,2019,2019-09-18,Specsavers County Championship,Worcestershire,Gloucestershire,Gloucestershire,field,Gloucestershire,"County Ground, New Road, Worcester",8,4,50,4,1,25,45,4,1,3,2,75,1,3
+1167029,2019,2019-09-18,Specsavers County Championship,Sussex,Derbyshire,Sussex,field,Derbyshire,"County Ground, Derby",6,3,50,2,1,50,2,24,1,1,50,4,1,1
+1166962,2019,2019-09-18,Specsavers County Championship,Somerset,Hampshire,Hampshire,bat,Hampshire,"The Rose Bowl, Southampton",8,3,38,6,2,33,6,29,2,4,33,13,4,3
+1166961,2019,2019-09-18,Specsavers County Championship,Surrey,Essex,Surrey,bat,Essex,"County Ground, Chelmsford",5,2,40,3,1,33,3,46,1,2,33,4,1,5
+1167026,2019,2019-09-13,Specsavers County Championship,Northamptonshire,Leicestershire,Northamptonshire,field,Northamptonshire,"Grace Road, Leicester",4,4,100,3,3,100,3,15,3,0,100,0,2,1
+1167024,2019,2019-09-13,Specsavers County Championship,Sussex,Gloucestershire,Sussex,field,Sussex,"County Ground, Bristol",5,5,100,1,1,100,1,17,1,0,100,0,2,3
+1167028,2019,2019-09-12,Specsavers County Championship,Worcestershire,Glamorgan,Glamorgan,field,Worcestershire,"County Ground, New Road, Worcester",8,4,50,6,3,50,45,6,3,3,6,50,1,1
+1167027,2019,2019-09-12,Specsavers County Championship,Middlesex,Durham,Middlesex,field,Durham,"Lord'S, London",6,4,67,5,3,60,17,5,3,2,17,40,4,5
+1167025,2019,2019-09-12,Specsavers County Championship,Lancashire,Derbyshire,Derbyshire,bat,Lancashire,"Old Trafford, Manchester",3,3,100,1,1,100,10,1,1,0,10,0,2,1
+1166960,2019,2019-09-12,Specsavers County Championship,Yorkshire,Somerset,Yorkshire,field,Somerset,"County Ground, Taunton",8,3,38,2,0,0,2,9,0,2,0,22,3,2
+1166959,2019,2019-09-12,Specsavers County Championship,Nottinghamshire,Kent,Kent,bat,Kent,"Trent Bridge, Nottingham",3,1,33,2,1,50,28,2,1,1,3,50,3,2
+1167019,2019,2019-08-21,Specsavers County Championship,Gloucestershire,Derbyshire,Gloucestershire,field,Gloucestershire,"County Ground, Derby",5,2,40,2,2,100,2,24,2,0,100,0,2,2
+1166956,2019,2019-08-21,Specsavers County Championship,Yorkshire,Nottinghamshire,Nottinghamshire,field,Yorkshire,"North Marine Road Ground, Scarborough",7,6,86,2,2,100,16,2,2,0,12,0,3,5
+1166955,2019,2019-08-21,Specsavers County Championship,Warwickshire,Somerset,Warwickshire,bat,Somerset,"Edgbaston Foundation Community Sports Ground, Birmingham",9,3,33,4,2,50,35,4,2,2,5,50,2,1
+1167023,2019,2019-08-20,Specsavers County Championship,Sussex,Middlesex,Sussex,field,Sussex,"County Ground, Hove, Brighton",10,4,40,6,3,50,32,6,3,3,9,50,3,4
+1167022,2019,2019-08-20,Specsavers County Championship,Worcestershire,Northamptonshire,Worcestershire,bat,Northamptonshire,"County Ground, Northampton",5,4,80,3,2,66,3,17,2,1,66,5,0,2
+1167021,2019,2019-08-20,Specsavers County Championship,Lancashire,Glamorgan,Glamorgan,bat,Lancashire,"Colwyn Bay Cricket Club Ground, Colwyn Bay",2,1,50,1,1,100,1,1,1,0,100,0,3,2
+1166953,2019,2019-08-20,Specsavers County Championship,Kent,Essex,Essex,field,Essex,"St Lawrence Ground, Canterbury",10,1,10,3,0,0,14,3,0,3,0,100,3,5
+1167018,2019,2019-07-24,Specsavers County Championship,Worcestershire,Gloucestershire,Worcestershire,field,Gloucestershire,"College Ground, Cheltenham",8,4,50,3,2,66,3,12,2,1,66,8,0,2
+1167017,2019,2019-07-18,Specsavers County Championship,Leicestershire,Gloucestershire,Leicestershire,bat,Gloucestershire,"College Ground, Cheltenham",11,4,36,3,1,33,3,12,1,2,33,16,1,3
+1167016,2019,2019-07-16,Specsavers County Championship,Northamptonshire,Derbyshire,Northamptonshire,bat,Northamptonshire,"Queen'S Park, Chesterfield",6,3,50,2,1,50,2,5,1,1,50,20,3,2
+1167013,2019,2019-07-16,Specsavers County Championship,Worcestershire,Durham,Worcestershire,field,Durham,"Riverside Ground, Chester-Le-Street",8,2,25,4,0,0,4,41,0,4,0,9,1,4
+1166952,2019,2019-07-16,Specsavers County Championship,Yorkshire,Somerset,Somerset,field,Yorkshire,"Headingley, Leeds",8,3,38,4,2,50,28,4,2,2,7,50,3,2
+1166951,2019,2019-07-16,Specsavers County Championship,Warwickshire,Essex,Warwickshire,field,Essex,"County Ground, Chelmsford",8,3,38,4,0,0,4,46,0,4,0,8,2,5
+1167015,2019,2019-07-15,Specsavers County Championship,Sussex,Lancashire,Sussex,bat,Lancashire,"Old Trafford, Manchester",3,1,33,1,0,0,1,16,0,1,0,6,3,3
+1166950,2019,2019-07-15,Specsavers County Championship,Surrey,Nottinghamshire,Surrey,bat,Surrey,"Trent Bridge, Nottingham",4,3,75,3,2,66,3,24,2,1,66,4,1,5
+1167012,2019,2019-07-10,Specsavers County Championship,Worcestershire,Derbyshire,Derbyshire,bat,Derbyshire,"Chester Road North Ground, Kidderminster",6,3,50,1,0,0,2,1,0,1,0,100,2,1
+1167009,2019,2019-07-10,Specsavers County Championship,Leicestershire,Durham,Durham,bat,Durham,"Grace Road, Leicester",5,1,20,3,1,33,22,3,1,2,4,66,2,3
+1166948,2019,2019-07-10,Specsavers County Championship,Surrey,Kent,Kent,field,Kent,"Kennington Oval, London",7,4,57,4,2,50,24,4,2,2,8,50,1,2
+1167010,2019,2019-07-09,Specsavers County Championship,Middlesex,Gloucestershire,Gloucestershire,field,Middlesex,"Merchant Taylors' School Ground, Northwood",3,1,33,1,1,100,3,1,1,0,33,0,3,3
+1166947,2019,2019-07-09,Specsavers County Championship,Somerset,Nottinghamshire,Somerset,bat,Somerset,"County Ground, Taunton",12,9,75,4,4,100,15,4,4,0,26,0,5,4
+1166945,2019,2019-07-09,Specsavers County Championship,Yorkshire,Essex,Yorkshire,bat,Essex,"County Ground, Chelmsford",5,1,20,3,1,33,3,46,1,2,33,4,4,5
+1166944,2019,2019-07-03,Specsavers County Championship,Yorkshire,Surrey,Yorkshire,bat,Yorkshire,"North Marine Road Ground, Scarborough",6,2,33,3,1,33,16,3,1,2,6,66,4,4
+1166943,2019,2019-07-03,Specsavers County Championship,Nottinghamshire,Essex,Nottinghamshire,bat,Essex,"Trent Bridge, Nottingham",6,2,33,4,1,25,28,4,1,3,3,75,4,5
+1166942,2019,2019-07-03,Specsavers County Championship,Somerset,Hampshire,Somerset,bat,Somerset,"County Ground, Taunton",8,3,38,1,1,100,15,1,1,0,6,0,4,3
+1167008,2019,2019-07-02,Specsavers County Championship,Sussex,Northamptonshire,Northamptonshire,bat,Northamptonshire,"County Ground, Hove, Brighton",6,1,17,3,1,33,32,3,1,2,3,66,2,2
+1167004,2019,2019-06-27,Specsavers County Championship,Sussex,Durham,Durham,bat,Durham,"County Ground, Hove, Brighton",12,5,42,3,2,66,32,3,2,1,6,33,2,2
+1167002,2019,2019-06-26,Specsavers County Championship,Gloucestershire,Glamorgan,Glamorgan,field,Glamorgan,"County Ground, Bristol",7,5,71,2,0,0,7,2,0,2,0,100,2,3
+1166940,2019,2019-06-26,Specsavers County Championship,Warwickshire,Surrey,Warwickshire,field,Surrey,"Kennington Oval, London",9,2,22,5,0,0,5,9,0,5,0,55,2,5
+1166939,2019,2019-06-25,Specsavers County Championship,Somerset,Essex,Essex,bat,Essex,"County Ground, Chelmsford",7,2,29,3,0,0,3,46,0,3,0,6,4,5
+1166938,2019,2019-06-20,Specsavers County Championship,Yorkshire,Warwickshire,Warwickshire,field,Warwickshire,"York Cricket Club, York",8,6,75,1,0,0,1,1,0,1,0,100,4,3
+1166937,2019,2019-06-20,Specsavers County Championship,Nottinghamshire,Kent,Nottinghamshire,field,Kent,"Nevill Ground, Tunbridge Wells",3,1,33,1,0,0,1,2,0,1,0,50,4,3
+1166936,2019,2019-06-17,Specsavers County Championship,Hampshire,Essex,Hampshire,bat,Essex,"County Ground, Chelmsford",10,3,30,5,1,20,5,46,1,4,20,8,3,5
+1166989,2019,2019-06-06,Specsavers County Championship,Durham,Derbyshire,Derbyshire,field,Durham,"Riverside Ground, Chester-Le-Street",6,5,83,4,4,100,4,4,4,0,100,0,5,2
+1166991,2019,2019-06-05,Specsavers County Championship,Sussex,Middlesex,Middlesex,bat,Sussex,"Lord'S, London",10,4,40,3,1,33,3,17,1,2,33,11,2,4
+1166988,2019,2019-05-30,Specsavers County Championship,Worcestershire,Middlesex,Worcestershire,field,Middlesex,"County Ground, New Road, Worcester",4,2,50,2,1,50,45,2,1,1,2,50,2,4
+1166928,2019,2019-05-30,Specsavers County Championship,Warwickshire,Surrey,Surrey,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",9,2,22,3,1,33,35,3,1,2,2,66,2,4
+1166927,2019,2019-05-30,Specsavers County Championship,Kent,Essex,Kent,field,Essex,"County Ground, Chelmsford",10,1,10,6,0,0,6,46,0,6,0,13,3,4
+1166924,2019,2019-05-23,Specsavers County Championship,Nottinghamshire,Hampshire,Nottinghamshire,field,Hampshire,"New Close County Cricket Ground, Newport, Isle-Of-Wight, Newport",10,1,10,1,0,0,1,1,0,1,0,100,4,3
+1166983,2019,2019-05-22,Specsavers County Championship,Worcestershire,Lancashire,Lancashire,field,Lancashire,"Old Trafford, Manchester",2,0,0,1,0,0,1,16,0,1,0,6,2,2
+1166982,2019,2019-05-22,Specsavers County Championship,Gloucestershire,Durham,Gloucestershire,field,Gloucestershire,"Riverside Ground, Chester-Le-Street",5,3,60,2,1,50,2,41,1,1,50,2,1,1
+1166981,2019,2019-05-22,Specsavers County Championship,Glamorgan,Derbyshire,Derbyshire,bat,Glamorgan,"County Ground, Derby",7,4,57,3,1,33,3,24,1,2,33,8,3,3
+1166926,2019,2019-05-22,Specsavers County Championship,Warwickshire,Somerset,Warwickshire,field,Somerset,"County Ground, Taunton",9,3,33,4,1,25,4,9,1,3,25,33,2,3
+1166980,2019,2019-05-17,Specsavers County Championship,Worcestershire,Durham,Durham,bat,Worcestershire,"County Ground, New Road, Worcester",8,2,25,3,2,66,45,3,2,1,4,33,2,0
+1166978,2019,2019-05-17,Specsavers County Championship,Northamptonshire,Lancashire,Lancashire,field,Lancashire,"Old Trafford, Manchester",6,0,0,3,0,0,3,16,0,3,0,18,3,3
+1166923,2019,2019-05-17,Specsavers County Championship,Warwickshire,Hampshire,Hampshire,bat,Hampshire,"Edgbaston Foundation Community Sports Ground, Birmingham",7,2,29,3,1,33,35,3,1,2,2,66,2,2
+1166921,2019,2019-05-17,Specsavers County Championship,Yorkshire,Kent,Yorkshire,bat,Yorkshire,"St Lawrence Ground, Canterbury",3,2,67,2,2,100,2,19,2,0,100,0,3,3
+1166920,2019,2019-05-16,Specsavers County Championship,Nottinghamshire,Essex,Nottinghamshire,bat,Essex,"County Ground, Chelmsford",6,2,33,2,1,50,2,46,1,1,50,2,3,4
+1166976,2019,2019-04-14,Specsavers County Championship,Middlesex,Lancashire,Lancashire,field,Lancashire,"Lord'S, London",4,1,25,2,1,50,17,3,1,1,5,33,2,3
+1166975,2019,2019-04-14,Specsavers County Championship,Worcestershire,Leicestershire,Leicestershire,field,Worcestershire,"Grace Road, Leicester",10,10,100,3,3,100,3,15,3,0,100,0,1,2
+1166972,2019,2019-04-14,Specsavers County Championship,Sussex,Durham,Sussex,field,Sussex,"Riverside Ground, Chester-Le-Street",12,5,42,7,2,28,7,41,2,5,28,12,2,1
+1166919,2019,2019-04-14,Specsavers County Championship,Warwickshire,Kent,Kent,bat,Kent,"Edgbaston Foundation Community Sports Ground, Birmingham",6,3,50,4,2,50,35,4,2,2,5,50,3,4
+1166916,2019,2019-04-14,Specsavers County Championship,Yorkshire,Hampshire,Yorkshire,bat,Yorkshire,"The Rose Bowl, Southampton",6,3,50,3,2,66,3,29,2,1,66,3,3,2
+1166917,2019,2019-04-13,Specsavers County Championship,Somerset,Nottinghamshire,Somerset,field,Somerset,"Trent Bridge, Nottingham",12,9,75,6,4,66,6,24,4,2,66,8,4,4
+1166971,2019,2019-04-08,Specsavers County Championship,Sussex,Leicestershire,Leicestershire,field,Leicestershire,"County Ground, Hove, Brighton",6,4,67,3,2,66,32,3,2,1,6,33,2,3
+1166969,2019,2019-04-08,Specsavers County Championship,Durham,Derbyshire,Derbyshire,bat,Derbyshire,"County Ground, Derby",6,5,83,1,0,0,1,24,0,1,0,4,5,3
+1166915,2019,2019-04-08,Specsavers County Championship,Somerset,Kent,Kent,field,Somerset,"County Ground, Taunton",3,2,67,1,1,100,15,1,1,0,6,0,3,4
+1166913,2019,2019-04-08,Specsavers County Championship,Hampshire,Essex,Essex,field,Hampshire,"The Rose Bowl, Southampton",10,3,30,4,2,50,6,4,2,2,33,50,3,4
+1150136,2019,2019-03-23,Sheffield Shield,Victoria,South Australia,South Australia,bat,Victoria,"Karen Rolton Oval, Adelaide",5,5,100,1,1,100,1,3,1,0,100,0,3,0
+1150135,2019,2019-03-23,Sheffield Shield,Tasmania,New South Wales,Tasmania,field,New South Wales,"Bellerive Oval, Hobart",8,3,38,4,3,75,10,4,3,1,30,25,2,3
+1150137,2019,2019-03-22,Sheffield Shield,Western Australia,Queensland,Queensland,field,Western Australia,"Western Australia Cricket Association Ground, Perth",4,4,100,3,3,100,18,3,3,0,16,0,4,3
+1160301,2019,2019-03-20,Plunket Shield,Northern Districts,Central Stags,Northern Districts,bat,Northern Districts,"Seddon Park, Hamilton",12,7,58,3,2,66,9,3,2,1,22,33,3,2
+1150134,2019,2019-03-15,Sheffield Shield,Western Australia,Tasmania,Tasmania,field,Western Australia,"Bellerive Oval, Hobart",8,4,50,4,2,50,4,6,2,2,50,33,4,3
+1160300,2019,2019-03-12,Plunket Shield,Wellington Firebirds,Otago Volts,Wellington Firebirds,bat,Otago Volts,University Of Otago Oval,12,8,67,2,1,50,2,2,1,1,50,50,1,2
+1160298,2019,2019-03-12,Plunket Shield,Canterbury,Auckland Aces,Auckland Aces,field,Canterbury,"Mainpower Oval, Rangiora",12,6,50,3,2,66,3,3,2,1,66,33,3,4
+1160299,2019,2019-03-11,Plunket Shield,Northern Districts,Central Stags,Northern Districts,bat,Central Stags,"Mclean Park, Napier",12,7,58,4,2,50,4,9,2,2,50,22,3,3
+1150131,2019,2019-03-05,Sheffield Shield,Western Australia,South Australia,Western Australia,field,Western Australia,"Western Australia Cricket Association Ground, Perth",9,7,78,3,3,100,18,3,3,0,16,0,3,0
+1150130,2019,2019-03-05,Sheffield Shield,Queensland,New South Wales,Queensland,field,New South Wales,"Brisbane Cricket Ground, Woolloongabba, Brisbane",8,2,25,4,1,25,4,4,1,3,25,75,4,2
+1160296,2019,2019-03-04,Plunket Shield,Otago Volts,Central Stags,Central Stags,bat,Central Stags,"Mclean Park, Napier",11,3,27,3,0,0,3,9,0,3,0,33,3,2
+1160295,2019,2019-03-04,Plunket Shield,Wellington Firebirds,Canterbury,Wellington Firebirds,field,Canterbury,"Hagley Oval, Christchurch",17,8,47,6,4,66,6,16,4,2,66,12,2,3
+1150128,2019,2019-02-26,Sheffield Shield,Tasmania,South Australia,South Australia,bat,Tasmania,"Adelaide Oval, Adelaide",6,3,50,2,2,100,2,8,2,0,100,0,2,1
+1150126,2019,2019-02-26,Sheffield Shield,Victoria,Queensland,Queensland,bat,Victoria,"Junction Oval, Melbourne",8,4,50,1,1,100,5,1,1,0,20,0,3,3
+1160293,2019,2019-02-23,Plunket Shield,Central Stags,Canterbury,Central Stags,bat,Canterbury,"Mainpower Oval, Rangiora",11,5,45,3,1,33,3,11,1,2,33,18,3,4
+1160292,2019,2019-02-23,Plunket Shield,Otago Volts,Auckland Aces,Otago Volts,field,Auckland Aces,Kennards Hire Community Oval,12,3,25,4,1,25,4,18,1,3,25,16,3,3
+1160291,2018,2018-12-17,Plunket Shield,Otago Volts,Canterbury,Otago Volts,bat,Canterbury,University Of Otago Oval,12,5,42,2,0,0,10,2,0,2,0,100,2,4
+1160289,2018,2018-12-16,Plunket Shield,Northern Districts,Auckland Aces,Auckland Aces,field,Auckland Aces,Kennards Hire Community Oval,11,2,18,6,1,16,6,18,1,5,16,27,2,3
+1160288,2018,2018-12-09,Plunket Shield,Otago Volts,Central Stags,Central Stags,bat,Central Stags,"Molyneux Park, Alexandra",11,3,27,1,0,0,5,1,0,1,0,100,1,2
+1160287,2018,2018-12-09,Plunket Shield,Wellington Firebirds,Northern Districts,Wellington Firebirds,field,Northern Districts,"Seddon Park, Hamilton",11,5,45,4,1,25,4,6,1,3,25,50,3,2
+1160286,2018,2018-12-09,Plunket Shield,Canterbury,Auckland Aces,Auckland Aces,field,Auckland Aces,Kennards Hire Community Oval,12,6,50,3,1,33,3,18,1,2,33,11,4,3
+1150121,2018,2018-11-29,Sheffield Shield,Victoria,Queensland,Queensland,field,Queensland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",8,4,50,2,1,50,2,9,1,1,50,11,3,2
+1150119,2018,2018-11-20,Sheffield Shield,Victoria,Tasmania,Victoria,field,Victoria,"Bellerive Oval, Hobart",4,2,50,2,1,50,2,6,1,1,50,16,2,3
+1150118,2018,2018-11-19,Sheffield Shield,Western Australia,South Australia,Western Australia,field,Western Australia,"Adelaide Oval, Adelaide",9,7,78,4,2,50,4,8,2,2,50,25,2,2
+1160285,2018,2018-10-19,Plunket Shield,Wellington Firebirds,Otago Volts,Otago Volts,field,Wellington Firebirds,Cello Basin Reserve,12,8,67,4,4,100,13,4,4,0,30,0,2,2
+1160283,2018,2018-10-19,Plunket Shield,Central Stags,Auckland Aces,Auckland Aces,field,Central Stags,Kennards Hire Community Oval,12,7,58,4,3,75,4,18,3,1,75,5,3,4
+1150109,2018,2018-10-19,Sheffield Shield,Tasmania,Queensland,Queensland,field,Tasmania,"Brisbane Cricket Ground, Woolloongabba, Brisbane",9,4,44,3,2,66,3,9,2,1,66,11,2,1
+1160280,2018,2018-10-13,Plunket Shield,Central Stags,Canterbury,Canterbury,field,Central Stags,"Saxton Oval, Nelson",11,5,45,3,2,66,5,3,2,1,40,33,2,4
+1160281,2018,2018-10-12,Plunket Shield,Otago Volts,Northern Districts,Northern Districts,field,Northern Districts,"Bay Oval, Mount Maunganui",13,2,15,2,0,0,2,3,0,2,0,66,1,3
+1127741,2018,2018-09-26,Specsavers County Championship,Gloucestershire,Derbyshire,Gloucestershire,field,Gloucestershire,"County Ground, Derby",5,2,40,2,2,100,2,24,2,0,100,0,0,3
+1127740,2018,2018-09-26,Specsavers County Championship,Leicestershire,Glamorgan,Leicestershire,field,Glamorgan,"Sophia Gardens, Cardiff",6,1,17,5,1,20,5,25,1,4,20,16,3,3
+1127737,2018,2018-09-26,Specsavers County Championship,Warwickshire,Kent,Kent,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",6,3,50,4,2,50,35,4,2,2,5,50,4,3
+1127671,2018,2018-09-26,Specsavers County Championship,Somerset,Nottinghamshire,Somerset,bat,Somerset,"Trent Bridge, Nottingham",12,9,75,6,4,66,6,24,4,2,66,8,3,4
+1127670,2018,2018-09-26,Specsavers County Championship,Yorkshire,Worcestershire,Yorkshire,field,Yorkshire,"County Ground, New Road, Worcester",4,3,75,1,1,100,1,1,1,0,100,0,2,4
+1127739,2018,2018-09-25,Specsavers County Championship,Sussex,Northamptonshire,Sussex,bat,Northamptonshire,"County Ground, Northampton",6,1,17,3,0,0,3,17,0,3,0,17,2,2
+1127733,2018,2018-09-21,Specsavers County Championship,Middlesex,Derbyshire,Derbyshire,field,Middlesex,"Lord'S, London",4,2,50,2,2,100,17,2,2,0,11,0,1,3
+1127665,2018,2018-09-20,Specsavers County Championship,Worcestershire,Essex,Worcestershire,bat,Essex,"County Ground, Chelmsford",5,1,20,3,0,0,3,46,0,3,0,6,0,3
+1127736,2018,2018-09-19,Specsavers County Championship,Leicestershire,Durham,Durham,field,Leicestershire,"Grace Road, Leicester",5,1,20,3,1,33,22,3,1,2,4,66,2,1
+1127730,2018,2018-09-13,Specsavers County Championship,Gloucestershire,Glamorgan,Gloucestershire,field,Gloucestershire,"Sophia Gardens, Cardiff",7,5,71,3,3,100,3,25,3,0,100,0,0,3
+1127729,2018,2018-09-13,Specsavers County Championship,Northamptonshire,Derbyshire,Derbyshire,field,Derbyshire,"County Ground, Northampton",6,3,50,3,1,33,23,3,1,2,4,66,3,2
+1127664,2018,2018-09-13,Specsavers County Championship,Nottinghamshire,Essex,Nottinghamshire,bat,Essex,"Trent Bridge, Nottingham",6,2,33,4,1,25,28,4,1,3,3,75,3,3
+1127663,2018,2018-09-13,Specsavers County Championship,Worcestershire,Surrey,Worcestershire,bat,Surrey,"County Ground, New Road, Worcester",3,1,33,2,1,50,45,2,1,1,2,50,1,4
+1127662,2018,2018-09-13,Specsavers County Championship,Yorkshire,Lancashire,Lancashire,field,Yorkshire,"Headingley, Leeds",5,4,80,3,3,100,28,3,3,0,10,0,1,3
+1127731,2018,2018-09-12,Specsavers County Championship,Leicestershire,Warwickshire,Warwickshire,field,Warwickshire,"Grace Road, Leicester",1,0,0,1,0,0,22,1,0,1,0,100,2,2
+1127728,2018,2018-09-12,Specsavers County Championship,Middlesex,Kent,Kent,field,Kent,"Lord'S, London",4,1,25,2,1,50,17,2,1,1,5,50,0,3
+1127727,2018,2018-09-12,Specsavers County Championship,Sussex,Durham,Sussex,field,Durham,"Riverside Ground, Chester-Le-Street",12,5,42,7,2,28,7,41,2,5,28,12,2,2
+1127661,2018,2018-09-11,Specsavers County Championship,Somerset,Hampshire,Somerset,bat,Hampshire,"The Rose Bowl, Southampton",8,3,38,6,2,33,6,29,2,4,33,13,4,3
+1127722,2018,2018-09-07,Specsavers County Championship,Northamptonshire,Kent,Northamptonshire,field,Kent,"St Lawrence Ground, Canterbury",7,4,57,4,2,50,4,19,2,2,50,10,2,4
+1127725,2018,2018-09-06,Specsavers County Championship,Glamorgan,Derbyshire,Glamorgan,field,Derbyshire,"County Ground, Derby",7,4,57,3,1,33,3,24,1,2,33,8,4,2
+1127724,2018,2018-09-06,Specsavers County Championship,Sussex,Leicestershire,Sussex,bat,Sussex,"County Ground, Hove, Brighton",6,4,67,3,2,66,32,3,2,1,6,33,2,2
+1127658,2018,2018-09-06,Specsavers County Championship,Worcestershire,Hampshire,Hampshire,bat,Hampshire,"County Ground, New Road, Worcester",3,1,33,2,1,50,45,2,1,1,2,50,1,2
+1127657,2018,2018-09-06,Specsavers County Championship,Surrey,Essex,Essex,field,Surrey,"County Ground, Chelmsford",5,2,40,3,1,33,3,46,1,2,33,4,0,3
+1127721,2018,2018-09-01,Specsavers County Championship,Leicestershire,Gloucestershire,Leicestershire,field,Gloucestershire,"County Ground, Bristol",11,4,36,4,1,25,4,17,1,3,25,17,2,4
+1127654,2018,2018-09-01,Specsavers County Championship,Yorkshire,Somerset,Yorkshire,field,Somerset,"Headingley, Leeds",8,3,38,4,2,50,28,4,2,2,7,50,2,2
+1127653,2018,2018-09-01,Specsavers County Championship,Hampshire,Essex,Essex,bat,Essex,"County Ground, Chelmsford",10,3,30,5,1,20,5,46,1,4,20,8,2,2
+1127719,2018,2018-08-31,Specsavers County Championship,Sussex,Middlesex,Sussex,field,Middlesex,"Lord'S, London",10,4,40,3,1,33,3,17,1,2,33,11,1,4
+1127717,2018,2018-08-31,Specsavers County Championship,Warwickshire,Glamorgan,Warwickshire,field,Warwickshire,"Penrhyn Avenue, Rhos-On-Sea, Colwyn Bay",2,2,100,1,1,100,1,3,1,0,100,0,4,3
+1127656,2018,2018-08-31,Specsavers County Championship,Worcestershire,Lancashire,Worcestershire,bat,Lancashire,"Trafalgar Road Ground, Southport",2,0,0,1,0,0,1,2,0,1,0,50,1,4
+1127718,2018,2018-08-30,Specsavers County Championship,Northamptonshire,Durham,Northamptonshire,field,Northamptonshire,"Riverside Ground, Chester-Le-Street",4,3,75,3,2,66,3,41,2,1,66,2,2,2
+1127713,2018,2018-08-22,Specsavers County Championship,Northamptonshire,Middlesex,Middlesex,field,Middlesex,"County Ground, Northampton",4,1,25,3,1,33,23,3,1,2,4,66,2,4
+1127652,2018,2018-08-22,Specsavers County Championship,Somerset,Essex,Somerset,bat,Somerset,"County Ground, Taunton",7,2,29,2,1,50,15,2,1,1,6,50,3,2
+1127651,2018,2018-08-22,Specsavers County Championship,Yorkshire,Worcestershire,Worcestershire,field,Worcestershire,"North Marine Road Ground, Scarborough",4,3,75,2,1,50,16,2,1,1,6,50,2,4
+1127650,2018,2018-08-22,Specsavers County Championship,Surrey,Lancashire,Surrey,bat,Surrey,"Kennington Oval, London",6,2,33,3,2,66,24,3,2,1,8,33,1,5
+1127649,2018,2018-08-22,Specsavers County Championship,Nottinghamshire,Hampshire,Nottinghamshire,field,Hampshire,"The Rose Bowl, Southampton",10,1,10,4,0,0,4,29,0,4,0,13,2,3
+1127714,2018,2018-08-21,Specsavers County Championship,Glamorgan,Durham,Durham,field,Durham,"Sophia Gardens, Cardiff",5,1,20,1,0,0,6,1,0,1,0,100,3,2
+1127712,2018,2018-08-20,Specsavers County Championship,Warwickshire,Gloucestershire,Gloucestershire,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",3,1,33,1,1,100,35,1,1,0,2,0,4,3
+1127709,2018,2018-07-25,Specsavers County Championship,Northamptonshire,Derbyshire,Derbyshire,bat,Derbyshire,"Queen'S Park, Chesterfield",6,3,50,2,1,50,2,5,1,1,50,20,3,2
+1127708,2018,2018-07-25,Specsavers County Championship,Gloucestershire,Durham,Gloucestershire,bat,Gloucestershire,"College Ground, Cheltenham",5,3,60,1,1,100,3,1,1,0,33,0,0,1
+1127647,2018,2018-07-25,Specsavers County Championship,Worcestershire,Somerset,Worcestershire,field,Somerset,"County Ground, New Road, Worcester",4,1,25,3,1,33,45,3,1,2,2,66,1,2
+1127710,2018,2018-07-24,Specsavers County Championship,Warwickshire,Middlesex,Middlesex,bat,Middlesex,"Lord'S, London",6,3,50,3,2,66,4,17,2,1,50,5,3,3
+1127648,2018,2018-07-24,Specsavers County Championship,Surrey,Nottinghamshire,Surrey,field,Surrey,"Trent Bridge, Nottingham",4,3,75,3,2,66,3,24,2,1,66,4,1,3
+1127646,2018,2018-07-24,Specsavers County Championship,Yorkshire,Lancashire,Yorkshire,bat,Yorkshire,"Old Trafford, Manchester",5,4,80,2,1,50,2,16,1,1,50,6,2,5
+1127711,2018,2018-07-23,Specsavers County Championship,Sussex,Glamorgan,Sussex,bat,Sussex,"County Ground, Hove, Brighton",6,4,67,1,1,100,32,1,1,0,3,0,2,2
+1127707,2018,2018-07-23,Specsavers County Championship,Leicestershire,Kent,Leicestershire,field,Leicestershire,"St Lawrence Ground, Canterbury",4,1,25,1,1,100,1,19,1,0,100,0,1,3
+1127706,2018,2018-07-19,Specsavers County Championship,Sussex,Gloucestershire,Sussex,bat,Sussex,"College Ground, Cheltenham",5,5,100,1,1,100,1,12,1,0,100,0,3,3
+1127704,2018,2018-06-28,Specsavers County Championship,Northamptonshire,Glamorgan,Northamptonshire,bat,Northamptonshire,"Sophia Gardens, Cardiff",7,6,86,3,2,66,3,25,2,1,66,4,3,1
+1127703,2018,2018-06-28,Specsavers County Championship,Warwickshire,Durham,Warwickshire,bat,Warwickshire,"Riverside Ground, Chester-Le-Street",7,5,71,4,3,75,4,41,3,1,75,2,3,2
+1127644,2018,2018-06-28,Specsavers County Championship,Yorkshire,Surrey,Yorkshire,bat,Surrey,"North Marine Road Ground, Scarborough",6,2,33,3,1,33,16,3,1,2,6,66,2,4
+1127705,2018,2018-06-27,Specsavers County Championship,Leicestershire,Derbyshire,Leicestershire,field,Leicestershire,"County Ground, Derby",6,2,33,2,1,50,2,24,1,1,50,4,1,3
+1127702,2018,2018-06-27,Specsavers County Championship,Middlesex,Kent,Kent,bat,Kent,"St Lawrence Ground, Canterbury",4,1,25,2,0,0,2,19,0,2,0,10,1,2
+1127701,2018,2018-06-23,Specsavers County Championship,Middlesex,Leicestershire,Leicestershire,bat,Middlesex,"Grace Road, Leicester",5,4,80,3,2,66,3,15,2,1,66,6,1,2
+1127700,2018,2018-06-23,Specsavers County Championship,Warwickshire,Kent,Warwickshire,field,Kent,"Nevill Ground, Tunbridge Wells",6,3,50,1,0,0,1,2,0,1,0,50,3,3
+1127639,2018,2018-06-23,Specsavers County Championship,Nottinghamshire,Essex,Nottinghamshire,bat,Nottinghamshire,"County Ground, Chelmsford",6,2,33,2,1,50,2,46,1,1,50,2,1,3
+1127698,2018,2018-06-22,Specsavers County Championship,Northamptonshire,Gloucestershire,Gloucestershire,field,Northamptonshire,"County Ground, Northampton",6,3,50,3,2,66,23,3,2,1,8,33,4,3
+1127697,2018,2018-06-22,Specsavers County Championship,Sussex,Durham,Durham,field,Sussex,"Arundel Castle Cricket Club Ground, Arundel",12,5,42,2,1,50,2,2,1,1,50,50,4,2
+1127640,2018,2018-06-22,Specsavers County Championship,Surrey,Somerset,Somerset,field,Surrey,"Woodbridge Road, Guildford",5,4,80,1,1,100,4,1,1,0,25,0,1,2
+1127694,2018,2018-06-12,Specsavers County Championship,Durham,Derbyshire,Derbyshire,field,Durham,"Riverside Ground, Chester-Le-Street",6,5,83,4,4,100,4,4,4,0,100,0,5,3
+1127693,2018,2018-06-12,Specsavers County Championship,Warwickshire,Glamorgan,Glamorgan,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",2,2,100,1,1,100,35,1,1,0,2,0,4,0
+1127637,2018,2018-06-12,Specsavers County Championship,Somerset,Nottinghamshire,Somerset,bat,Somerset,"County Ground, Taunton",12,9,75,4,4,100,15,4,4,0,26,0,3,3
+1127636,2018,2018-06-11,Specsavers County Championship,Lancashire,Essex,Essex,field,Essex,"Old Trafford, Manchester",6,1,17,2,0,0,10,2,0,2,0,100,3,2
+1127635,2018,2018-06-11,Specsavers County Championship,Surrey,Hampshire,Surrey,bat,Surrey,"The Rose Bowl, Southampton",10,7,70,4,2,50,4,29,2,2,50,6,2,4
+1127631,2018,2018-05-14,Specsavers County Championship,Yorkshire,Surrey,Yorkshire,field,Surrey,"Kennington Oval, London",6,2,33,2,0,0,2,9,0,2,0,22,3,4
+1127689,2018,2018-05-13,Specsavers County Championship,Warwickshire,Northamptonshire,Northamptonshire,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",5,5,100,3,3,100,35,3,3,0,8,0,4,2
+1127688,2018,2018-05-13,Specsavers County Championship,Sussex,Kent,Sussex,field,Kent,"St Lawrence Ground, Canterbury",4,0,0,2,0,0,2,19,0,2,0,10,3,2
+1127634,2018,2018-05-13,Specsavers County Championship,Nottinghamshire,Lancashire,Lancashire,field,Lancashire,"Trent Bridge, Nottingham",6,4,67,3,2,66,28,3,2,1,7,33,0,4
+1127632,2018,2018-05-13,Specsavers County Championship,Worcestershire,Essex,Essex,bat,Essex,"County Ground, New Road, Worcester",5,1,20,2,1,50,45,2,1,1,2,50,1,3
+1127687,2018,2018-05-07,Specsavers County Championship,Sussex,Middlesex,Middlesex,bat,Sussex,"County Ground, Hove, Brighton",10,4,40,6,3,50,32,6,3,3,9,50,4,2
+1127685,2018,2018-05-07,Specsavers County Championship,Leicestershire,Durham,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",5,1,20,2,0,0,2,41,0,2,0,4,1,2
+1127630,2018,2018-05-07,Specsavers County Championship,Nottinghamshire,Hampshire,Nottinghamshire,bat,Nottinghamshire,"Trent Bridge, Nottingham",10,1,10,5,1,20,28,5,1,4,3,80,0,4
+1127686,2018,2018-05-06,Specsavers County Championship,Kent,Glamorgan,Kent,field,Kent,"Sophia Gardens, Cardiff",6,3,50,4,2,50,4,25,2,2,50,8,3,0
+1127684,2018,2018-05-06,Specsavers County Championship,Warwickshire,Derbyshire,Derbyshire,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",2,2,100,1,1,100,35,1,1,0,2,0,4,3
+1127627,2018,2018-05-06,Specsavers County Championship,Yorkshire,Essex,Yorkshire,bat,Yorkshire,"County Ground, Chelmsford",5,1,20,3,1,33,3,46,1,2,33,4,2,4
+1127626,2018,2018-04-30,Specsavers County Championship,Yorkshire,Somerset,Yorkshire,field,Somerset,"County Ground, Taunton",8,3,38,2,0,0,2,9,0,2,0,22,2,1
+1127625,2018,2018-04-30,Specsavers County Championship,Worcestershire,Nottinghamshire,Nottinghamshire,field,Nottinghamshire,"County Ground, New Road, Worcester",7,2,29,3,1,33,45,3,1,2,2,66,0,4
+1127678,2018,2018-04-23,Specsavers County Championship,Gloucestershire,Glamorgan,Glamorgan,field,Glamorgan,"County Ground, Bristol",7,5,71,2,0,0,7,2,0,2,0,100,0,0
+1127677,2018,2018-04-23,Specsavers County Championship,Middlesex,Derbyshire,Middlesex,field,Derbyshire,"County Ground, Derby",4,2,50,1,0,0,1,24,0,1,0,4,1,2
+1127621,2018,2018-04-23,Specsavers County Championship,Surrey,Hampshire,Surrey,bat,Surrey,"Kennington Oval, London",10,7,70,5,5,100,24,5,5,0,20,0,2,3
+1127620,2018,2018-04-23,Specsavers County Championship,Yorkshire,Nottinghamshire,Nottinghamshire,field,Yorkshire,"Headingley, Leeds",7,6,86,2,2,100,28,2,2,0,7,0,1,4
+1127676,2018,2018-04-22,Specsavers County Championship,Warwickshire,Northamptonshire,Northamptonshire,bat,Warwickshire,"County Ground, Northampton",5,5,100,2,2,100,2,17,2,0,100,0,3,1
+1127622,2018,2018-04-22,Specsavers County Championship,Worcestershire,Somerset,Worcestershire,field,Somerset,"County Ground, Taunton",4,1,25,1,0,0,1,9,0,1,0,11,1,0
+1127619,2018,2018-04-22,Specsavers County Championship,Lancashire,Essex,Lancashire,field,Essex,"County Ground, Chelmsford",6,1,17,3,1,33,3,46,1,2,33,4,3,4
+1127675,2018,2018-04-21,Specsavers County Championship,Kent,Durham,Kent,field,Kent,"Riverside Ground, Chester-Le-Street",1,1,100,1,1,100,1,41,1,0,100,0,2,2
+1127672,2018,2018-04-16,Specsavers County Championship,Kent,Gloucestershire,Gloucestershire,field,Gloucestershire,"St Lawrence Ground, Canterbury",7,4,57,4,2,50,14,4,2,2,14,50,2,3
+1127618,2018,2018-04-16,Specsavers County Championship,Nottinghamshire,Lancashire,Nottinghamshire,field,Nottinghamshire,"Old Trafford, Manchester",6,4,67,2,1,50,2,16,1,1,50,6,0,4
+1127616,2018,2018-04-16,Specsavers County Championship,Worcestershire,Hampshire,Worcestershire,field,Hampshire,"The Rose Bowl, Southampton",3,1,33,1,0,0,1,29,0,1,0,3,2,4
+1127674,2018,2018-04-15,Specsavers County Championship,Northamptonshire,Middlesex,Northamptonshire,field,Middlesex,"Lord'S, London",4,1,25,1,0,0,1,17,0,1,0,5,5,1
+1120136,2018,2018-04-05,Plunket Shield,Otago Volts,Canterbury,Otago Volts,field,Canterbury,University Of Otago Oval,12,5,42,2,0,0,10,2,0,2,0,100,0,3
+1120137,2018,2018-04-04,Plunket Shield,Wellington Firebirds,Auckland Aces,Wellington Firebirds,field,Auckland Aces,Kennards Hire Community Oval,9,4,44,1,0,0,1,18,0,1,0,5,3,4
+1120132,2018,2018-03-27,Plunket Shield,Central Stags,Canterbury,Central Stags,bat,Central Stags,"Mclean Park, Napier",11,5,45,1,1,100,4,1,1,0,25,0,1,3
+1118894,2018,2018-03-27,Sheffield Shield,Tasmania,Queensland,Tasmania,bat,Queensland,"Allan Border Field, Brisbane",9,4,44,2,0,0,2,3,0,2,0,66,2,1
+1120134,2018,2018-03-26,Plunket Shield,Otago Volts,Auckland Aces,Auckland Aces,field,Otago Volts,University Of Otago Oval,12,3,25,2,1,50,10,2,1,1,10,50,0,4
+1120133,2018,2018-03-26,Plunket Shield,Wellington Firebirds,Northern Districts,Northern Districts,field,Northern Districts,Cello Basin Reserve,11,5,45,2,1,50,13,2,1,1,7,50,4,3
+1118893,2018,2018-03-17,Sheffield Shield,Western Australia,South Australia,South Australia,field,Western Australia,"Gliderol Stadium, Adelaide",9,7,78,1,1,100,1,1,1,0,100,0,1,2
+1120128,2018,2018-03-13,Plunket Shield,Wellington Firebirds,Otago Volts,Wellington Firebirds,bat,Wellington Firebirds,University Of Otago Oval,12,8,67,2,1,50,2,2,1,1,50,50,4,2
+1120125,2018,2018-03-04,Plunket Shield,Otago Volts,Central Stags,Central Stags,field,Central Stags,"Mclean Park, Napier",11,3,27,3,0,0,3,9,0,3,0,33,0,3
+1120123,2018,2018-03-04,Plunket Shield,Northern Districts,Auckland Aces,Northern Districts,field,Auckland Aces,Kennards Hire Community Oval,11,2,18,6,1,16,6,18,1,5,16,27,2,3
+1120124,2018,2018-03-02,Plunket Shield,Wellington Firebirds,Canterbury,Wellington Firebirds,field,Wellington Firebirds,"Hagley Oval, Christchurch",17,8,47,6,4,66,6,16,4,2,66,12,4,2
+1118887,2018,2018-02-28,Sheffield Shield,South Australia,Queensland,South Australia,field,Queensland,"Adelaide Oval, Adelaide",7,1,14,2,0,0,6,2,0,2,0,100,2,1
+1118882,2018,2018-02-18,Sheffield Shield,Western Australia,Tasmania,Western Australia,field,Tasmania,"Bellerive Oval, Hobart",8,4,50,4,2,50,4,6,2,2,50,33,1,2
+1118881,2018,2018-02-10,Sheffield Shield,Western Australia,New South Wales,New South Wales,bat,Western Australia,"Western Australia Cricket Association Ground, Perth",5,3,60,3,2,66,18,3,2,1,11,33,0,2
+1125471,2017,2017-12-01,ICC Intercontinental Cup,Scotland,Ireland,Scotland,field,Ireland,"Dubai International Cricket Stadium, Dubai",2,0,0,1,0,0,1,1,0,1,0,100,0,3
+1120122,2017,2017-11-27,Plunket Shield,Otago Volts,Northern Districts,Northern Districts,bat,Northern Districts,"Molyneux Park, Alexandra",13,2,15,2,0,0,5,2,0,2,0,100,1,3
+1120121,2017,2017-11-26,Plunket Shield,Canterbury,Auckland Aces,Canterbury,field,Auckland Aces,Kennards Hire Community Oval,12,6,50,3,1,33,3,18,1,2,33,11,4,3
+1120120,2017,2017-11-26,Plunket Shield,Wellington Firebirds,Central Stags,Central Stags,field,Central Stags,"Saxton Oval, Nelson",9,5,56,3,2,66,3,6,2,1,66,16,5,3
+1120118,2017,2017-11-18,Plunket Shield,Otago Volts,Central Stags,Otago Volts,bat,Central Stags,University Of Otago Oval,11,3,27,3,1,33,10,3,1,2,10,66,1,2
+1120119,2017,2017-11-17,Plunket Shield,Northern Districts,Auckland Aces,Auckland Aces,field,Auckland Aces,"Seddon Park, Hamilton",11,2,18,2,1,50,9,2,1,1,11,50,1,3
+1120117,2017,2017-11-16,Plunket Shield,Wellington Firebirds,Canterbury,Wellington Firebirds,field,Wellington Firebirds,Cello Basin Reserve,17,8,47,4,3,75,13,4,3,1,23,25,4,1
+1118871,2017,2017-11-15,Sheffield Shield,Queensland,New South Wales,Queensland,bat,New South Wales,"Allan Border Field, Brisbane",8,2,25,3,1,33,3,3,1,2,33,66,3,1
+1120116,2017,2017-11-10,Plunket Shield,Otago Volts,Auckland Aces,Otago Volts,field,Auckland Aces,Kennards Hire Community Oval,12,3,25,4,1,25,4,18,1,3,25,16,1,2
+1120115,2017,2017-11-10,Plunket Shield,Wellington Firebirds,Northern Districts,Northern Districts,field,Wellington Firebirds,"Seddon Park, Hamilton",11,5,45,4,1,25,4,6,1,3,25,50,4,3
+1120114,2017,2017-11-10,Plunket Shield,Central Stags,Canterbury,Central Stags,bat,Central Stags,"Hagley Oval, Christchurch",11,5,45,4,1,25,4,16,1,3,25,18,2,1
+1120112,2017,2017-11-02,Plunket Shield,Northern Districts,Canterbury,Canterbury,bat,Canterbury,"Mainpower Oval, Rangiora",11,3,27,3,0,0,3,11,0,3,0,27,2,1
+1120111,2017,2017-11-02,Plunket Shield,Central Stags,Auckland Aces,Auckland Aces,field,Central Stags,"Saxton Oval, Nelson",12,7,58,2,2,100,5,2,2,0,40,0,1,3
+1120113,2017,2017-11-01,Plunket Shield,Wellington Firebirds,Otago Volts,Otago Volts,field,Wellington Firebirds,Cello Basin Reserve,12,8,67,4,4,100,13,4,4,0,30,0,4,2
+1118866,2017,2017-10-29,Sheffield Shield,South Australia,New South Wales,South Australia,bat,New South Wales,"Adelaide Oval, Adelaide",6,2,33,4,1,25,6,4,1,3,16,75,1,0
+1120110,2017,2017-10-26,Plunket Shield,Otago Volts,Canterbury,Canterbury,bat,Otago Volts,"Hagley Oval, Christchurch",12,5,42,4,1,25,4,16,1,3,25,18,1,0
+1120108,2017,2017-10-25,Plunket Shield,Wellington Firebirds,Auckland Aces,Wellington Firebirds,field,Wellington Firebirds,Cello Basin Reserve,9,4,44,2,1,50,13,2,1,1,7,50,4,3
+1105011,2017,2017-10-21,ICC Intercontinental Cup,Hong Kong,Afghanistan,Hong Kong,bat,Afghanistan,"Mission Road Ground, Mong Kok, Hong Kong, Mong Kok",1,0,0,1,0,0,1,1,0,1,0,100,1,4
+1068653,2017,2017-09-28,Specsavers County Championship,Gloucestershire,Derbyshire,Gloucestershire,field,Derbyshire,"County Ground, Bristol",5,2,40,2,0,0,7,2,0,2,0,100,1,2
+1068651,2017,2017-09-28,Specsavers County Championship,Northamptonshire,Leicestershire,Northamptonshire,field,Northamptonshire,"Grace Road, Leicester",4,4,100,3,3,100,3,15,3,0,100,0,4,2
+1068649,2017,2017-09-28,Specsavers County Championship,Worcestershire,Durham,Worcestershire,bat,Worcestershire,"County Ground, New Road, Worcester",8,2,25,3,2,66,45,3,2,1,4,33,3,2
+1068581,2017,2017-09-28,Specsavers County Championship,Somerset,Middlesex,Somerset,bat,Somerset,"County Ground, Taunton",6,4,67,3,1,33,15,3,1,2,6,66,4,0
+1068580,2017,2017-09-28,Specsavers County Championship,Surrey,Lancashire,Lancashire,field,Lancashire,"Old Trafford, Manchester",6,2,33,3,0,0,3,16,0,3,0,18,2,4
+1068652,2017,2017-09-27,Specsavers County Championship,Kent,Glamorgan,Glamorgan,field,Glamorgan,"St Lawrence Ground, Canterbury",6,3,50,2,1,50,14,2,1,1,7,50,2,0
+1068582,2017,2017-09-27,Specsavers County Championship,Yorkshire,Essex,Yorkshire,field,Essex,"County Ground, Chelmsford",5,1,20,3,1,33,3,46,1,2,33,4,2,4
+1068648,2017,2017-09-22,Specsavers County Championship,Nottinghamshire,Northamptonshire,Nottinghamshire,field,Northamptonshire,"County Ground, Northampton",5,4,80,3,2,66,3,17,2,1,66,5,0,2
+1068646,2017,2017-09-22,Specsavers County Championship,Sussex,Durham,Durham,field,Sussex,"Riverside Ground, Chester-Le-Street",12,5,42,7,2,28,7,41,2,5,28,12,4,2
+1068579,2017,2017-09-22,Specsavers County Championship,Hampshire,Essex,Essex,field,Essex,"The Rose Bowl, Southampton",10,3,30,4,2,50,6,4,2,2,33,50,3,5
+1068576,2017,2017-09-22,Specsavers County Championship,Yorkshire,Warwickshire,Warwickshire,bat,Yorkshire,"Headingley, Leeds",8,6,75,4,3,75,28,4,3,1,10,25,2,2
+1068578,2017,2017-09-21,Specsavers County Championship,Middlesex,Lancashire,Middlesex,bat,Middlesex,"Lord'S, London",4,1,25,2,1,50,17,3,1,1,5,33,1,4
+1105001,2017,2017-09-18,ICC Intercontinental Cup,United Arab Emirates,Namibia,United Arab Emirates,bat,United Arab Emirates,"Wanderers Cricket Ground, Windhoek",1,1,100,1,1,100,1,1,1,0,100,0,1,1
+1068643,2017,2017-09-15,Specsavers County Championship,Northamptonshire,Glamorgan,Glamorgan,bat,Northamptonshire,"Sophia Gardens, Cardiff",7,6,86,3,2,66,3,25,2,1,66,4,4,1
+1068642,2017,2017-09-15,Specsavers County Championship,Sussex,Derbyshire,Sussex,field,Derbyshire,"County Ground, Hove, Brighton",6,3,50,4,2,50,32,4,2,2,6,50,3,1
+1068641,2017,2017-09-15,Specsavers County Championship,Worcestershire,Leicestershire,Leicestershire,bat,Worcestershire,"County Ground, New Road, Worcester",10,10,100,6,6,100,45,6,6,0,13,0,4,1
+1068574,2017,2017-09-15,Specsavers County Championship,Somerset,Lancashire,Lancashire,field,Somerset,"County Ground, Taunton",3,1,33,1,1,100,15,1,1,0,6,0,4,4
+1068572,2017,2017-09-14,Specsavers County Championship,Warwickshire,Essex,Essex,field,Essex,"Edgbaston Foundation Community Sports Ground, Birmingham",8,3,38,4,3,75,35,4,3,1,8,25,2,5
+1068638,2017,2017-09-08,Specsavers County Championship,Leicestershire,Gloucestershire,Gloucestershire,field,Gloucestershire,"Grace Road, Leicester",11,4,36,4,2,50,22,4,2,2,9,50,1,3
+1068637,2017,2017-09-08,Specsavers County Championship,Worcestershire,Nottinghamshire,Worcestershire,field,Worcestershire,"Trent Bridge, Nottingham",7,2,29,4,1,25,4,24,1,3,25,12,4,3
+1068636,2017,2017-09-08,Specsavers County Championship,Sussex,Northamptonshire,Sussex,field,Northamptonshire,"County Ground, Northampton",6,1,17,3,0,0,3,17,0,3,0,17,2,3
+1068571,2017,2017-09-08,Specsavers County Championship,Warwickshire,Somerset,Somerset,bat,Somerset,"Edgbaston Foundation Community Sports Ground, Birmingham",9,3,33,4,2,50,35,4,2,2,5,50,1,0
+1068635,2017,2017-08-31,Specsavers County Championship,Durham,Derbyshire,Derbyshire,field,Durham,"Riverside Ground, Chester-Le-Street",6,5,83,4,4,100,4,4,4,0,100,0,5,1
+1068634,2017,2017-08-31,Specsavers County Championship,Worcestershire,Gloucestershire,Worcestershire,bat,Worcestershire,"County Ground, New Road, Worcester",8,4,50,4,1,25,45,4,1,3,2,75,4,4
+1068632,2017,2017-08-31,Specsavers County Championship,Nottinghamshire,Northamptonshire,Nottinghamshire,bat,Nottinghamshire,"Trent Bridge, Nottingham",5,4,80,2,2,100,28,2,2,0,7,0,0,2
+1068567,2017,2017-08-31,Specsavers County Championship,Somerset,Essex,Essex,bat,Essex,"County Ground, Chelmsford",7,2,29,3,0,0,3,46,0,3,0,6,4,5
+1068566,2017,2017-08-31,Specsavers County Championship,Warwickshire,Lancashire,Warwickshire,bat,Lancashire,"Old Trafford, Manchester",4,2,50,1,0,0,1,16,0,1,0,6,1,5
+1068631,2017,2017-08-30,Specsavers County Championship,Sussex,Glamorgan,Sussex,field,Sussex,"Penrhyn Avenue, Rhos-On-Sea, Colwyn Bay",6,4,67,1,1,100,1,3,1,0,100,0,3,2
+1068629,2017,2017-08-09,Specsavers County Championship,Nottinghamshire,Derbyshire,Nottinghamshire,field,Nottinghamshire,"County Ground, Derby",5,4,80,2,2,100,2,24,2,0,100,0,0,1
+1068630,2017,2017-08-08,Specsavers County Championship,Worcestershire,Sussex,Sussex,bat,Sussex,"County Ground, New Road, Worcester",7,3,43,4,2,50,45,4,2,2,4,50,3,2
+1068562,2017,2017-08-08,Specsavers County Championship,Warwickshire,Middlesex,Warwickshire,bat,Warwickshire,"Lord'S, London",6,3,50,3,2,66,4,17,2,1,50,5,1,1
+1068561,2017,2017-08-07,Specsavers County Championship,Yorkshire,Essex,Essex,field,Essex,"North Marine Road Ground, Scarborough",5,1,20,1,0,0,16,1,0,1,0,100,2,5
+1068622,2017,2017-07-06,Specsavers County Championship,Durham,Derbyshire,Derbyshire,bat,Durham,"Queen'S Park, Chesterfield",6,5,83,1,1,100,1,5,1,0,100,0,4,1
+1068559,2017,2017-07-06,Specsavers County Championship,Yorkshire,Somerset,Somerset,bat,Somerset,"North Marine Road Ground, Scarborough",8,3,38,2,1,50,16,2,1,1,6,50,2,0
+1068558,2017,2017-07-06,Specsavers County Championship,Warwickshire,Middlesex,Middlesex,field,Middlesex,"Edgbaston Foundation Community Sports Ground, Birmingham",6,3,50,3,1,33,35,3,1,2,2,66,1,1
+1068623,2017,2017-07-04,Specsavers County Championship,Gloucestershire,Glamorgan,Gloucestershire,field,Gloucestershire,"College Ground, Cheltenham",7,5,71,1,1,100,3,1,1,0,33,0,2,2
+1068619,2017,2017-06-29,Specsavers County Championship,Northamptonshire,Leicestershire,Northamptonshire,bat,Northamptonshire,"County Ground, Northampton",4,4,100,1,1,100,23,1,1,0,4,0,3,1
+1068618,2017,2017-06-29,Specsavers County Championship,Glamorgan,Derbyshire,Derbyshire,bat,Derbyshire,"Sophia Gardens, Cardiff",7,4,57,3,2,66,6,3,2,1,33,33,3,0
+1068554,2017,2017-06-29,Specsavers County Championship,Middlesex,Essex,Middlesex,bat,Essex,"County Ground, Chelmsford",4,0,0,3,0,0,3,46,0,3,0,6,2,5
+1068616,2017,2017-06-22,Specsavers County Championship,Worcestershire,Kent,Kent,bat,Worcestershire,"County Ground, New Road, Worcester",4,2,50,2,2,100,45,2,2,0,4,0,2,1
+1068614,2017,2017-06-22,Specsavers County Championship,Glamorgan,Durham,Glamorgan,bat,Durham,"Riverside Ground, Chester-Le-Street",5,1,20,3,0,0,3,41,0,3,0,7,2,2
+1068553,2017,2017-06-22,Specsavers County Championship,Warwickshire,Essex,Essex,bat,Essex,"County Ground, Chelmsford",8,3,38,4,0,0,4,46,0,4,0,8,1,5
+1068551,2017,2017-06-22,Specsavers County Championship,Lancashire,Hampshire,Hampshire,bat,Lancashire,"Old Trafford, Manchester",4,4,100,2,2,100,10,2,2,0,20,0,4,3
+1068615,2017,2017-06-21,Specsavers County Championship,Nottinghamshire,Leicestershire,Leicestershire,field,Nottinghamshire,"Trent Bridge, Nottingham",4,4,100,2,2,100,28,2,2,0,7,0,0,1
+1068552,2017,2017-06-21,Specsavers County Championship,Yorkshire,Middlesex,Middlesex,bat,Middlesex,"Lord'S, London",7,2,29,4,0,0,4,17,0,4,0,23,2,1
+1068613,2017,2017-06-12,Specsavers County Championship,Sussex,Leicestershire,Sussex,field,Sussex,"Grace Road, Leicester",6,4,67,3,2,66,3,15,2,1,66,6,3,1
+1068550,2017,2017-06-12,Specsavers County Championship,Surrey,Essex,Essex,field,Essex,"Woodbridge Road, Guildford",5,2,40,1,0,0,4,1,0,1,0,100,3,5
+1068549,2017,2017-06-12,Specsavers County Championship,Middlesex,Lancashire,Middlesex,bat,Lancashire,"Trafalgar Road Ground, Southport",4,1,25,1,0,0,1,2,0,1,0,50,1,5
+1068611,2017,2017-06-11,Specsavers County Championship,Worcestershire,Glamorgan,Glamorgan,field,Glamorgan,"County Ground, New Road, Worcester",8,4,50,6,3,50,45,6,3,3,6,50,2,2
+1068610,2017,2017-06-11,Specsavers County Championship,Northamptonshire,Derbyshire,Derbyshire,field,Northamptonshire,"County Ground, Northampton",6,3,50,3,1,33,23,3,1,2,4,66,2,0
+1068608,2017,2017-06-05,Specsavers County Championship,Worcestershire,Sussex,Worcestershire,field,Sussex,"County Ground, Hove, Brighton",7,3,43,3,1,33,3,6,1,2,33,33,3,2
+1068607,2017,2017-06-05,Specsavers County Championship,Northamptonshire,Durham,Northamptonshire,field,Northamptonshire,"Riverside Ground, Chester-Le-Street",4,3,75,3,2,66,3,41,2,1,66,2,2,3
+1068546,2017,2017-06-05,Specsavers County Championship,Warwickshire,Hampshire,Hampshire,bat,Hampshire,"The Rose Bowl, Southampton",7,2,29,4,1,25,4,29,1,3,25,10,1,2
+1068547,2017,2017-06-04,Specsavers County Championship,Yorkshire,Lancashire,Lancashire,bat,Yorkshire,"Headingley, Leeds",5,4,80,3,3,100,28,3,3,0,10,0,2,5
+1068604,2017,2017-05-29,Specsavers County Championship,Glamorgan,Durham,Durham,bat,Glamorgan,"St Helen'S, Swansea",5,1,20,1,1,100,1,1,1,0,100,0,2,3
+1068602,2017,2017-05-28,Specsavers County Championship,Nottinghamshire,Gloucestershire,Gloucestershire,field,Nottinghamshire,"Trent Bridge, Nottingham",1,1,100,1,1,100,28,1,1,0,3,0,0,4
+1068600,2017,2017-05-24,Specsavers County Championship,Sussex,Durham,Sussex,field,Sussex,"County Ground, Hove, Brighton",12,5,42,3,2,66,32,3,2,1,6,33,3,3
+1068541,2017,2017-05-21,Specsavers County Championship,Hampshire,Essex,Hampshire,field,Essex,"County Ground, Chelmsford",10,3,30,5,1,20,5,46,1,4,20,8,2,4
+1068535,2017,2017-04-24,Specsavers County Championship,Somerset,Lancashire,Somerset,field,Lancashire,"Old Trafford, Manchester",3,1,33,1,0,0,1,16,0,1,0,6,4,4
+1068593,2017,2017-04-22,Specsavers County Championship,Sussex,Nottinghamshire,Sussex,field,Nottinghamshire,"Trent Bridge, Nottingham",6,1,17,4,1,25,4,24,1,3,25,12,4,4
+1068592,2017,2017-04-22,Specsavers County Championship,Worcestershire,Northamptonshire,Northamptonshire,field,Worcestershire,"County Ground, New Road, Worcester",5,4,80,2,2,100,45,2,2,0,4,0,3,3
+1068590,2017,2017-04-17,Specsavers County Championship,Northamptonshire,Derbyshire,Northamptonshire,field,Northamptonshire,"County Ground, Derby",6,3,50,1,1,100,1,24,1,0,100,0,2,0
+1068588,2017,2017-04-17,Specsavers County Championship,Sussex,Kent,Kent,bat,Kent,"County Ground, Hove, Brighton",4,0,0,2,0,0,32,2,0,2,0,100,5,2
+1068534,2017,2017-04-17,Specsavers County Championship,Yorkshire,Warwickshire,Yorkshire,field,Yorkshire,"Edgbaston Foundation Community Sports Ground, Birmingham",8,6,75,3,3,100,3,4,3,0,100,0,2,3
+1068591,2017,2017-04-16,Specsavers County Championship,Leicestershire,Gloucestershire,Leicestershire,field,Gloucestershire,"County Ground, Bristol",11,4,36,4,1,25,4,17,1,3,25,17,1,4
+1068589,2017,2017-04-16,Specsavers County Championship,Worcestershire,Glamorgan,Worcestershire,field,Worcestershire,"Sophia Gardens, Cardiff",8,4,50,2,1,50,2,25,1,1,50,4,3,2
+1068532,2017,2017-04-16,Specsavers County Championship,Somerset,Essex,Somerset,bat,Essex,"County Ground, Taunton",7,2,29,2,1,50,15,2,1,1,6,50,4,4
+1068529,2017,2017-04-10,Specsavers County Championship,Warwickshire,Surrey,Warwickshire,field,Surrey,"Kennington Oval, London",9,2,22,5,0,0,5,9,0,5,0,55,0,4
+1068586,2017,2017-04-09,Specsavers County Championship,Nottinghamshire,Leicestershire,Nottinghamshire,field,Nottinghamshire,"Grace Road, Leicester",4,4,100,2,2,100,2,15,2,0,100,0,0,1
+1068585,2017,2017-04-09,Specsavers County Championship,Kent,Gloucestershire,Gloucestershire,field,Kent,"St Lawrence Ground, Canterbury",7,4,57,4,2,50,14,4,2,2,14,50,2,3
+1068528,2017,2017-04-09,Specsavers County Championship,Yorkshire,Hampshire,Hampshire,field,Hampshire,"Headingley, Leeds",6,3,50,2,1,50,28,2,1,1,3,50,3,1
+1068584,2017,2017-04-08,Specsavers County Championship,Northamptonshire,Glamorgan,Glamorgan,bat,Northamptonshire,"County Ground, Northampton",7,6,86,4,4,100,23,4,4,0,17,0,1,1
+1051871,2017,2017-04-01,Plunket Shield,Otago Volts,Northern Districts,Northern Districts,field,Northern Districts,University Of Otago Oval,13,2,15,3,0,0,10,3,0,3,0,100,1,3
+1051869,2017,2017-04-01,Plunket Shield,Wellington Firebirds,Canterbury,Wellington Firebirds,field,Wellington Firebirds,"Hagley Oval, Christchurch",17,8,47,6,4,66,6,16,4,2,66,12,3,1
+1040501,2017,2017-03-30,ICC Intercontinental Cup,Ireland,Afghanistan,Afghanistan,bat,Afghanistan,"Greater Noida Sports Complex Ground, Greater Noida",1,0,0,1,0,0,1,2,0,1,0,50,3,3
+1051865,2017,2017-03-24,Plunket Shield,Central Stags,Canterbury,Central Stags,field,Central Stags,"Saxton Oval, Nelson",11,5,45,3,2,66,5,3,2,1,40,33,1,1
+1051863,2017,2017-03-24,Plunket Shield,Wellington Firebirds,Northern Districts,Wellington Firebirds,bat,Northern Districts,"Bay Oval, Mount Maunganui",11,5,45,1,0,0,2,3,0,1,0,33,3,3
+1051861,2017,2017-03-23,Plunket Shield,Otago Volts,Auckland Aces,Auckland Aces,field,Auckland Aces,University Of Otago Oval,12,3,25,2,1,50,10,2,1,1,10,50,0,2
+1051857,2017,2017-03-17,Plunket Shield,Northern Districts,Auckland Aces,Auckland Aces,bat,Auckland Aces,Kennards Hire Community Oval,11,2,18,6,1,16,6,18,1,5,16,27,1,2
+1051859,2017,2017-03-16,Plunket Shield,Otago Volts,Canterbury,Canterbury,field,Canterbury,"Hagley Oval, Christchurch",12,5,42,4,1,25,4,16,1,3,25,18,0,1
+1051845,2017,2017-02-28,Plunket Shield,Otago Volts,Northern Districts,Otago Volts,field,Otago Volts,Cobham Oval,13,2,15,1,1,100,1,1,1,0,100,0,1,3
+1051841,2016,2016-11-25,Plunket Shield,Canterbury,Auckland Aces,Auckland Aces,field,Canterbury,"Mainpower Oval, Rangiora",12,6,50,3,2,66,3,3,2,1,66,33,4,3
+1051825,2016,2016-11-08,Plunket Shield,Northern Districts,Canterbury,Canterbury,field,Northern Districts,"Seddon Park, Hamilton",11,3,27,4,2,50,9,4,2,2,22,50,1,1
+1051823,2016,2016-11-01,Plunket Shield,Otago Volts,Auckland Aces,Auckland Aces,field,Auckland Aces,Kennards Hire Community Oval,12,3,25,4,1,25,4,18,1,3,25,16,1,3
+1051821,2016,2016-11-01,Plunket Shield,Central Stags,Canterbury,Central Stags,field,Canterbury,"Hagley Oval, Christchurch",11,5,45,4,1,25,4,16,1,3,25,18,2,2
+1051817,2016,2016-10-25,Plunket Shield,Wellington Firebirds,Auckland Aces,Wellington Firebirds,field,Wellington Firebirds,"Bay Oval, Mount Maunganui",9,4,44,1,1,100,2,2,1,0,50,0,3,4
+1051815,2016,2016-10-25,Plunket Shield,Northern Districts,Canterbury,Northern Districts,field,Northern Districts,"Hagley Oval, Christchurch",11,3,27,2,1,50,2,16,1,1,50,6,2,2
+1004251,2016,2016-10-19,ICC Intercontinental Cup,Papua New Guinea,Namibia,Papua New Guinea,bat,Papua New Guinea,"Amini Park, Port Moresby",1,1,100,1,1,100,1,1,1,0,100,0,0,1
+946945,2016,2016-09-23,Specsavers County Championship,Yorkshire,Middlesex,Yorkshire,field,Middlesex,"Lord'S, London",7,2,29,4,0,0,4,17,0,4,0,23,3,1
+946941,2016,2016-09-23,Specsavers County Championship,Warwickshire,Lancashire,Lancashire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",4,2,50,2,1,50,35,2,1,1,2,50,1,4
+946943,2016,2016-09-22,Specsavers County Championship,Somerset,Nottinghamshire,Somerset,bat,Somerset,"County Ground, Taunton",12,9,75,4,4,100,15,4,4,0,26,0,4,4
+947077,2016,2016-09-15,Specsavers County Championship,Northamptonshire,Gloucestershire,Gloucestershire,field,Northamptonshire,"County Ground, Northampton",6,3,50,3,2,66,23,3,2,1,8,33,2,2
+947075,2016,2016-09-15,Specsavers County Championship,Glamorgan,Essex,Glamorgan,bat,Glamorgan,"County Ground, Chelmsford",4,2,50,2,1,50,2,46,1,1,50,2,1,4
+946937,2016,2016-09-15,Specsavers County Championship,Surrey,Durham,Durham,bat,Durham,"Riverside Ground, Chester-Le-Street",1,0,0,1,0,0,1,41,0,1,0,2,4,2
+947081,2016,2016-09-14,Specsavers County Championship,Worcestershire,Sussex,Worcestershire,bat,Worcestershire,"County Ground, Hove, Brighton",7,3,43,3,1,33,3,6,1,2,33,33,4,1
+946935,2016,2016-09-14,Specsavers County Championship,Yorkshire,Somerset,Yorkshire,bat,Somerset,"Headingley, Leeds",8,3,38,4,2,50,28,4,2,2,7,50,4,1
+946929,2016,2016-09-09,Specsavers County Championship,Nottinghamshire,Middlesex,Middlesex,field,Middlesex,"Trent Bridge, Nottingham",4,2,50,3,2,66,28,3,2,1,7,33,0,2
+946925,2016,2016-09-09,Specsavers County Championship,Yorkshire,Durham,Durham,field,Yorkshire,"Headingley, Leeds",5,4,80,1,1,100,28,1,1,0,3,0,4,2
+947071,2016,2016-09-08,Specsavers County Championship,Northamptonshire,Kent,Northamptonshire,field,Northamptonshire,"Kent County Cricket Ground, Beckenham",7,4,57,1,1,100,1,1,1,0,100,0,3,3
+947069,2016,2016-09-08,Specsavers County Championship,Gloucestershire,Glamorgan,Gloucestershire,field,Gloucestershire,"Sophia Gardens, Cardiff",7,5,71,3,3,100,3,25,3,0,100,0,2,0
+946931,2016,2016-09-08,Specsavers County Championship,Warwickshire,Somerset,Somerset,bat,Somerset,"County Ground, Taunton",9,3,33,4,1,25,4,9,1,3,25,33,1,2
+947073,2016,2016-09-07,Specsavers County Championship,Sussex,Leicestershire,Sussex,field,Sussex,"Grace Road, Leicester",6,4,67,3,2,66,3,15,2,1,66,6,4,1
+947067,2016,2016-09-02,Specsavers County Championship,Worcestershire,Essex,Worcestershire,bat,Essex,"County Ground, Chelmsford",5,1,20,3,0,0,3,46,0,3,0,6,3,4
+947065,2016,2016-09-02,Specsavers County Championship,Sussex,Kent,Kent,field,Kent,"County Ground, Hove, Brighton",4,0,0,2,0,0,32,2,0,2,0,100,3,2
+947061,2016,2016-09-02,Specsavers County Championship,Northamptonshire,Glamorgan,Northamptonshire,bat,Northamptonshire,"County Ground, Northampton",7,6,86,4,4,100,23,4,4,0,17,0,2,1
+947059,2016,2016-08-26,Specsavers County Championship,Sussex,Glamorgan,Sussex,field,Sussex,"Sophia Gardens, Cardiff",6,4,67,4,2,50,4,25,2,2,50,8,2,2
+947057,2016,2016-08-26,Specsavers County Championship,Worcestershire,Northamptonshire,Worcestershire,field,Worcestershire,"County Ground, New Road, Worcester",5,4,80,2,2,100,45,2,2,0,4,0,2,3
+947055,2016,2016-08-26,Specsavers County Championship,Kent,Gloucestershire,Kent,field,Kent,"County Ground, Bristol",7,4,57,3,2,66,3,17,2,1,66,5,2,1
+946913,2016,2016-08-26,Specsavers County Championship,Yorkshire,Nottinghamshire,Nottinghamshire,field,Yorkshire,"North Marine Road Ground, Scarborough",7,6,86,2,2,100,16,2,2,0,12,0,4,4
+946911,2016,2016-08-26,Specsavers County Championship,Surrey,Lancashire,Lancashire,bat,Surrey,"Kennington Oval, London",6,2,33,3,2,66,24,3,2,1,8,33,4,3
+947053,2016,2016-08-25,Specsavers County Championship,Leicestershire,Essex,Essex,field,Essex,"Grace Road, Leicester",5,2,40,3,0,0,22,3,0,3,0,100,1,4
+947049,2016,2016-08-16,Specsavers County Championship,Sussex,Gloucestershire,Gloucestershire,bat,Sussex,"County Ground, Hove, Brighton",5,5,100,3,3,100,32,3,3,0,9,0,2,2
+947047,2016,2016-08-16,Specsavers County Championship,Worcestershire,Glamorgan,Glamorgan,field,Glamorgan,"County Ground, New Road, Worcester",8,4,50,6,3,50,45,6,3,3,6,50,2,2
+947045,2016,2016-08-16,Specsavers County Championship,Essex,Derbyshire,Essex,bat,Essex,"County Ground, Derby",5,5,100,2,2,100,2,24,2,0,100,0,3,0
+946905,2016,2016-08-16,Specsavers County Championship,Warwickshire,Surrey,Surrey,bat,Surrey,"Edgbaston Foundation Community Sports Ground, Birmingham",9,2,22,3,1,33,35,3,1,2,2,66,1,5
+946903,2016,2016-08-16,Specsavers County Championship,Nottinghamshire,Hampshire,Hampshire,bat,Hampshire,"Trent Bridge, Nottingham",10,1,10,5,1,20,28,5,1,4,3,80,0,2
+946901,2016,2016-08-15,Specsavers County Championship,Middlesex,Durham,Durham,bat,Middlesex,"Lord'S, London",6,4,67,5,3,60,17,5,3,2,17,40,2,1
+947037,2016,2016-08-06,Specsavers County Championship,Worcestershire,Kent,Kent,field,Kent,"St Lawrence Ground, Canterbury",4,2,50,2,0,0,2,19,0,2,0,10,3,3
+946899,2016,2016-08-06,Specsavers County Championship,Yorkshire,Warwickshire,Yorkshire,bat,Yorkshire,"Headingley, Leeds",8,6,75,4,3,75,28,4,3,1,10,25,4,3
+946893,2016,2016-08-06,Specsavers County Championship,Somerset,Durham,Somerset,bat,Somerset,"County Ground, Taunton",5,2,40,3,2,66,15,3,2,1,13,33,4,1
+1004277,2016,2016-07-30,ICC Intercontinental Cup,Netherlands,Afghanistan,Afghanistan,field,Afghanistan,"Sportpark Westvliet, Voorburg, The Hague",1,0,0,1,0,0,1,1,0,1,0,100,1,2
+947035,2016,2016-07-22,Specsavers County Championship,Leicestershire,Gloucestershire,Leicestershire,field,Leicestershire,"College Ground, Cheltenham",11,4,36,3,1,33,3,12,1,2,33,16,0,1
+947031,2016,2016-07-20,Specsavers County Championship,Glamorgan,Derbyshire,Glamorgan,bat,Glamorgan,"Penrhyn Avenue, Rhos-On-Sea, Colwyn Bay",7,4,57,1,1,100,1,1,1,0,100,0,2,0
+946891,2016,2016-07-20,Specsavers County Championship,Surrey,Hampshire,Surrey,bat,Surrey,"The Rose Bowl, Southampton",10,7,70,4,2,50,4,29,2,2,50,6,5,1
+946889,2016,2016-07-20,Specsavers County Championship,Somerset,Nottinghamshire,Nottinghamshire,bat,Somerset,"Trent Bridge, Nottingham",12,9,75,6,4,66,6,24,4,2,66,8,3,3
+946887,2016,2016-07-19,Specsavers County Championship,Lancashire,Durham,Lancashire,bat,Durham,"Trafalgar Road Ground, Southport",5,2,40,1,0,0,2,1,0,1,0,100,5,1
+946883,2016,2016-07-13,Specsavers County Championship,Somerset,Middlesex,Middlesex,field,Middlesex,"County Ground, Taunton",6,4,67,3,1,33,15,3,1,2,6,66,4,1
+947027,2016,2016-07-12,Specsavers County Championship,Worcestershire,Northamptonshire,Worcestershire,bat,Worcestershire,"County Ground, Northampton",5,4,80,3,2,66,3,17,2,1,66,5,2,3
+947023,2016,2016-07-06,Specsavers County Championship,Worcestershire,Leicestershire,Leicestershire,bat,Worcestershire,"County Ground, New Road, Worcester",10,10,100,6,6,100,45,6,6,0,13,0,3,0
+947021,2016,2016-07-06,Specsavers County Championship,Kent,Essex,Essex,field,Essex,"County Ground, Chelmsford",10,1,10,6,0,0,6,46,0,6,0,13,3,4
+946879,2016,2016-07-06,Specsavers County Championship,Yorkshire,Middlesex,Yorkshire,bat,Middlesex,"North Marine Road Ground, Scarborough",7,2,29,2,1,50,16,2,1,1,6,50,4,2
+946873,2016,2016-07-04,Specsavers County Championship,Warwickshire,Surrey,Surrey,bat,Warwickshire,"Woodbridge Road, Guildford",9,2,22,1,1,100,1,1,1,0,100,0,1,5
+947009,2016,2016-06-22,Specsavers County Championship,Leicestershire,Essex,Leicestershire,field,Leicestershire,"County Ground, Chelmsford",5,2,40,2,2,100,2,46,2,0,100,0,1,4
+946861,2016,2016-06-22,Specsavers County Championship,Surrey,Nottinghamshire,Surrey,bat,Surrey,"Kennington Oval, London",4,3,75,1,1,100,24,1,1,0,4,0,5,3
+947003,2016,2016-06-01,Specsavers County Championship,Worcestershire,Gloucestershire,Gloucestershire,field,Gloucestershire,"County Ground, New Road, Worcester",8,4,50,4,1,25,45,4,1,3,2,75,4,2
+946859,2016,2016-06-01,Specsavers County Championship,Yorkshire,Lancashire,Lancashire,field,Yorkshire,"Headingley, Leeds",5,4,80,3,3,100,28,3,3,0,10,0,4,2
+946857,2016,2016-06-01,Specsavers County Championship,Middlesex,Hampshire,Middlesex,bat,Middlesex,"Merchant Taylors' School Ground, Northwood",6,2,33,1,1,100,3,1,1,0,33,0,2,1
+946999,2016,2016-05-31,Specsavers County Championship,Sussex,Derbyshire,Sussex,field,Sussex,"County Ground, Hove, Brighton",6,3,50,4,2,50,32,4,2,2,6,50,1,1
+946855,2016,2016-05-30,Specsavers County Championship,Surrey,Somerset,Surrey,bat,Somerset,"County Ground, Taunton",5,4,80,1,0,0,1,9,0,1,0,11,5,2
+946993,2016,2016-05-25,Specsavers County Championship,Kent,Derbyshire,Derbyshire,bat,Kent,"County Ground, Derby",4,3,75,2,2,100,2,24,2,0,100,0,3,1
+946847,2016,2016-05-25,Specsavers County Championship,Nottinghamshire,Hampshire,Nottinghamshire,field,Hampshire,"The Rose Bowl, Southampton",10,1,10,4,0,0,4,29,0,4,0,13,0,2
+946845,2016,2016-05-25,Specsavers County Championship,Warwickshire,Durham,Durham,field,Durham,"Edgbaston Foundation Community Sports Ground, Birmingham",7,5,71,3,2,66,35,3,2,1,5,33,2,2
+946997,2016,2016-05-24,Specsavers County Championship,Worcestershire,Leicestershire,Worcestershire,field,Worcestershire,"Grace Road, Leicester",10,10,100,3,3,100,3,15,3,0,100,0,3,1
+946851,2016,2016-05-24,Specsavers County Championship,Surrey,Lancashire,Surrey,bat,Lancashire,"Old Trafford, Manchester",6,2,33,3,0,0,3,16,0,3,0,18,5,1
+946841,2016,2016-05-18,Specsavers County Championship,Warwickshire,Nottinghamshire,Warwickshire,bat,Warwickshire,"Trent Bridge, Nottingham",6,5,83,4,3,75,4,24,3,1,75,4,1,2
+946837,2016,2016-05-18,Specsavers County Championship,Lancashire,Durham,Durham,bat,Durham,"Riverside Ground, Chester-Le-Street",5,2,40,3,1,33,3,41,1,2,33,4,5,2
+946835,2016,2016-05-11,Specsavers County Championship,Yorkshire,Surrey,Surrey,bat,Yorkshire,"Headingley, Leeds",6,2,33,1,1,100,28,1,1,0,3,0,4,5
+946829,2016,2016-05-11,Specsavers County Championship,Lancashire,Hampshire,Hampshire,bat,Lancashire,"Old Trafford, Manchester",4,4,100,2,2,100,10,2,2,0,20,0,4,2
+946971,2016,2016-05-04,Specsavers County Championship,Kent,Glamorgan,Glamorgan,bat,Kent,"St Lawrence Ground, Canterbury",6,3,50,2,1,50,14,2,1,1,7,50,4,2
+946963,2016,2016-04-27,Specsavers County Championship,Northamptonshire,Essex,Northamptonshire,field,Essex,"County Ground, Chelmsford",4,1,25,2,0,0,2,46,0,2,0,4,2,4
+946957,2016,2016-04-20,Specsavers County Championship,Leicestershire,Glamorgan,Glamorgan,bat,Leicestershire,"Sophia Gardens, Cardiff",6,1,17,5,1,20,5,25,1,4,20,16,1,3
+946811,2016,2016-04-20,Specsavers County Championship,Nottinghamshire,Lancashire,Nottinghamshire,bat,Lancashire,"Old Trafford, Manchester",6,4,67,2,1,50,2,16,1,1,50,6,1,2
+952195,2016,2016-04-14,ICC Intercontinental Cup,Namibia,Afghanistan,Namibia,bat,Afghanistan,"Greater Noida Sports Complex Ground, Greater Noida",2,0,0,1,0,0,1,2,0,1,0,50,1,1
+946947,2016,2016-04-13,Specsavers County Championship,Gloucestershire,Essex,Gloucestershire,bat,Essex,"County Ground, Chelmsford",6,1,17,5,1,20,5,46,1,4,20,8,3,4
+946805,2016,2016-04-13,Specsavers County Championship,Surrey,Nottinghamshire,Surrey,field,Nottinghamshire,"Trent Bridge, Nottingham",4,3,75,3,2,66,3,24,2,1,66,4,5,1
+917575,2016,2016-04-02,Plunket Shield,Central Stags,Auckland Aces,Auckland Aces,bat,Central Stags,"Mclean Park, Napier",12,7,58,3,1,33,4,3,1,2,25,66,2,5
+917563,2016,2016-03-18,Plunket Shield,Otago Volts,Auckland Aces,Otago Volts,field,Auckland Aces,"University Oval, Dunedin",12,3,25,3,1,33,8,3,1,2,12,66,1,5
+917561,2016,2016-03-18,Plunket Shield,Wellington Firebirds,Canterbury,Canterbury,field,Wellington Firebirds,"Hagley Oval, Christchurch",17,8,47,6,4,66,6,16,4,2,66,12,3,2
+917559,2016,2016-03-18,Plunket Shield,Northern Districts,Central Stags,Central Stags,field,Northern Districts,"Seddon Park, Hamilton",12,7,58,3,2,66,9,3,2,1,22,33,3,3
+917557,2016,2016-03-11,Plunket Shield,Central Stags,Auckland Aces,Central Stags,field,Auckland Aces,"Eden Park Outer Oval, Auckland",12,7,58,3,1,33,3,8,1,2,33,25,1,5
+917555,2016,2016-03-11,Plunket Shield,Otago Volts,Canterbury,Canterbury,field,Canterbury,"Queen'S Park, Invercargill",12,5,42,2,1,50,2,2,1,1,50,50,1,3
+917553,2016,2016-03-11,Plunket Shield,Wellington Firebirds,Northern Districts,Wellington Firebirds,field,Wellington Firebirds,"Basin Reserve, Wellington",11,5,45,2,2,100,11,2,2,0,18,0,3,3
+917551,2016,2016-02-23,Plunket Shield,Wellington Firebirds,Central Stags,Wellington Firebirds,field,Central Stags,"Mclean Park, Napier",9,5,56,2,0,0,2,9,0,2,0,22,4,4
+917549,2016,2016-02-23,Plunket Shield,Northern Districts,Canterbury,Canterbury,field,Canterbury,"Seddon Park, Hamilton",11,3,27,4,2,50,9,4,2,2,22,50,3,3
+917543,2016,2016-02-16,Plunket Shield,Otago Volts,Northern Districts,Northern Districts,field,Otago Volts,"University Oval, Dunedin",13,2,15,3,1,33,8,3,1,2,12,66,2,2
+917541,2016,2016-02-16,Plunket Shield,Wellington Firebirds,Auckland Aces,Auckland Aces,field,Auckland Aces,"Colin Maiden Park, Auckland",9,4,44,3,2,66,3,5,2,1,66,20,5,5
+917539,2016,2016-02-08,Plunket Shield,Wellington Firebirds,Otago Volts,Wellington Firebirds,bat,Wellington Firebirds,"Queenstown Events Centre, Queenstown",12,8,67,1,1,100,1,1,1,0,100,0,5,2
+917537,2016,2016-02-08,Plunket Shield,Canterbury,Auckland Aces,Auckland Aces,field,Auckland Aces,"Hagley Oval, Christchurch",12,6,50,2,1,50,2,2,1,1,50,50,4,4
+917535,2016,2016-02-08,Plunket Shield,Northern Districts,Central Stags,Central Stags,field,Northern Districts,"Mclean Park, Napier",12,7,58,4,2,50,4,9,2,2,50,22,3,4
+952193,2016,2016-02-03,ICC Intercontinental Cup,Papua New Guinea,Ireland,Papua New Guinea,field,Ireland,"Tony Ireland Stadium, Townsville",1,0,0,1,0,0,1,1,0,1,0,100,0,3
+917533,2015,2015-12-20,Plunket Shield,Central Stags,Canterbury,Central Stags,field,Canterbury,"Mainpower Oval, Rangiora",11,5,45,3,1,33,3,11,1,2,33,18,2,2
+917529,2015,2015-12-20,Plunket Shield,Wellington Firebirds,Otago Volts,Otago Volts,field,Wellington Firebirds,"Basin Reserve, Wellington",12,8,67,3,2,66,11,3,2,1,18,33,4,1
+911047,2015,2015-11-14,ICC Intercontinental Cup,United Arab Emirates,Hong Kong,Hong Kong,bat,Hong Kong,"Icc Global Cricket Academy, Dubai",1,0,0,1,0,0,1,1,0,1,0,100,1,1
+917527,2015,2015-10-27,Plunket Shield,Otago Volts,Canterbury,Otago Volts,field,Canterbury,"Hagley Oval, Christchurch",12,5,42,4,1,25,4,16,1,3,25,18,1,2
+911041,2015,2015-10-27,ICC Intercontinental Cup,Namibia,Ireland,Namibia,bat,Ireland,"Wanderers Cricket Ground, Windhoek",1,0,0,1,0,0,2,1,0,1,0,100,1,2
+917525,2015,2015-10-26,Plunket Shield,Northern Districts,Auckland Aces,Auckland Aces,field,Auckland Aces,"Bay Oval, Mount Maunganui",11,2,18,1,0,0,5,2,0,1,0,50,4,3
+917523,2015,2015-10-26,Plunket Shield,Wellington Firebirds,Central Stags,Wellington Firebirds,field,Wellington Firebirds,"Saxton Oval, Nelson",9,5,56,3,2,66,3,6,2,1,66,16,3,4
+917517,2015,2015-10-18,Plunket Shield,Canterbury,Auckland Aces,Auckland Aces,field,Auckland Aces,"Eden Park Outer Oval, Auckland",12,6,50,2,0,0,2,8,0,2,0,25,4,2
+804301,2015,2015-09-25,LV= County Championship,Yorkshire,Sussex,Sussex,field,Yorkshire,"Headingley, Leeds",5,4,80,2,2,100,28,2,2,0,7,0,4,1
+804297,2015,2015-09-25,LV= County Championship,Warwickshire,Somerset,Somerset,bat,Somerset,"County Ground, Taunton",9,3,33,4,1,25,4,9,1,3,25,33,2,3
+804295,2015,2015-09-25,LV= County Championship,Nottinghamshire,Hampshire,Hampshire,field,Hampshire,"Trent Bridge, Nottingham",10,1,10,5,1,20,28,5,1,4,3,80,1,2
+804299,2015,2015-09-24,LV= County Championship,Worcestershire,Middlesex,Worcestershire,field,Worcestershire,"County Ground, New Road, Worcester",4,2,50,2,1,50,45,2,1,1,2,50,2,2
+804435,2015,2015-09-17,LV= County Championship,Leicestershire,Essex,Essex,field,Essex,"Grace Road, Leicester",5,2,40,3,0,0,22,3,0,3,0,100,2,4
+804289,2015,2015-09-17,LV= County Championship,Yorkshire,Hampshire,Yorkshire,field,Yorkshire,"The Rose Bowl, Southampton",6,3,50,3,2,66,3,29,2,1,66,3,4,3
+804287,2015,2015-09-17,LV= County Championship,Worcestershire,Durham,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",8,2,25,4,0,0,4,41,0,4,0,9,2,3
+804429,2015,2015-09-12,LV= County Championship,Kent,Glamorgan,Kent,bat,Kent,"Sophia Gardens, Cardiff",6,3,50,4,2,50,4,25,2,2,50,8,4,2
+804281,2015,2015-09-12,LV= County Championship,Yorkshire,Middlesex,Yorkshire,field,Middlesex,"Lord'S, London",7,2,29,4,0,0,4,17,0,4,0,23,5,2
+804427,2015,2015-09-11,LV= County Championship,Essex,Derbyshire,Derbyshire,field,Essex,"County Ground, Derby",5,5,100,2,2,100,2,24,2,0,100,0,3,1
+804283,2015,2015-09-11,LV= County Championship,Nottinghamshire,Durham,Durham,field,Nottinghamshire,"Trent Bridge, Nottingham",5,3,60,2,2,100,28,2,2,0,7,0,1,4
+804425,2015,2015-09-04,LV= County Championship,Surrey,Derbyshire,Derbyshire,bat,Surrey,"Kennington Oval, London",4,3,75,2,1,50,24,2,1,1,4,50,4,2
+804277,2015,2015-09-04,LV= County Championship,Worcestershire,Sussex,Worcestershire,bat,Sussex,"County Ground, New Road, Worcester",7,3,43,4,2,50,45,4,2,2,4,50,1,1
+804279,2015,2015-09-03,LV= County Championship,Yorkshire,Somerset,Yorkshire,field,Yorkshire,"Headingley, Leeds",8,3,38,4,2,50,28,4,2,2,7,50,5,4
+804273,2015,2015-09-03,LV= County Championship,Hampshire,Durham,Durham,bat,Hampshire,"Riverside Ground, Chester-Le-Street",1,1,100,1,1,100,1,41,1,0,100,0,2,4
+804267,2015,2015-08-24,LV= County Championship,Warwickshire,Nottinghamshire,Warwickshire,field,Nottinghamshire,"Trent Bridge, Nottingham",6,5,83,4,3,75,4,24,3,1,75,4,2,0
+804265,2015,2015-08-24,LV= County Championship,Middlesex,Durham,Durham,field,Middlesex,"Riverside Ground, Chester-Le-Street",6,4,67,1,1,100,1,41,1,0,100,0,2,3
+804409,2015,2015-08-10,LV= County Championship,Leicestershire,Derbyshire,Leicestershire,field,Leicestershire,"Grace Road, Leicester",6,2,33,4,1,25,22,4,1,3,4,75,2,3
+804261,2015,2015-08-10,LV= County Championship,Worcestershire,Nottinghamshire,Worcestershire,bat,Nottinghamshire,"County Ground, New Road, Worcester",7,2,29,3,1,33,45,3,1,2,2,66,1,0
+804259,2015,2015-08-10,LV= County Championship,Sussex,Middlesex,Middlesex,bat,Middlesex,"Lord'S, London",10,4,40,3,1,33,3,17,1,2,33,11,2,1
+804257,2015,2015-08-10,LV= County Championship,Warwickshire,Hampshire,Hampshire,bat,Hampshire,"The Rose Bowl, Southampton",7,2,29,4,1,25,4,29,1,3,25,10,2,3
+804405,2015,2015-08-09,LV= County Championship,Gloucestershire,Glamorgan,Glamorgan,bat,Gloucestershire,"St Helen'S, Swansea",7,5,71,1,1,100,1,1,1,0,100,0,3,1
+804263,2015,2015-08-09,LV= County Championship,Yorkshire,Durham,Yorkshire,bat,Yorkshire,"North Marine Road Ground, Scarborough",5,4,80,1,1,100,16,1,1,0,6,0,5,2
+804403,2015,2015-08-06,LV= County Championship,Northamptonshire,Kent,Kent,bat,Northamptonshire,"St Lawrence Ground, Canterbury",7,4,57,4,2,50,4,19,2,2,50,10,2,4
+804255,2015,2015-07-22,LV= County Championship,Yorkshire,Worcestershire,Yorkshire,bat,Yorkshire,"North Marine Road Ground, Scarborough",4,3,75,2,1,50,16,2,1,1,6,50,5,3
+804401,2015,2015-07-21,LV= County Championship,Kent,Essex,Essex,bat,Kent,"Nevill Ground, Tunbridge Wells",10,1,10,1,1,100,1,1,1,0,100,0,3,4
+804253,2015,2015-07-21,LV= County Championship,Sussex,Nottinghamshire,Nottinghamshire,bat,Nottinghamshire,"Cricket Field Road Ground, Horsham",6,1,17,1,0,0,1,1,0,1,0,100,3,0
+804249,2015,2015-07-21,LV= County Championship,Warwickshire,Somerset,Somerset,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",9,3,33,4,2,50,35,4,2,2,5,50,1,4
+804397,2015,2015-07-20,LV= County Championship,Northamptonshire,Derbyshire,Derbyshire,bat,Derbyshire,"County Ground, Northampton",6,3,50,3,1,33,23,3,1,2,4,66,2,2
+804395,2015,2015-07-18,LV= County Championship,Leicestershire,Gloucestershire,Leicestershire,field,Gloucestershire,"College Ground, Cheltenham",11,4,36,3,1,33,3,12,1,2,33,16,2,2
+804393,2015,2015-07-16,LV= County Championship,Surrey,Kent,Surrey,field,Surrey,"Kennington Oval, London",7,4,57,4,2,50,24,4,2,2,8,50,3,4
+804391,2015,2015-07-15,LV= County Championship,Glamorgan,Essex,Essex,bat,Essex,"County Ground, Chelmsford",4,2,50,2,1,50,2,46,1,1,50,2,2,4
+804247,2015,2015-07-15,LV= County Championship,Warwickshire,Durham,Durham,bat,Warwickshire,"Riverside Ground, Chester-Le-Street",7,5,71,4,3,75,4,41,3,1,75,2,2,1
+804389,2015,2015-07-09,LV= County Championship,Northamptonshire,Gloucestershire,Gloucestershire,field,Gloucestershire,"College Ground, Cheltenham",6,3,50,2,1,50,2,12,1,1,50,8,2,3
+804243,2015,2015-07-09,LV= County Championship,Worcestershire,Hampshire,Worcestershire,bat,Worcestershire,"County Ground, New Road, Worcester",3,1,33,2,1,50,45,2,1,1,2,50,1,2
+804241,2015,2015-07-08,LV= County Championship,Yorkshire,Warwickshire,Yorkshire,bat,Yorkshire,"Edgbaston Foundation Community Sports Ground, Birmingham",8,6,75,3,3,100,3,4,3,0,100,0,5,3
+804383,2015,2015-07-07,LV= County Championship,Leicestershire,Kent,Kent,field,Kent,"Grace Road, Leicester",4,1,25,3,0,0,22,3,0,3,0,100,1,4
+804235,2015,2015-07-02,LV= County Championship,Worcestershire,Nottinghamshire,Worcestershire,field,Nottinghamshire,"Trent Bridge, Nottingham",7,2,29,4,1,25,4,24,1,3,25,12,1,0
+804231,2015,2015-07-01,LV= County Championship,Middlesex,Hampshire,Middlesex,field,Middlesex,"Lord'S, London",6,2,33,2,1,50,17,2,1,1,5,50,1,3
+804229,2015,2015-07-01,LV= County Championship,Yorkshire,Durham,Durham,field,Yorkshire,"Riverside Ground, Chester-Le-Street",5,4,80,3,2,66,3,41,2,1,66,2,5,0
+804379,2015,2015-06-29,LV= County Championship,Surrey,Gloucestershire,Surrey,bat,Surrey,"Kennington Oval, London",4,3,75,3,3,100,24,3,3,0,12,0,3,2
+804377,2015,2015-06-25,LV= County Championship,Leicestershire,Glamorgan,Glamorgan,bat,Glamorgan,"Sophia Gardens, Cardiff",6,1,17,5,1,20,5,25,1,4,20,16,2,1
+804227,2015,2015-06-24,LV= County Championship,Yorkshire,Nottinghamshire,Yorkshire,field,Yorkshire,"Headingley, Leeds",7,6,86,2,2,100,28,2,2,0,7,0,5,0
+804375,2015,2015-06-23,LV= County Championship,Gloucestershire,Essex,Essex,bat,Essex,"County Ground, Bristol",6,1,17,1,0,0,7,1,0,1,0,100,3,4
+804373,2015,2015-06-23,LV= County Championship,Surrey,Derbyshire,Derbyshire,field,Surrey,"County Ground, Derby",4,3,75,2,2,100,2,24,2,0,100,0,2,3
+804223,2015,2015-06-23,LV= County Championship,Somerset,Hampshire,Somerset,bat,Somerset,"The Rose Bowl, Southampton",8,3,38,6,2,33,6,29,2,4,33,13,4,2
+804371,2015,2015-06-22,LV= County Championship,Northamptonshire,Kent,Northamptonshire,field,Northamptonshire,"County Ground, Northampton",7,4,57,2,1,50,23,2,1,1,4,50,3,5
+804369,2015,2015-06-18,LV= County Championship,Surrey,Glamorgan,Surrey,bat,Glamorgan,"Woodbridge Road, Guildford",2,1,50,1,0,0,4,1,0,1,0,100,2,2
+804221,2015,2015-06-18,LV= County Championship,Sussex,Durham,Sussex,field,Durham,"Arundel Castle Cricket Club Ground, Arundel",12,5,42,2,1,50,2,2,1,1,50,50,4,0
+804217,2015,2015-06-17,LV= County Championship,Somerset,Nottinghamshire,Nottinghamshire,bat,Somerset,"County Ground, Taunton",12,9,75,4,4,100,15,4,4,0,26,0,4,0
+804367,2015,2015-06-16,LV= County Championship,Leicestershire,Lancashire,Leicestershire,bat,Lancashire,"Old Trafford, Manchester",3,1,33,1,0,0,1,16,0,1,0,6,2,1
+804365,2015,2015-06-16,LV= County Championship,Essex,Derbyshire,Essex,field,Essex,"County Ground, Chelmsford",5,5,100,3,3,100,4,3,3,0,75,0,4,4
+804219,2015,2015-06-15,LV= County Championship,Worcestershire,Warwickshire,Worcestershire,bat,Warwickshire,"County Ground, New Road, Worcester",2,0,0,1,0,0,45,1,0,1,0,100,1,4
+804357,2015,2015-06-10,LV= County Championship,Lancashire,Gloucestershire,Gloucestershire,field,Lancashire,"County Ground, Bristol",3,2,67,1,1,100,1,17,1,0,100,0,4,3
+804361,2015,2015-06-09,LV= County Championship,Surrey,Leicestershire,Leicestershire,field,Surrey,"Grace Road, Leicester",2,2,100,1,1,100,1,15,1,0,100,0,3,1
+804359,2015,2015-06-09,LV= County Championship,Kent,Derbyshire,Kent,bat,Derbyshire,"St Lawrence Ground, Canterbury",4,3,75,2,1,50,14,2,1,1,7,50,2,3
+804215,2015,2015-06-09,LV= County Championship,Yorkshire,Middlesex,Middlesex,bat,Yorkshire,"Headingley, Leeds",7,2,29,1,1,100,28,1,1,0,3,0,5,2
+804213,2015,2015-06-09,LV= County Championship,Sussex,Hampshire,Sussex,bat,Hampshire,"County Ground, Hove, Brighton",3,2,67,2,1,50,32,2,1,1,3,50,3,2
+804211,2015,2015-06-09,LV= County Championship,Somerset,Durham,Durham,bat,Durham,"Riverside Ground, Chester-Le-Street",5,2,40,2,0,0,2,41,0,2,0,4,4,1
+804353,2015,2015-06-03,LV= County Championship,Northamptonshire,Glamorgan,Northamptonshire,field,Glamorgan,"Sophia Gardens, Cardiff",7,6,86,3,2,66,3,25,2,1,66,4,4,2
+804351,2015,2015-06-03,LV= County Championship,Leicestershire,Essex,Leicestershire,field,Leicestershire,"County Ground, Chelmsford",5,2,40,2,2,100,2,46,2,0,100,0,2,4
+804209,2015,2015-06-03,LV= County Championship,Sussex,Nottinghamshire,Sussex,field,Nottinghamshire,"Trent Bridge, Nottingham",6,1,17,4,1,25,4,24,1,3,25,12,4,0
+804201,2015,2015-05-26,LV= County Championship,Warwickshire,Sussex,Warwickshire,bat,Sussex,"County Ground, Hove, Brighton",3,0,0,1,0,0,1,6,0,1,0,16,2,0
+804341,2015,2015-05-21,LV= County Championship,Kent,Gloucestershire,Kent,field,Kent,"County Ground, Bristol",7,4,57,3,2,66,3,17,2,1,66,5,2,2
+804339,2015,2015-05-21,LV= County Championship,Glamorgan,Essex,Essex,field,Glamorgan,"Sophia Gardens, Cardiff",4,2,50,2,1,50,6,2,1,1,16,50,2,3
+804337,2015,2015-05-20,LV= County Championship,Leicestershire,Lancashire,Leicestershire,field,Lancashire,"Grace Road, Leicester",3,1,33,1,0,0,22,1,0,1,0,100,2,1
+804197,2015,2015-05-20,LV= County Championship,Warwickshire,Durham,Warwickshire,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",7,5,71,3,2,66,35,3,2,1,5,33,2,2
+804195,2015,2015-05-19,LV= County Championship,Somerset,Nottinghamshire,Nottinghamshire,field,Somerset,"Trent Bridge, Nottingham",12,9,75,6,4,66,6,24,4,2,66,8,5,0
+804333,2015,2015-05-13,LV= County Championship,Lancashire,Gloucestershire,Gloucestershire,bat,Gloucestershire,"Old Trafford, Manchester",3,2,67,2,1,50,10,2,1,1,10,50,4,2
+804191,2015,2015-05-13,LV= County Championship,Yorkshire,Hampshire,Yorkshire,bat,Yorkshire,"Headingley, Leeds",6,3,50,2,1,50,28,2,1,1,3,50,5,2
+804189,2015,2015-05-12,LV= County Championship,Sussex,Middlesex,Sussex,field,Middlesex,"County Ground, Hove, Brighton",10,4,40,6,3,50,32,6,3,3,9,50,3,1
+804187,2015,2015-05-12,LV= County Championship,Nottinghamshire,Durham,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",5,3,60,3,1,33,3,41,1,2,33,4,2,2
+804185,2015,2015-05-12,LV= County Championship,Worcestershire,Warwickshire,Worcestershire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",2,0,0,1,0,0,1,4,0,1,0,25,2,3
+804321,2015,2015-05-05,LV= County Championship,Gloucestershire,Essex,Gloucestershire,field,Gloucestershire,"County Ground, Chelmsford",6,1,17,5,1,20,5,46,1,4,20,8,2,3
+804183,2015,2015-05-05,LV= County Championship,Worcestershire,Somerset,Worcestershire,field,Worcestershire,"County Ground, New Road, Worcester",4,1,25,3,1,33,45,3,1,2,2,66,1,4
+804181,2015,2015-05-05,LV= County Championship,Middlesex,Durham,Durham,field,Middlesex,"Lord'S, London",6,4,67,5,3,60,17,5,3,2,17,40,2,3
+804317,2015,2015-04-29,LV= County Championship,Northamptonshire,Leicestershire,Leicestershire,field,Northamptonshire,"Grace Road, Leicester",4,4,100,3,3,100,3,15,3,0,100,0,4,2
+804315,2015,2015-04-29,LV= County Championship,Lancashire,Kent,Lancashire,bat,Lancashire,"Old Trafford, Manchester",5,4,80,3,2,66,10,3,2,1,20,33,4,4
+804313,2015,2015-04-29,LV= County Championship,Gloucestershire,Derbyshire,Derbyshire,field,Derbyshire,"County Ground, Bristol",5,2,40,2,0,0,7,2,0,2,0,100,2,3
+804177,2015,2015-04-29,LV= County Championship,Somerset,Middlesex,Middlesex,field,Middlesex,"County Ground, Taunton",6,4,67,3,1,33,15,3,1,2,6,66,5,2
+804173,2015,2015-04-29,LV= County Championship,Sussex,Durham,Durham,field,Durham,"Riverside Ground, Chester-Le-Street",12,5,42,7,2,28,7,41,2,5,28,12,2,3
+804307,2015,2015-04-22,LV= County Championship,Lancashire,Derbyshire,Derbyshire,field,Lancashire,"County Ground, Derby",3,3,100,1,1,100,1,24,1,0,100,0,4,4
+804169,2015,2015-04-22,LV= County Championship,Worcestershire,Sussex,Sussex,bat,Sussex,"County Ground, Hove, Brighton",7,3,43,3,1,33,3,6,1,2,33,33,1,0
+804309,2015,2015-04-21,LV= County Championship,Kent,Essex,Essex,field,Essex,"County Ground, Chelmsford",10,1,10,6,0,0,6,46,0,6,0,13,2,2
+804159,2015,2015-04-15,LV= County Championship,Sussex,Hampshire,Sussex,bat,Sussex,"The Rose Bowl, Southampton",3,2,67,1,1,100,1,29,1,0,100,0,1,3
+804163,2015,2015-04-14,LV= County Championship,Somerset,Durham,Somerset,bat,Durham,"County Ground, Taunton",5,2,40,3,2,66,15,3,2,1,13,33,4,3
+770817,2015,2015-04-04,Plunket Shield,Otago Volts,Auckland Aces,Auckland Aces,field,Auckland Aces,"Colin Maiden Park, Auckland",12,3,25,1,0,0,1,5,0,1,0,20,1,2
+770815,2015,2015-04-04,Plunket Shield,Northern Districts,Canterbury,Canterbury,field,Canterbury,"Bay Oval, Mount Maunganui",11,3,27,2,0,0,5,2,0,2,0,100,3,3
+770811,2015,2015-03-28,Plunket Shield,Wellington Firebirds,Northern Districts,Wellington Firebirds,field,Wellington Firebirds,"Basin Reserve, Wellington",11,5,45,2,2,100,11,2,2,0,18,0,2,2
+770807,2015,2015-03-28,Plunket Shield,Otago Volts,Canterbury,Otago Volts,field,Otago Volts,"University Oval, Dunedin",12,5,42,1,1,100,8,1,1,0,12,0,1,2
+770809,2015,2015-03-27,Plunket Shield,Central Stags,Auckland Aces,Central Stags,field,Auckland Aces,"Mclean Park, Napier",12,7,58,3,1,33,4,3,1,2,25,66,3,1
+770805,2015,2015-03-21,Plunket Shield,Otago Volts,Northern Districts,Northern Districts,bat,Northern Districts,"Seddon Park, Hamilton",13,2,15,2,0,0,2,6,0,2,0,33,2,1
+770803,2015,2015-03-20,Plunket Shield,Wellington Firebirds,Auckland Aces,Auckland Aces,field,Wellington Firebirds,"Colin Maiden Park, Auckland",9,4,44,3,2,66,3,5,2,1,66,20,1,2
+770801,2015,2015-03-20,Plunket Shield,Central Stags,Canterbury,Central Stags,field,Canterbury,"Saxton Oval, Nelson",11,5,45,3,2,66,5,3,2,1,40,33,2,3
+770799,2015,2015-03-12,Plunket Shield,Otago Volts,Auckland Aces,Otago Volts,field,Otago Volts,"University Oval, Dunedin",12,3,25,3,1,33,8,3,1,2,12,66,1,3
+770797,2015,2015-03-12,Plunket Shield,Northern Districts,Canterbury,Northern Districts,field,Canterbury,"Hagley Oval, Christchurch",11,3,27,2,1,50,2,16,1,1,50,6,2,4
+770795,2015,2015-03-11,Plunket Shield,Wellington Firebirds,Central Stags,Central Stags,bat,Wellington Firebirds,"Pukekura Park, New Plymouth",9,5,56,1,1,100,1,1,1,0,100,0,1,5
+770793,2015,2015-03-04,Plunket Shield,Canterbury,Auckland Aces,Auckland Aces,bat,Canterbury,"Colin Maiden Park, Auckland",12,6,50,1,1,100,1,5,1,0,100,0,4,3
+770789,2015,2015-03-02,Plunket Shield,Northern Districts,Central Stags,Northern Districts,bat,Northern Districts,"Cobham Oval (New), Whangarei",12,7,58,1,1,100,2,1,1,0,50,0,1,5
+770787,2015,2015-02-19,Plunket Shield,Canterbury,Auckland Aces,Auckland Aces,field,Auckland Aces,"Mainpower Oval, Rangiora",12,6,50,3,2,66,3,3,2,1,66,33,4,2
+770783,2015,2015-02-19,Plunket Shield,Wellington Firebirds,Otago Volts,Otago Volts,field,Otago Volts,"Karori Park, Wellington",12,8,67,1,0,0,1,1,0,1,0,100,1,1
+770779,2015,2015-02-09,Plunket Shield,Wellington Firebirds,Canterbury,Canterbury,field,Canterbury,"Basin Reserve, Wellington",17,8,47,4,0,0,11,4,0,4,0,100,1,3
+770775,2014,2014-12-21,Plunket Shield,Central Stags,Auckland Aces,Auckland Aces,field,Central Stags,"Eden Park Outer Oval, Auckland",12,7,58,3,1,33,3,8,1,2,33,25,2,2
+770771,2014,2014-12-21,Plunket Shield,Otago Volts,Canterbury,Canterbury,field,Otago Volts,"Mainpower Oval, Rangiora",12,5,42,2,1,50,2,11,1,1,50,9,1,3
+770773,2014,2014-12-20,Plunket Shield,Wellington Firebirds,Northern Districts,Wellington Firebirds,field,Northern Districts,"Seddon Park, Hamilton",11,5,45,4,1,25,4,6,1,3,25,50,1,2
+770769,2014,2014-12-14,Plunket Shield,Otago Volts,Northern Districts,Otago Volts,field,Northern Districts,"University Oval, Dunedin",13,2,15,3,1,33,8,3,1,2,12,66,1,1
+770767,2014,2014-12-14,Plunket Shield,Central Stags,Canterbury,Central Stags,field,Canterbury,"Hagley Oval, Christchurch",11,5,45,4,1,25,4,16,1,3,25,18,3,3
+770765,2014,2014-12-14,Plunket Shield,Wellington Firebirds,Auckland Aces,Auckland Aces,field,Auckland Aces,"Basin Reserve, Wellington",9,4,44,1,0,0,11,1,0,1,0,100,1,1
+770763,2014,2014-10-29,Plunket Shield,Otago Volts,Central Stags,Otago Volts,bat,Central Stags,"Nelson Park, Napier",11,3,27,1,0,0,1,1,0,1,0,100,1,5
+770761,2014,2014-10-28,Plunket Shield,Wellington Firebirds,Canterbury,Wellington Firebirds,field,Wellington Firebirds,"Hagley Oval, Christchurch",17,8,47,6,4,66,6,16,4,2,66,12,0,3
+770759,2014,2014-10-26,Plunket Shield,Northern Districts,Auckland Aces,Northern Districts,bat,Auckland Aces,"Cobham Oval (New), Whangarei",11,2,18,1,0,0,2,1,0,1,0,100,2,0
+693007,2014,2014-09-26,LV= County Championship,Kent,Gloucestershire,Gloucestershire,bat,Gloucestershire,"St Lawrence Ground, Canterbury",7,4,57,4,2,50,14,4,2,2,14,50,3,2
+693005,2014,2014-09-25,LV= County Championship,Worcestershire,Essex,Essex,field,Essex,"County Ground, Chelmsford",5,1,20,3,0,0,3,46,0,3,0,6,2,2
+693003,2014,2014-09-25,LV= County Championship,Leicestershire,Derbyshire,Leicestershire,field,Derbyshire,"County Ground, Derby",6,2,33,2,1,50,2,24,1,1,50,4,2,4
+693001,2014,2014-09-25,LV= County Championship,Hampshire,Glamorgan,Hampshire,bat,Hampshire,"Sophia Gardens, Cardiff",2,2,100,1,1,100,1,25,1,0,100,0,2,2
+692863,2014,2014-09-25,LV= County Championship,Warwickshire,Durham,Durham,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",7,5,71,3,2,66,35,3,2,1,5,33,3,3
+692851,2014,2014-09-18,LV= County Championship,Sussex,Nottinghamshire,Sussex,bat,Sussex,"Trent Bridge, Nottingham",6,1,17,4,1,25,4,24,1,3,25,12,1,0
+692995,2014,2014-09-17,LV= County Championship,Surrey,Derbyshire,Derbyshire,field,Derbyshire,"Kennington Oval, London",4,3,75,2,1,50,24,2,1,1,4,50,4,3
+692855,2014,2014-09-17,LV= County Championship,Northamptonshire,Durham,Northamptonshire,field,Durham,"Riverside Ground, Chester-Le-Street",4,3,75,3,2,66,3,41,2,1,66,2,4,3
+692997,2014,2014-09-16,LV= County Championship,Leicestershire,Essex,Essex,field,Essex,"Grace Road, Leicester",5,2,40,3,0,0,22,3,0,3,0,100,1,2
+692989,2014,2014-09-12,LV= County Championship,Worcestershire,Surrey,Worcestershire,bat,Worcestershire,"County Ground, New Road, Worcester",3,1,33,2,1,50,45,2,1,1,2,50,2,5
+692849,2014,2014-09-12,LV= County Championship,Warwickshire,Northamptonshire,Warwickshire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",5,5,100,3,3,100,35,3,3,0,8,0,3,2
+692847,2014,2014-09-12,LV= County Championship,Sussex,Lancashire,Sussex,field,Sussex,"County Ground, Hove, Brighton",3,1,33,2,1,50,32,2,1,1,3,50,0,2
+692845,2014,2014-09-12,LV= County Championship,Middlesex,Durham,Durham,bat,Durham,"Lord'S, London",6,4,67,5,3,60,17,5,3,2,17,40,1,3
+692843,2014,2014-09-12,LV= County Championship,Yorkshire,Nottinghamshire,Yorkshire,bat,Yorkshire,"Trent Bridge, Nottingham",7,6,86,3,2,66,3,24,2,1,66,4,5,0
+692991,2014,2014-09-11,LV= County Championship,Kent,Essex,Kent,bat,Essex,"County Ground, Chelmsford",10,1,10,6,0,0,6,46,0,6,0,13,3,3
+692987,2014,2014-09-11,LV= County Championship,Glamorgan,Derbyshire,Glamorgan,bat,Glamorgan,"Sophia Gardens, Cardiff",7,4,57,3,2,66,6,3,2,1,33,33,2,3
+692985,2014,2014-09-03,LV= County Championship,Leicestershire,Hampshire,Leicestershire,bat,Hampshire,"The Rose Bowl, Southampton",3,0,0,1,0,0,1,29,0,1,0,3,0,3
+692981,2014,2014-09-03,LV= County Championship,Worcestershire,Derbyshire,Derbyshire,bat,Derbyshire,"County Ground, Derby",6,3,50,2,1,50,2,24,1,1,50,4,1,3
+692841,2014,2014-09-03,LV= County Championship,Nottinghamshire,Durham,Durham,bat,Durham,"Riverside Ground, Chester-Le-Street",5,3,60,3,1,33,3,41,1,2,33,4,3,4
+692979,2014,2014-08-18,LV= County Championship,Kent,Hampshire,Hampshire,bat,Hampshire,"St Lawrence Ground, Canterbury",4,2,50,3,1,33,14,3,1,2,7,66,4,3
+692831,2014,2014-08-18,LV= County Championship,Nottinghamshire,Northamptonshire,Nottinghamshire,field,Nottinghamshire,"County Ground, Northampton",5,4,80,3,2,66,3,17,2,1,66,5,2,2
+692829,2014,2014-08-18,LV= County Championship,Yorkshire,Sussex,Yorkshire,field,Yorkshire,"North Marine Road Ground, Scarborough",5,4,80,1,1,100,16,1,1,0,6,0,5,0
+692827,2014,2014-08-18,LV= County Championship,Warwickshire,Somerset,Somerset,field,Warwickshire,"County Ground, Taunton",9,3,33,4,1,25,4,9,1,3,25,33,3,5
+692975,2014,2014-08-17,LV= County Championship,Worcestershire,Gloucestershire,Gloucestershire,field,Gloucestershire,"County Ground, New Road, Worcester",8,4,50,4,1,25,45,4,1,3,2,75,2,2
+692825,2014,2014-07-24,LV= County Championship,Warwickshire,Sussex,Sussex,bat,Sussex,"Cricket Field Road Ground, Horsham",3,0,0,1,0,0,1,1,0,1,0,100,3,0
+692971,2014,2014-07-23,LV= County Championship,Worcestershire,Gloucestershire,Worcestershire,bat,Worcestershire,"College Ground, Cheltenham",8,4,50,3,2,66,3,12,2,1,66,8,3,1
+692967,2014,2014-07-23,LV= County Championship,Surrey,Kent,Surrey,field,Kent,"Woodbridge Road, Guildford",7,4,57,1,0,0,4,1,0,1,0,100,3,3
+692969,2014,2014-07-22,LV= County Championship,Glamorgan,Derbyshire,Derbyshire,field,Derbyshire,"County Ground, Derby",7,4,57,3,1,33,3,24,1,2,33,8,2,2
+692823,2014,2014-07-22,LV= County Championship,Yorkshire,Middlesex,Middlesex,field,Yorkshire,"North Marine Road Ground, Scarborough",7,2,29,2,1,50,16,2,1,1,6,50,4,2
+692965,2014,2014-07-17,LV= County Championship,Gloucestershire,Derbyshire,Gloucestershire,bat,Derbyshire,"College Ground, Cheltenham",5,2,40,1,0,0,3,1,0,1,0,100,2,1
+692963,2014,2014-07-16,LV= County Championship,Hampshire,Essex,Hampshire,bat,Essex,"Castle Park Cricket Ground, Colchester",10,3,30,1,0,0,1,1,0,1,0,100,3,4
+692961,2014,2014-07-16,LV= County Championship,Worcestershire,Leicestershire,Worcestershire,bat,Worcestershire,"County Ground, New Road, Worcester",10,10,100,6,6,100,45,6,6,0,13,0,3,2
+692821,2014,2014-07-15,LV= County Championship,Warwickshire,Durham,Durham,field,Warwickshire,"Riverside Ground, Chester-Le-Street",7,5,71,4,3,75,4,41,3,1,75,2,4,4
+692819,2014,2014-07-15,LV= County Championship,Nottinghamshire,Lancashire,Nottinghamshire,field,Nottinghamshire,"Aigburth, Liverpool",6,4,67,1,1,100,1,1,1,0,100,0,3,2
+692817,2014,2014-07-15,LV= County Championship,Somerset,Northamptonshire,Somerset,bat,Somerset,"County Ground, Northampton",4,4,100,3,3,100,3,17,3,0,100,0,4,2
+692957,2014,2014-07-10,LV= County Championship,Leicestershire,Kent,Kent,field,Kent,"Grace Road, Leicester",4,1,25,3,0,0,22,3,0,3,0,100,0,2
+692953,2014,2014-07-09,LV= County Championship,Surrey,Glamorgan,Glamorgan,bat,Surrey,"Penrhyn Avenue, Rhos-On-Sea, Colwyn Bay",2,1,50,1,1,100,1,3,1,0,100,0,4,2
+692813,2014,2014-07-08,LV= County Championship,Sussex,Northamptonshire,Northamptonshire,field,Sussex,"County Ground, Hove, Brighton",6,1,17,3,1,33,32,3,1,2,3,66,1,3
+692951,2014,2014-07-02,LV= County Championship,Gloucestershire,Essex,Essex,field,Essex,"County Ground, Chelmsford",6,1,17,5,1,20,5,46,1,4,20,8,3,5
+692949,2014,2014-07-02,LV= County Championship,Worcestershire,Glamorgan,Worcestershire,bat,Worcestershire,"County Ground, New Road, Worcester",8,4,50,6,3,50,45,6,3,3,6,50,4,2
+692809,2014,2014-07-02,LV= County Championship,Warwickshire,Nottinghamshire,Warwickshire,field,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",6,5,83,2,2,100,35,2,2,0,5,0,4,0
+692943,2014,2014-06-25,LV= County Championship,Surrey,Leicestershire,Surrey,bat,Surrey,"Kennington Oval, London",2,2,100,1,1,100,24,1,1,0,4,0,3,2
+692801,2014,2014-06-25,LV= County Championship,Sussex,Durham,Durham,bat,Durham,"Riverside Ground, Chester-Le-Street",12,5,42,7,2,28,7,41,2,5,28,12,1,3
+692799,2014,2014-06-25,LV= County Championship,Northamptonshire,Lancashire,Lancashire,bat,Lancashire,"Old Trafford, Manchester",6,0,0,3,0,0,3,16,0,3,0,18,4,1
+692797,2014,2014-06-25,LV= County Championship,Somerset,Nottinghamshire,Somerset,bat,Nottinghamshire,"Trent Bridge, Nottingham",12,9,75,6,4,66,6,24,4,2,66,8,3,0
+692945,2014,2014-06-24,LV= County Championship,Kent,Derbyshire,Kent,bat,Kent,"St Lawrence Ground, Canterbury",4,3,75,2,1,50,14,2,1,1,7,50,4,1
+692803,2014,2014-06-24,LV= County Championship,Yorkshire,Warwickshire,Warwickshire,bat,Yorkshire,"Edgbaston Foundation Community Sports Ground, Birmingham",8,6,75,3,3,100,3,4,3,0,100,0,3,2
+692937,2014,2014-06-18,LV= County Championship,Surrey,Derbyshire,Derbyshire,bat,Surrey,"County Ground, Derby",4,3,75,2,2,100,2,24,2,0,100,0,2,1
+692935,2014,2014-06-18,LV= County Championship,Worcestershire,Leicestershire,Leicestershire,field,Worcestershire,"Grace Road, Leicester",10,10,100,3,3,100,3,15,3,0,100,0,5,1
+692933,2014,2014-06-18,LV= County Championship,Kent,Glamorgan,Kent,bat,Glamorgan,"Sophia Gardens, Cardiff",6,3,50,4,2,50,4,25,2,2,50,8,3,1
+692793,2014,2014-06-18,LV= County Championship,Lancashire,Durham,Lancashire,field,Durham,"Riverside Ground, Chester-Le-Street",5,2,40,3,1,33,3,41,1,2,33,4,5,4
+692791,2014,2014-06-18,LV= County Championship,Warwickshire,Northamptonshire,Northamptonshire,bat,Warwickshire,"County Ground, Northampton",5,5,100,2,2,100,2,17,2,0,100,0,5,3
+692939,2014,2014-06-17,LV= County Championship,Hampshire,Essex,Essex,field,Hampshire,"The Rose Bowl, Southampton",10,3,30,4,2,50,6,4,2,2,33,50,3,5
+692789,2014,2014-06-17,LV= County Championship,Nottinghamshire,Middlesex,Nottinghamshire,field,Nottinghamshire,"Trent Bridge, Nottingham",4,2,50,3,2,66,28,3,2,1,7,33,3,3
+692867,2014,2014-06-11,LV= County Championship,Leicestershire,Derbyshire,Leicestershire,bat,Derbyshire,"Grace Road, Leicester",6,2,33,4,1,25,22,4,1,3,4,75,0,0
+692783,2014,2014-06-10,LV= County Championship,Sussex,Somerset,Sussex,bat,Somerset,"County Ground, Taunton",2,0,0,1,0,0,1,9,0,1,0,11,1,4
+692925,2014,2014-06-05,LV= County Championship,Leicestershire,Gloucestershire,Leicestershire,bat,Gloucestershire,"Grace Road, Leicester",11,4,36,4,2,50,22,4,2,2,9,50,0,1
+692775,2014,2014-06-03,LV= County Championship,Yorkshire,Northamptonshire,Northamptonshire,field,Yorkshire,"County Ground, Northampton",4,4,100,2,2,100,2,17,2,0,100,0,2,4
+692765,2014,2014-05-22,LV= County Championship,Somerset,Durham,Durham,bat,Somerset,"County Ground, Taunton",5,2,40,3,2,66,15,3,2,1,13,33,2,4
+692909,2014,2014-05-21,LV= County Championship,Kent,Gloucestershire,Gloucestershire,bat,Gloucestershire,"County Ground, Bristol",7,4,57,3,2,66,3,17,2,1,66,5,3,2
+692907,2014,2014-05-21,LV= County Championship,Leicestershire,Hampshire,Hampshire,bat,Hampshire,"Grace Road, Leicester",3,0,0,2,0,0,22,2,0,2,0,100,0,2
+692763,2014,2014-05-21,LV= County Championship,Northamptonshire,Middlesex,Northamptonshire,bat,Middlesex,"County Ground, Northampton",4,1,25,3,1,33,23,3,1,2,4,66,4,2
+692905,2014,2014-05-20,LV= County Championship,Worcestershire,Essex,Worcestershire,bat,Worcestershire,"County Ground, New Road, Worcester",5,1,20,2,1,50,45,2,1,1,2,50,5,4
+692903,2014,2014-05-14,LV= County Championship,Hampshire,Glamorgan,Hampshire,field,Hampshire,"The Rose Bowl, Southampton",2,2,100,1,1,100,6,1,1,0,16,0,4,0
+692899,2014,2014-05-14,LV= County Championship,Surrey,Gloucestershire,Surrey,field,Surrey,"Kennington Oval, London",4,3,75,3,3,100,24,3,3,0,12,0,1,1
+692755,2014,2014-05-14,LV= County Championship,Nottinghamshire,Northamptonshire,Nottinghamshire,field,Nottinghamshire,"Trent Bridge, Nottingham",5,4,80,2,2,100,28,2,2,0,7,0,2,5
+692761,2014,2014-05-13,LV= County Championship,Yorkshire,Warwickshire,Warwickshire,field,Yorkshire,"Headingley, Leeds",8,6,75,4,3,75,28,4,3,1,10,25,1,2
+692753,2014,2014-05-06,LV= County Championship,Warwickshire,Middlesex,Middlesex,bat,Warwickshire,"Edgbaston Foundation Community Sports Ground, Birmingham",6,3,50,3,1,33,35,3,1,2,2,66,4,3
+692885,2014,2014-04-30,LV= County Championship,Worcestershire,Derbyshire,Derbyshire,bat,Worcestershire,"County Ground, New Road, Worcester",6,3,50,3,2,66,45,3,2,1,4,33,5,0
+692745,2014,2014-04-30,LV= County Championship,Sussex,Somerset,Sussex,field,Somerset,"County Ground, Hove, Brighton",2,0,0,1,0,0,32,1,0,1,0,100,2,4
+692741,2014,2014-04-30,LV= County Championship,Northamptonshire,Lancashire,Northamptonshire,field,Lancashire,"County Ground, Northampton",6,0,0,3,0,0,23,3,0,3,0,100,3,2
+692739,2014,2014-04-29,LV= County Championship,Warwickshire,Nottinghamshire,Nottinghamshire,field,Warwickshire,"Trent Bridge, Nottingham",6,5,83,4,3,75,4,24,3,1,75,4,4,1
+692733,2014,2014-04-23,LV= County Championship,Yorkshire,Northamptonshire,Yorkshire,bat,Yorkshire,"Headingley, Leeds",4,4,100,2,2,100,28,2,2,0,7,0,0,4
+692875,2014,2014-04-16,LV= County Championship,Hampshire,Gloucestershire,Hampshire,field,Hampshire,"County Ground, Bristol",4,4,100,1,1,100,1,17,1,0,100,0,4,2
+692873,2014,2014-04-16,LV= County Championship,Essex,Derbyshire,Essex,bat,Essex,"County Ground, Chelmsford",5,5,100,3,3,100,4,3,3,0,75,0,5,0
+692871,2014,2014-04-16,LV= County Championship,Worcestershire,Kent,Worcestershire,bat,Worcestershire,"County Ground, New Road, Worcester",4,2,50,2,2,100,45,2,2,0,4,0,4,2
+692731,2014,2014-04-16,LV= County Championship,Warwickshire,Sussex,Warwickshire,bat,Sussex,"Edgbaston Foundation Community Sports Ground, Birmingham",3,0,0,1,0,0,35,1,0,1,0,100,4,0
+692723,2014,2014-04-09,LV= County Championship,Sussex,Middlesex,Sussex,field,Sussex,"County Ground, Hove, Brighton",10,4,40,6,3,50,32,6,3,3,9,50,3,3
+516863,2013,2013-09-14,ICC Intercontinental Cup,Scotland,Ireland,Ireland,field,Ireland,"Castle Avenue, Dublin",2,0,0,1,0,0,1,1,0,1,0,100,0,1
+516862,2013,2013-08-06,ICC Intercontinental Cup,Namibia,Afghanistan,Namibia,bat,Afghanistan,"Wanderers Cricket Ground, Windhoek",2,0,0,1,0,0,2,1,0,1,0,100,1,0
+516852,2012,2012-10-02,ICC Intercontinental Cup,Kenya,Namibia,Kenya,bat,Namibia,"United Cricket Club Ground, Windhoek",1,0,0,1,0,0,1,1,0,1,0,100,4,1
+516841,2011,2011-07-31,ICC Intercontinental Cup,United Arab Emirates,Kenya,United Arab Emirates,bat,United Arab Emirates,"Gymkhana Club Ground, Nairobi",1,1,100,1,1,100,1,3,1,0,100,0,0,4
+438938,2010,2010-02-23,ICC Intercontinental Shield,Netherlands,Kenya,Netherlands,bat,Kenya,"Gymkhana Club Ground, Nairobi",1,0,0,1,0,0,1,3,0,1,0,33,1,4
+415161,2009,2009-08-17,ICC Intercontinental Shield,Kenya,Canada,Kenya,bat,Kenya,"Maple Leaf South-West Ground, King City",2,2,100,1,1,100,1,1,1,0,100,0,4,0
+292302,2007,2007-11-04,ICC Intercontinental Cup,Bermuda,Kenya,Kenya,field,Kenya,"Gymkhana Club Ground, Nairobi",1,0,0,1,0,0,1,3,0,1,0,33,0,3
+292300,2007,2007-10-15,ICC Intercontinental Cup,Kenya,Canada,Canada,bat,Kenya,"Gymkhana Club Ground, Nairobi",2,2,100,1,1,100,1,1,1,0,100,0,3,0
+247219,2006,2006-12-07,ICC Intercontinental Cup,Canada,Netherlands,Canada,bat,Netherlands,"Sinovich Park, Sinoville, Pretoria",1,0,0,1,0,0,1,1,0,1,0,100,0,1

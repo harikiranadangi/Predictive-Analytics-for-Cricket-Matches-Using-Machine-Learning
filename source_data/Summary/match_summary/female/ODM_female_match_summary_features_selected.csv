@@ -1,0 +1,188 @@
+match_id,season,match_date,event_name,team1,team2,toss_winner,toss_decision,winner,ground,h2h,h2h_team1_wins,h2h_team1_wins%,h2h_venue,h2h_venue_team1_wins,h2h_venue_team1_wins%,team1_venue,team2_venue,team1_venue_wins,team2_venue_wins,team1_venue_wins%,team2_venue_wins%,team1_last_5_wins,team2_last_5_wins
+1427829,2024,2024-05-08,Rachael Heyhoe Flint Trophy,Western Storm,The Blaze,The Blaze,field,The Blaze,"Trent Bridge, Nottingham",2,0,0,1,0,0,1,1,0,1,0,100,2,1
+1427828,2024,2024-05-08,Rachael Heyhoe Flint Trophy,Thunder,Central Sparks,Thunder,bat,Central Sparks,"Old Trafford, Manchester",6,2,33,2,1,50,4,2,1,1,25,50,2,1
+1427827,2024,2024-05-08,Rachael Heyhoe Flint Trophy,Sunrisers,Southern Vipers,Sunrisers,field,Sunrisers,"Radlett Cricket Club, Radlett",7,3,43,1,1,100,2,1,1,0,50,0,3,4
+1427826,2024,2024-05-08,Rachael Heyhoe Flint Trophy,South East Stars,Northern Diamonds,Northern Diamonds,bat,Northern Diamonds,"Kent County Cricket Ground, Beckenham",4,0,0,2,0,0,5,2,0,2,0,100,4,3
+1427825,2024,2024-05-06,Rachael Heyhoe Flint Trophy,The Blaze,Thunder,Thunder,field,Thunder,"Trent Bridge, Nottingham",1,0,0,1,0,0,2,1,0,1,0,100,1,2
+1427824,2024,2024-05-04,Rachael Heyhoe Flint Trophy,Sunrisers,South East Stars,Sunrisers,bat,South East Stars,"County Ground, Northampton",7,0,0,1,0,0,1,1,0,1,0,100,4,4
+1427823,2024,2024-05-04,Rachael Heyhoe Flint Trophy,Western Storm,Southern Vipers,Western Storm,field,Southern Vipers,"County Ground, Bristol",5,0,0,2,0,0,10,2,0,2,0,100,2,4
+1427822,2024,2024-05-04,Rachael Heyhoe Flint Trophy,Northern Diamonds,Central Sparks,Northern Diamonds,bat,Northern Diamonds,"Edgbaston Foundation Community Sports Ground, Birmingham",7,3,43,1,1,100,1,7,1,0,100,0,3,1
+1427821,2024,2024-05-01,Rachael Heyhoe Flint Trophy,Thunder,Southern Vipers,Southern Vipers,field,Southern Vipers,"Sir Paul Getty'S Ground, Wormsley",4,0,0,1,0,0,1,1,0,1,0,100,2,4
+1427820,2024,2024-05-01,Rachael Heyhoe Flint Trophy,Western Storm,South East Stars,Western Storm,field,Western Storm,"The Cooper Associates County Ground, Taunton",6,3,50,1,1,100,5,1,1,0,20,0,1,3
+1427819,2024,2024-05-01,Rachael Heyhoe Flint Trophy,Sunrisers,Central Sparks,Sunrisers,field,Sunrisers,"Chester Road North Ground, Kidderminster",4,2,50,1,1,100,1,1,1,0,100,0,4,2
+1427818,2024,2024-05-01,Rachael Heyhoe Flint Trophy,The Blaze,Northern Diamonds,Northern Diamonds,bat,The Blaze,"North Marine Road Ground, Scarborough",3,3,100,1,1,100,1,2,1,0,100,0,1,2
+1427817,2024,2024-04-27,Rachael Heyhoe Flint Trophy,Southern Vipers,Northern Diamonds,Northern Diamonds,field,Southern Vipers,"The Rose Bowl, Southampton",7,5,71,2,2,100,4,2,2,0,50,0,4,3
+1427816,2024,2024-04-27,Rachael Heyhoe Flint Trophy,Western Storm,Thunder,Thunder,field,Western Storm,"Old Trafford, Manchester",5,4,80,3,2,66,3,3,2,1,66,33,0,2
+1427815,2024,2024-04-27,Rachael Heyhoe Flint Trophy,The Blaze,Sunrisers,Sunrisers,field,Sunrisers,"County Ground, Chelmsford",3,1,33,2,1,50,2,4,1,1,50,25,1,3
+1427814,2024,2024-04-27,Rachael Heyhoe Flint Trophy,South East Stars,Central Sparks,South East Stars,bat,South East Stars,"Kent County Cricket Ground, Beckenham",5,3,60,2,2,100,5,2,2,0,40,0,3,2
+1427813,2024,2024-04-24,Rachael Heyhoe Flint Trophy,Southern Vipers,Central Sparks,Southern Vipers,field,Southern Vipers,"Sir Paul Getty'S Ground, Wormsley",5,3,60,2,2,100,2,2,2,0,100,0,4,2
+1427812,2024,2024-04-24,Rachael Heyhoe Flint Trophy,Thunder,Sunrisers,Sunrisers,field,Thunder,"Old Trafford, Manchester",2,2,100,1,1,100,4,1,1,0,25,0,2,4
+1427811,2024,2024-04-24,Rachael Heyhoe Flint Trophy,Western Storm,Northern Diamonds,Western Storm,field,Northern Diamonds,"Headingley, Leeds",5,0,0,2,0,0,2,6,0,2,0,33,0,4
+1427810,2024,2024-04-24,Rachael Heyhoe Flint Trophy,The Blaze,South East Stars,The Blaze,bat,South East Stars,"Grace Road, Leicester",4,1,25,1,0,0,1,1,0,1,0,100,1,4
+1427809,2024,2024-04-20,Rachael Heyhoe Flint Trophy,Western Storm,Sunrisers,Sunrisers,field,Sunrisers,"Sophia Gardens, Cardiff",7,5,71,1,0,0,2,1,0,1,0,100,1,4
+1427808,2024,2024-04-20,Rachael Heyhoe Flint Trophy,Southern Vipers,South East Stars,South East Stars,field,South East Stars,"Kent County Cricket Ground, Beckenham",8,7,88,4,3,75,4,11,3,1,75,9,4,3
+1427807,2024,2024-04-20,Rachael Heyhoe Flint Trophy,The Blaze,Central Sparks,Central Sparks,bat,Central Sparks,"Edgbaston Foundation Community Sports Ground, Birmingham",3,2,67,2,1,50,2,7,1,1,50,14,1,2
+1427806,2024,2024-04-20,Rachael Heyhoe Flint Trophy,Thunder,Northern Diamonds,Northern Diamonds,field,Northern Diamonds,"Riverside Ground, Chester-Le-Street",7,1,14,2,0,0,2,5,0,2,0,40,2,3
+1347460,2023,2023-09-24,Rachael Heyhoe Flint Trophy,The Blaze,Southern Vipers,Southern Vipers,field,Southern Vipers,"County Ground, Northampton",3,1,33,1,0,0,1,1,0,1,0,100,1,4
+1347459,2023,2023-09-21,Rachael Heyhoe Flint Trophy,The Blaze,South East Stars,South East Stars,bat,The Blaze,"Kent County Cricket Ground, Beckenham",4,1,25,2,1,50,2,11,1,1,50,9,2,3
+1347458,2023,2023-09-16,Rachael Heyhoe Flint Trophy,Sunrisers,Northern Diamonds,Sunrisers,field,Sunrisers,"Riverside Ground, Chester-Le-Street",4,1,25,1,1,100,1,5,1,0,100,0,4,2
+1347457,2023,2023-09-16,Rachael Heyhoe Flint Trophy,The Blaze,Southern Vipers,The Blaze,field,Southern Vipers,"Haslegrave Ground, Loughborough",3,1,33,1,0,0,2,1,0,1,0,100,1,4
+1347456,2023,2023-09-16,Rachael Heyhoe Flint Trophy,Western Storm,Thunder,Western Storm,bat,Thunder,"Old Trafford, Manchester",5,4,80,3,2,66,3,3,2,1,66,33,1,2
+1347455,2023,2023-09-16,Rachael Heyhoe Flint Trophy,South East Stars,Central Sparks,Central Sparks,field,South East Stars,"Edgbaston Foundation Community Sports Ground, Birmingham",5,3,60,1,1,100,1,7,1,0,100,0,4,3
+1347454,2023,2023-09-13,Rachael Heyhoe Flint Trophy,Western Storm,Central Sparks,Central Sparks,field,Central Sparks,"The Cooper Associates County Ground, Taunton",3,0,0,1,0,0,5,1,0,1,0,100,1,3
+1347453,2023,2023-09-13,Rachael Heyhoe Flint Trophy,The Blaze,Sunrisers,The Blaze,field,Sunrisers,"Haslegrave Ground, Loughborough",3,1,33,1,0,0,2,1,0,1,0,100,2,4
+1347452,2023,2023-09-13,Rachael Heyhoe Flint Trophy,Thunder,Northern Diamonds,Thunder,field,Northern Diamonds,"Rookwood, Sale",7,1,14,2,0,0,3,2,0,2,0,100,2,2
+1347451,2023,2023-09-13,Rachael Heyhoe Flint Trophy,Southern Vipers,South East Stars,Southern Vipers,bat,Southern Vipers,"The Rose Bowl, Southampton",8,7,88,1,1,100,4,1,1,0,25,0,4,2
+1347450,2023,2023-09-10,Rachael Heyhoe Flint Trophy,Western Storm,Northern Diamonds,Western Storm,field,Northern Diamonds,"The Cooper Associates County Ground, Taunton",5,0,0,2,0,0,5,2,0,2,0,100,1,1
+1347449,2023,2023-09-10,Rachael Heyhoe Flint Trophy,Sunrisers,Central Sparks,Central Sparks,bat,Sunrisers,"County Ground, Chelmsford",4,2,50,1,1,100,8,1,1,0,12,0,5,4
+1347447,2023,2023-09-10,Rachael Heyhoe Flint Trophy,The Blaze,South East Stars,South East Stars,bat,South East Stars,"Kent County Cricket Ground, Beckenham",4,1,25,2,1,50,2,11,1,1,50,9,3,3
+1347448,2023,2023-09-09,Rachael Heyhoe Flint Trophy,Thunder,Southern Vipers,Southern Vipers,bat,Southern Vipers,"Arundel Castle Cricket Club Ground, Arundel",4,0,0,1,0,0,1,1,0,1,0,100,3,5
+1347446,2023,2023-09-05,Rachael Heyhoe Flint Trophy,Southern Vipers,Northern Diamonds,Southern Vipers,bat,Southern Vipers,"Roseworth Terrace, Gosforth",7,5,71,1,1,100,1,2,1,0,100,0,4,1
+1347445,2023,2023-09-05,Rachael Heyhoe Flint Trophy,Western Storm,Sunrisers,Western Storm,bat,Sunrisers,"Radlett Cricket Club, Radlett",7,5,71,1,0,0,1,1,0,1,0,100,2,5
+1347444,2023,2023-09-05,Rachael Heyhoe Flint Trophy,The Blaze,Central Sparks,Central Sparks,bat,The Blaze,"Edgbaston Foundation Community Sports Ground, Birmingham",3,2,67,2,1,50,2,7,1,1,50,14,4,4
+1347443,2023,2023-09-05,Rachael Heyhoe Flint Trophy,Thunder,South East Stars,South East Stars,bat,Thunder,"Woodbridge Road, Guildford",4,2,50,1,1,100,1,1,1,0,100,0,2,3
+1347442,2023,2023-07-24,Rachael Heyhoe Flint Trophy,Western Storm,Sunrisers,Sunrisers,field,Western Storm,"College Ground, Cheltenham",7,5,71,1,1,100,2,1,1,0,50,0,1,4
+1347437,2023,2023-07-17,Rachael Heyhoe Flint Trophy,The Blaze,South East Stars,The Blaze,bat,South East Stars,"The John Fretwell Sporting Complex, Nettleworth",4,1,25,1,0,0,1,1,0,1,0,100,4,3
+1347435,2023,2023-07-15,Rachael Heyhoe Flint Trophy,Western Storm,Southern Vipers,Southern Vipers,field,Southern Vipers,"Millfield School, Street",5,0,0,1,0,0,1,1,0,1,0,100,2,5
+1347434,2023,2023-07-15,Rachael Heyhoe Flint Trophy,Northern Diamonds,Central Sparks,Central Sparks,field,Central Sparks,"Headingley, Leeds",7,3,43,3,0,0,3,3,0,3,0,100,2,4
+1347433,2023,2023-07-11,Rachael Heyhoe Flint Trophy,Thunder,Northern Diamonds,Thunder,field,Thunder,"Roseworth Terrace, Gosforth",7,1,14,1,1,100,1,2,1,0,100,0,2,2
+1347432,2023,2023-07-11,Rachael Heyhoe Flint Trophy,The Blaze,Southern Vipers,The Blaze,field,The Blaze,"New Close County Cricket Ground, Newport, Isle-Of-Wight, Newport",3,1,33,1,1,100,1,1,1,0,100,0,5,4
+1347431,2023,2023-07-11,Rachael Heyhoe Flint Trophy,Sunrisers,South East Stars,South East Stars,bat,South East Stars,"Kent County Cricket Ground, Beckenham",7,0,0,3,0,0,3,11,0,3,0,27,4,2
+1347428,2023,2023-07-07,Rachael Heyhoe Flint Trophy,South East Stars,Central Sparks,Central Sparks,bat,Central Sparks,"Woodbridge Road, Guildford",5,3,60,1,0,0,1,1,0,1,0,100,3,3
+1347427,2023,2023-07-07,Rachael Heyhoe Flint Trophy,The Blaze,Northern Diamonds,Northern Diamonds,bat,The Blaze,"Queen'S Park, Chesterfield",3,3,100,1,1,100,1,1,1,0,100,0,5,2
+1347426,2023,2023-07-02,Rachael Heyhoe Flint Trophy,South East Stars,Northern Diamonds,South East Stars,bat,Northern Diamonds,"Kent County Cricket Ground, Beckenham",4,0,0,2,0,0,5,2,0,2,0,100,3,3
+1347425,2023,2023-07-02,Rachael Heyhoe Flint Trophy,Sunrisers,Southern Vipers,Sunrisers,bat,Sunrisers,"County Ground, Chelmsford",7,3,43,3,1,33,8,3,1,2,12,66,3,3
+1347424,2023,2023-07-02,Rachael Heyhoe Flint Trophy,Thunder,Central Sparks,Thunder,field,Central Sparks,"County Ground, New Road, Worcester",6,2,33,3,1,33,3,8,1,2,33,25,2,3
+1347423,2023,2023-07-02,Rachael Heyhoe Flint Trophy,Western Storm,The Blaze,Western Storm,field,The Blaze,"County Ground, Bristol",2,0,0,1,0,0,10,1,0,1,0,100,2,1
+1347421,2023,2023-05-10,Rachael Heyhoe Flint Trophy,Southern Vipers,Central Sparks,Central Sparks,field,Central Sparks,"County Ground, Hove, Brighton",5,3,60,2,0,0,4,2,0,2,0,100,5,2
+1347420,2023,2023-05-10,Rachael Heyhoe Flint Trophy,South East Stars,Northern Diamonds,Northern Diamonds,field,Northern Diamonds,"North Marine Road Ground, Scarborough",4,0,0,1,0,0,1,2,0,1,0,50,2,3
+1347417,2023,2023-05-06,Rachael Heyhoe Flint Trophy,The Blaze,Northern Diamonds,The Blaze,field,The Blaze,"Riverside Ground, Chester-Le-Street",3,3,100,1,1,100,1,5,1,0,100,0,4,3
+1347415,2023,2023-05-05,Rachael Heyhoe Flint Trophy,Sunrisers,South East Stars,Sunrisers,field,South East Stars,"Radlett Cricket Club, Radlett",7,0,0,1,0,0,2,1,0,1,0,100,3,2
+1347414,2023,2023-05-01,Rachael Heyhoe Flint Trophy,Western Storm,South East Stars,South East Stars,bat,South East Stars,"County Ground, Bristol",6,3,50,2,1,50,10,2,1,1,10,50,2,2
+1347413,2023,2023-05-01,Rachael Heyhoe Flint Trophy,Sunrisers,Northern Diamonds,Sunrisers,bat,Northern Diamonds,"County Ground, Chelmsford",4,1,25,1,0,0,8,1,0,1,0,100,2,3
+1347412,2023,2023-05-01,Rachael Heyhoe Flint Trophy,Southern Vipers,Central Sparks,Southern Vipers,field,Southern Vipers,"Sir Paul Getty'S Ground, Wormsley",5,3,60,2,2,100,2,2,2,0,100,0,5,2
+1347410,2023,2023-04-29,Rachael Heyhoe Flint Trophy,Southern Vipers,South East Stars,Southern Vipers,bat,Southern Vipers,"Kent County Cricket Ground, Beckenham",8,7,88,4,3,75,4,11,3,1,75,9,4,2
+1347409,2023,2023-04-29,Rachael Heyhoe Flint Trophy,The Blaze,Sunrisers,Sunrisers,bat,The Blaze,"County Ground, Chelmsford",3,1,33,2,1,50,2,4,1,1,50,25,3,3
+1347408,2023,2023-04-29,Rachael Heyhoe Flint Trophy,Western Storm,Thunder,Thunder,bat,Western Storm,"Sophia Gardens, Cardiff",5,4,80,1,1,100,2,1,1,0,50,0,2,2
+1347407,2023,2023-04-29,Rachael Heyhoe Flint Trophy,Northern Diamonds,Central Sparks,Central Sparks,field,Central Sparks,"County Ground, New Road, Worcester",7,3,43,2,1,50,2,8,1,1,50,12,3,1
+1347406,2023,2023-04-22,Rachael Heyhoe Flint Trophy,The Blaze,Central Sparks,The Blaze,bat,The Blaze,"Trent Bridge, Nottingham",3,2,67,1,1,100,2,1,1,0,50,0,2,2
+1347405,2023,2023-04-22,Rachael Heyhoe Flint Trophy,Western Storm,Northern Diamonds,Western Storm,field,Northern Diamonds,"Headingley, Leeds",5,0,0,2,0,0,2,6,0,2,0,33,2,4
+1347404,2023,2023-04-22,Rachael Heyhoe Flint Trophy,Thunder,South East Stars,South East Stars,bat,South East Stars,"Old Trafford, Manchester",4,2,50,1,0,0,4,1,0,1,0,100,1,2
+1347403,2023,2023-04-22,Rachael Heyhoe Flint Trophy,Sunrisers,Southern Vipers,Sunrisers,bat,Sunrisers,"The Rose Bowl, Southampton",7,3,43,3,1,33,3,5,1,2,33,40,1,2
+1297956,2022,2022-09-25,Rachael Heyhoe Flint Trophy,Southern Vipers,Northern Diamonds,Southern Vipers,field,Northern Diamonds,"Lord'S, London",7,5,71,1,0,0,1,1,0,1,0,100,3,4
+1297955,2022,2022-09-21,Rachael Heyhoe Flint Trophy,Southern Vipers,South East Stars,South East Stars,bat,Southern Vipers,"Kent County Cricket Ground, Beckenham",8,7,88,4,3,75,4,11,3,1,75,9,2,3
+1297951,2022,2022-09-18,Rachael Heyhoe Flint Trophy,Western Storm,Thunder,Western Storm,field,Western Storm,"Old Trafford, Manchester",5,4,80,3,2,66,3,3,2,1,66,33,2,2
+1297954,2022,2022-09-17,Rachael Heyhoe Flint Trophy,South East Stars,Lightning,South East Stars,bat,South East Stars,"Grace Road, Leicester",2,2,100,1,1,100,1,2,1,0,100,0,3,2
+1297953,2022,2022-09-17,Rachael Heyhoe Flint Trophy,Sunrisers,Central Sparks,Sunrisers,field,Central Sparks,"County Ground, New Road, Worcester",4,2,50,1,0,0,1,8,0,1,0,12,1,1
+1297952,2022,2022-09-17,Rachael Heyhoe Flint Trophy,Southern Vipers,Northern Diamonds,Southern Vipers,bat,Northern Diamonds,"Headingley, Leeds",7,5,71,1,0,0,1,6,0,1,0,16,2,5
+1297950,2022,2022-09-11,Rachael Heyhoe Flint Trophy,Western Storm,Northern Diamonds,Northern Diamonds,bat,Northern Diamonds,"The Cooper Associates County Ground, Taunton",5,0,0,2,0,0,5,2,0,2,0,100,3,5
+1297949,2022,2022-09-11,Rachael Heyhoe Flint Trophy,Sunrisers,Lightning,Sunrisers,field,Lightning,"County Ground, Chelmsford",2,0,0,1,0,0,8,1,0,1,0,100,2,2
+1297948,2022,2022-09-11,Rachael Heyhoe Flint Trophy,South East Stars,Central Sparks,Central Sparks,field,South East Stars,"Kent County Cricket Ground, Beckenham",5,3,60,2,2,100,5,2,2,0,40,0,3,1
+1297947,2022,2022-09-11,Rachael Heyhoe Flint Trophy,Thunder,Southern Vipers,Thunder,bat,Southern Vipers,"The Rose Bowl, Southampton",4,0,0,1,0,0,1,5,0,1,0,20,0,2
+1297942,2022,2022-07-23,Rachael Heyhoe Flint Trophy,Northern Diamonds,Lightning,Lightning,bat,Northern Diamonds,"Riverside Ground, Chester-Le-Street",4,4,100,2,2,100,2,2,2,0,100,0,4,2
+1297941,2022,2022-07-23,Rachael Heyhoe Flint Trophy,Thunder,Central Sparks,Central Sparks,field,Thunder,"Old Trafford, Manchester",6,2,33,2,1,50,4,2,1,1,25,50,1,1
+1297940,2022,2022-07-23,Rachael Heyhoe Flint Trophy,Western Storm,South East Stars,South East Stars,bat,South East Stars,"College Ground, Cheltenham",6,3,50,1,0,0,2,1,0,1,0,100,4,3
+1297939,2022,2022-07-23,Rachael Heyhoe Flint Trophy,Sunrisers,Southern Vipers,Southern Vipers,bat,Southern Vipers,"The Rose Bowl, Southampton",7,3,43,3,1,33,3,5,1,2,33,40,1,2
+1297938,2022,2022-07-16,Rachael Heyhoe Flint Trophy,Southern Vipers,Lightning,Southern Vipers,bat,Southern Vipers,"County Ground, Derby",2,2,100,1,1,100,1,1,1,0,100,0,2,2
+1297937,2022,2022-07-16,Rachael Heyhoe Flint Trophy,Western Storm,Sunrisers,Sunrisers,bat,Western Storm,"County Ground, Chelmsford",7,5,71,2,2,100,2,4,2,0,100,0,3,3
+1297936,2022,2022-07-16,Rachael Heyhoe Flint Trophy,Thunder,South East Stars,South East Stars,bat,South East Stars,"Trafalgar Road Ground, Southport",4,2,50,1,0,0,1,1,0,1,0,100,1,3
+1297935,2022,2022-07-16,Rachael Heyhoe Flint Trophy,Northern Diamonds,Central Sparks,Central Sparks,bat,Northern Diamonds,"County Ground, New Road, Worcester",7,3,43,2,1,50,2,8,1,1,50,12,3,2
+1297934,2022,2022-07-09,Rachael Heyhoe Flint Trophy,Southern Vipers,South East Stars,South East Stars,field,Southern Vipers,"County Ground, Hove, Brighton",8,7,88,2,2,100,4,2,2,0,50,0,2,3
+1297933,2022,2022-07-09,Rachael Heyhoe Flint Trophy,Thunder,Lightning,Thunder,bat,Lightning,"Haslegrave Ground, Loughborough",3,1,33,1,0,0,1,3,0,1,0,33,1,2
+1297932,2022,2022-07-09,Rachael Heyhoe Flint Trophy,Sunrisers,Northern Diamonds,Northern Diamonds,bat,Northern Diamonds,"Headingley, Leeds",4,1,25,1,0,0,1,6,0,1,0,16,1,5
+1297931,2022,2022-07-09,Rachael Heyhoe Flint Trophy,Western Storm,Central Sparks,Central Sparks,bat,Central Sparks,"County Ground, Bristol",3,0,0,1,0,0,10,1,0,1,0,100,3,2
+1297930,2022,2022-07-03,Rachael Heyhoe Flint Trophy,Thunder,Northern Diamonds,Thunder,bat,Northern Diamonds,"Rookwood, Sale",7,1,14,2,0,0,3,2,0,2,0,100,1,5
+1297929,2022,2022-07-02,Rachael Heyhoe Flint Trophy,Southern Vipers,Central Sparks,Southern Vipers,field,Southern Vipers,"Edgbaston Foundation Community Sports Ground, Birmingham",5,3,60,1,1,100,2,7,1,0,50,0,2,2
+1297928,2022,2022-07-02,Rachael Heyhoe Flint Trophy,Western Storm,Lightning,Lightning,field,Western Storm,"Haslegrave Ground, Loughborough",2,2,100,1,1,100,1,3,1,0,100,0,2,3
+1297927,2022,2022-07-02,Rachael Heyhoe Flint Trophy,Sunrisers,South East Stars,South East Stars,bat,South East Stars,"Kent County Cricket Ground, Beckenham",7,0,0,3,0,0,3,11,0,3,0,27,1,4
+wi_212064,2022,2022-06-25,CG United Women's Super50,Jamaica,Barbados,Jamaica,bat,Barbados,"Guyana National Stadium, Providence",2,0,0,2,0,0,3,2,0,2,0,100,2,2
+wi_212063,2022,2022-06-24,CG United Women's Super50,Windward Islands,Leeward Islands,Windward Islands,bat,Windward Islands,"Guyana National Stadium, Providence",1,1,100,1,1,100,1,3,1,0,100,0,0,0
+wi_212062,2022,2022-06-23,CG United Women's Super50,Guyana,Jamaica,Jamaica,field,Jamaica,"Guyana National Stadium, Providence",1,0,0,1,0,0,2,1,0,1,0,100,1,2
+wi_212061,2022,2022-06-22,CG United Women's Super50,Barbados,Trinidad And Tobago,Trinidad and Tobago,bat,Barbados,"Guyana National Stadium, Providence",1,1,100,1,1,100,1,1,1,0,100,0,2,1
+wi_211979,2022,2022-06-21,CG United Women's Super50,Guyana,Leeward Islands,Leeward Islands,bat,Guyana,"Guyana National Stadium, Providence",1,1,100,1,1,100,2,3,1,0,50,0,0,0
+wi_211973,2022,2022-06-20,CG United Women's Super50,Jamaica,Windward Islands,Jamaica,field,Jamaica,"Guyana National Stadium, Providence",1,1,100,1,1,100,3,1,1,0,33,0,1,0
+wi_211977,2022,2022-06-18,CG United Women's Super50,Jamaica,Barbados,Barbados,bat,Barbados,"Guyana National Stadium, Providence",2,0,0,2,0,0,3,2,0,2,0,100,0,1
+wi_211976,2022,2022-06-17,CG United Women's Super50,Trinidad And Tobago,Leeward Islands,Leeward Islands,bat,Trinidad And Tobago,"Guyana National Stadium, Providence",1,1,100,1,1,100,1,3,1,0,100,0,1,0
+1286916,2021,2021-11-27,ICC Women's Cricket World Cup Qualifier,United States Of America,Thailand,United States of America,bat,Thailand,"Old Hararians Sports Club, Harare",1,0,0,1,0,0,1,1,0,1,0,100,0,2
+1286912,2021,2021-11-25,ICC Women's Cricket World Cup Qualifier,United States Of America,Zimbabwe,Zimbabwe,field,Zimbabwe,"Takashinga Sports Club, Highfield, Harare",1,0,0,1,0,0,1,1,0,1,0,100,0,1
+1286910,2021,2021-11-25,ICC Women's Cricket World Cup Qualifier,Bangladesh,Thailand,Thailand,field,Thailand,"Harare Sports Club, Harare",1,0,0,1,0,0,1,2,0,1,0,50,3,1
+1286904,2021,2021-11-25,ICC Women's Cricket World Cup Qualifier,Ireland,Netherlands,Netherlands,field,Ireland,"Sunrise Sports Club, Harare",1,1,100,1,1,100,1,1,1,0,100,0,2,0
+1286908,2021,2021-11-23,ICC Women's Cricket World Cup Qualifier,Bangladesh,United States Of America,United States of America,field,Bangladesh,"Sunrise Sports Club, Harare",1,1,100,1,1,100,1,1,1,0,100,0,2,0
+1286907,2021,2021-11-23,ICC Women's Cricket World Cup Qualifier,Pakistan,Thailand,Pakistan,bat,Pakistan,"Takashinga Sports Club, Highfield, Harare",1,1,100,1,1,100,1,1,1,0,100,0,3,1
+1286906,2021,2021-11-23,ICC Women's Cricket World Cup Qualifier,Sri Lanka,Netherlands,Netherlands,field,Sri Lanka,"Harare Sports Club, Harare",1,1,100,1,1,100,1,1,1,0,100,0,2,0
+1286902,2021,2021-11-21,ICC Women's Cricket World Cup Qualifier,Zimbabwe,Thailand,Thailand,bat,Thailand,"Harare Sports Club, Harare",2,1,50,1,0,0,1,2,0,1,0,50,1,0
+1252293,2021,2021-09-25,Rachael Heyhoe Flint Trophy,Southern Vipers,Northern Diamonds,Northern Diamonds,bat,Southern Vipers,"County Ground, Northampton",7,5,71,1,1,100,1,1,1,0,100,0,3,4
+1252292,2021,2021-09-22,Rachael Heyhoe Flint Trophy,Northern Diamonds,Central Sparks,Central Sparks,bat,Northern Diamonds,"North Marine Road Ground, Scarborough",7,3,43,1,1,100,1,1,1,0,100,0,2,3
+1252291,2021,2021-09-18,Rachael Heyhoe Flint Trophy,Southern Vipers,Northern Diamonds,Northern Diamonds,bat,Southern Vipers,"The Rose Bowl, Southampton",7,5,71,2,2,100,4,2,2,0,50,0,2,4
+1252290,2021,2021-09-18,Rachael Heyhoe Flint Trophy,Western Storm,Sunrisers,Western Storm,bat,Western Storm,"County Ground, Bristol",7,5,71,2,2,100,10,2,2,0,20,0,1,2
+1252289,2021,2021-09-18,Rachael Heyhoe Flint Trophy,Thunder,South East Stars,Thunder,bat,Thunder,"Kent County Cricket Ground, Beckenham",4,2,50,1,1,100,1,11,1,0,100,0,2,4
+1252288,2021,2021-09-18,Rachael Heyhoe Flint Trophy,Lightning,Central Sparks,Central Sparks,field,Lightning,"Haslegrave Ground, Loughborough",3,3,100,1,1,100,1,1,1,0,100,0,2,4
+1252287,2021,2021-09-12,Rachael Heyhoe Flint Trophy,Sunrisers,Southern Vipers,Sunrisers,field,Southern Vipers,"County Ground, Chelmsford",7,3,43,3,1,33,8,3,1,2,12,66,1,2
+1252286,2021,2021-09-12,Rachael Heyhoe Flint Trophy,Western Storm,Lightning,Lightning,field,Western Storm,"County Ground, Bristol",2,2,100,1,1,100,10,1,1,0,10,0,1,2
+1252285,2021,2021-09-12,Rachael Heyhoe Flint Trophy,South East Stars,Central Sparks,Central Sparks,bat,Central Sparks,"County Ground, New Road, Worcester",5,3,60,1,0,0,1,8,0,1,0,12,3,4
+1252284,2021,2021-09-12,Rachael Heyhoe Flint Trophy,Thunder,Northern Diamonds,Thunder,field,Northern Diamonds,"Riverside Ground, Chester-Le-Street",7,1,14,2,0,0,2,5,0,2,0,40,1,3
+1252283,2021,2021-09-10,Rachael Heyhoe Flint Trophy,Thunder,Southern Vipers,Southern Vipers,field,Southern Vipers,"Rookwood, Sale",4,0,0,1,0,0,3,1,0,1,0,100,1,2
+1252282,2021,2021-09-10,Rachael Heyhoe Flint Trophy,Sunrisers,Central Sparks,Central Sparks,field,Central Sparks,"Merchant Taylors' School Ground, Northwood",4,2,50,1,0,0,1,1,0,1,0,100,0,3
+1252281,2021,2021-09-10,Rachael Heyhoe Flint Trophy,South East Stars,Lightning,South East Stars,bat,South East Stars,"Kent County Cricket Ground, Beckenham",2,2,100,1,1,100,5,1,1,0,20,0,2,2
+1252280,2021,2021-09-10,Rachael Heyhoe Flint Trophy,Western Storm,Northern Diamonds,Northern Diamonds,field,Northern Diamonds,"Riverside Ground, Chester-Le-Street",5,0,0,1,0,0,1,5,0,1,0,20,2,3
+1252279,2021,2021-06-12,Rachael Heyhoe Flint Trophy,Western Storm,Southern Vipers,Western Storm,bat,Southern Vipers,"The Cooper Associates County Ground, Taunton",5,0,0,1,0,0,5,1,0,1,0,100,2,3
+1252278,2021,2021-06-12,Rachael Heyhoe Flint Trophy,Thunder,Central Sparks,Central Sparks,bat,Thunder,"County Ground, New Road, Worcester",6,2,33,3,1,33,3,8,1,2,33,25,2,4
+1252277,2021,2021-06-12,Rachael Heyhoe Flint Trophy,Sunrisers,Lightning,Sunrisers,bat,Lightning,"Haslegrave Ground, Loughborough",2,0,0,1,0,0,1,3,0,1,0,33,0,3
+1252276,2021,2021-06-12,Rachael Heyhoe Flint Trophy,South East Stars,Northern Diamonds,South East Stars,bat,Northern Diamonds,"Headingley, Leeds",4,0,0,1,0,0,1,6,0,1,0,16,2,3
+1252274,2021,2021-06-06,Rachael Heyhoe Flint Trophy,Thunder,Lightning,Lightning,bat,Lightning,"Boughton Hall Cricket Club Ground, Chester",3,1,33,1,0,0,2,1,0,1,0,100,2,2
+1252275,2021,2021-06-05,Rachael Heyhoe Flint Trophy,Southern Vipers,Central Sparks,Central Sparks,bat,Central Sparks,"County Ground, Hove, Brighton",5,3,60,2,0,0,4,2,0,2,0,100,2,3
+1252273,2021,2021-06-05,Rachael Heyhoe Flint Trophy,Sunrisers,Northern Diamonds,Northern Diamonds,field,Northern Diamonds,"Fp Fenner'S Ground, Cambridge",4,1,25,1,0,0,1,1,0,1,0,100,0,4
+1252272,2021,2021-06-05,Rachael Heyhoe Flint Trophy,Western Storm,South East Stars,South East Stars,field,South East Stars,"Kennington Oval, London",6,3,50,1,0,0,1,2,0,1,0,50,3,4
+1252271,2021,2021-05-31,Rachael Heyhoe Flint Trophy,Thunder,Sunrisers,Thunder,bat,Thunder,"Boughton Hall Cricket Club Ground, Chester",2,2,100,1,1,100,2,1,1,0,50,0,2,1
+1252270,2021,2021-05-31,Rachael Heyhoe Flint Trophy,Southern Vipers,South East Stars,Southern Vipers,field,Southern Vipers,"Kent County Cricket Ground, Beckenham",8,7,88,4,3,75,4,11,3,1,75,9,3,4
+1252269,2021,2021-05-31,Rachael Heyhoe Flint Trophy,Western Storm,Central Sparks,Western Storm,field,Central Sparks,"Edgbaston Foundation Community Sports Ground, Birmingham",3,0,0,1,0,0,1,7,0,1,0,14,4,3
+1252268,2021,2021-05-31,Rachael Heyhoe Flint Trophy,Northern Diamonds,Lightning,Lightning,field,Northern Diamonds,"Kibworth Cricket Club Ground, Kibworth",4,4,100,1,1,100,1,1,1,0,100,0,2,2
+1252267,2021,2021-05-29,Rachael Heyhoe Flint Trophy,Southern Vipers,Lightning,Lightning,bat,Southern Vipers,"The Rose Bowl, Southampton",2,2,100,1,1,100,4,1,1,0,25,0,4,2
+1252266,2021,2021-05-29,Rachael Heyhoe Flint Trophy,Sunrisers,South East Stars,Sunrisers,field,South East Stars,"County Ground, Chelmsford",7,0,0,2,0,0,8,2,0,2,0,100,0,3
+1252265,2021,2021-05-29,Rachael Heyhoe Flint Trophy,Western Storm,Thunder,Western Storm,field,Western Storm,"County Ground, Bristol",5,4,80,1,1,100,10,1,1,0,10,0,3,3
+1252264,2021,2021-05-29,Rachael Heyhoe Flint Trophy,Northern Diamonds,Central Sparks,Central Sparks,field,Central Sparks,"Headingley, Leeds",7,3,43,3,0,0,3,3,0,3,0,100,1,3
+1249285,2021,2021-02-09,Pakistan Women tour of Zimbabwe,Pakistan,Zimbabwe,Zimbabwe,field,Pakistan,"Harare Sports Club, Harare",1,1,100,1,1,100,1,1,1,0,100,0,2,1
+1229350,2020,2020-09-27,Rachael Heyhoe Flint Trophy,Southern Vipers,Northern Diamonds,Northern Diamonds,field,Southern Vipers,"Edgbaston Foundation Community Sports Ground, Birmingham",7,5,71,1,1,100,2,1,1,0,50,0,4,4
+1229349,2020,2020-09-19,Rachael Heyhoe Flint Trophy,Western Storm,Sunrisers,Sunrisers,field,Western Storm,"County Ground, Bristol",7,5,71,2,2,100,10,2,2,0,20,0,3,1
+1229348,2020,2020-09-19,Rachael Heyhoe Flint Trophy,Lightning,Central Sparks,Central Sparks,field,Lightning,"Grace Road, Leicester",3,3,100,1,1,100,1,1,1,0,100,0,2,3
+1229347,2020,2020-09-19,Rachael Heyhoe Flint Trophy,Thunder,Northern Diamonds,Thunder,bat,Northern Diamonds,"Headingley, Leeds",7,1,14,1,0,0,1,6,0,1,0,16,2,5
+1229346,2020,2020-09-19,Rachael Heyhoe Flint Trophy,Southern Vipers,South East Stars,South East Stars,bat,Southern Vipers,"Kennington Oval, London",8,7,88,1,1,100,1,2,1,0,100,0,5,2
+1229345,2020,2020-09-13,Rachael Heyhoe Flint Trophy,Northern Diamonds,Central Sparks,Northern Diamonds,bat,Central Sparks,"Headingley, Leeds",7,3,43,3,0,0,3,3,0,3,0,100,1,2
+1229344,2020,2020-09-13,Rachael Heyhoe Flint Trophy,Thunder,Lightning,Thunder,bat,Thunder,"Aigburth, Liverpool",3,1,33,1,1,100,2,1,1,0,50,0,2,2
+1229343,2020,2020-09-13,Rachael Heyhoe Flint Trophy,Sunrisers,South East Stars,Sunrisers,bat,South East Stars,"County Ground, Chelmsford",7,0,0,2,0,0,8,2,0,2,0,100,0,2
+1229342,2020,2020-09-13,Rachael Heyhoe Flint Trophy,Western Storm,Southern Vipers,Southern Vipers,bat,Southern Vipers,"The Rose Bowl, Southampton",5,0,0,1,0,0,1,5,0,1,0,20,3,2
+1229341,2020,2020-09-11,Rachael Heyhoe Flint Trophy,Lightning,Central Sparks,Central Sparks,field,Lightning,"County Ground, New Road, Worcester",3,3,100,1,1,100,1,8,1,0,100,0,2,2
+1229340,2020,2020-09-11,Rachael Heyhoe Flint Trophy,Sunrisers,Southern Vipers,Southern Vipers,bat,Southern Vipers,"The Rose Bowl, Southampton",7,3,43,3,1,33,3,5,1,2,33,40,0,2
+1229339,2020,2020-09-11,Rachael Heyhoe Flint Trophy,Western Storm,South East Stars,South East Stars,bat,Western Storm,"County Ground, Bristol",6,3,50,2,1,50,10,2,1,1,10,50,2,2
+1229338,2020,2020-09-10,Rachael Heyhoe Flint Trophy,Thunder,Northern Diamonds,Thunder,field,Northern Diamonds,"Aigburth, Liverpool",7,1,14,1,0,0,2,1,0,1,0,100,2,4
+1229337,2020,2020-09-05,Rachael Heyhoe Flint Trophy,Southern Vipers,South East Stars,Southern Vipers,bat,Southern Vipers,"County Ground, Hove, Brighton",8,7,88,2,2,100,4,2,2,0,50,0,5,2
+1229336,2020,2020-09-05,Rachael Heyhoe Flint Trophy,Northern Diamonds,Lightning,Northern Diamonds,field,Northern Diamonds,"Grace Road, Leicester",4,4,100,1,1,100,1,2,1,0,100,0,2,1
+1229335,2020,2020-09-05,Rachael Heyhoe Flint Trophy,Western Storm,Sunrisers,Sunrisers,field,Western Storm,"County Ground, Chelmsford",7,5,71,2,2,100,2,4,2,0,100,0,1,2
+1229334,2020,2020-09-05,Rachael Heyhoe Flint Trophy,Thunder,Central Sparks,Thunder,bat,Central Sparks,"County Ground, New Road, Worcester",6,2,33,3,1,33,3,8,1,2,33,25,2,1
+1229333,2020,2020-08-31,Rachael Heyhoe Flint Trophy,Northern Diamonds,Lightning,Northern Diamonds,bat,Northern Diamonds,"Riverside Ground, Chester-Le-Street",4,4,100,2,2,100,2,2,2,0,100,0,2,1
+1229332,2020,2020-08-31,Rachael Heyhoe Flint Trophy,Thunder,Central Sparks,Thunder,bat,Central Sparks,"Edgbaston Foundation Community Sports Ground, Birmingham",6,2,33,1,0,0,1,7,0,1,0,14,1,0
+1229331,2020,2020-08-31,Rachael Heyhoe Flint Trophy,Sunrisers,South East Stars,South East Stars,bat,South East Stars,"Kent County Cricket Ground, Beckenham",7,0,0,3,0,0,3,11,0,3,0,27,0,2
+1229330,2020,2020-08-31,Rachael Heyhoe Flint Trophy,Western Storm,Southern Vipers,Western Storm,field,Southern Vipers,"County Ground, Bristol",5,0,0,2,0,0,10,2,0,2,0,100,1,3
+1229329,2020,2020-08-29,Rachael Heyhoe Flint Trophy,Western Storm,South East Stars,Western Storm,field,Western Storm,"Kent County Cricket Ground, Beckenham",6,3,50,1,1,100,1,11,1,0,100,0,0,3
+1229326,2020,2020-08-29,Rachael Heyhoe Flint Trophy,Sunrisers,Southern Vipers,Southern Vipers,field,Southern Vipers,"County Ground, Chelmsford",7,3,43,3,1,33,8,3,1,2,12,66,0,4
+1089531,2017,2017-05-19,Women's Quadrangular Series (in South Africa),Zimbabwe,India,Zimbabwe,bat,India,"Senwes Park, Potchefstroom",3,0,0,1,0,0,3,1,0,1,0,100,1,3
+1089529,2017,2017-05-17,Women's Quadrangular Series (in South Africa),Zimbabwe,Ireland,Ireland,bat,Zimbabwe,"North-West University No1 Ground, Potchefstroom",3,2,67,1,1,100,3,1,1,0,33,0,2,2
+1089526,2017,2017-05-15,Women's Quadrangular Series (in South Africa),Zimbabwe,South Africa,Zimbabwe,bat,South Africa,"North-West University No1 Ground, Potchefstroom",2,0,0,1,0,0,3,1,0,1,0,100,2,3
+1089525,2017,2017-05-11,Women's Quadrangular Series (in South Africa),Zimbabwe,India,Zimbabwe,bat,India,"North-West University No1 Ground, Potchefstroom",3,0,0,1,0,0,3,1,0,1,0,100,1,2
+1089523,2017,2017-05-09,Women's Quadrangular Series (in South Africa),Zimbabwe,Ireland,Zimbabwe,field,Zimbabwe,"Senwes Park, Potchefstroom",3,2,67,1,1,100,3,1,1,0,33,0,1,2
+1089520,2017,2017-05-07,Women's Quadrangular Series (in South Africa),Zimbabwe,South Africa,Zimbabwe,bat,South Africa,"Senwes Park, Potchefstroom",2,0,0,1,0,0,3,1,0,1,0,100,2,2
+1073420,2017,2017-02-13,ICC Women's World Cup Qualifier,Pakistan,Scotland,Scotland,bat,Pakistan,Colombo Cricket Club Ground,1,1,100,1,1,100,1,2,1,0,100,0,1,2
+1073419,2017,2017-02-13,ICC Women's World Cup Qualifier,Papua New Guinea,South Africa,Papua New Guinea,bat,South Africa,"Nondescripts Cricket Club Ground, Colombo",1,0,0,1,0,0,2,1,0,1,0,100,0,1
+1073418,2017,2017-02-13,ICC Women's World Cup Qualifier,Sri Lanka,Thailand,Thailand,bat,Sri Lanka,"Mercantile Cricket Association Ground, Colombo",1,1,100,1,1,100,1,2,1,0,100,0,1,0
+1073417,2017,2017-02-13,ICC Women's World Cup Qualifier,Zimbabwe,India,Zimbabwe,bat,India,"P Sara Oval, Colombo",3,0,0,1,0,0,1,1,0,1,0,100,1,1
+1073416,2017,2017-02-11,ICC Women's World Cup Qualifier,Ireland,Thailand,Ireland,bat,Ireland,Colombo Cricket Club Ground,1,1,100,1,1,100,1,2,1,0,100,0,2,0
+1073415,2017,2017-02-11,ICC Women's World Cup Qualifier,Sri Lanka,Zimbabwe,Zimbabwe,bat,Sri Lanka,"Nondescripts Cricket Club Ground, Colombo",1,1,100,1,1,100,1,1,1,0,100,0,0,2
+1073414,2017,2017-02-11,ICC Women's World Cup Qualifier,Papua New Guinea,Scotland,Papua New Guinea,field,Scotland,"Mercantile Cricket Association Ground, Colombo",1,0,0,1,0,0,1,1,0,1,0,100,0,1
+1073412,2017,2017-02-10,ICC Women's World Cup Qualifier,Zimbabwe,Thailand,Thailand,field,Zimbabwe,"Mercantile Cricket Association Ground, Colombo",2,1,50,1,1,100,2,2,1,0,50,0,1,0
+1073410,2017,2017-02-10,ICC Women's World Cup Qualifier,Bangladesh,Scotland,Scotland,bat,Bangladesh,Colombo Cricket Club Ground,1,1,100,1,1,100,2,2,1,0,50,0,1,1
+1073409,2017,2017-02-10,ICC Women's World Cup Qualifier,Papua New Guinea,Pakistan,Pakistan,bat,Pakistan,"Nondescripts Cricket Club Ground, Colombo",1,0,0,1,0,0,2,1,0,1,0,100,0,3
+1073407,2017,2017-02-08,ICC Women's World Cup Qualifier,Scotland,South Africa,Scotland,bat,South Africa,"Mercantile Cricket Association Ground, Colombo",1,0,0,1,0,0,1,1,0,1,0,100,2,0
+1073406,2017,2017-02-08,ICC Women's World Cup Qualifier,India,Thailand,Thailand,bat,India,Colombo Cricket Club Ground,1,1,100,1,1,100,1,2,1,0,100,0,3,0
+1073404,2017,2017-02-07,ICC Women's World Cup Qualifier,Bangladesh,Papua New Guinea,Bangladesh,bat,Bangladesh,Colombo Cricket Club Ground,1,1,100,1,1,100,2,1,1,0,50,0,0,0
+1073402,2017,2017-02-07,ICC Women's World Cup Qualifier,Zimbabwe,Ireland,Zimbabwe,field,Ireland,"Mercantile Cricket Association Ground, Colombo",3,2,67,1,0,0,2,1,0,1,0,100,1,2
+1033707,2016,2016-07-15,ICC Women's World Cup Qualifying Series Europe Region,Netherlands,Scotland,Netherlands,bat,Scotland,"Garon Park, Southend-On-Sea",1,0,0,1,0,0,1,1,0,1,0,100,0,1

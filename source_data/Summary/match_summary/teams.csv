@@ -31,318 +31,328 @@
 29,Bermuda
 30,Bhutan
 31,Bihar
-32,Birmingham Bears
-33,Birmingham Phoenix
-34,Boland
-35,Botswana
-36,Brazil
-37,Brisbane Heat
-38,Bulgaria
-39,Cambodia
-40,Cameroon
-41,Canada
-42,Canterbury
-43,Cape Cobras
-44,Cape Town Blitz
-45,Cayman Islands
-46,Central Districts
-47,Central Sparks
-48,Central Stags
-49,Chandigarh
-50,Chattogram Challengers
-51,Chennai Super Kings
-52,Chhattisgarh
-53,Chile
-54,China
-55,Chittagong Kings
-56,Chittagong Vikings
-57,Colombo Kings
-58,Colombo Stars
-59,Colombo Strikers
-60,Comilla Victorians
-61,Cook Islands
-62,Costa Rica
-63,Croatia
-64,Cumilla Warriors
-65,Cyprus
-66,Czech Republic
-67,Dambulla Aura
-68,Dambulla Giants
-69,Dambulla Sixers
-70,Dambulla Viiking
-71,Deccan Chargers
-72,Delhi
-73,Delhi Capitals
-74,Delhi Daredevils
-75,Denmark
-76,Derbyshire
-77,Desert Vipers
-78,Dhaka Dominators
-79,Dhaka Dynamites
-80,Dhaka Gladiators
-81,Dhaka Platoon
-82,Dolphins
-83,Dubai Capitals
-84,Durban Heat
-85,Durdanto Dhaka
-86,Durham
-87,Duronto Rajshahi
-88,England
-89,Essex
-90,Estonia
-91,Eswatini
-92,Falcons
-93,Fiji
-94,Finland
-95,Fortune Barishal
-96,France
-97,Galle Gladiators
-98,Galle Marvels
-99,Galle Titans
-100,Gambia
-101,Germany
-102,Ghana
-103,Gibraltar
-104,Glamorgan
-105,Gloucestershire
-106,Goa
-107,Greece
-108,Guernsey
-109,Gujarat
-110,Gujarat Giants
-111,Gujarat Lions
-112,Gujarat Titans
-113,Gulf Giants
-114,Guyana
-115,Guyana Amazon Warriors
-116,Hampshire
-117,Haryana
-118,Himachal
-119,Himachal Pradesh
-120,Hobart Hurricanes
-121,Hong Kong
-122,Hungary
-123,Hyderabad (India)
-124,ICC World XI
-125,Impi
-126,India
-127,Indonesia
-128,Iran
-129,Ireland
-130,Islamabad United
-131,Isle of Man
-132,Israel
-133,Italy
-134,Ivory Coast
-135,Jaffna Kings
-136,Jaffna Stallions
-137,Jamaica
-138,Jamaica Tallawahs
-139,Jammu & Kashmir
-140,Japan
-141,Jersey
-142,Jharkhand
-143,Joburg Super Kings
-144,Jozi Stars
-145,Kandy Falcons
-146,Kandy Tuskers
-147,Kandy Warriors
-148,Karachi Kings
-149,Karnataka
-150,Kent
-151,Kenya
-152,Kerala
-153,Khulna Royal Bengals
-154,Khulna Tigers
-155,Khulna Titans
-156,Kings XI Punjab
-157,Knights
-158,Kochi Tuskers Kerala
-159,Kolkata Knight Riders
-160,Kuwait
-161,KwaZulu-Natal Inland
-162,Lahore Qalandars
-163,Lancashire
-164,Lancashire Thunder
-165,Leeward Islands
-166,Leicestershire
-167,Leinster Lightning
-168,Lesotho
-169,Lightning
-170,Lions
-171,London Spirit
-172,Los Angeles Knight Riders
-173,Loughborough Lightning
-174,Lucknow Super Giants
-175,Luxembourg
-176,MI Cape Town
-177,MI Emirates
-178,MI New York
-179,Madhya Pradesh
-180,Maharashtra
-181,Malawi
-182,Malaysia
-183,Maldives
-184,Mali
-185,Malta
-186,Manchester Originals
-187,Manipur
-188,Meghalaya
-189,Melbourne Renegades
-190,Melbourne Stars
-191,Mexico
-192,Middlesex
-193,Minister Group Dhaka
-194,Mizoram
-195,Mongolia
-196,Mozambique
-197,Multan Sultans
-198,Mumbai
-199,Mumbai Indians
-200,Munster Reds
-201,Myanmar
-202,Nagaland
-203,Namibia
-204,Nelson Mandela Bay Giants
-205,Nepal
-206,Netherlands
-207,New South Wales
-208,New Zealand
-209,Nigeria
-210,North West
-211,North-West Warriors
-212,Northamptonshire
-213,Northern Diamonds
-214,Northern Districts
-215,Northern Knights
-216,Northern Superchargers
-217,Norway
-218,Nottinghamshire
-219,Odisha
-220,Oman
-221,Otago
-222,Otago Volts
-223,Oval Invincibles
-224,Paarl Rocks
-225,Paarl Royals
-226,Pakistan
-227,Panama
-228,Papua New Guinea
-229,Perth Scorchers
-230,Peshawar Zalmi
-231,Philippines
-232,Portugal
-233,Pretoria Capitals
-234,Puducherry
-235,Pune Warriors
-236,Punjab
-237,Punjab Kings
-238,Qatar
-239,Queensland
-240,Quetta Gladiators
-241,Railways
-242,Rajasthan
-243,Rajasthan Royals
-244,Rajshahi Kings
-245,Rajshahi Royals
-246,Rangpur Rangers
-247,Rangpur Riders
-248,Rising Pune Supergiant
-249,Rising Pune Supergiants
-250,Romania
-251,Royal Challengers Bangalore
-252,Royal Challengers Bengaluru
-253,Rwanda
-254,Samoa
-255,San Francisco Unicorns
-256,Sapphires
-257,Saudi Arabia
-258,Saurashtra
-259,Scotland
-260,Seattle Orcas
-261,Serbia
-262,Services
-263,Seychelles
-264,Sharjah Warriors
-265,Sierra Leone
-266,Sikkim
-267,Singapore
-268,Slovenia
-269,Somerset
-270,South Africa
-271,South Australia
-272,South East Stars
-273,South Korea
-274,Southern Brave
-275,Southern Vipers
-276,Spain
-277,Spirit
-278,Sri Lanka
-279,St Helena
-280,St Kitts and Nevis Patriots
-281,St Lucia Kings
-282,St Lucia Stars
-283,St Lucia Zouks
-284,Sunrisers
-285,Sunrisers Eastern Cape
-286,Sunrisers Hyderabad
-287,Supernovas
-288,Suriname
-289,Surrey
-290,Surrey Stars
-291,Sussex
-292,Swaziland
-293,Sweden
-294,Switzerland
-295,Sydney Sixers
-296,Sydney Thunder
-297,Sylhet Royals
-298,Sylhet Sixers
-299,Sylhet Strikers
-300,Sylhet Sunrisers
-301,Sylhet Super Stars
-302,Sylhet Thunder
-303,Tamil Nadu
-304,Tanzania
-305,Tasmania
-306,Texas Super Kings
-307,Thailand
-308,The Blaze
-309,Thunder
-310,Titans
-311,Tornadoes
-312,Trailblazers
-313,Trent Rockets
-314,Trinbago Knight Riders
-315,Trinidad & Tobago Red Steel
-316,Trinidad and Tobago
-317,Tripura
-318,Tshwane Spartans
-319,Turkey
-320,UP Warriorz
-321,Uganda
-322,United Arab Emirates
-323,United States of America
-324,Uttar Pradesh
-325,Uttarakhand
-326,Vanuatu
-327,Velocity
-328,Victoria
-329,Vidarbha
-330,Warriors
-331,Warriors (FairBreak)
-332,Warwickshire
-333,Washington Freedom
-334,Wellington
-335,Wellington Firebirds
-336,Welsh Fire
-337,West Indies
-338,Western Australia
-339,Western Province
-340,Western Storm
-341,Windward Islands
-342,Worcestershire
-343,Yorkshire
-344,Yorkshire Diamonds
-345,Zambia
-346,Zimbabwe
+32,Biratnagar Kings
+33,Birmingham Bears
+34,Birmingham Phoenix
+35,Boland
+36,Botswana
+37,Brazil
+38,Brisbane Heat
+39,Bulgaria
+40,Cambodia
+41,Cameroon
+42,Canada
+43,Canterbury
+44,Cape Cobras
+45,Cape Town Blitz
+46,Cayman Islands
+47,Central Districts
+48,Central Sparks
+49,Central Stags
+50,Chandigarh
+51,Chattogram Challengers
+52,Chennai Super Kings
+53,Chhattisgarh
+54,Chile
+55,China
+56,Chittagong Kings
+57,Chittagong Vikings
+58,Chitwan Rhinos
+59,Colombo Kings
+60,Colombo Stars
+61,Colombo Strikers
+62,Comilla Victorians
+63,Cook Islands
+64,Costa Rica
+65,Croatia
+66,Cumilla Warriors
+67,Cyprus
+68,Czech Republic
+69,Dambulla Aura
+70,Dambulla Giants
+71,Dambulla Sixers
+72,Dambulla Viiking
+73,Deccan Chargers
+74,Delhi
+75,Delhi Capitals
+76,Delhi Daredevils
+77,Denmark
+78,Derbyshire
+79,Desert Vipers
+80,Dhaka Capital
+81,Dhaka Dominators
+82,Dhaka Dynamites
+83,Dhaka Gladiators
+84,Dhaka Platoon
+85,Dolphins
+86,Dubai Capitals
+87,Durban Heat
+88,Durbar Rajshahi
+89,Durdanto Dhaka
+90,Durham
+91,Duronto Rajshahi
+92,England
+93,Essex
+94,Estonia
+95,Eswatini
+96,Falcons
+97,Fiji
+98,Finland
+99,Fortune Barishal
+100,France
+101,Galle Gladiators
+102,Galle Marvels
+103,Galle Titans
+104,Gambia
+105,Germany
+106,Ghana
+107,Gibraltar
+108,Glamorgan
+109,Gloucestershire
+110,Goa
+111,Greece
+112,Guernsey
+113,Gujarat
+114,Gujarat Giants
+115,Gujarat Lions
+116,Gujarat Titans
+117,Gulf Giants
+118,Guyana
+119,Guyana Amazon Warriors
+120,Hampshire
+121,Haryana
+122,Himachal
+123,Himachal Pradesh
+124,Hobart Hurricanes
+125,Hong Kong
+126,Hungary
+127,Hyderabad (India)
+128,ICC World XI
+129,Impi
+130,India
+131,Indonesia
+132,Iran
+133,Ireland
+134,Islamabad United
+135,Isle of Man
+136,Israel
+137,Italy
+138,Ivory Coast
+139,Jaffna Kings
+140,Jaffna Stallions
+141,Jamaica
+142,Jamaica Tallawahs
+143,Jammu & Kashmir
+144,Janakpur Bolts
+145,Japan
+146,Jersey
+147,Jharkhand
+148,Joburg Super Kings
+149,Jozi Stars
+150,Kandy Falcons
+151,Kandy Tuskers
+152,Kandy Warriors
+153,Karachi Kings
+154,Karnali Yaks
+155,Karnataka
+156,Kathmandu Gurkhas
+157,Kent
+158,Kenya
+159,Kerala
+160,Khulna Royal Bengals
+161,Khulna Tigers
+162,Khulna Titans
+163,Kings XI Punjab
+164,Knights
+165,Kochi Tuskers Kerala
+166,Kolkata Knight Riders
+167,Kuwait
+168,KwaZulu-Natal Inland
+169,Lahore Qalandars
+170,Lancashire
+171,Lancashire Thunder
+172,Leeward Islands
+173,Leicestershire
+174,Leinster Lightning
+175,Lesotho
+176,Lightning
+177,Lions
+178,London Spirit
+179,Los Angeles Knight Riders
+180,Loughborough Lightning
+181,Lucknow Super Giants
+182,Lumbini Lions
+183,Luxembourg
+184,MI Cape Town
+185,MI Emirates
+186,MI New York
+187,Madhya Pradesh
+188,Maharashtra
+189,Malawi
+190,Malaysia
+191,Maldives
+192,Mali
+193,Malta
+194,Manchester Originals
+195,Manipur
+196,Meghalaya
+197,Melbourne Renegades
+198,Melbourne Stars
+199,Mexico
+200,Middlesex
+201,Minister Group Dhaka
+202,Mizoram
+203,Mongolia
+204,Mozambique
+205,Multan Sultans
+206,Mumbai
+207,Mumbai Indians
+208,Munster Reds
+209,Myanmar
+210,Nagaland
+211,Namibia
+212,Nelson Mandela Bay Giants
+213,Nepal
+214,Netherlands
+215,New South Wales
+216,New Zealand
+217,Nigeria
+218,North West
+219,North-West Warriors
+220,Northamptonshire
+221,Northern Diamonds
+222,Northern Districts
+223,Northern Knights
+224,Northern Superchargers
+225,Norway
+226,Nottinghamshire
+227,Odisha
+228,Oman
+229,Otago
+230,Otago Volts
+231,Oval Invincibles
+232,Paarl Rocks
+233,Paarl Royals
+234,Pakistan
+235,Panama
+236,Papua New Guinea
+237,Perth Scorchers
+238,Peshawar Zalmi
+239,Philippines
+240,Pokhara Avengers
+241,Portugal
+242,Pretoria Capitals
+243,Puducherry
+244,Pune Warriors
+245,Punjab
+246,Punjab Kings
+247,Qatar
+248,Queensland
+249,Quetta Gladiators
+250,Railways
+251,Rajasthan
+252,Rajasthan Royals
+253,Rajshahi Kings
+254,Rajshahi Royals
+255,Rangpur Rangers
+256,Rangpur Riders
+257,Rising Pune Supergiant
+258,Rising Pune Supergiants
+259,Romania
+260,Royal Challengers Bangalore
+261,Royal Challengers Bengaluru
+262,Rwanda
+263,Samoa
+264,San Francisco Unicorns
+265,Sapphires
+266,Saudi Arabia
+267,Saurashtra
+268,Scotland
+269,Seattle Orcas
+270,Serbia
+271,Services
+272,Seychelles
+273,Sharjah Warriors
+274,Sierra Leone
+275,Sikkim
+276,Singapore
+277,Slovenia
+278,Somerset
+279,South Africa
+280,South Australia
+281,South East Stars
+282,South Korea
+283,Southern Brave
+284,Southern Vipers
+285,Spain
+286,Spirit
+287,Sri Lanka
+288,St Helena
+289,St Kitts and Nevis Patriots
+290,St Lucia Kings
+291,St Lucia Stars
+292,St Lucia Zouks
+293,Sudur Paschim Royals
+294,Sunrisers
+295,Sunrisers Eastern Cape
+296,Sunrisers Hyderabad
+297,Supernovas
+298,Suriname
+299,Surrey
+300,Surrey Stars
+301,Sussex
+302,Swaziland
+303,Sweden
+304,Switzerland
+305,Sydney Sixers
+306,Sydney Thunder
+307,Sylhet Royals
+308,Sylhet Sixers
+309,Sylhet Strikers
+310,Sylhet Sunrisers
+311,Sylhet Super Stars
+312,Sylhet Thunder
+313,Tamil Nadu
+314,Tanzania
+315,Tasmania
+316,Texas Super Kings
+317,Thailand
+318,The Blaze
+319,Thunder
+320,Titans
+321,Tornadoes
+322,Trailblazers
+323,Trent Rockets
+324,Trinbago Knight Riders
+325,Trinidad & Tobago Red Steel
+326,Trinidad and Tobago
+327,Tripura
+328,Tshwane Spartans
+329,Turkey
+330,UP Warriorz
+331,Uganda
+332,United Arab Emirates
+333,United States of America
+334,Uttar Pradesh
+335,Uttarakhand
+336,Vanuatu
+337,Velocity
+338,Victoria
+339,Vidarbha
+340,Warriors
+341,Warriors (FairBreak)
+342,Warwickshire
+343,Washington Freedom
+344,Wellington
+345,Wellington Firebirds
+346,Welsh Fire
+347,West Indies
+348,Western Australia
+349,Western Province
+350,Western Storm
+351,Windward Islands
+352,Worcestershire
+353,Yorkshire
+354,Yorkshire Diamonds
+355,Zambia
+356,Zimbabwe
